@@ -55,7 +55,7 @@
 
 >[!IMPORTANT]  
 >No están todas las asignaturas obligatorias y básicas, ya que convalidé las siguientes por haber cursado el CFGS Desarrollo de Aplicaciones Web (y Multiplataforma) y tener el título C1 de Cambridge (CAE):
->| Asignatura convalidada                    | Tipo de formación | Créditos |
+>| ASIGNATURA CONVALIDADA                    | TIPO DE FORMACIÓN | CRÉDITOS |
 >|-------------------------------------------|-------------------|----------|
 >| Fundamentos de programación               | Básica            | 6        |
 >| Prácticas de programación                 | Básica            | 6        |
@@ -128,7 +128,7 @@ Los números entre paréntesis hacen referencia al curso en el que se completaro
 				Competencia comunicativa para profesionales de las TIC (24/25)
 			</a>
 		</td>
-		<td rowspan="4">
+		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PEC1">
 				PEC1 Dime cómo escribes y te diré quién eres
 			</a>
@@ -164,6 +164,9 @@ Los números entre paréntesis hacen referencia al curso en el que se completaro
 		</td>
 	</tr>
 	<tr>
+		<td>
+			-
+		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PR2">
 				PR4 ¡Recapitulemos! ¿Qué he aprendido?
