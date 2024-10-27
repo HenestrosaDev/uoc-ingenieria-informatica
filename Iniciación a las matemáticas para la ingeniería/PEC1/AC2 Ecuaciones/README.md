@@ -171,9 +171,9 @@ $$ax^{2} + bx + c = 0$$
 	1. **Aplicar la fórmula de Bhaskara**
 		$$x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$$
 
-	Ejemplo para $x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}$ en la ecuación $ax^{2} + bx + c = 0$.
+	Ejemplo para la ecuación $x^{2} - 4x + 4 = 0$:
 
-	$a \left(\frac{-b + \sqrt{b^{2} - 4ac}}{2a} \right)^{2} + b \left(\frac{-b + \sqrt{b^{2} - 4ac}}{2a} \right) + c = a \left(\frac{b^{2} + b^{2} - 4ac - 2b \sqrt{b^{2} - 4ac}}{2a} + c \right) = \frac{b^{2} - 2ac - b \sqrt{b^{2} - 4ac}}{2a} + \frac{-b^{2} + b \sqrt{b^{2} - 4ac}}{2a} + c = \frac{b^{2} - 2ac - b \sqrt{b^{2} - 4ac}}{2a} + \frac{-b^{2} + b \sqrt{b^{2} - 4ac}}{2a} + \frac{2ac}{a} = \frac{b^{2} - 2ac - b \sqrt{b^{2} - 4ac} - b^{2} + b \sqrt{b^{2} - 4ac} + 2ac}{2a} = \frac{0}{2a} = 0$
+	$x = \frac{4 \pm \sqrt{(-4)^2 - 4(1)(4)}}{2(1)} = \frac{4 \pm 0}{2} = 2$
 
 ### 2.4.3. Soluciones
 
@@ -202,7 +202,7 @@ Por lo tanto, $x^{2} = 4$ o $x^{2} = 9$. Los valores de x son:
 - Si $x^{2} = 4$, $x = \pm\sqrt{4} = \pm2$
 - Si $x^{2} = 9$, $x = \pm\sqrt{9} = \pm3$
 
-Las posibles soluciones de $x$ son $x = {2, -2, 3, -3}$.
+Las posibles soluciones de $x$ son $x = \{2, -2, 3, -3\}$.
 
 ---
 
@@ -219,7 +219,7 @@ Por lo tanto, $x^{4} = 3$ o $x^{4} = -1$. Los valores de x son:
 - Si $x^{4} = 3$, $x = \pm\sqrt[4]{3}$.
 - Si $x^{4} = -1$, no hay solución, ya que no hay ningún número que, elevado a $4$, dé $−1$.
 
-Las posibles soluciones de $x$ son $x = {-\sqrt[4]{3}, +\sqrt[4]{3}}$.
+Las posibles soluciones de $x$ son $x = \{-\sqrt[4]{3}, +\sqrt[4]{3}\}$.
 
 ## 2.5. Inecuaciones
 
