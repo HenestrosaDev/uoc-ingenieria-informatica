@@ -266,7 +266,7 @@ Los números entre paréntesis hacen referencia al curso en el que se completaro
 	<tr>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Iniciaci%C3%B3n%20a%20las%20matem%C3%A1ticas%20para%20la%20ingenier%C3%ADa/CAMBIAR POR ">
-				PEC1 Bloque 2 (desde "Funciones polinómicas" hasta "Integración")
+				PEC2 Bloque 2 (desde "Funciones polinómicas" hasta "Integración")
 			</a>
 		</td>
 	</tr>
