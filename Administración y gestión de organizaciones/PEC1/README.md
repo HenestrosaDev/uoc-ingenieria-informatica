@@ -29,3 +29,6 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ## Resultado
 
+### Calificación
+
+24,30 de 30,00 [8,10 (grado B)]
