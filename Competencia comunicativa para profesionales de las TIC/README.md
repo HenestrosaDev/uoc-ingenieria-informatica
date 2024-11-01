@@ -13,7 +13,7 @@
 | NOMBRE                                                                  | CALIFICACIÓN    |
 |-------------------------------------------------------------------------|-----------------|
 | [PEC1 Dime cómo escribes y te diré quién eres](PEC1)                    | 9,489 (grado A) |
-| [PEC2 Divide y vencerás. Los párrafos y las técnicas de síntesis](PEC2) | -               |
+| [PEC2 Divide y vencerás. Los párrafos y las técnicas de síntesis](PEC2) | 9,00 (grado A)  |
 | [PEC3 Texto bien unido, jamás será vencido](PEC3)                       | -               |
 
 ## Prácticas (PRs)
