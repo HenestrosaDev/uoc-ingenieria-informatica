@@ -318,14 +318,3 @@ Se representa $x_1 = -2$ y $x_2 = 9$ en la recta numérica y se sustituyen valor
 - $[9. + \infty)$: Se sustituye $x = 10$ y se comprueba si el signo es positivo o negativo. En este caso, es negativo, por lo que no es solución de la inecuación porque $x \geq 0$. 
 
 Es importante no incluir la solución del denominador en el intervalo porque el **denominador nunca puede ser 0**.
-
-
-
-
-
-
----
-
-$\frac{5}{3} \cdot x - \frac{1}{3} + 5(-x - 3) = \frac{3(5x + 1)}{5}$
-
-fracción 5 entre 3 por x menos 1 tercio más 5 por abrir paréntesis menos x menos 3 cerrar paréntesis igual fracción numerador 3 por abrir paréntesis 5 por x más 1 cerrar paréntesis entre denominador 5 fin fracción
