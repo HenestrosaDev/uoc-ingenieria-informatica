@@ -13,7 +13,7 @@
 	- 1.3) Tipos de empresa (páginas 40-46 del apartado 2.4)
 - [**Dirección y organización**](https://materials.campus.uoc.edu/daisy/Materials/PID_00200484/pdf/PID_00200480.pdf). 
 	- 1.2) Definición de los objetivos empresariales (páginas 28-32 del apartado 2.2.1)
-    - 1.6) Estructura de la empresa (páginas 71-97, apartado 4)
+	- 1.6) Estructura de la empresa (páginas 71-97, apartado 4)
 	- 1.9) Dirección de la empresa (páginas 9-27, apartado 1)
 - [**Bit 12** (Caracterización del sector no lucrativo)](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=151490&hash=48756e1f2d49fa4d05082a71834690de5a91a74a9e582e1d1a843bb63440cc51). 
 	- 1.4) Caracterización del sector no lucrativo
