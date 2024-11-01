@@ -2,7 +2,7 @@
 
 ## Calificación
 
-23,265 de 33 (7,05, grado B)
+23,265 de 33,00 [7,05 (grado B)]
 
 ## Nota
 

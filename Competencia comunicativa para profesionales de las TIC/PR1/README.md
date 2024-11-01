@@ -77,9 +77,7 @@ José Carlos López Henestrosa
 
 ### Calificación
 
-14,40 / 15 (9,60, grado A)
-
-Calificado el miércoles, 23 de octubre de 2024, 09:46 por José Torres Álvarez
+14,40 de 15,00 [9,60 (grado A)]
 
 ### Comentarios de retroalimentación
 

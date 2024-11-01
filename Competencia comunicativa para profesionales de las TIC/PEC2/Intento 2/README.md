@@ -2,4 +2,4 @@
 
 ## Calificación
 
-29,70 de 33 (9, grado A)
+29,70 de 33,00 [9,00 (grado A)]

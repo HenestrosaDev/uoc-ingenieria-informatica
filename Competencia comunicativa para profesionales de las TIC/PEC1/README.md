@@ -32,4 +32,4 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ### Calificación
 
-31,31 de 33 (9,489, grado A) (ver [intento 2](Intento%202))
+31,31 de 33,00 [9,489 (grado A)] (ver [intento 2](Intento%202))

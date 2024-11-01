@@ -2,7 +2,7 @@
 
 ## Calificación
 
-31,315 de 33 (9,489, grado A)
+31,315 de 33,00 [9,489 (grado A)]
 
 ## Nota
 

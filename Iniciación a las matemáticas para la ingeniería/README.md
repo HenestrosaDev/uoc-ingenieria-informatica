@@ -42,7 +42,7 @@
 			</a>
 		</td>
 		<td>
-			10 (grado A)
+			10,00 (grado A)
 		</td>
 	</tr>
 	<tr>
