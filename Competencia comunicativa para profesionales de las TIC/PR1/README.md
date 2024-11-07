@@ -56,17 +56,17 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ## Actividad resuelta
 
-Estimada Paula Rovira:
+Buenos días, Paula:
 
-Me llamo José Carlos y actualmente soy estudiante del grado en Ingeniería Informática en la Universitat Oberta de Catalunya (UOC). Desde una edad temprana, me ha fascinado el mundo de la tecnología, especialmente el desarrollo web y la seguridad informática. Fuera del ámbito educativo, me apasiona crear videojuegos y editar vídeos, lo que me permite fusionar mi creatividad con el mundo tecnológico.
+Me llamo José Carlos y actualmente soy estudiante del grado en Ingeniería Informática en la Universitat Oberta de Catalunya (UOC). Desde pequeño, me ha fascinado el mundo de la tecnología, lo cual me ha llevado a centrarme en el desarrollo web y la seguridad informática. Mi tiempo libre lo paso creando videojuegos y editando vídeos, lo que me permite combinar mis dos grandes pasiones: la creación de contenido y la tecnología.
 
-A lo largo de mi trayectoria académica, he adquirido un sólido conocimiento en diversas áreas relacionadas con la informática. He completado dos ciclos formativos de grado superior pertenecientes al sector, concretamente Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma. Durante estos estudios, tuve la oportunidad de aplicar mis conocimientos en proyectos prácticos, como el diseño de un sitio web con un modelo de suscripción que permite a los usuarios leer libros en línea, así como el desarrollo de una aplicación móvil con un sistema de videollamadas en tiempo real.
+A lo largo de mi trayectoria académica, he completado dos ciclos formativos de grado superior pertenecientes al ámbito de la informática, en los que tuve la oportunidad de aplicar y desarrollar mis conocimientos en multitud de proyectos prácticos. Entre ellos, destaco el diseño de un sitio web con un modelo de suscripción que permite a los usuarios leer libros en línea y el desarrollo de una aplicación móvil con un sistema de videollamadas en tiempo real.
 
-En cuanto a mi experiencia profesional, llevo más de tres años trabajando por cuenta ajena como desarrollador web full-stack. En este rol, he podido aplicar y expandir los conocimientos adquiridos durante mi etapa estudiantil, así como ganar experiencia en la gestión de proyectos. Además, esta posición me ha enseñado la importancia de colaborar en equipo y resolver problemas de manera eficiente.
+En cuanto a mi experiencia profesional, llevo más de tres años trabajando por cuenta ajena como desarrollador web full-stack. En este rol, he podido aplicar y ampliar los conocimientos adquiridos durante mi etapa estudiantil, así como comprender la importancia de colaborar en equipo. Además, he aprendido mucho sobre la gestión de proyectos y sobre cómo resolver problemas de manera eficiente, lo cual estimo que es algo que solo se puede adquirir en un contexto laboral exigente.
 
-Me interesa colaborar con InnovaTech Solutions porque admiro su innovación y los proyectos tan fascinantes que actualmente lleva a cabo. Estoy convencido de que mi formación y mis habilidades en desarrollo web y gestión de bases de datos podrían ser un gran aporte al equipo.
+Confío en que mi formación y mi creatividad, junto con mis aptitudes en desarrollo web y gestión de bases de datos, serán un activo de gran valor para InnovaTech Solutions.
 
-Quedo a su disposición para cualquier información adicional y espero tener la oportunidad de conversar sobre cómo podría contribuir a los proyectos de la empresa.
+Estaré encantado de resolver cualquier duda o de hablar más en profundidad sobre mi contribución a la empresa en aspectos más concretos.
 
 Atentamente,
 José Carlos López Henestrosa
