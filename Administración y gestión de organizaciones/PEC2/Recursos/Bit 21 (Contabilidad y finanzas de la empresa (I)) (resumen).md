@@ -55,6 +55,7 @@ Se clasifican:
 	- **Fuentes de financiación externas**. Aportaciones hechas desde fuera de la empresa.
 
 ---
+
 **FUENTES DE FINANCIACIÓN EXTERNAS**
 
 **Reservas**
@@ -167,6 +168,14 @@ Ventajas:
 Inconvenientes:
 - Pagar comisión por la parte del crédito no utilizada es costoso en periodos de bajo uso.
 - Es necesario controlar el uso del crédito para no exceder el límite disponible.
+
+---
+
+**Empréstitos de obligaciones**
+
+Préstamo colectivo que una empresa o entidad emite para financiarse, dividiendo la deuda en pequeños unidades o títulos llamados **obligaciones** o **bonos**. Estos títulos se venden a inversores, quienes prestan su dinero a la empresa a cambio de recibir intereses periódicos y la devolución de su inversión en una fecha futura.
+
+Ejemplo: Bonos del Estado.
 
 ---
 
