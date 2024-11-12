@@ -176,9 +176,9 @@ Hay dos escenarios distintos posibles:
 	
 	Si tienes una inversión inicial de 10.000€ y flujos de caja anuales de 3.000€, 4.000€ y 5.000€:
 
-	1. Año 1: 10.000€ - 3.000€ = 7.000€ (saldo pendiente)
-	2. Año 2: 7.000€ - 4.000€ = 3.000€ (saldo pendiente)
-	3. Año 3: 3.000€ - 5.000€ = -2.000€ (la inversión se recupera en el año 3)
+	1. Año 1: $10.000€ - 3.000€ = 7.000€$ (saldo pendiente)
+	2. Año 2: $7.000€ - 4.000€ = 3.000€$ (saldo pendiente)
+	3. Año 3: $3.000€ - 5.000€ = -2.000€$ (la inversión se recupera en el año 3)
 
 	El _payback_ es de 2 años y algunos meses. Para calcular los meses exactos:
 
@@ -214,12 +214,12 @@ El VAN se fundamenta en:
 
 Fórmula:
 
-$$VAN = f(C_t,n,k,A_0)$$
+$$VAN = - I_0 + \sum_{n=1}^{N} \frac{C_n}{(1 + r)^{n}} = 0$$
 
 donde:
 - $C$ = flujos de caja previstos en $t$ año,
 - $n$ = horizonte económico,
-- $A_0$ = inversión inicial,
+- $I_0$ = inversión inicial,
 - $k$ = tasa de descuento o actualización.
 
 >[!NOTE]
@@ -252,7 +252,7 @@ Mide la rentabilidad esperada de una inversión. Es la tasa de descuento que hac
 
 Fórmula:
 
-$$VAN = - I_0 + \sum_{n=1}^{N} \frac{C_n}{(1 + r)^{n}} = 0$$
+$$VAN = - I_0 + \sum_{n=1}^{N} \frac{C_n}{(1 + r)^{n}}$$
 
 donde:
 - $I_0$ = Inversión inicial.

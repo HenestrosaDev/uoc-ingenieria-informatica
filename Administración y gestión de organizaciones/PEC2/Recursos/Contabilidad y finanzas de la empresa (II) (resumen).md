@@ -10,8 +10,16 @@
 
 **Patrimonio**: Conjunto de bienes, derechos y obligaciones, cuantificables, que pertenecen a una persona física o jurídica.
 
-$$\text{patrimonio neto} = \text{bienes} + \text{derechos} - \text{obligaciones}$$
-$$\text{patrimonio neto} = \text{activo} + \text{derechos} - \text{obligaciones}$$
+**Patrimonio neto**: Valor residual de los activos de una empresa una vez deducidos todos sus pasivos.
+
+>[!NOTE]
+>**Valor residual**: Valor estimado de un activo al final de su vida útil, después de haber sido utilizado en su propósito principal.
+
+La ecuación fundamental de la contabilidad es:
+$$\text{activo} = \text{pasivo} + \text{patrimonio neto}$$
+
+>[!CAUTION]
+>Las ecuaciones fundamentales que presenta el libro **NO SON CORRECTAS**, ya que no es correcto decir que el patrimonio neto forme parte del pasivo, a pesar de que aparezca en el lado derecha del balance junto con el pasivo.
 
 ### 1.1. Contabilidad
 
@@ -20,20 +28,6 @@ Ciencia que estudia el patrimonio empresarial tanto de forma estática (en un mo
 #### 1.1.1. Masas patrimoniales
 
 **Masa patrimonial**: Conjunto de bienes, derechos y obligaciones que poseen características similares desde el punto de vista económico o financiero.
-
-**Pasivo exigible**: Obligaciones y deudas de una empresa que tienen vencimiento con terceros. 
-
-$$\text{pasivo exigible = pasivo total - patrimonio neto}$$
-
-**Pasivo total**: Incluye el pasivo exigible y las obligaciones sin vencimiento definido, como el capital y otras reservas patrimoniales de la empresa. 
-
-$$\text{pasivo total = patrimonio neto + pasivo exigible}$$
-
-$$\text{pasivo total} = \text{activo total} $$
-
-**Patrimonio neto**: Conjunto de recursos financieros que se poseen tras descontar el pasivo exigible. 
-
-$$\text{patrimonio neto = pasivo total - pasivo exigible}$$
 
 ```mermaid
 graph TD
@@ -51,7 +45,7 @@ graph TD
 
 Conjunto de bienes tangibles e intangibles y derechos que posee una persona física o jurídica.
 
-$$\text{activo} = \text{bienes} + \text{derechos}$$
+$$\text{activo} = \text{pasivo} + \text{patrimonio neto}$$
 
 ```mermaid
 graph TD
@@ -67,13 +61,13 @@ graph TD
 >Composición del activo
 
 Tipos de activo:
-- **Activo corriente**: Conjunto de bienes y derechos que una empresa posee y que espera liquidar o consumir a corto plazo. Se divide en:
+- **Activo corriente**: Activos que se esperan liquidar o consumir a corto plazo. Se divide en:
 	- **Existencias**: Bienes de una empresa destinados a ser vendidos o a ser transformados para incorporarlos al proceso productivo.
 	- **Deudores comerciales (activo realizable)**: Derechos de cobro que se cobrarán en un plazo inferior al año, como deudas de clientes y deudores.
 	- **Efectivo y otros activos (activo disponible)**: Dinero disponible de la empresa.
-- **Activo no corriente**: Permiten la actividad productiva de la empresa a largo plazo. Se clasifica en:
-	- **Inmovilizado material**: Conjunto de bienes tangibles. Terrenos, maquinaria...
-	- **Inmovilizado intangible**: Conjunto de bienes intangibles. Patentes, _software_...
+- **Activo no corriente**: Activos que permiten la actividad productiva de la empresa a largo plazo. Se clasifica en:
+	- **Inmovilizado material**: Activos tangibles. P. ej., terrenos, maquinaria, etc.
+	- **Inmovilizado intangible**: Activos intangibles. P. ej., patentes, _software_, etc.
 	- **Inmovilizado financiero**: Inversiones permanentes en otras empresas.
 
 ---
@@ -82,9 +76,15 @@ Tipos de activo:
 
 Obligaciones y deudas que una empresa contrae con terceros. Pueden ser a corto o a largo plazo. Refleja sus obligaciones financieras y su estructura de capital. 
 
+$$\text{pasivo} = \text{activo total} - \text{patrimonio neto}$$
+
 Tipos de pasivo:
-- **Pasivo no corriente**: Deudas con vencimiento > 1 año.
-- **Pasivo corriente**: Deudas con vencimiento < 1 año.
+- **Pasivo exigible**: Deudas que la empresa debe pagar en un plazo determinado. Hay dos tipos, según el plazo:
+	- **Pasivo no corriente**: Deudas con vencimiento > 1 año.
+	- **Pasivo corriente**: Deudas con vencimiento < 1 año.
+
+	$$\text{pasivo exigible = pasivo corriente + pasivo no corriente}$$
+
 - **Neto patrimonial** (patrimonio neto): Parte residual de los activos de una empresa al deducir todos sus pasivos.
 
 #### 1.1.2. Usuarios de la contabilidad
@@ -119,11 +119,12 @@ o empresa.
 >[!NOTE]
 >La normalización contable en España está recogida en el **Real decreto 1514/2007, de 16 noviembre**, por el cual se aprueba el Plan general de contabilidad.
 
-Según el Plan general de contabilidad, las cuentas anuales son:
+Según el Plan general de contabilidad, las cuentas anuales tienen que disponer de la siguiente información:
 - **Balance**: Muestra la situación patrimonial.
-- **Cuenta de pérdidas y ganancias**: Registra el resultado del ejercicio.
+- **Cuenta de pérdidas y ganancias**: Registra el resultado del ejercicio su origen.
+- **Estado de flujos en el patrimonio neto**: Informa de las variaciones en el patrimonio neto.
+- **Estado de flujos de tesorería**: Informa del origen y la utilización de los activos monetarios representativos de efectivo y otros activos líquidos equivalentes.
 - **Memoria**: Completa y amplía la información de las otras cuentas anuales.
-- **Otros documentos**: Estado de cambios en el patrimonio neto y estado de flujos de tesorería.
 
 #### 1.2.2. Análisis patrimonial
 
@@ -271,7 +272,7 @@ La presentación según el modelo tradicional de balance es la siguiente:
 
 	**Interpretaciones del resultado**:
 	- **&gt; 0**: Equilibrada financieramente.
-	- **&lt; 0**: Riesgo de concurso de acreedores, ya que tiene que devolver a corto plazo más dinero que el que puede devolver en el mismo periodo. 
+	- **&lt; 0**: Riesgo de concurso de acreedores, ya que tiene que devolver a corto plazo más dinero del que puede disponer en el mismo periodo. 
 	- **&lt;&lt; 0**: Quiebra. La empresa no puede hacer frente a sus deudas, incluso aunque venda todos los bienes que forman su activo.
 
 2. **Ratio de disponibilidad**: Evalúa la capacidad de la empresa para cumplir sus obligaciones a corto plazo exclusivamente con el efectivo y otros activos líquidos disponibles en el momento.
@@ -308,6 +309,9 @@ La presentación según el modelo tradicional de balance es la siguiente:
 
 6. **Ratio de endeudamiento**: Mide la proporción de obligaciones que tiene una empresa en relación con su patrimonio neto, y se utiliza para evaluar el nivel de riesgo financiero al que está expuesta. 
 	
+	>[!NOTE]
+	>Por algún motivo, los recursos que he consultado en Internet indican que el ratio de endeudamiento se calcula como $\text{ratio de endeudamiento} = \frac{\text{pasivo total}}{\text{patrimonio neto}}$, mientras que en los recursos de la UOC, se calcula con la fórmula de abajo. Lo único que cambia es que, para la fórmula anterior, se toma $1$ como el valor de referencia para interpretar el resultado.
+
 	$$\text{ratio de endeudamiento} = \frac{\text{pasivo total}}{\text{patrimonio neto}}$$
 	
 	**Interpretación del resultado**:
@@ -360,7 +364,7 @@ Estudia el resultado de la empresa (la cuantía, la estructura, el origen, la ev
 	- **&gt; 0**: Cuanto más alta, mejor.
 	- **&lt; 0**: La empresa necesita optimizar el uso de sus activos o reconsiderar ciertas inversiones.
 
-2. **Análisis de la rentabilidad financiera** (aka ROE (_return on equity_)): Mide la capacidad de una empresa para generar beneficios a partir de su propio capital.
+2. **Análisis de la rentabilidad financiera** (aka ROE (_return on equity_)): Mide la capacidad de una empresa para generar beneficios con sus propios fondos.
 
 	$$\text{ratio de rentabilidad financiera} = \frac{\text{beneficio neto}}{\text{patrimonio neto}}$$
 

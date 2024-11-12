@@ -23,6 +23,10 @@ xychart-beta
 ```
 >Ejemplo de representación gráfica de la **función de demanda**.
 
+La **curva de demanda** se desplaza:
+- Hacia la **izquierda** cuando **disminuye la cantidad demandada** de un bien o servicio a todos los niveles de precio.
+- Hacia la **derecha** cuando **aumenta la cantidad demandada** de un bien o servicio a todos los niveles de precio.
+
 **Demanda de mercado**: Cantidad total de un bien o servicio que todos los consumidores están dispuestos a comprar en un mercado en un momento y a un precio determinado. 
 
 ## 1.2. Función de oferta
@@ -42,6 +46,10 @@ xychart-beta
 ```
 >Ejemplo de representación gráfica de la **función de oferta**.
 
+La **curva de oferta** se desplaza:
+- Hacia la **izquierda** cuando **disminuye la cantidad ofrecida** de un bien o servicio a todos los niveles de precio.
+- Hacia la **derecha** cuando **aumenta la cantidad ofrecida** de un bien o servicio a todos los niveles de precio.
+
 **Oferta de mercado**: Cantidad total de un bien o servicio que todos los productores en un mercado están dispuestos a vender a diferentes niveles de precio en un período determinado.
 
 ## 1.3. El equilibrio de mercado
@@ -57,6 +65,23 @@ xychart-beta
 	line [5, 4, 3, 2]
 ```
 >Ejemplo de representación gráfica del **equilibro de mercado**. La línea verde representa la curva de demanda (D), mientras que la azul es la curva de oferta (O).
+
+>[!NOTE]
+>Para calcular el precio de equilibrio sabiendo la ecuación de la curva de oferta y de la demanda, hacemos lo siguiente a partir de este ejemplo:
+>- **Curva de oferta**: $Q_o = 8 + 8P$
+>- **Curva de demanda**: $Q_d = 20.584 - 5P$
+>
+>**Paso 1: Igualar la oferta y la demanda**  
+>
+>Igualamos $Q_o$ y $Q_d$ para encontrar el precio de equilibrio:
+>
+>$$8 + 8P = 20.584 - 5P$$
+>
+>**Paso 2: Hallar $P$**  
+>
+>1. Igualamos $Q_o$ y $Q_d$ para encontrar el precio de equilibrio:
+>
+>$$8 + 8P = 20.584 - 5P \implies 13P = 12.584 \implies P = \frac{12.584}{13} \implies P = 0.968$$
 
 Aparte del punto de equilibrio, se distinguen estos dos indicadores:
 - **Exceso de oferta**: Todo aquello que está por **encima** del punto de corte de las curvas de oferta y demanda. Gran parte de la producción ofrecida no es vendida, por lo que bajarán los precios. Con ello, los consumidores demandarán más, pero los productores también ofertarán menos.
