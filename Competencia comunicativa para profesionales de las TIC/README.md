@@ -20,10 +20,12 @@
 
 | NOMBRE                                                           | CALIFICACIÓN   |
 |------------------------------------------------------------------|----------------|
-| [PR1 La primera impresión es la que cuenta](PR1)                 | 9,60 (grado A) |
-| [PR2 Resumiendo que es gerundio](PR2)                            | -              |
-| [PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto](PR3) | -              |
-| [PR4 ¡Recapitulemos! ¿Qué he aprendido?](PR4)                    | -              |
+| [PR1 La primera impresión es la que cuenta](PR1)                 | 9,60 (grado A)* |
+| [PR2 Resumiendo que es gerundio](PR2)                            | 9,33 (grado A)* |
+| [PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto](PR3) | -             |
+| [PR4 ¡Recapitulemos! ¿Qué he aprendido?](PR4)                    | -             |
+
+>Las tareas marcadas con un asterisco ya han sido corregidas, por lo que, atendiendo a las correcciones del profesorado, deberían tener un 10 en su estado actual.
 
 ## Recursos de aprendizaje
 

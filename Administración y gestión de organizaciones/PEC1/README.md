@@ -32,3 +32,7 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 ### Calificación
 
 24,30 de 30,00 [8,10 (grado B)]
+
+### Notas personales
+
+No puedo corregir los errores de esta entrega ya que el profesor no ha adjuntado ningún tipo de feedback.

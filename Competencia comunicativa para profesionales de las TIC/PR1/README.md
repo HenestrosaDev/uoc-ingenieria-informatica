@@ -79,9 +79,13 @@ José Carlos López Henestrosa
 
 14,40 de 15,00 [9,60 (grado A)]
 
-### Comentarios de retroalimentación
+### Comentarios de retroalimentación sobre la entrega original
 
-Ha faltado incorporar citas que refuercen los planteamientos.
+>Ha faltado incorporar citas que refuercen los planteamientos.
+
+### Notas personales
+
+He aplicado el feedback proporcionado por el profesor sobre la entrega original, por lo que ahora debería tener la máxima puntuación.
 
 ### Mensaje que el profesor publicó en el foro con carácter de corrección general
 
