@@ -38,4 +38,4 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ### Calificación
 
-29,70 de 33,00 [9,00 (grado A)]
+33,00 de 33,00 [10,00 (grado A)] (ver [intento 2](./Intento%202/))

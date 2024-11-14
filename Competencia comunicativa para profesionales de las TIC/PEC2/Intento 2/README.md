@@ -2,4 +2,4 @@
 
 ## Calificación
 
-29,70 de 33,00 [9,00 (grado A)]
+33,00 de 33,00 [10,00 (grado A)] (nota final de la PEC2, dado que es la más alta)
