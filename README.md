@@ -283,6 +283,7 @@ Los números entre paréntesis hacen referencia al curso en el que se completaro
 
 - [Recopilatorio no oficial de asignaturas con sus respectivas notas medias, métodos de evaluación y grupos de Telegram/WhatsApp](https://uoc-nextjs.vercel.app/)
 - [FAQs y enlaces de interés (no oficial)](https://sites.google.com/view/faq-enginyeria-informatica)
+- [Página oficial de la UOC sobre el grado](https://www.uoc.edu/es/estudios/grados/grado-ingenieria-informatica)
 
 ## Licencia
 
