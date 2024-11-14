@@ -54,7 +54,7 @@
 ## Antes de empezar
 
 >[!IMPORTANT]  
->No están todas las asignaturas obligatorias y básicas, ya que convalidé las siguientes por haber cursado el CFGS Desarrollo de Aplicaciones Web (y Multiplataforma) y tener el título C1 de Cambridge (CAE):
+>No están todas las asignaturas obligatorias y básicas, ya que convalidé las siguientes por haber cursado el CFGS en Desarrollo de Aplicaciones Web (y Multiplataforma) y tener el título C1 de inglés de Cambridge (CAE):
 >| ASIGNATURA CONVALIDADA                    | TIPO DE FORMACIÓN | CRÉDITOS |
 >|-------------------------------------------|-------------------|----------|
 >| Fundamentos de programación               | Básica            | 6        |
@@ -70,7 +70,8 @@
 
 ## Asignaturas
 
-Los números entre paréntesis hacen referencia al curso en el que se completaron las asignaturas.
+>[!NOTE]
+>Los números entre paréntesis hacen referencia al curso en el que se completaron las asignaturas.
 
 ### Asignaturas básicas
 
