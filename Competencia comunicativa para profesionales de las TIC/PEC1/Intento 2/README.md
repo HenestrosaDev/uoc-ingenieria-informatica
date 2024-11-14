@@ -2,15 +2,15 @@
 
 ## Calificación
 
-31,315 de 33,00 [9,489 (grado A)]
+31,315 de 33,00 [9,489 (grado A)] (nota final de la PEC1, dado que es la más alta)
 
 ## Nota
 
 Originalmente, la calificación era 27,39 (8,3, grado B) pero reclamé debido a los numerosos errores de la corrección de la prueba.
 
-## Correo enviado para la solicitar la reevaluación de la prueba
+### Correo enviado para solicitar la reevaluación de la prueba
 
-Buenos días, Jose:
+Buenos días, X:
 
 He revisado la corrección de mi cuestionario y he encontrado varios errores manifiestos, junto con otros que me gustaría argumentar. Los agrupo por número de pregunta para facilitar la estructura:
 
@@ -32,12 +32,12 @@ Pregunta 19:
 Pregunta 22:
 - Creo que "almacenar" también podría usarse como sinónimo de "tener" en la oración proporcionada, puesto que ambos términos se refieren a la idea de contener o guardar algo.
 
-Gracias por tu atención, Jose. Para cualquier duda, comentamos.
+Gracias por tu atención, X. Para cualquier duda, comentamos.
 
 Saludos,
 José Carlos
 
-## Respuesta al correo anterior
+### Respuesta al correo anterior
 
 Estimado José Carlos:
 
