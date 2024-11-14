@@ -71,7 +71,7 @@
 ## Asignaturas
 
 >[!NOTE]
->Los números entre paréntesis hacen referencia al curso en el que se completaron las asignaturas.
+>Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó.
 
 ### Asignaturas básicas
 
