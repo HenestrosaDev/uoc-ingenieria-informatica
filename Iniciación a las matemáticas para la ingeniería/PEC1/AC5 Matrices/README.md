@@ -658,10 +658,10 @@ Atendiendo a la matriz "ajedrezada" de signos
 
 $$
 \begin{pmatrix*}[r]
-+ & - & + & - \\
-- & + & - & + \\
-+ & - & + & - \\
-- & + & - & + \\
++ & - & + \\
+- & + & - \\
++ & - & + \\
+- & + & - \\
 \end{pmatrix*}
 $$
 
@@ -688,7 +688,7 @@ adj(a_{1 \, 2}) =
 $$
 
 $$
-Adj(A) = 
+A' = 
 \begin{pmatrix*}[r]
 -5 & -7 & -1 \\
 -6 & -9 & -1 \\
@@ -1262,10 +1262,10 @@ B =
 \end{pmatrix*}
 $$
 
-Vemos que $|A| = 2$, lo que implica que podemos aplicar la regla de Cramer. Calculamos $|A_1|,|A_2|,|A_3|$.
+Vemos que $|A| = 2$, lo que implica que podemos aplicar la regla de Cramer. Calculamos $|A_x|,|A_y|,|A_z|$.
 
 $$
-|A_1| = 
+|A_x| = 
 \begin{vmatrix*}[r]
  1 &  1 & 1 \\
 -3 & -1 & 1 \\
@@ -1273,7 +1273,7 @@ $$
 \end{vmatrix*}
 = 8
 \quad 
-|A_2| = 
+|A_y| = 
 \begin{vmatrix*}[r]
  1 &  1 & 1 \\
  1 & -3 & 1 \\
@@ -1281,7 +1281,7 @@ $$
 \end{vmatrix*}
 = 4
 \quad
-|A_3| = 
+|A_z| = 
 \begin{vmatrix*}[r]
  1 &  1 &  1 \\
  1 & -1 & -3 \\
@@ -1293,9 +1293,9 @@ $$
 Ahora podemos calcular las soluciones al sistema:
 
 $$
-x = \frac{|A_1|}{|A|} = \frac{8}{2} = 4,
+x = \frac{|A_x|}{|A|} = \frac{8}{2} = 4,
 \quad
-y = \frac{|A_2|}{A} = \frac{4}{2} = 2,
+y = \frac{|A_y|}{A} = \frac{4}{2} = 2,
 \quad
-z = \frac{|A_3|}{A} = \frac{-10}{2} = -5,
+z = \frac{|A_z|}{A} = \frac{-10}{2} = -5,
 $$
