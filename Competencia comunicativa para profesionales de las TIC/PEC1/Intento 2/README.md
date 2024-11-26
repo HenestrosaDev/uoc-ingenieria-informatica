@@ -2,7 +2,7 @@
 
 ## Calificación
 
-31,315 de 33,00 [9,489 (grado A)] (nota final de la PEC1, dado que es la más alta)
+31,315 de 33,00 [9,49 (grado A)] (nota final de la PEC1, dado que es la más alta)
 
 ## Nota
 
