@@ -13,7 +13,7 @@
 | NOMBRE                                                              | CALIFICACIÓN   |
 |---------------------------------------------------------------------|----------------|
 | [PEC1 Tipificación y análisis de una organización](PEC1)            | 8,10 (grado B) |
-| [PEC2 Análisis financiero y contable de una organización](PEC2)     | -              |
+| [PEC2 Análisis financiero y contable de una organización](PEC2)     | 9,04 (grado A) |
 | [PEC3 Elaboración de un plan de negocio, con aspectos de RSC](PEC3) | -              |
 | [PEC4 Datos, organizaciones y resiliencia](PEC4)                    | -              |
 

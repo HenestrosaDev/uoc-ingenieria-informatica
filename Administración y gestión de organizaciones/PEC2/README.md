@@ -21,4 +21,7 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 
 ### Calificación
 
-- de -,00 [- (grado -)]
+- **Parte teórica** (`test-entrega.png`): 13,03 de 15,00 [8,69 (grado B)]
+- **Parte práctica** (`entrega.pdf`): 14,10 de 15,00 [9,40 (grado A)]
+
+**Calificación total**: 27,13 de 30,00 [9,04 (grado A)]
