@@ -96,8 +96,12 @@ Componentes de la transformación:
 	- Si $|b| > 1$, la gráfica se comprime horizontalmente. 
 	- Si $|b| < 1$, la gráfica se estira horizontalmente.
 	- Si $b < 0$, hay una simetría respecto al eje Y.
-- **Desplazamiento horizontal ($c$)**: La gráfica se desplaza $c$ unidades horizontalmente. Se desplaza hacia la izquierda si $c > 0$ y hacia la derecha si $b < 0$. El desplazamiento exacto es $-\frac{c}{b}$.
-- **Desplazamiento vertical ($d$)**: La gráfica se desplaza $d$ unidades verticalmente. Sube en $d > 0$ o baja en $d < 0$. Cambia la linea de equilibrio de la función (que normalmente es $y = 0$) a $y = d$.
+- **Desplazamiento horizontal ($c$)**: La gráfica se desplaza $c$ unidades horizontalmente. El desplazamiento exacto es $-\frac{c}{b}$.
+	- Si $c > 0$, la gráfica se desplaza hacia la izquierda.
+	- Si $c < 0$, la gráfica se desplaza hacia la derecha. 
+- **Desplazamiento vertical ($d$)**: La gráfica se desplaza $d$ unidades verticalmente. Cambia la linea de equilibrio de la función (que normalmente es $y = 0$) a $y = d$.
+	- Si $d > 0$, la gráfica sube.
+	- Si $d < 0$, la gráfica baja.
 
 ## 8.3. Funciones tangente y cotangente
 
