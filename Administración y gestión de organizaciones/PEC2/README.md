@@ -9,11 +9,11 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 >[!NOTE]
 >Los resúmenes de cada recurso para esta PEC se encuentran en la carpeta [Recursos](Recursos/).
 
-- [**Bit 21** (Contabilidad y finanzas de la empresa (I))](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=263179&hash=1a0968aafeee5f7362c6a75eff9e5f2d44dad0c2f5ebe3e293116b24e5762337)
+- [**Bit 21 (Contabilidad y finanzas de la empresa (I))**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=263179&hash=1a0968aafeee5f7362c6a75eff9e5f2d44dad0c2f5ebe3e293116b24e5762337) ([resumen](./Recursos/Bit%2021%20(Contabilidad%20y%20finanzas%20de%20la%20empresa%20(I))%20(resumen).md))
 	- Introducción y apartado 1.1
-- [**Contabilidad y finanzas de la empresa (II)**](https://protected-content.ftp.uoc.edu/biblioteca/prestatgeries/05556_75556/90521.pdf) (contenido protegido)
-- [**Bit 22** (Análisis de inversiones)](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=263181&hash=4c5f222055ec6ceb4523f0adfd2afc2cba2d41ca2646c41001d81e2e49cbe412)
-- [**Bit 23** (Conceptos económicos que impactan en las organizaciones)](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=151500&hash=3fd646fe78d6cf5866ce7b47c92856d23aa9806cbf020d714dbc127b18408898)
+- [**Contabilidad y finanzas de la empresa (II)**](https://protected-content.ftp.uoc.edu/biblioteca/prestatgeries/05556_75556/90521.pdf) (contenido protegido) ([resumen](./Recursos/Contabilidad%20y%20finanzas%20de%20la%20empresa%20(II)%20(resumen).md))
+- [**Bit 22 (Análisis de inversiones)**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=263181&hash=4c5f222055ec6ceb4523f0adfd2afc2cba2d41ca2646c41001d81e2e49cbe412) ([resumen](./Recursos/Bit%2022%20(Análisis%20de%20inversiones)%20(resumen).md))
+- [**Bit 23 (Conceptos económicos que impactan en las organizaciones)**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=151500&hash=3fd646fe78d6cf5866ce7b47c92856d23aa9806cbf020d714dbc127b18408898) ([resumen](./Recursos/Bit%2023%20(Conceptos%20económicos%20que%20impactan%20en%20las%20organizaciones)%20(resumen).md))
 
 ---
 
