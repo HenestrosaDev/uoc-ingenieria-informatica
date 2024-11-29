@@ -56,9 +56,7 @@ Se pueden deducir a partir de las razones trigonométricas de un ángulo agudo.
 
 ## 8.2. Funciones seno y coseno
 
-Estas funciones tienen la propiedad de ser periódicas, o sea que las mismas imágenes
-se repiten cada vez que al valor $x$ le sumamos una cantidad fijada, que se llama
-**período**.
+Estas funciones tienen la propiedad de ser periódicas, o sea que las mismas imágenes se repiten cada vez que al valor $x$ le sumamos una cantidad fijada, que se llama **período**.
 
 ### 8.2.1. Definición y ejemplos
 
@@ -88,18 +86,18 @@ $$cos(x) = sin(x + \frac{\pi}{2})$$
 
 Componentes de la transformación:
 
-- **Amplitud ($a$)**: Controla el estiramiento o compresión vertical. 
+- **Amplitud ($a$)**: Controla el estiramiento o compresión vertical y afecta al **recorrido** de la función.
 	- Si $|a| < 1$, la gráfica se comprime verticalmente. 
 	- Si $|a| > 1$, la gráfica se estira verticalmente. 
 	- Si $a < 0$, hay una simetría respecto al eje X.
-- **Frecuencia y período ($b$)**: Controla la compresión o expansión horizontal. El período de la función cambia y se calcula como $\frac{2\pi}{|b|}$.
+- **Frecuencia y período ($b$)**: Controla la compresión o expansión horizontal, lo cual implica una traslación de los **puntos de corte con el eje X, los máximos y mínimos, y los intervalos de crecimiento y decrecimiento**. El **período** de la función también cambia y se calcula como $\frac{2\pi}{|b|}$.
 	- Si $|b| > 1$, la gráfica se comprime horizontalmente. 
 	- Si $|b| < 1$, la gráfica se estira horizontalmente.
 	- Si $b < 0$, hay una simetría respecto al eje Y.
-- **Desplazamiento horizontal ($c$)**: La gráfica se desplaza $c$ unidades horizontalmente. El desplazamiento exacto es $-\frac{c}{b}$.
+- **Desplazamiento horizontal ($c$)**: La gráfica se desplaza $c$ unidades horizontalmente, lo cual implica una traslación de los **puntos de corte con el eje X, los máximos y mínimos, y los intervalos de crecimiento y decrecimiento**. El desplazamiento exacto es $-\frac{c}{b}$.
 	- Si $c > 0$, la gráfica se desplaza hacia la izquierda.
 	- Si $c < 0$, la gráfica se desplaza hacia la derecha. 
-- **Desplazamiento vertical ($d$)**: La gráfica se desplaza $d$ unidades verticalmente. Cambia la linea de equilibrio de la función (que normalmente es $y = 0$) a $y = d$.
+- **Desplazamiento vertical ($d$)**: La gráfica se desplaza $d$ unidades verticalmente. Cambia la linea de equilibrio de la función (que normalmente es $y = 0$) a $y = d$, así como los puntos de corte con el eje X.
 	- Si $d > 0$, la gráfica sube.
 	- Si $d < 0$, la gráfica baja.
 
