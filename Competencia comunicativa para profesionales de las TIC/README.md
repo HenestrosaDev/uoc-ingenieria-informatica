@@ -25,7 +25,7 @@
 | [PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto](PR3) | -               |
 | [PR4 ¡Recapitulemos! ¿Qué he aprendido?](PR4)                    | -               |
 
->Las tareas marcadas con un asterisco (*) han sido corregidas, por lo que, según las correcciones del profesorado, deberían tener una calificación de 10,00 en su estado actual.
+>Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener una calificación de 10,00 en su estado actual.
 
 ## Recursos de aprendizaje
 
