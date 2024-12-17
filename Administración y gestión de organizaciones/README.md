@@ -1,4 +1,4 @@
-# Administración y gestión de organizaciones (24/25)
+# Administración y gestión de organizaciones (24/25-1)
 
 ## Información sobre la asignatura
 

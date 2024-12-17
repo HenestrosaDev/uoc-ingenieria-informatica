@@ -71,7 +71,7 @@
 ## Asignaturas
 
 >[!NOTE]
->Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó.
+>Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
 
 ### Asignaturas básicas
 
@@ -83,7 +83,7 @@
 	<tr>
 		<td rowspan="4">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Administraci%C3%B3n%20y%20gesti%C3%B3n%20de%20organizaciones">
-				Administración y gestión de organizaciones (24/25)
+				Administración y gestión de organizaciones (24/25-1)
 			</a>
 		</td>
 		<td>
@@ -126,7 +126,7 @@
 	<tr>
 		<td rowspan="4">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC">
-				Competencia comunicativa para profesionales de las TIC (24/25)
+				Competencia comunicativa para profesionales de las TIC (24/25-1)
 			</a>
 		</td>
 		<td>
@@ -255,7 +255,7 @@
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Iniciaci%C3%B3n%20a%20las%20matem%C3%A1ticas%20para%20la%20ingenier%C3%ADa">
-				Iniciación a las matemáticas para la ingeniería (24/25)
+				Iniciación a las matemáticas para la ingeniería (24/25-1)
 			</a>
 		</td>
 		<td>

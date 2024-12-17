@@ -1,4 +1,4 @@
-# Competencia comunicativa para profesionales de las TIC (24/25)
+# Competencia comunicativa para profesionales de las TIC (24/25-1)
 
 ## Información sobre la asignatura
 
