@@ -4,7 +4,7 @@
 
 ## 8.1.1. Razones principales de un ángulo agudo
 
-![Ángulo agudo](img/angulo-agudo.png)
+![Ángulo agudo](img/angulo_agudo.png)
 
 Razones trigonométricas principales:
 - **Seno**: $sin(\alpha) = \frac{b}{a} = \frac{\text{cateto opuesto}}{\text{hipotenusa}}$
@@ -38,13 +38,13 @@ Lo mismo que:
 
 Se pueden deducir a partir de las razones trigonométricas de un ángulo agudo.
 
-![Ángulo agudo](img/angulo-agudo-2.png)
+![Ángulo agudo](img/angulo_agudo-2.png)
 >Razones trigonométricas de un ángulo agudo.
 
-![Ángulo obtuso](img/angulo-obtuso.png)
+![Ángulo obtuso](img/angulo_obtuso.png)
 >Razones trigonométricas de un ángulo obtuso.
 
-![Cos sin de varios ángulos](img/cos-sin-de-varios-angulos.png)
+![Cos sin de varios ángulos](img/cos_sin_de_varios_angulos.png)
 >Seno y coseno de varios ángulos relevantes.
 
 >[!NOTE]
@@ -63,7 +63,7 @@ Estas funciones tienen la propiedad de ser periódicas, o sea que las mismas im�
 | CARACTERÍSTICA                    | $sen(x)$                                                                        | $cos(x)$                                                                          |
 |-----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | **Fórmula**                       | $$sin(\alpha) = \frac{b}{a} = \frac{\text{cateto opuesto}}{\text{hipotenusa}}$$ | $$cos(\alpha) = \frac{c}{a} = \frac{\text{cateto adyacente}}{\text{hipotenusa}}$$ |
-| **Representación gráfica**        | ![Función seno](img/funcion-seno.png)                                           | ![Función coseno](img/funcion-coseno.png)                                         |
+| **Representación gráfica**        | ![Función seno](img/seno.png)                                                   | ![Función coseno](img/coseno.png)                                                 |
 | **Dominio**                       | $\mathbb{R}$                                                                    | $\mathbb{R}$                                                                      |
 | **Imagen**                        | $[-1, -1]$                                                                      | $[-1, -1]$                                                                        |
 | **Período**                       | $2\pi$                                                                          | $2\pi$                                                                            |
@@ -73,7 +73,7 @@ Estas funciones tienen la propiedad de ser periódicas, o sea que las mismas im�
 | **Decreciente en los intervalos** | $(\frac{\pi}{2} + 2\pi k, \frac{3\pi}{2} + 2\pi k)$ donde $k \in \mathbb{Z}$    | $(2\pi k, \pi + 2\pi k)$ donde $k \in \mathbb{Z}$                                 |
 | **Máximos**                       | En el punto $(\frac{\pi}{2} + 2\pi k, 1)$ donde $k \in \mathbb{Z}$              | En el punto $(2\pi k, 1)$ donde $k \in \mathbb{Z}$                                |
 | **Mínimos**                       | En el punto $(\frac{3\pi}{2} + 2\pi k, -1)$ donde $k \in \mathbb{Z}$            | En el punto $(\pi + 2\pi k, -1)$ donde $k \in \mathbb{Z}$                         |
-| **Simetría**                      | Función impar (simétrica respecto al origen). Cumple $sin(x) = sin(-x)$.	       | Función par (simétrica respecto al eje Y). Cumple $cos(x) = cos(-x)$.             |
+| **Simetría**                      | Función impar (simétrica respecto al origen). Cumple $sin(x) = sin(-x)$.	      | Función par (simétrica respecto al eje Y). Cumple $cos(x) = cos(-x)$.             |
 
 ### 8.2.2. Relación seno y coseno
 
@@ -108,7 +108,7 @@ Componentes de la transformación:
 | CARACTERÍSTICA                    | $tan(x)$                                                                                                                                                                             | $cot(x)$                                                                                                 |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | **Fórmula**                       | $$tg(\alpha) = tan(\alpha) = \frac{b}{c} = \frac{sin(\alpha)}{cos(\alpha)} = \frac{\frac{b}{a}}{\frac{c}{a}} = \frac{b}{c} = \frac{\text{cateto opuesto}}{\text{cateto adyacente}}$$ | $$cot(x) = \frac{cos(x)}{sin(x)} = \frac{1}{tan(x)}$$                                                    |
-| **Representación gráfica**        | ![Función tangente](img/funcion-tangente.png)                                                                                                                                        | ![Función cotangente](img/funcion-cotangente.png)                                                        |
+| **Representación gráfica**        | ![Función tangente](img/tangente.png)                                                                                                                                                | ![Función cotangente](img/cotangente.png)                                                                |
 | **Dominio**                       | $\mathbb{R} ∖ \{\frac{\pi}{2} + k\pi\}$ donde $k \in \mathbb{Z}$, ya que la función no está definida cuando $cos(x) = 0$                                                             | $\mathbb{R} ∖ \{k\pi\}$ donde $k \in \mathbb{Z}$, ya que la función no está definida cuando $sin(x) = 0$ |
 | **Imagen**                        | $\mathbb{R}$                                                                                                                                                                         | $\mathbb{R}$                                                                                             |
 | **Período**                       | $\pi$                                                                                                                                                                                | $\pi$                                                                                                    |
@@ -118,7 +118,7 @@ Componentes de la transformación:
 | **Decreciente en los intervalos** | -                                                                                                                                                                                    | Decreciente en todo su dominio                                                                           |
 | **Máximos**                       | No tiene máximos                                                                                                                                                                     | No tiene máximos                                                                                         |
 | **Mínimos**                       | No tiene mínimos                                                                                                                                                                     | No tiene mínimos                                                                                         |
-| **Simetría**                      | Función impar (simétrica respecto al origen)	                                                                                                                                        | Función impar (simétrica respecto al origen)                                                             |
+| **Simetría**                      | Función impar (simétrica respecto al origen)	                                                                                                                                       | Función impar (simétrica respecto al origen)                                                             |
 
 ## 8.4. Funciones secante y cosecante
 
@@ -127,7 +127,7 @@ Componentes de la transformación:
 | CARACTERÍSTICA                    | $sec(x)$                                                                                                               | $cosec(x)$                                                                                             |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | **Fórmula**                       | $$sec(x) = \frac{1}{cos(x)}$$                                                                                          | $$cosec(x) = \frac{1}{sin(x)}$$                                                                        |
-| **Representación gráfica**        | ![Función secante](img/funcion-secante.png)                                                                            | ![Función cosecante](img/funcion-cosecante.png)                                                        |
+| **Representación gráfica**        | ![Función secante](img/secante.png)                                                                                    | ![Función cosecante](img/cosecante.png)                                                                |
 | **Dominio**                       | $\mathbb{R} ∖ \{\frac{\pi}{2} + k\pi \vert k \in \mathbb{Z}\}$, ya que la función no está definida cuando $cos(x) = 0$ | $\mathbb{R} ∖ \{k\pi \vert k \in \mathbb{Z}\}$, ya que la función no está definida cuando $sin(x) = 0$ |
 | **Imagen**                        | $(-\infty, -1] \cup [1, +\infty)$                                                                                      | $(-\infty, -1] \cup [1, +\infty)$                                                                      |
 | **Período**                       | $2\pi$                                                                                                                 | $2\pi$                                                                                                 |
@@ -145,13 +145,13 @@ Componentes de la transformación:
 
 | CARACTERÍSTICA                    | $arcsin(x)$                                   | $arccos(x)$                                       | $arctan(x)$                                           |
 |-----------------------------------|-----------------------------------------------|---------------------------------------------------|-------------------------------------------------------|
-| **Representación gráfica**        | ![Función arcoseno](img/funcion-arcoseno.png) | ![Función arcocoseno](img/funcion-arcocoseno.png) | ![Función arcotangente](img/funcion-arcotangente.png) |
+| **Representación gráfica**        | ![Función arcoseno](img/arcoseno.png) | ![Función arcocoseno](img/arcocoseno.png)                 | ![Función arcotangente](img/arcotangente.png)         |
 | **Dominio**                       | $[-1, 1]$                                     | $[0, \pi]$                                        | $(-\infty, +\infty)$                                  |
 | **Imagen**                        | $[-1, 1]$                                     | $[-1, 1]$                                         | $(-\infty, +\infty)$                                  |
 | **Período**                       | No tiene período                              | No tiene período                                  | No tiene período                                      |
 | **Puntos de corte con el eje X**  | $(0,0)$                                       | $(1, 0)$                                          | $(0,0)$                                               |
 | **Creciente en los intervalos**   | $(-1, 1)$                                     | $(-1, 1)$                                         | $(-\infty, +\infty)$                                  |
-| **Decreciente en los intervalos** | No aplica (es creciente en todo su dominio)	  | No aplica (es decreciente en todo su dominio)    | No aplica (es creciente en todo su dominio)           |
+| **Decreciente en los intervalos** | No aplica (es creciente en todo su dominio)	  | No aplica (es decreciente en todo su dominio)     | No aplica (es creciente en todo su dominio)           |
 | **Máximos**                       | $(1, \frac{\pi}{2})$                          | $(1, 0)$                                          | No tiene máximos en un valor específico               |
 | **Mínimos**                       | $(-1, -\frac{\pi}{2})$                        | $(-1, \pi)$                                       | No tiene mínimos en un valor específico               |
 | **Simetría**                      | Función impar (simétrica respecto al origen)  | Función par (simétrica respecto al eje Y)         | Función impar (simétrica respecto al origen)          |

@@ -27,6 +27,8 @@ Entonces:
 - La imagen del $2$ es el conjunto $\{1\}$, la imagen del $8$ es el conjunto $\{5\}$, la imagen del $4$ es el conjunto $\{5, 6\}$ y la imagen del $6$ es el conjunto $\{1\}$.
 - La antiimagen del $1$ es el conjunto $\{2, 6\}$, la del $5$ es $\{4, 8\}$ y la del $6$ es $\{4\}$.
 
+El dominio de una función es el conjunto de todos los valores de entrada ($x$) para los cuales la función está definida y produce un resultado válido. Por ejemplo, en la función $f(x) = \frac{1}{x}$, el dominio es $(-\infty, 0) \cup (0, +\infty)$.
+
 ### 6.1.2. Aplicaciones y funciones
 
 Para que una correspondencia entre conjuntos sea una aplicación, se tiene que cumplir que todos los elementos de su dominio tengan un único elemento en su imagen. Es decir, en la representación de una aplicación, de cualquier elemento del dominio tiene que salir **una única flecha**.
@@ -164,7 +166,7 @@ sin(x), 	& \text{si } -\pi < x \leq \pi \\
 \end{cases}
 $$
 
-![](img/funcion-definida-a-trozos.jpg)
+![](img/funcion_definida_a_trozos.jpg)
 
 # 7. Funciones polinómicas
 
@@ -268,7 +270,7 @@ $$h(x) = −3x^6 − 5x^5 + 3x^4 + 3x^3 + 8x^2 − x − 10$$
 
 Estas son sus representaciones gráficas:
 
-![](img/funciones-polinomicas.jpg)
+![](img/funciones_polinomicas.jpg)
 
 Elementos:
 - **Ramas**: Dos brazos laterales en los que se desarrolla la función. Nunca llegan a ser completamente rectos. Pueden dirigirse ambas hacia arriba, ambas hacia abajo, o bien una rama hacia arriba y la otra hacia abajo. 

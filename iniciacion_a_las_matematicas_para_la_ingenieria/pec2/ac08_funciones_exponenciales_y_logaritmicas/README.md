@@ -4,7 +4,7 @@
 |----------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | **Definición**                   | Crece o decrece exponencialmente según la base $a$                         | Es la inversa de la función exponencial                                          |
 | **Expresión**                    | $$y = a^x, \text{donde } a > 0, y > 0$$                                    | $$y = \log_a x = \log_a (x) \iff a^y = x, \text{donde } a > 0, x \neq 1, x > 0$$ |
-| **Representación gráfica**       | ![Función exponencial](img/funcion-exponencial.jpg)                        | ![Función logaritmica](img/funcion-logaritmica.jpg)                              |
+| **Representación gráfica**       | ![Función exponencial](img/exponencial.jpg)                                | ![Función logaritmica](img/logaritmica.jpg)                                      |
 | **Dominio**                      | $\mathbb{R} = (-\infty, +\infty)$                                          | $\mathbb{R}^+ = (0, +\infty)$                                                    |
 | **Imagen**                       | $\mathbb{R}^+ = (0, +\infty)$                                              | $\mathbb{R} = (-\infty, +\infty)$                                                |
 | **Puntos de corte con el eje X** | No corta con el eje X ($y > 0$)                                            | $(1, 0)$                                                                         |
@@ -86,7 +86,7 @@ Donde:
 
 ## Relación entre las gráficas exponencial y logarítmica
 
-![Relación gráficas exponencial y logarítmica](img/relacion-graficas-exponencial-y-logaritmica.jpg)
+![Relación gráficas exponencial y logarítmica](img/relacion_graficas_exponencial_y_logaritmica.jpg)
 
 La simetría refleja la relación de inversión entre ambas funciones. Si $a^x = y$, entonces $\log⁡_a (y) = x$. Esto implica que las operaciones de exponenciación y logaritmo invierten lo que hace la otra función.
 

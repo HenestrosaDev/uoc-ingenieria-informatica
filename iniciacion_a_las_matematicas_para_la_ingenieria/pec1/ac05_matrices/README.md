@@ -441,7 +441,7 @@ $$
 
 Se calcula aplicando una regla gráfica que facilita el cálculo de los determinantes de orden 3, la cual se denomina **regla de Sarrus**:
 
-![Regla de Sarrus](./img/regla-de-sarrus.png)
+![Regla de Sarrus](./img/regla_de_sarrus.png)
 
 $$
 \begin{vmatrix*}[r]

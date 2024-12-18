@@ -1,7 +1,7 @@
 # NÚMEROS
 
 <div align="center">
-	<img src="img/numeros-reales.png" width="600" />
+	<img src="img/numeros_reales.png" width="600" />
 </div>
 
 ## Números naturales (natural numbers) $(\mathbb{N})$
