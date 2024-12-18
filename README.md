@@ -292,7 +292,7 @@ Distribuido bajo la licencia **MIT**. Véase [`LICENSE`](https://github.com/Hene
 
 ## Autores
 
-- HenestrosaDev <[henestrosadev@gmail.com](henestrosadev@gmail.com)> (José Carlos López Henestrosa)
+- HenestrosaDev <[github@henestrosa.dev](github@henestrosa.dev)> (José Carlos López Henestrosa)
 
 ## Apoyo
 
