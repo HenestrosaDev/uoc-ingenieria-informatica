@@ -28,8 +28,8 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ## Recursos docentes
 
-- [Técnicas de producción de textos especializados (III). Léxico y aspectos de cohesión](https://materials.campus.uoc.edu/daisy/Materials/PID_00274804/pdf/PID_00274804.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/Recursos/(III)%20L%C3%A9xico%20y%20aspectos%20de%20cohesi%C3%B3n%20(resumen).md)).
-- [Técnicas de producción de textos especializados (IV). Puntuación y aspectos formales](https://materials.campus.uoc.edu/daisy/Materials/PID_00274802/pdf/PID_00274802.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/Recursos/(IV)%20Puntuaci%C3%B3n%20y%20aspectos%20formales%20(resumen).md)).
+- [Técnicas de producción de textos especializados (III). Léxico y aspectos de cohesión](https://materials.campus.uoc.edu/daisy/Materials/PID_00274804/pdf/PID_00274804.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/competencia_comunicativa_para_profesionales_de_las_tic/recursos/tecnicas_iii_lexico_y_aspectos_de_cohesion_resumen.md)).
+- [Técnicas de producción de textos especializados (IV). Puntuación y aspectos formales](https://materials.campus.uoc.edu/daisy/Materials/PID_00274802/pdf/PID_00274802.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/competencia_comunicativa_para_profesionales_de_las_tic/recursos/tecnicas_iv_puntuacion_y_aspectos_formales_resumen.md)).
 
 ---
 
@@ -37,4 +37,4 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ### Calificación
 
-30,041 de 34,00 [8,84 (grado B)] (ver [intento 1](./Intento%201/))
+30,041 de 34,00 [8,84 (grado B)] (ver [intento 1](intento_1))

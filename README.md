@@ -125,41 +125,41 @@
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic">
 				Competencia comunicativa para profesionales de las TIC (24/25-1)
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PEC1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pec1">
 				PEC1 Dime cómo escribes y te diré quién eres
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PR1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr1">
 				PR1 La primera impresión es la que cuenta
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PEC2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pec2">
 				PEC2 Divide y vencerás. Los párrafos y las técnicas de síntesis
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PR2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr2">
 				PR2 Resumiendo que es gerundio
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PEC2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pec3">
 				PEC3 Texto bien unido, jamás será vencido
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PR2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr3">
 				PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto
 			</a>
 		</td>
@@ -169,7 +169,7 @@
 			-
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Competencia%20comunicativa%20para%20profesionales%20de%20las%20TIC/PR2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr4">
 				PR4 ¡Recapitulemos! ¿Qué he aprendido?
 			</a>
 		</td>
