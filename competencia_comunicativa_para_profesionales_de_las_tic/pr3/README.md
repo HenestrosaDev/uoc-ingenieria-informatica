@@ -35,7 +35,7 @@ Para ilustrar dicha contradicción se plantea un dilema ético a través de la h
 >
 >La propuesta de proyecto es un documento del ámbito profesional que explica las causas, los antecedentes y los objetivos de un proyecto tecnológico determinado y, a su vez, aconseja sobre las medidas que tienen que adoptarse para que una empresa tome la decisión adecuada ante una situación concreta. Tened en cuenta que el texto tiene que defender la viabilidad de un proyecto y tiene como objetivo encaminar la implementación del servicio. Fijaos en la objetividad del texto (uso de construcciones impersonales) y en el léxico especializado. Prestad atención a la coherencia del contenido y a la cohesión entre las oraciones y los párrafos. Revisad la adecuación al contexto y la corrección lingüística, con la ayuda de las obras de consulta y los materiales. Además, os aconsejamos que tengáis en cuenta los diferentes ítems de la rúbrica. Finalmente, os recomendamos consultar los recursos lingüísticos que tenéis disponibles en los [Recursos complementarios](https://aula.uoc.edu/courses/46292/pages/recursos-complementarios).
 
-Ver archivo [`actividad-2.pdf`].
+Ver archivo [`actividad_2.pdf`](actividad_2.pdf).
 
 **Recursos docentes**
 

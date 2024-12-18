@@ -36,7 +36,7 @@ Para la correcta organización de los párrafos, se debe tener en cuenta lo sigu
 4. **Equilibrio entre los párrafos**. La distribución visual de la página es
 importante, por lo que conviene que haya equilibrio en la extensión de los párrafos.
 
-![Ruptura de simetría](ruptura-simetria.jpg)
+![Ruptura de simetría](ruptura_simetria.jpg)
 >La segunda versión rompe la simetría ya que no mantiene una formulación con sustantivos. En su lugar, alterna sustantivos, infinitivos y oraciones, lo que crea una asimetría que dificulta la comprensión del texto.
 
 ### 1.4. La introducción y la conclusión
