@@ -1,5 +1,8 @@
 # Áreas funcionales
 
+>[!NOTE]
+>Sólo están los apartados necesarios para realizar la PEC, los cuales han sido indicados por los profesores.
+
 ## 1. La dirección de los recursos humanos
 
 ### 1.2. La importancia de la dirección de los recursos humanos: la motivación humana

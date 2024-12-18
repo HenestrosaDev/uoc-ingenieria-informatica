@@ -82,33 +82,33 @@
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Administraci%C3%B3n%20y%20gesti%C3%B3n%20de%20organizaciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones">
 				Administración y gestión de organizaciones (24/25-1)
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Administraci%C3%B3n%20y%20gesti%C3%B3n%20de%20organizaciones/PEC1">
-				PEC1 Introducción al bastionado
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/PEC1">
+				PEC1 Tipificación y análisis de una organización
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Administraci%C3%B3n%20y%20gesti%C3%B3n%20de%20organizaciones/PEC2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/PEC2">
 				PEC2 Análisis financiero y contable de una organización
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Administraci%C3%B3n%20y%20gesti%C3%B3n%20de%20organizaciones/PEC3">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/pec3">
 				PEC3 Elaboración de un plan de negocio, con aspectos de RSC
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Administraci%C3%B3n%20y%20gesti%C3%B3n%20de%20organizaciones/PEC4">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/pec4">
 				PEC4 Datos, organizaciones y resiliencia
 			</a>
 		</td>

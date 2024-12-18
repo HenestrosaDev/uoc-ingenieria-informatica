@@ -329,7 +329,7 @@ La presentación según el modelo tradicional de balance es la siguiente:
 
 Estudia el resultado de la empresa (la cuantía, la estructura, el origen, la evolución y las rentabilidades) de un ejercicio contable. Se recoge en la cuenta de pérdidas y ganancias. 
 
-![Modelo de cuenta de pérdidas y ganancias](modelo-cuenta-perdidas-ganancias.jpg)
+![Modelo de cuenta de pérdidas y ganancias](modelo_cuenta_perdidas_ganancias.jpg)
 >Modelo de cuenta de pérdidas y ganancias
 
 <details>

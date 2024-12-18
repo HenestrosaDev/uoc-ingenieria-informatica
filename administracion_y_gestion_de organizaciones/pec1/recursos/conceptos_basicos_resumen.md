@@ -1,5 +1,8 @@
 # Conceptos básicos
 
+>[!NOTE]
+>Sólo están los apartados necesarios para realizar la PEC, los cuales han sido indicados por los profesores.
+
 ## 1. La naturaleza de la empresa
 
 ### 1.2. Concepto de empresa y de organización

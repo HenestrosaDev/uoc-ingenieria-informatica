@@ -1,5 +1,8 @@
 # Dirección y organización
 
+>[!NOTE]
+>Sólo están los apartados necesarios para realizar la PEC, los cuales han sido indicados por los profesores.
+
 ## 1. La dirección
 
 ### 1.2. Las funciones directivas
