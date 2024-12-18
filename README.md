@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <div align="center">
-	<img src="uoc-logo.png" alt="Logo">
+	<img src="uoc_logo.png" alt="Logo">
 	<h1 align="center">UOC Ingeniería Informática</h1>
 	<p align="center">
 		Repositorio con todos los materiales, apuntes y ejercicios realizados durante el grado en Ingeniería Informática de la Universidad Oberta de Catalunya.
@@ -277,7 +277,7 @@
 
 ## Recursos de interés
 
-![Infografía general](infografia-general.png)
+![Infografía general](infografia_general.png)
 >Infografía general sacada de la web no oficial de [FAQs y enlaces de interés](https://sites.google.com/view/faq-enginyeria-informatica). Las asignaturas **Modelado de sistemas** y **Data warehouse** ya no están disponibles.
 
 ### Enlaces
