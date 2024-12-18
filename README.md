@@ -254,19 +254,19 @@
 	</tr>
 	<tr>
 		<td rowspan="2">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Iniciaci%C3%B3n%20a%20las%20matem%C3%A1ticas%20para%20la%20ingenier%C3%ADa">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria">
 				Iniciación a las matemáticas para la ingeniería (24/25-1)
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Iniciaci%C3%B3n%20a%20las%20matem%C3%A1ticas%20para%20la%20ingenier%C3%ADa/CAMBIAR POR ">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1">
 				PEC1 Bloque 1 (desde "Números" hasta "Matrices")
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Iniciaci%C3%B3n%20a%20las%20matem%C3%A1ticas%20para%20la%20ingenier%C3%ADa/CAMBIAR POR ">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2">
 				PEC2 Bloque 2 (desde "Funciones polinómicas" hasta "Integración")
 			</a>
 		</td>
