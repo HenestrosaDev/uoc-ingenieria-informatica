@@ -22,7 +22,7 @@
 |------------------------------------------------------------------|-----------------|
 | [PR1 La primera impresión es la que cuenta](pr1)                 | 9,60 (grado A)* |
 | [PR2 Resumiendo que es gerundio](pr2)                            | 9,33 (grado A)* |
-| [PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto](pr3) | -               |
+| [PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto](pr3) | 9,14 (grado A)  |
 | [PR4 ¡Recapitulemos! ¿Qué he aprendido?](pr4)                    | -               |
 
 >Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener una calificación de 10,00 en su estado actual.

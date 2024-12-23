@@ -35,7 +35,7 @@ Para ilustrar dicha contradicción se plantea un dilema ético a través de la h
 >
 >La propuesta de proyecto es un documento del ámbito profesional que explica las causas, los antecedentes y los objetivos de un proyecto tecnológico determinado y, a su vez, aconseja sobre las medidas que tienen que adoptarse para que una empresa tome la decisión adecuada ante una situación concreta. Tened en cuenta que el texto tiene que defender la viabilidad de un proyecto y tiene como objetivo encaminar la implementación del servicio. Fijaos en la objetividad del texto (uso de construcciones impersonales) y en el léxico especializado. Prestad atención a la coherencia del contenido y a la cohesión entre las oraciones y los párrafos. Revisad la adecuación al contexto y la corrección lingüística, con la ayuda de las obras de consulta y los materiales. Además, os aconsejamos que tengáis en cuenta los diferentes ítems de la rúbrica. Finalmente, os recomendamos consultar los recursos lingüísticos que tenéis disponibles en los [Recursos complementarios](https://aula.uoc.edu/courses/46292/pages/recursos-complementarios).
 
-Ver archivo [`actividad_2.pdf`](actividad_2.pdf).
+Ver archivos [`entrega_actividad_2.pdf`](entrega_actividad_2.pdf).
 
 **Recursos docentes**
 
@@ -58,3 +58,17 @@ El retorno individual de las actividades es un elemento clave para el aprendizaj
 En esta actividad **no está permitido el uso de herramientas de inteligencia artificial** ni para generar el texto ni para corregirlo o mejorarlo. Queremos evaluar cómo escribís y no cómo lo hace una herramienta de IA. Además, en el contexto de esta asignatura, se perdería una magnífica oportunidad para aprender.
 
 En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/8881) y en la [web sobre integridad académica y plagio de la UOC](https://campus.uoc.edu/estudiant/microsites/plagi/es/index.html) encontraréis información sobre qué se considera conducta irregular en la evaluación y las consecuencias de su incumplimiento.
+
+---
+
+## Resultado
+
+### Calificación
+
+36,54 de 40,00 [9,14 (grado A)]
+
+### Comentarios en la rúbrica
+
+- **1,80 / 3,00**: El estudiante ha detectado la mayoría del vocabulario poco adecuado y palabras de significado vago e impreciso.
+- **2, 40 / 4,00**: El estudiante ha detectado la mayoría de los errores de construcciones personales y subjetivas.
+- **1,34 / 2,00**: El estudiante ha detectado la mayoría de los errores sobre conectores oracionales y textuales. Ha marcado las incorrecciones y/o repeticiones de estos enlaces.
