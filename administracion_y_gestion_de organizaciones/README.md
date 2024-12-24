@@ -24,6 +24,7 @@
 ## Debates
 
 - [**Debate 1**: Impacto de la IA en la toma de decisiones empresariales: ¿automatización o supervisión humana?](debate1)
+- [**Debate 2**: Objetivos de Desarrollo Sostenible (ODS)](debate2)
 
 ## Recursos de aprendizaje
 
