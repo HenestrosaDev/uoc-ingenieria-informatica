@@ -2,20 +2,24 @@
 
 ## Información sobre la asignatura
 
-- **Curso**: 2024/25
+- **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Básica
 - **Método de evaluación**: Evaluación continua + Examen
+- **Ponderación**: PEC 35% + EX 65%
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.556&idioma=CAS&pagina=PD_PREV_PORTAL)
 
 ## Pruebas de evaluación continua (PECs)
 
-| NOMBRE                                                              | CALIFICACIÓN   |
-|---------------------------------------------------------------------|----------------|
-| [PEC1 Tipificación y análisis de una organización](pec1)            | 8,10 (grado B) |
-| [PEC2 Análisis financiero y contable de una organización](pec2)     | 9,04 (grado A) |
-| [PEC3 Elaboración de un plan de negocio, con aspectos de RSC](pec3) | -              |
-| [PEC4 Datos, organizaciones y resiliencia](pec4)                    | -              |
+| NOMBRE                                                              | CALIFICACIÓN       |
+|---------------------------------------------------------------------|--------------------|
+| [PEC1 Tipificación y análisis de una organización](pec1)            | 24,30 / 30,00 (B)  |
+| [PEC2 Análisis financiero y contable de una organización](pec2)     | 27,13 / 30,00 (A)  |
+| [PEC3 Elaboración de un plan de negocio, con aspectos de RSC](pec3) | - / 30,00 () |
+| [PEC4 Datos, organizaciones y resiliencia](pec4)                    | - / 10,00 () |
+|                                                                     |                      |
+| **SUMA DE CALIFICACIONES**                                          | - / 100,00 () |
+| **CALIFICACIÓN PONDERADA** (35%)                                    | - / 35,00 () |
 
 ## Debates
 
