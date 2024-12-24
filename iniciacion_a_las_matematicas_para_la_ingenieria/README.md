@@ -2,9 +2,10 @@
 
 ## Información sobre la asignatura
 
-- **Curso**: 2024/25
+- **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Optativa
 - **Método de evaluación**: Evaluación continua
+- **Ponderación**: PEC 100% (50% Bloque 1 + 50% Bloque 2)
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.614&idioma=CAS&pagina=PD_PREV_PORTAL)
 
@@ -21,7 +22,7 @@
 		<th>CALIFICACIÓN</th>
 	</tr>
 	<tr>
-		<td rowspan="6">
+		<td rowspan="9">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria_pec1">
 				PEC1 Bloque 1
 			</a>
@@ -32,7 +33,7 @@
 			</a>
 		</td>
 		<td>
-			8,81 (grado B)
+			6,17 / 7,00 (B)
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +43,7 @@
 			</a>
 		</td>
 		<td>
-			10,00 (grado A)
+			7,00 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -52,7 +53,7 @@
 			</a>
 		</td>
 		<td>
-			9,29 (grado A)
+			6,50 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -62,7 +63,7 @@
 			</a>
 		</td>
 		<td>
-			10,00 (grado A)
+			7,00 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -72,7 +73,7 @@
 			</a>
 		</td>
 		<td>
-			10,00 (grado A)
+			7,00 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -82,11 +83,23 @@
 			</a>
 		</td>
 		<td>
-			8,57 (grado B)
+			6,00 / 7,00 (B)
 		</td>
 	</tr>
 	<tr>
-		<td rowspan="9">
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><strong>SUMA DE CALIFICACIONES</strong></td>
+		<td>39,67 / 42,00 (A)</td>
+	</tr>
+	<tr>
+		<td><strong>CALIFICACIÓN PONDERADA</strong> (50%)</td>
+		<td>47,23 / 50,00 (A)</td>
+	</tr>
+	<tr>
+		<td rowspan="12">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2">
 				PEC2 Bloque 2
 			</a>
@@ -97,7 +110,7 @@
 			</a>
 		</td>
 		<td>
-			10,00 (grado A)
+			7,00 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -107,7 +120,7 @@
 			</a>
 		</td>
 		<td>
-			10,00 (grado A)
+			7,00 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -117,7 +130,7 @@
 			</a>
 		</td>
 		<td>
-			10,00 (grado A)
+			7,00 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -127,7 +140,7 @@
 			</a>
 		</td>
 		<td>
-			-
+			5,50 / 7,00 (B)
 		</td>
 	</tr>
 	<tr>
@@ -179,6 +192,18 @@
 		<td>
 			-
 		</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><strong>SUMA DE CALIFICACIONES</strong></td>
+		<td>- / 54,00 (A)</td>
+	</tr>
+	<tr>
+		<td><strong>CALIFICACIÓN PONDERADA</strong> (50%)</td>
+		<td>- / 50,00 (A)</td>
 	</tr>
 </table>
 
