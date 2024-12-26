@@ -15,7 +15,7 @@
 |---------------------------------------------------------------------|--------------------|
 | [PEC1 Tipificación y análisis de una organización](pec1)            | 24,30 / 30,00 (B)  |
 | [PEC2 Análisis financiero y contable de una organización](pec2)     | 27,13 / 30,00 (A)  |
-| [PEC3 Elaboración de un plan de negocio, con aspectos de RSC](pec3) | - / 30,00 () |
+| [PEC3 Elaboración de un plan de negocio, con aspectos de RSC](pec3) | 27,60 / 30,00 (A) |
 | [PEC4 Datos, organizaciones y resiliencia](pec4)                    | - / 10,00 () |
 |                                                                     |                      |
 | **SUMA DE CALIFICACIONES**                                          | - / 100,00 () |

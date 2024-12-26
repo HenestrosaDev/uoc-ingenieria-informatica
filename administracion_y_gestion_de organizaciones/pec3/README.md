@@ -19,3 +19,25 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 ## Resultado
 
 ### Calificación
+
+27,60 de 30,00 [9,20 (grado A)]
+
+### Mensaje que el profesor publicó en el foro con carácter de corrección general
+
+¡Hola a todos!
+
+Os comento los resultados de la PEC3. La participación ha sido alta, alcanzamos un 82% de entregas, lo cual es bastante bueno para ser la tercera PEC del semestre. Y lo mejor es que casi todos la habéis superado y la mayoría con buena nota porque las calificaciones modales son B y A.
+
+En cuanto a las preguntas teóricas, en la primera era imprescindible tener en cuenta los datos que aparecen en la notícia para contestar la pregunta. En la segunda se ha contestado bien en la mayoría de los casos pero hubo confusión en las respuestas de dibujo industrial y modelo industrial. 
+
+En el test la pregunta con más frecuencia de error ha sido la 5.
+
+En la parte práctica, la mayoría habéis contestado de manera demasiado superficial sin profundizar en los conceptos. Por ejemplo, en la pregunta 3 era imprescindible identificar el posicionamiento como líder y en la pregunta 4 muchos no habéis mencionado la estrategia de enfoque. 
+
+En la pregunta de las políticas de marketing algunas respuestas estan sin finalizar. En la pregunta del DAFO se cometen algunos errores al distinguir amenazas (externas) y debilidades (internas), y lo mismo con fortalezas y oportunidades. Recordad que el DAFO es vital para entender la situación y las perspectivas de una empresa. 
+
+Recordad que mañana dia 27 finaliza el plazo para la entrega de la PEC4.
+
+Cuando haya finalizado la evaluación contínua se publicarán unas breves orientaciones sobre el examen final.
+
+¡Mucho ánimo!
