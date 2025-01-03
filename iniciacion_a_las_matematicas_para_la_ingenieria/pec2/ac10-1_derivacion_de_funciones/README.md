@@ -49,25 +49,25 @@ La derivada de una función $f$ es aquella función que asocia a cada punto $x$ 
 
 **Suma y resta**
 
-$$(f(x) ± g(x))' = f'(x) ± g'(x)$$
+$(f(x) ± g(x))' = f'(x) ± g'(x)$
 
 **Producto**
 
-$$(f(x) \cdot g(x))' = f'(x) \cdot g(x) + f(x) \cdot g'(x)$$
+$(f(x) \cdot g(x))' = f'(x) \cdot g(x) + f(x) \cdot g'(x)$
 
 **Cociente**
 
-$$\left(\frac{f(x)}{g(x)}\right)' = \frac{f'(x) \cdot g(x) − f(x) \cdot g'(x)}{g^2(x)}$$
+$\left(\frac{f(x)}{g(x)}\right)' = \frac{f'(x) \cdot g(x) − f(x) \cdot g'(x)}{g^2(x)}$
 
 **Composición**
 
-$$(f ○ g)'(x) = (f(g(x)))' = f'(g(x)) \cdot g'(x)$$
+$(f ○ g)'(x) = (f(g(x)))' = f'(g(x)) \cdot g'(x)$
 
 **Exponente**
 
-$$f(x) = a^u \to f'(x) = a^u \cdot \ln (a) \cdot u'$$
+$f(x) = a^u \to f'(x) = a^u \cdot \ln (a) \cdot u'$
 
-$$f(x) = e^u \to f'(x) = e^u \cdot u'$$
+$f(x) = e^u \to f'(x) = e^u \cdot u'$
 
 ## 11.3. Aplicaciones de una derivada
 
