@@ -6,7 +6,7 @@
 
 **Definición y cálculo**
 
-La derivada de una función $f$ en un punto $x_0$ se indica por $f'(x_0)$ y se define por este límite:
+La derivada de una función $f(x)$ en un punto $x_0$ se indica por $f'(x_0)$ y se define por este límite:
 
 $$f'(x_0) = \lim_{x \to x_0} \frac{f(x_0) - f(x)}{x_0 - x}$$
 
@@ -27,7 +27,7 @@ donde $\alpha$ es el ángulo que hay entre el eje X y la recta tangente a la fun
 
 ### 11.2.1. Definición e interpretación
 
-La derivada de una función $f$ es aquella función que asocia a cada punto $x$ del dominio la derivada de esta función. La función derivada se designa por $f'(x)$.
+La derivada de una función $f(x)$ es aquella función que asocia a cada punto $x$ del dominio la derivada de esta función. La función derivada se designa por $f'(x)$.
 
 
 |           **f(x)**            |                 **f'(x)**                  |                                                      **Ejemplos**                                                       |
@@ -67,7 +67,7 @@ $(f ○ g)'(x) = (f(g(x)))' = f'(g(x)) \cdot g'(x)$
 
 $f(x) = a^u \to f'(x) = a^u \cdot \ln (a) \cdot u'$
 
-$f(x) = e^u \to f'(x) = e^u \cdot u'$
+$f(x) = e^u \to f'(x) = e^u \cdot u'$$
 
 ## 11.3. Aplicaciones de una derivada
 
@@ -86,7 +86,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>Dominio</strong>
+				<strong>DOMINIO</strong>
 			</td>
 		</tr>
 		<tr>
@@ -94,7 +94,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 			<td>$Dom\ f = \mathbb{R} \setminus \{-1, 1\}$</td>
 		</tr>
 		<tr>
-			<td align="center" colspan="2"><strong>Puntos de corte con los ejes</strong>
+			<td align="center" colspan="2"><strong>PUNTOS DE CORTE CON LOS EJES</strong>
 		</tr>
 		<tr>
 			<td>Puntos del tipo $(0, f(0))$ y $(x, 0)$.</td>
@@ -102,7 +102,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>Simetría</strong>
+				<strong>SIMETRÍA</strong>
 			</td>
 		</tr>
 		<tr>
@@ -118,7 +118,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>Intervalos de crecimiento y decrecimiento</strong>
+				<strong>INTERVALOS DE CRECIMIENTO Y DECRECIMIENTO</strong>
 			</td>
 		</tr>
 		<tr>
@@ -135,7 +135,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>Extremos: máximos y mínimos</strong>
+				<strong>EXTREMOS: MÁXIMOS Y MÍNIMOS</strong>
 			</td>
 		</tr>
 		<tr>
@@ -144,7 +144,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 				<ul>
 					<li>
 						<p>
-							Un <strong>máximo</strong> de una función $f$ es un punto de la función la imagen del cual es más grande o igual que la imagen de cualquier otro punto que es cercano al punto:  
+							Un <strong>máximo</strong> de una función $f(x)$ es un punto de la función la imagen del cual es más grande o igual que la imagen de cualquier otro punto que es cercano al punto:  
 						</p>
 						<p>
 							$x_0$ máximo de $f(x)$ si $f'(x_0) = 0$ y $f''(x_0) < 0$.
@@ -167,13 +167,13 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>Puntos de inflexión</strong>
+				<strong>PUNTOS DE INFLEXIÓN</strong>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<p>
-					Un <strong>punto de inflexión</strong> de una función $f$ es un punto en el que la función cambia su curvatura, es decir, pasa de ser cóncava a convexa, o viceversa.
+					Un <strong>punto de inflexión</strong> de una función $f(x)$ es un punto en el que la función cambia su curvatura, es decir, pasa de ser cóncava a convexa, o viceversa.
 				</p>
 				<p>
 					Cuando la segunda derivada de la función $f(x)$ se anula, $x_0$ es un punto de inflexión si $f''(x_0) = 0$ y $f''(x)$ cambia de signo en un intervalo alrededor de $x_0$.
@@ -185,7 +185,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>Intervalos de concavidad y convexidad</strong>
+				<strong>INTERVALOS DE CONCAVIDAD Y CONVEXIDAD</strong>
 			</td>
 		</tr>
 		<tr>
@@ -207,7 +207,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 			</td>
 		</tr>
 		<tr>
-			<td align="center" colspan="2"><strong>Comportamiento asintótico</strong>
+			<td align="center" colspan="2"><strong>COMPORTAMIENTO ASINTÓTICO</strong>
 		</tr>
 		<tr>
 			<td>Estudio de la existencia de asíntotas verticales, horizontales u oblicuas de la función (visto en el bloque de continuidad de funciones).</td>
@@ -215,7 +215,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>Gráfica</strong>
+				<strong>GRÁFICA</strong>
 			</td>
 		</tr>
 		<tr>
