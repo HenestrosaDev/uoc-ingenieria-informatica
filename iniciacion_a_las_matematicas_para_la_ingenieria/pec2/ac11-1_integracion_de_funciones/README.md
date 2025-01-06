@@ -134,7 +134,7 @@ A partir de esta regla, podemos elaborar esta tabla:
 		</tr>
 		<tr>
 			<td>$\int \! \frac{f\prime(x)}{f(x)} \, \mathrm{d}x = \ln |f(x)| + C$</td>
-			<td>$\int \! \frac{2x - 3}{x^2 - 3x + 13} \, \mathrm{d}x = ln \left\lvert x^2 - 3x + 12 \right\rvert + C$</td>
+			<td>$\int \! \frac{2x - 3}{x^2 - 3x + 13} \, \mathrm{d}x = \ln \left\lvert x^2 - 3x + 12 \right\rvert + C$</td>
 		</tr>
 		<tr>
 			<td>$\int \! e^{f(x)} \cdot f\prime(x) \, \mathrm{d}x = e^{f(x)} + C$</td>
