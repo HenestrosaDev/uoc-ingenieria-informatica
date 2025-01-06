@@ -45,6 +45,7 @@ Para expresar la integración de una función, se utiliza el símbolo de integra
 			<td>
 				<p>$\int \! x^5 \, \mathrm{d}x = \frac{x^6}{6} + C$</p>
 				<p>$\int \! 3x^{-\frac{2}{3}} \, \mathrm{d}x = 3 \cdot \frac{x^{\frac{1}{3}}}{\frac{1}{3}} + C = 9x^{\frac{1}{3}} + C$</p>
+				<p>$\int \! \left( 5x \cdot \sqrt{x} \right) \, \mathrm{d}x = \int \! \left( 5x \cdot x^{\frac{1}{2}} \right) \, \mathrm{d}x = \frac{10}{3}x^\frac{3}{2} + C$</p>
 			</td>
 		</tr>
 		<tr>
