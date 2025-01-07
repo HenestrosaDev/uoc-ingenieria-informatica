@@ -240,7 +240,7 @@ Si $f(x)$ es una función continua en $[a,b]$ y $F(x)$ es una primitiva cualquie
 3. **Cálculo de área $f(x)$ y el eje X** si $f(x)$ **cambia de signo en el intervalo** $[a,b]$. Así, si tenemos, por ejemplo, 3 raíces $x_1, x_2, x_3$ en el intervalo $[a,b]$ tales que $x_1 < x_2 < x_3$, el área que buscamos es
 
 <p>
-	$$A = \left\lvert \int_{b}^{x_1} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_1}^{x_2} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_2}^{x_3} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_3}^{b} \! f(x) \, \mathrm{d}x \right\rvert$$
+	$$A = \left\lvert \int_{a}^{x_1} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_1}^{x_2} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_2}^{x_3} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_3}^{b} \! f(x) \, \mathrm{d}x \right\rvert$$
 </p>
 
 4. **Cálculo de área entre dos curvas $f(x)$ y $g(x)$ en el intervalo $[a,b]$**. Podemos aplicar los casos anteriores con una sola función considerando la función diferencia $f(x) - g(x)$. Igual que hemos hecho antes, tendremos que separar los casos según si la diferencia es siempre positiva, siempre negativa o bien si cambia de signo dentro del intervalo $[a, b]$, y en este caso tendremos que separar el intervalo $[a,b]$ en subintervalos cuyos extremos son los puntos en donde la diferencia de las funciones cambia de signo.
