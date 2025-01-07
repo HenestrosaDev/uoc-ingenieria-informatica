@@ -68,7 +68,7 @@ Para expresar la integración de una función, se utiliza el símbolo de integra
 		</tr>
 		<tr>
 			<td>$\sin(kx)$</td>
-			<td>$\frac{1}{k} -\cos(x) + C$</td>
+			<td>$\frac{1}{k} \cdot (-\cos(x)) + C$</td>
 			<td>$\int \! -3\sin(4x) \, \mathrm{d}x = \frac{3}{4}\cos(4x) + C$</td>
 		</tr>
 		<tr>
