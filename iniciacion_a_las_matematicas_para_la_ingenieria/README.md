@@ -92,11 +92,11 @@
 	</tr>
 	<tr>
 		<td><strong>SUMA DE CALIFICACIONES</strong></td>
-		<td>39,67 / 42,00 (A)</td>
+		<td><strong>39,67 / 42,00 (A)</strong></td>
 	</tr>
 	<tr>
 		<td><strong>CALIFICACIÓN PONDERADA</strong> (50%)</td>
-		<td>47,23 / 50,00 (A)</td>
+		<td><strong>47,23 / 50,00 (A)</strong></td>
 	</tr>
 	<tr>
 		<td rowspan="12">
@@ -199,11 +199,11 @@
 	</tr>
 	<tr>
 		<td><strong>SUMA DE CALIFICACIONES</strong></td>
-		<td>- / 63,00 (A)</td>
+		<td><strong>- / 63,00 (A)</strong></td>
 	</tr>
 	<tr>
 		<td><strong>CALIFICACIÓN PONDERADA</strong> (50%)</td>
-		<td>- / 50,00 (A)</td>
+		<td><strong>- / 50,00 (A)</strong></td>
 	</tr>
 </table>
 

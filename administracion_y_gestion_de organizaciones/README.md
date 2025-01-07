@@ -18,8 +18,8 @@
 | [PEC3 Elaboración de un plan de negocio, con aspectos de RSC](pec3) | 27,60 / 30,00 (A) |
 | [PEC4 Datos, organizaciones y resiliencia](pec4)                    | - / 10,00 () |
 |                                                                     |                      |
-| **SUMA DE CALIFICACIONES**                                          | - / 100,00 () |
-| **CALIFICACIÓN PONDERADA** (35%)                                    | - / 35,00 () |
+| **SUMA DE CALIFICACIONES**                                          | **- / 100,00 ()** |
+| **CALIFICACIÓN PONDERADA** (35%)                                    | **- / 35,00 ()** |
 
 ## Debates
 

@@ -17,8 +17,8 @@
 | [PEC2 Divide y vencerás. Los párrafos y las técnicas de síntesis](pec2) | 33,00 / 33,00 (A)  |
 | [PEC3 Texto bien unido, jamás será vencido](pec3)                       | 30,04 / 34,00 (B)  |
 |                                                                         |                    |
-| **SUMA DE CALIFICACIONES**                                              | 94,35 / 100,00 (A) |
-| **CALIFICACIÓN PONDERADA** (40%)                                        | 37,74 / 40,00 (A)  |
+| **SUMA DE CALIFICACIONES**                                              | **94,35 / 100,00 (A)** |
+| **CALIFICACIÓN PONDERADA** (40%)                                        | **37,74 / 40,00 (A)**  |
 
 ## Prácticas (PRs)
 
@@ -29,8 +29,8 @@
 | [PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto](pr3) | 36,54 / 40,00 (A)  |
 | [PR4 ¡Recapitulemos! ¿Qué he aprendido?](pr4)                    | - / 30,00          |
 |                                                                  |                    |
-| **SUMA DE CALIFICACIONES**                                       | - / 100,00 (A) |
-| **CALIFICACIÓN PONDERADA** (60%)                                 | - / 60,00 (A)  |
+| **SUMA DE CALIFICACIONES**                                       | **- / 100,00 (A)** |
+| **CALIFICACIÓN PONDERADA** (60%)                                 | **- / 60,00 (A)**  |
 
 >Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener la máxima calificación en su estado actual.
 
