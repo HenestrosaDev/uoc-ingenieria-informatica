@@ -18,13 +18,13 @@ Para expresar la integración de una función, se utiliza el símbolo de integra
 	$$\int \! f(x) \, \mathrm{d}x$$
 </p>
 
-### 12.1.3. Tabla de integrales casi inmediatas
+### 12.1.3. Tabla de integrales inmediatas
 
 <table>
 	<thead>
 		<tr align="center">
 			<td colspan="3">
-				<strong>INTEGRALES CASI INMEDIATAS</strong>
+				<strong>INTEGRALES INMEDIATAS</strong>
 			</td>
 		</tr>
 		<tr align="center">
