@@ -54,21 +54,21 @@ Para expresar la integración de una función, se utiliza el símbolo de integra
 			<td>$\int \! \frac{5}{x} \, \mathrm{d}x = 5\ln (x) + C$</td>
 		</tr>
 		<tr>
-			<td>$a^x$</td>
-			<td>$\frac{a^x}{\ln (a)} + C$</td>
+			<td>$a^kx$</td>
+			<td>$\frac{a^kx}{k \ln (a)} + C$</td>
 			<td>
 				<p>$\int \! 2^{2x} \, \mathrm{d}x = \frac{2^{2x}}{2 \ln(2)} + C$</p>
 				<p>$\int \! e^{3x} \, \mathrm{d}x = \frac{e^{3x}}{3} + C$</p>
 			</td>
 		</tr>
 		<tr>
-			<td>$\cos(x)$</td>
-			<td>$\sin(x) + C$</td>
+			<td>$\cos(kx)$</td>
+			<td>$\frac{1}{k} \sin(kx) + C$</td>
 			<td>$\int \! 5\cos(2x) \, \mathrm{d}x = \frac{5}{2}\sin(2x) + C$</td>
 		</tr>
 		<tr>
-			<td>$\sin(x)$</td>
-			<td>$-\cos(x) + C$</td>
+			<td>$\sin(kx)$</td>
+			<td>$\frac{1}{k} -\cos(x) + C$</td>
 			<td>$\int \! -3\sin(4x) \, \mathrm{d}x = \frac{3}{4}\cos(4x) + C$</td>
 		</tr>
 		<tr>
