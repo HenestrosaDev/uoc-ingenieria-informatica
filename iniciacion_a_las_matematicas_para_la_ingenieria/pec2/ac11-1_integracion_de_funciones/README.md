@@ -54,8 +54,8 @@ Para expresar la integración de una función, se utiliza el símbolo de integra
 			<td>$\int \! \frac{5}{x} \, \mathrm{d}x = 5\ln (x) + C$</td>
 		</tr>
 		<tr>
-			<td>$a^kx$</td>
-			<td>$\frac{a^kx}{k \ln (a)} + C$</td>
+			<td>$a^{kx}$</td>
+			<td>$\frac{a^{kx}}{k \ln (a)} + C$</td>
 			<td>
 				<p>$\int \! 2^{2x} \, \mathrm{d}x = \frac{2^{2x}}{2 \ln(2)} + C$</p>
 				<p>$\int \! e^{3x} \, \mathrm{d}x = \frac{e^{3x}}{3} + C$</p>
