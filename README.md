@@ -88,28 +88,28 @@
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/PEC1">
-				PEC1 Tipificación y análisis de una organización
+				PEC1 - Tipificación y análisis de una organización
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/PEC2">
-				PEC2 Análisis financiero y contable de una organización
+				PEC2 - Análisis financiero y contable de una organización
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/pec3">
-				PEC3 Elaboración de un plan de negocio, con aspectos de RSC
-			</a>
+				PEC3 - Elaboración de un plan de negocio, con aspectos de RSC
+			</a >
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/pec4">
-				PEC4 Datos, organizaciones y resiliencia
+				PEC4 - Datos, organizaciones y resiliencia
 			</a>
 		</td>
 	</tr>
@@ -131,36 +131,36 @@
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pec1">
-				PEC1 Dime cómo escribes y te diré quién eres
+				PEC1 - Dime cómo escribes y te diré quién eres
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr1">
-				PR1 La primera impresión es la que cuenta
+				PR1 - La primera impresión es la que cuenta
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pec2">
-				PEC2 Divide y vencerás. Los párrafos y las técnicas de síntesis
+				PEC2 - Divide y vencerás. Los párrafos y las técnicas de síntesis
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr2">
-				PR2 Resumiendo que es gerundio
+				PR2 - Resumiendo que es gerundio
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pec3">
-				PEC3 Texto bien unido, jamás será vencido
+				PEC3 - Texto bien unido, jamás será vencido
 			</a>
-		</td>
+		</td >
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr3">
-				PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto
+				PR3 - ¡Manos a la obra! Trabajamos la propuesta de proyecto
 			</a>
 		</td>
 	</tr>
@@ -170,7 +170,7 @@
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr4">
-				PR4 ¡Recapitulemos! ¿Qué he aprendido?
+				PR4 - ¡Recapitulemos! ¿Qué he aprendido?
 			</a>
 		</td>
 	</tr>
@@ -260,14 +260,14 @@
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1">
-				PEC1 Bloque 1 (desde "Números" hasta "Matrices")
+				PEC1 - Bloque 1: Álgebra
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2">
-				PEC2 Bloque 2 (desde "Funciones polinómicas" hasta "Integración")
+				PEC2 - Bloque 2: Análisis
 			</a>
 		</td>
 	</tr>

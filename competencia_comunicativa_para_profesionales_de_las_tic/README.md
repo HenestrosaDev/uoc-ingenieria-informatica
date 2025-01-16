@@ -13,9 +13,9 @@
 
 | NOMBRE                                                                  | CALIFICACIÓN       |
 |-------------------------------------------------------------------------|--------------------|
-| [PEC1 Dime cómo escribes y te diré quién eres](pec1)                    | 31,31 / 33,00 (A)  |
-| [PEC2 Divide y vencerás. Los párrafos y las técnicas de síntesis](pec2) | 33,00 / 33,00 (A)  |
-| [PEC3 Texto bien unido, jamás será vencido](pec3)                       | 30,04 / 34,00 (B)  |
+| [PEC1 - Dime cómo escribes y te diré quién eres](pec1)                    | 31,31 / 33,00 (A)  |
+| [PEC2 - Divide y vencerás. Los párrafos y las técnicas de síntesis](pec2) | 33,00 / 33,00 (A)  |
+| [PEC3 - Texto bien unido, jamás será vencido](pec3)                       | 30,04 / 34,00 (B)  |
 |                                                                         |                    |
 | **SUMA DE CALIFICACIONES**                                              | **94,35 / 100,00 (A)** |
 | **CALIFICACIÓN PONDERADA** (40%)                                        | **37,74 / 40,00 (A)**  |
@@ -24,10 +24,10 @@
 
 | NOMBRE                                                           | CALIFICACIÓN       |
 |------------------------------------------------------------------|--------------------|
-| [PR1 La primera impresión es la que cuenta](pr1)                 | 14,40 / 15,00 (A)* |
-| [PR2 Resumiendo que es gerundio](pr2)                            | 14,00 / 15,00 (A)* |
-| [PR3 ¡Manos a la obra! Trabajamos la propuesta de proyecto](pr3) | 36,54 / 40,00 (A)  |
-| [PR4 ¡Recapitulemos! ¿Qué he aprendido?](pr4)                    | - / 30,00          |
+| [PR1 - La primera impresión es la que cuenta](pr1)                 | 14,40 / 15,00 (A)* |
+| [PR2 - Resumiendo que es gerundio](pr2)                            | 14,00 / 15,00 (A)* |
+| [PR3 - Manos a la obra! Trabajamos la propuesta de proyecto](pr3) | 36,54 / 40,00 (A)  |
+| [PR4 - ¡Recapitulemos! ¿Qué he aprendido?](pr4)                    | - / 30,00          |
 |                                                                  |                    |
 | **SUMA DE CALIFICACIONES**                                       | **- / 100,00 (A)** |
 | **CALIFICACIÓN PONDERADA** (60%)                                 | **- / 60,00 (A)**  |
