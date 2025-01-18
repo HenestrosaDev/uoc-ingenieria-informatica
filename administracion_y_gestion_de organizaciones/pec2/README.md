@@ -6,6 +6,8 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 
 ## Recursos docentes
 
+- [Calculadora de balance, TIR, VAN y pay-back](./recursos/calculadora.xlsx)
+
 >[!NOTE]
 >Los resúmenes de cada recurso para esta PEC se encuentran en la carpeta [`recursos`](recursos/).
 
