@@ -2,7 +2,7 @@
 
 Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 - **Parte teórica**: Tipo test que se encuentra en el archivo `test.png`.
-- **Parte práctica**: El enunciado de esta parte está en el archivo [`enunciado.pdf`](enunciado.pdf), mientras que el del ejercicio resuelto se corresponde con el archivo [`entrega.pdf`](entrega.pdf).
+- **Parte práctica**: El enunciado de esta parte está en el archivo [`enunciado.docx`](enunciado.docx), mientras que el del ejercicio resuelto se corresponde con el archivo [`entrega.pdf`](entrega.pdf).
 
 ## Recursos docentes
 
