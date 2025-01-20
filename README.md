@@ -79,6 +79,7 @@
 	<tr>
 		<th>ASIGNATURA</th>
 		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
+		<th>PRÁCTICA (PR)</th>
 	</tr>
 	<tr>
 		<td rowspan="4">
@@ -91,6 +92,7 @@
 				PEC1 - Tipificación y análisis de una organización
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>
@@ -98,6 +100,7 @@
 				PEC2 - Análisis financiero y contable de una organización
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>
@@ -105,6 +108,7 @@
 				PEC3 - Elaboración de un plan de negocio, con aspectos de RSC
 			</a >
 		</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,6 +116,7 @@
 				PEC4 - Datos, organizaciones y resiliencia
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 </table>
 
@@ -182,66 +187,72 @@
 	<tr>
 		<th>ASIGNATURA</th>
 		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
+		<th>PRÁCTICA (PR)</th> 
 	</tr>
 	<tr>
 		<td rowspan="2">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Dise%C3%B1o%20de%20estructuras%20de%20datos">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/diseno_de_estructuras_de_datos">
 				Diseño de estructuras de datos
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Dise%C3%B1o%20de%20estructuras%20de%20datos/PEC1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/diseno_de_estructuras_de_datos/pec1">
 				-
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td rowspan="1">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Ingenier%C3%ADa%20de%20requisitos">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_de_requisitos">
 				Ingeniería de requisitos
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Ingenier%C3%ADa%20de%20requisitos/PEC1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_de_requisitos/pec1">
 				-
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td rowspan="1">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/An%C3%A1lisis%20y%20dise%C3%B1o%20con%20patrones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones">
 				Análisis y diseño con patrones
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/An%C3%A1lisis%20y%20dise%C3%B1o%20con%20patrones/PEC1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones/pec1">
 				-
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td rowspan="1">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Ingenier%C3%ADa%20del%20software%20de%20componentes%20y%20sistemas%20distribuidos">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_del_software_de_componentes_y_sistemas_distribuidos">
 				Ingeniería del software de componentes y sistemas distribuidos
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Ingenier%C3%ADa%20del%20software%20de%20componentes%20y%20sistemas%20distribuidos/PEC1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_del_software_de_componentes_y_sistemas_distribuidos/pec1">
 				-
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td rowspan="1">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Proyecto%20de%20desarrollo%20de%20software">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/proyecto_de_desarrollo_de_software">
 				Proyecto de desarrollo de software
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/Proyecto%20de%20desarrollo%20de%20software/PEC1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/proyecto_de_desarrollo_de_software/pec1">
 				-
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 </table> -->
 
@@ -251,6 +262,7 @@
 	<tr>
 		<th>ASIGNATURA</th>
 		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
+		<th>PRÁCTICA (PR)</th>
 	</tr>
 	<tr>
 		<td rowspan="2">
@@ -263,6 +275,9 @@
 				PEC1 - Bloque 1: Álgebra
 			</a>
 		</td>
+		<td>
+			-
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -270,6 +285,7 @@
 				PEC2 - Bloque 2: Análisis
 			</a>
 		</td>
+		<td>-</td>
 	</tr>
 </table>
 
