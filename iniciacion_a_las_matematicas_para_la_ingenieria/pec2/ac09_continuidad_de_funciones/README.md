@@ -259,7 +259,7 @@ Tipos de asíntotas:
 
 	La ecuación de la asíntota viene dada por el cociente de la división de polinomios que define la función $f(x)$:
 
-	$$\frac{\text{dividendo}}{\text{\text{divisor}}} = \text{cociente} + \frac{\text{resto}}{\text{divisor}}$$
+	$\frac{\text{dividendo}}{\text{divisor}} = \text{cociente} + \frac{\text{resto}}{\text{divisor}}$
 
 	Al calcular el límite cuando $x$ tiende a infinito, el último término tiende a $0$ y queda solo el cociente, que será la ecuación de la asíntota.
 
