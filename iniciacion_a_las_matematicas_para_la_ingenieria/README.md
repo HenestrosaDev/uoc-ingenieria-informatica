@@ -190,7 +190,7 @@
 			</a>
 		</td>
 		<td>
-			-
+			7,00 / 7,00 (A)
 		</td>
 	</tr>
 	<tr>
@@ -199,11 +199,11 @@
 	</tr>
 	<tr>
 		<td><strong>SUMA DE CALIFICACIONES</strong></td>
-		<td><strong>- / 63,00 (A)</strong></td>
+		<td><strong>61,50 / 63,00 (A)</strong></td>
 	</tr>
 	<tr>
 		<td><strong>CALIFICACIÓN PONDERADA</strong> (50%)</td>
-		<td><strong>- / 50,00 (A)</strong></td>
+		<td><strong>48,81 / 50,00 (A)</strong></td>
 	</tr>
 </table>
 
