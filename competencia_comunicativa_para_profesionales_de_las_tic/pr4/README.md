@@ -56,4 +56,24 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/8881) y e
 
 ### Calificación
 
-- de 30,00 [- (grado -)]
+30,00 de 30,00 [10,00 (grado A)]
+
+### Comentarios de retroalimentación sobre la entrega original 
+
+**Sobre mi reflexión**
+
+Estimado José Carlos:
+
+Has realizado un buen trabajo, incorporando la teoría aprendida y las consideraciones de corrección de las actividades anteriores. 
+
+Espero que todo lo aprendido puedas llevarlo a la práctica en tu quehacer profesional, pues, como bien indicas "el objetivo no es convertiros en filólogos".
+
+Un saludo,
+
+**Sobre el vídeo**
+
+Estimado José Carlos:
+
+¡Buen trabajo con el vídeo! Has realizado una presentación clara y bien estructurada, ajustándote al tiempo estipulado. Además, has sintetizado de forma acertada los aspectos clave de la materia, añadiendo tu opinión personal de manera reflexiva. Como mejora: no empieces con un "buenas" (eso es correcto en un registro informal), sino con un "Estimados/as".
+
+Un saludo,

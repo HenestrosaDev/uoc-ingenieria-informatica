@@ -22,15 +22,15 @@
 
 ## Prácticas (PRs)
 
-| NOMBRE                                                           | CALIFICACIÓN       |
-|------------------------------------------------------------------|--------------------|
-| [PR1 - La primera impresión es la que cuenta](pr1)                 | 14,40 / 15,00 (A)* |
-| [PR2 - Resumiendo que es gerundio](pr2)                            | 14,00 / 15,00 (A)* |
-| [PR3 - Manos a la obra! Trabajamos la propuesta de proyecto](pr3) | 36,54 / 40,00 (A)  |
-| [PR4 - ¡Recapitulemos! ¿Qué he aprendido?](pr4)                    | - / 30,00          |
-|                                                                  |                    |
-| **SUMA DE CALIFICACIONES**                                       | **- / 100,00 (A)** |
-| **CALIFICACIÓN PONDERADA** (60%)                                 | **- / 60,00 (A)**  |
+| NOMBRE                                                            | CALIFICACIÓN           |
+|-------------------------------------------------------------------|------------------------|
+| [PR1 - La primera impresión es la que cuenta](pr1)                | 14,40 / 15,00 (A)*     |
+| [PR2 - Resumiendo que es gerundio](pr2)                           | 14,00 / 15,00 (A)*     |
+| [PR3 - Manos a la obra! Trabajamos la propuesta de proyecto](pr3) | 36,54 / 40,00 (A)      |
+| [PR4 - ¡Recapitulemos! ¿Qué he aprendido?](pr4)                   | 30,00 / 30,00 (A)      |
+|                                                                   |                        |
+| **SUMA DE CALIFICACIONES**                                        | **94,94 / 100,00 (A)** |
+| **CALIFICACIÓN PONDERADA** (60%)                                  | **56,96 / 60,00 (A)**  |
 
 >Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener la máxima calificación en su estado actual.
 
