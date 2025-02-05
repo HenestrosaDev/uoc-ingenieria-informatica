@@ -13,6 +13,10 @@
 >- Cada PEC se divide en una Actividad Evaluable (AC). 
 >- Cada AC se corresponde con un bloque del [libro](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=273914&hash=44d365d71c2f61ac6cb2d049701a0fb93de2211c41e2dcbaed7291589a05a02a).
 
+## Calificación final 
+
+9,60 / 10,00 (MH)
+
 ## Pruebas de evaluación continua (PECs)
 
 <table>
