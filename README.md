@@ -80,6 +80,7 @@
 		<th>ASIGNATURA</th>
 		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
 		<th>PRÁCTICA (PR)</th>
+		<th>CALIFICACIÓN</th>
 	</tr>
 	<tr>
 		<td rowspan="4">
@@ -93,6 +94,9 @@
 			</a>
 		</td>
 		<td>-</td>
+		<td rowspan="4">
+			8,10 / 10,00 (B)
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -127,6 +131,7 @@
 		<th>ASIGNATURA</th>
 		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
 		<th>PRÁCTICA (PR)</th>
+		<th>CALIFICACIÓN</th>
 	</tr>
 	<tr>
 		<td rowspan="4">
@@ -143,6 +148,9 @@
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr1">
 				PR1 - La primera impresión es la que cuenta
 			</a>
+		</td>
+		<td rowspan="4">
+			10,00 / 10,00 (MH)
 		</td>
 	</tr>
 	<tr>
@@ -263,6 +271,7 @@
 		<th>ASIGNATURA</th>
 		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
 		<th>PRÁCTICA (PR)</th>
+		<th>CALIFICACIÓN</th>
 	</tr>
 	<tr>
 		<td rowspan="2">
@@ -278,6 +287,7 @@
 		<td>
 			-
 		</td>
+		<td rowspan="2">9,60 / 10,00 (MH)</td>
 	</tr>
 	<tr>
 		<td>
