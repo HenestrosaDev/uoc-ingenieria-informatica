@@ -9,6 +9,10 @@
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.563&idioma=CAS&pagina=PD_PREV_PORTAL)
 
+## Calificación final
+
+10,00 / 10,00 (MH)
+
 ## Pruebas de evaluación continua (PECs)
 
 | NOMBRE                                                                  | CALIFICACIÓN       |
