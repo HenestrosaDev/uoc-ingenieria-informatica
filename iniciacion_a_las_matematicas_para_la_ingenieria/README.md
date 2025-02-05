@@ -13,6 +13,14 @@
 >- Cada PEC se divide en una Actividad Evaluable (AC). 
 >- Cada AC se corresponde con un bloque del [libro](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=273914&hash=44d365d71c2f61ac6cb2d049701a0fb93de2211c41e2dcbaed7291589a05a02a).
 
+```mermaid
+xychart-beta
+		title "Estadísticas de las calificaciones para el curso 2024/25-1"
+		x-axis ["Matrícula Honor (3%)", "Excelente (40%)", "Notable (32%)", "Aprobado (6%)", "Suspendido (20%)"]
+		y-axis "% de alumnos" 0 --> 40
+		bar [3, 40, 32, 6, 20]
+```
+
 ## Calificación final 
 
 9,60 / 10,00 (MH)

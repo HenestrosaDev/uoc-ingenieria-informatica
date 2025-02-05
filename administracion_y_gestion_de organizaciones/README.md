@@ -9,6 +9,14 @@
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.556&idioma=CAS&pagina=PD_PREV_PORTAL)
 
+```mermaid
+xychart-beta
+		title "Estadísticas de las calificaciones para el curso 2024/25-1"
+		x-axis ["Matrícula Honor (2%)", "Excelente (26%)", "Notable (50%)", "Aprobado (18%)", "Suspendido (4%)"]
+		y-axis "% de alumnos" 0 --> 50
+		bar [2, 26, 50, 18, 4]
+```
+
 ## Calificación final
 
 8,10 / 10,00 (B)
