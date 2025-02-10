@@ -12,14 +12,24 @@
 ```mermaid
 xychart-beta
 		title "Estadísticas de las calificaciones para el curso 2024/25-1"
-		x-axis ["Matrícula Honor (3%)", "Excelente (3%)", "Notable (55%)", "Aprobado (22%)", "Suspendido (17%)"]
+		x-axis ["Matrícula Honor (3%)", "Sobresaliente (3%)", "Notable (55%)", "Aprobado (22%)", "Suspendido (17%)"]
 		y-axis "% de alumnos" 0 --> 55
 		bar [3, 3, 55, 22, 17]
 ```
 
+><details>
+>	<summary>Leyenda de calificaciones</summary>
+>
+>	- Matrícula de Honor (M): 9 a 10
+>	- Sobresaliente (EX): 9 a 10
+>	- Notable (NO): 7 a 8,99
+>	- Aprobado (A): 5 a 6,99
+>	- Suspendido (SU): 0 a 4,99
+></details>
+
 ## Calificación final
 
-10,00 / 10,00 (MH)
+10,00 / 10,00 (M)
 
 ## Pruebas de evaluación continua (PECs)
 

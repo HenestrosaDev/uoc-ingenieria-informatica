@@ -73,6 +73,17 @@
 >[!NOTE]
 >Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
 
+>[!NOTE]
+><details>
+>	<summary>Leyenda de calificaciones</summary>
+>
+>	- Matrícula de Honor (M): 9 a 10
+>	- Sobresaliente (EX): 9 a 10
+>	- Notable (NO): 7 a 8,99
+>	- Aprobado (A): 5 a 6,99
+>	- Suspendido (SU): 0 a 4,99
+></details>
+
 ### Asignaturas básicas
 
 <table>
@@ -95,7 +106,7 @@
 		</td>
 		<td>-</td>
 		<td rowspan="4">
-			8,10 / 10,00 (B)
+			8,10 / 10,00 (NO)
 		</td>
 	</tr>
 	<tr>
@@ -150,7 +161,7 @@
 			</a>
 		</td>
 		<td rowspan="4">
-			10,00 / 10,00 (MH)
+			10,00 / 10,00 (M)
 		</td>
 	</tr>
 	<tr>
@@ -287,7 +298,7 @@
 		<td>
 			-
 		</td>
-		<td rowspan="2">9,60 / 10,00 (MH)</td>
+		<td rowspan="2">9,60 / 10,00 (M)</td>
 	</tr>
 	<tr>
 		<td>
