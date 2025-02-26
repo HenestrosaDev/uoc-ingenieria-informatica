@@ -85,17 +85,17 @@ xychart-beta
 
 ### [PEC3](./pec3/recursos)
 
-- [**Ética en las organizaciones**](https://materials.campus.uoc.edu/cdocent/IP05_79056_00955.pdf)
+- [**Ética en las organizaciones**](https://materials.campus.uoc.edu/cdocent/IP05_79056_00955.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec3/recursos/etica_en_las_organizaciones_resumen.md))
 	- Apartado "Ética de las organizaciones", comprendido entre las páginas 77 y 113 del documento de 236 páginas.
-- [**Empresa y medio ambiente**](https://materials.campus.uoc.edu/daisy/Materials/PID_00263792/pdf/PID_00263792.pdf)
-- [**Los pilares del sistema de gestión de la RSC**](https://materials.campus.uoc.edu/daisy/Materials/PID_00253408/pdf/PID_00253408.pdf)
-- [**La igualdad de género en las organizaciones**](https://materials.campus.uoc.edu/daisy/Materials/PID_00280846/pdf/PID_00280846.pdf)
-- [**Bit 41 (De la idea a la creación de una nueva empresa)**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=263174&hash=1acd7edb24ed9e3ac4d09181d2953c5d042d75b712b3c2fccdfbfe33c0a9eb2d)
+- [**Empresa y medio ambiente**](https://materials.campus.uoc.edu/daisy/Materials/PID_00263792/pdf/PID_00263792.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec3/recursos/empresa_y_medio_ambiente_resumen.md))
+- [**Los pilares del sistema de gestión de la RSC**](https://materials.campus.uoc.edu/daisy/Materials/PID_00253408/pdf/PID_00253408.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec3/recursos/los_pilares_del_sistema_de_gestion_de_la_rsc_resumen.md))
+- [**La igualdad de género en las organizaciones**](https://materials.campus.uoc.edu/daisy/Materials/PID_00280846/pdf/PID_00280846.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec3/recursos/la_igualdad_de_genero_en_las_organizaciones_resumen.md))
+- [**Bit 41 (De la idea a la creación de una nueva empresa)**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=263174&hash=1acd7edb24ed9e3ac4d09181d2953c5d042d75b712b3c2fccdfbfe33c0a9eb2d) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec3/recursos/bit_41_de_la_idea_a_la_creacion_de_una_nueva_empresa_resumen.md))
 
 ### [PEC4](./pec4/recursos)
 
-- [**Datos, organizaciones y resiliencia**](https://materials.campus.uoc.edu/daisy/Materials/PID_00278516/pdf/PID_00278516.pdf)
-- [**Uso y valor de la información personal: un escenario en evolución**](https://dialnet.unirioja.es/servlet/articulo?codigo=6307843)
-- [**Datos masivos y datos abiertos para una gobernanza inteligente**](https://dialnet.unirioja.es/servlet/articulo?codigo=6566268)
+- [**Datos, organizaciones y resiliencia**](https://materials.campus.uoc.edu/daisy/Materials/PID_00278516/pdf/PID_00278516.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec4/recursos/datos_organizaciones_y_resiliencia_resumen.md))
+- [**Uso y valor de la información personal: un escenario en evolución**](https://oai.e-spacio.uned.es/server/api/core/bitstreams/c956c489-b654-4f00-9536-c57b734f0fc5/content) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec4/recursos/uso_y_valor_de_la_informacion_personal_resumen.md))
+- [**Datos masivos y datos abiertos para una gobernanza inteligente**](https://revista.profesionaldelainformacion.com/index.php/EPI/article/view/epi.2018.sep.16/40860) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/administracion_y_gestion_de_organizaciones/pec4/recursos/datos_masivos_y_datos_abiertos_para_una_gobernanza_inteligente_resumen.md))
 - [**INCIBE Plan de contingencia y continuidad de negocio**](https://www.incibe.es/empresas/que-te-interesa/plan-contingencia-continuidad-negocio)
 - [**INCIBE Ciberseguridad y gestión de riesgos**](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf)
