@@ -1,4 +1,4 @@
-# Caracterización del sector no lucrativo
+# RESUMEN Bit 12: Caracterización del sector no lucrativo
 
 ## 1.1. La dimensión del lucro
 

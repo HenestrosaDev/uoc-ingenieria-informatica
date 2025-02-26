@@ -1,4 +1,4 @@
-# Elección de la forma jurídica
+# RESUMEN Bit 42: Elección de la forma jurídica
 
 ## 1.1. Introducción: aspectos a valorar para elegir la forma jurídica
 

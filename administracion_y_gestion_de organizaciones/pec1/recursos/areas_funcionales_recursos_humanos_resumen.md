@@ -1,4 +1,4 @@
-# Áreas funcionales
+# RESUMEN Áreas funcionales
 
 >[!NOTE]
 >Sólo están los apartados necesarios para realizar la PEC, los cuales han sido indicados por los profesores.

@@ -1,4 +1,4 @@
-# Conceptos económicos que impactan en las organizaciones
+# RESUMEN Bit 23: Conceptos económicos que impactan en las organizaciones
 
 ## 1. Mercado y precios
 

@@ -1,4 +1,4 @@
-# Proyectos y estructuras organizativas
+# RESUMEN Bit 15: Proyectos y estructuras organizativas
 
 ## 1. Qué es un proyecto y cuáles son sus participantes
 

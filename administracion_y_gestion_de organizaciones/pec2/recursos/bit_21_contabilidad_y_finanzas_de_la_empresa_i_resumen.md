@@ -1,4 +1,4 @@
-# Contabilidad y finanzas de la empresa (I)
+# RESUMEN Bit 21: Contabilidad y finanzas de la empresa (I)
 
 ## 1. La contabilidad empresarial y la financiación en la empresa
 

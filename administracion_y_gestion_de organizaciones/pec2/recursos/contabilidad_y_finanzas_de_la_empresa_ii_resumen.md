@@ -1,4 +1,4 @@
-# Contabilidad y finanzas de la empresa (II)
+# RESUMEN Contabilidad y finanzas de la empresa (II)
 
 ## 1. Gestión empresarial
 

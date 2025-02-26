@@ -1,4 +1,4 @@
-# Dirección y organización
+# RESUMEN Dirección y organización
 
 >[!NOTE]
 >Sólo están los apartados necesarios para realizar la PEC, los cuales han sido indicados por los profesores.
