@@ -33,7 +33,10 @@ xychart-beta
 
 ## Calificación final 
 
-9,60 / 10,00 (M)
+- **Evaluación continua**: 9,60 / 10,00 (EX)
+	- **PEC1**: 9,45/ 10,00 (EX)
+	- **PEC2**: 9,76 / 10,00 (EX)
+- **Calificación final**: 9,60 / 10,00 (M)
 
 ## Pruebas de evaluación continua (PECs)
 

@@ -29,7 +29,9 @@ xychart-beta
 
 ## Calificación final
 
-8,10 / 10,00 (NO)
+- [**Examen**](examen): 7,60 / 10,00 (NO)
+- **Evaluación continua**: 8,88 / 10,00 (NO)
+- **Calificación final**: 8,10 / 10,00 (NO)
 
 ## Pruebas de evaluación continua (PECs)
 

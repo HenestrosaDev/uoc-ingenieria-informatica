@@ -29,7 +29,13 @@ xychart-beta
 
 ## Calificación final
 
-10,00 / 10,00 (M)
+>[!NOTE]
+>En la nota de mi expediente figura un 10, así que interpreto que el profesor habrá realizado el redondeo al alza.
+
+- **Evaluación continua**: 9,47 / 10,00 (EX)
+	- **PECs**: 9,44 / 10,00 (EX)
+	- **PRs**: 9,50 / 10,00 (EX)
+- **Calificación final**: 10,00 / 10,00 (M)
 
 ## Pruebas de evaluación continua (PECs)
 
