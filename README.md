@@ -193,7 +193,7 @@
 	</tr>
 	<!-- FUNDAMENTOS DE COMPUTADORES -->
 	<tr>
-		<td rowspan="3">
+		<td rowspan="4">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores">
 				Fundamentos de computadores (24/25-2)
 			</a>
@@ -208,7 +208,7 @@
 				PR1 - Máquinas de estados: entendiendo la arquitectura básica de un computador a partir de las máquina algorítmicas generalizables
 			</a>
 		</td>
-		<td rowspan="3">
+		<td rowspan="4">
 			- / 10,00 ()
 		</td>
 	</tr>
@@ -227,6 +227,15 @@
 			</a >
 		</td>
 		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores/examen">
+					EXAMEN
+				</a>
+			</strong>
+		</td>
 	</tr>
 	<!-- LÓGICA -->
 	<tr>
