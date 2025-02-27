@@ -94,7 +94,7 @@
 		<th>CALIFICACIÓN</th>
 	</tr>
 	<tr>
-		<td rowspan="4">
+		<td rowspan="5">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones">
 				Administración y gestión de organizaciones (24/25-1)
 			</a>
@@ -105,7 +105,7 @@
 			</a>
 		</td>
 		<td>-</td>
-		<td rowspan="4">
+		<td rowspan="5">
 			8,10 / 10,00 (NO)
 		</td>
 	</tr>
@@ -132,6 +132,15 @@
 			</a>
 		</td>
 		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/examen">
+					EXAMEN
+				</a>
+			</strong>
+		</td>
 	</tr>
 	<!-- ANÁLISIS MATEMÁTICO -->
 	<tr>
