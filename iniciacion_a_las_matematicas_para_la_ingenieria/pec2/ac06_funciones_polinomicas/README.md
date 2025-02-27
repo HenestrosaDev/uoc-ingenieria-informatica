@@ -23,11 +23,18 @@ Consideramos $R$ que relaciona los conjuntos $A = \{2, 4, 6, 8, 41\}$ y $B = \{1
 ![](img/conjuntos.jpg)
 
 Entonces:
-- El dominio de la correspondencia es el conjunto $\text{Dom}R = \{2, 6, 4, 8\}$ y la imagen de la correspondencia es $\text{Im}R = \{1, 5, 6\}$.
-- La imagen del $2$ es el conjunto $\{1\}$, la imagen del $8$ es el conjunto $\{5\}$, la imagen del $4$ es el conjunto $\{5, 6\}$ y la imagen del $6$ es el conjunto $\{1\}$.
-- La antiimagen del $1$ es el conjunto $\{2, 6\}$, la del $5$ es $\{4, 8\}$ y la del $6$ es $\{4\}$.
-
-El dominio de una función es el conjunto de todos los valores de entrada ($x$) para los cuales la función está definida y produce un resultado válido. Por ejemplo, en la función $f(x) = \frac{1}{x}$, el dominio es $(-\infty, 0) \cup (0, +\infty)$.
+- El **dominio** de una función es el conjunto de todos los valores de entrada ($x$) para los cuales la función está definida y produce un resultado válido.
+	- El dominio de la correspondencia es el conjunto $\text{Dom}R = \{2, 6, 4, 8\}$ y la imagen de la correspondencia es $\text{Im}R = \{1, 5, 6\}$.
+- El **codominio** de una función es el conjunto de todos los valores posibles de salida ($y$).
+- La **imagen o recorrido** de una función son todos aquellos valores que puede llegar a tomar una función.
+	- La imagen del $2$ es el conjunto $\{1\} \implies f(2) = 1, \text{, punto } (2,1)$.
+	- La imagen del $8$ es el conjunto $\{5\} \implies f(8) = 5 \text{, punto } (8,5)$.
+	- La imagen del $4$ es el conjunto $\{5, 6\} \implies f(4) = 5 \text{, punto (4,5) y } f(4) = 6 \text{, punto } (4,6)$.
+	- La imagen del $6$ es el conjunto $\{1\} \implies f(6) = 1 \text{, punto } (6,1)$.
+- La **antiimagen** de una función es el conjunto de valores en el dominio que, al aplicarse en la función, dan como resultado un valor específico en el codominio.
+	- La antiimagen del $1$ es el conjunto $\{2, 6\}$.
+	- La antiimagen del $5$ es $\{4, 8\} \implies f(4) = 5 \text{, punto (4,5) y } f(8) = 5 \text{, punto (8,5)}$.
+	- La antiimagen del $6$ es $\{4\} \implies f(4) = 6 \text{, punto} (4,6)$.
 
 ### 6.1.2. Aplicaciones y funciones
 
