@@ -182,6 +182,43 @@
 		</td>
 		<td>-</td>
 	</tr>
+	<!-- FUNDAMENTOS DE COMPUTADORES -->
+	<tr>
+		<td rowspan="3">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores">
+				Fundamentos de computadores (24/25-2)
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores/pec1">
+				PEC1 - ¿Estás preparado para adentrarte en el mundo de los computadores digitales?
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores/pr1">
+				PR1 - Máquinas de estados: entendiendo la arquitectura básica de un computador a partir de las máquina algorítmicas generalizables
+			</a>
+		</td>
+		<td rowspan="3">
+			- / 10,00 ()
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores/pec2">
+				PEC2 - Diseñando circuitos combinacionales
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores/pec3">
+				PEC3 - De los sistemas combinacionales a los sistemas secuenciales: diseñando circuitos con memoria
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
 </table>
 
 ### Asignaturas obligatorias
