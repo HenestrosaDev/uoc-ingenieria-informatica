@@ -219,6 +219,63 @@
 		</td>
 		<td>-</td>
 	</tr>
+	<!-- LÓGICA -->
+	<tr>
+		<td rowspan="6">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica">
+				Lógica (24/25-2)
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec1">
+				PEC1 - ¿Estás preparado para adentrarte en el mundo de los computadores digitales?
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="6">
+			- / 10,00 ()
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec2">
+				PEC2 - La deducción natural: un sistema de razonamiento formal
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec3">
+				PEC3 - Mecanización y verificación de razonamientos formales
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec4">
+				PEC4 - El lenguaje formal de la lógica de predicados
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec5">
+				PEC5 - La deducción natural en la lógica de predicados
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec6">
+				PEC6 - El método de resolución y la semántica de la lógica de predicados
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
 </table>
 
 ### Asignaturas obligatorias
