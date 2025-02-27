@@ -230,7 +230,7 @@
 	</tr>
 	<!-- LÓGICA -->
 	<tr>
-		<td rowspan="6">
+		<td rowspan="7">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica">
 				Lógica (24/25-2)
 			</a>
@@ -241,7 +241,7 @@
 			</a>
 		</td>
 		<td>-</td>
-		<td rowspan="6">
+		<td rowspan="7">
 			- / 10,00 ()
 		</td>
 	</tr>
@@ -284,6 +284,15 @@
 			</a >
 		</td>
 		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ps">
+					PRUEBA DE SÍNTESIS
+				</a>
+			</strong>
+		</td>
 	</tr>
 </table>
 
