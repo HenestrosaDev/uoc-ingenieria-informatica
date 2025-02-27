@@ -4,8 +4,8 @@
 
 - **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Obligatoria
-- **Método de evaluación**: Evaluación continua
-- **Ponderación**: PEC 40% + PR 60%
+- **Método de evaluación**: Evaluación continua (EC)
+- **Ponderación**: EC 100% (PEC 40% + PR 60%)
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.563&idioma=CAS&pagina=PD_PREV_PORTAL)
 

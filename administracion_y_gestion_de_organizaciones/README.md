@@ -4,8 +4,8 @@
 
 - **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Básica
-- **Método de evaluación**: Evaluación continua + Examen
-- **Ponderación**: PEC 35% + EX 65%
+- **Método de evaluación**: Examen (EX) + Evaluación continua (EC)
+- **Ponderación**: EX 65% + EC 35%
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.556&idioma=CAS&pagina=PD_PREV_PORTAL)
 
