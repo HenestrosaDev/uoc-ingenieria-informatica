@@ -133,6 +133,55 @@
 		</td>
 		<td>-</td>
 	</tr>
+	<!-- ANÁLISIS MATEMÁTICO -->
+	<tr>
+		<td rowspan="5">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico">
+				Análisis matemático (24/25-2)
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec1">
+				PEC1 - Funciones reales de variable real
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="5">
+			- / 10,00 ()
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec2">
+				PEC2 - Límites de funciones y continuidad
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec3">
+				PEC3 - Derivación: el problema de la tangente
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec4">
+				PEC4 - Integración: el problema del área
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec5">
+				PEC5 - Sucesiones y series de números reales
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
 </table>
 
 ### Asignaturas obligatorias
