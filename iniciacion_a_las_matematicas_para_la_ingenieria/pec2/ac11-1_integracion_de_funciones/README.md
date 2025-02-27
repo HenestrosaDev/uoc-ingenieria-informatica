@@ -189,19 +189,47 @@ Método para transformar una integral en una integral inmediata o casi inmediata
 	$$\int \! f(x) \, \mathrm{d}t = G(u^{-1}(x)) + C$$
 </p>
 
+---
+
 **Método de integración por partes**
 
-Método para transformar un integral en una integral inmediata o casi inmediata a partir de la regla de la derivación del producto.
-
 <p>
-	$$(f(x) \cdot g(x))\prime = f\prime(x) \cdot g(x) + f(x) \cdot g\prime(x)$$
+	$$\int \! u \, \mathrm{d}v = u \cdot v - \int \! v \, \mathrm{d}u$$
 </p>
 
-Si integramos a los dos lados y los reescribimos, obtenemos:
+Ejemplo:
 
 <p>
-	$$\int \! \left[ f(x) \cdot g\prime(x) \right] \, \mathrm{d}x = (f(x) \cdot g(x)) - \int \! \left[ f\prime(x) \cdot g(x) \right] \, \mathrm{d}x$$
+	$$\int \! xe^x \, \mathrm{d}x$$
 </p>
+
+1. Escoger $u$ y $dv$:
+
+	- $u = x$ porque su derivada $\mathrm{d}u$ es más sencilla ($\mathrm{d}u = \mathrm{d}x$)
+	- <p>$\mathrm{d}v = e^x \, \mathrm{d}x$ porque su integral es simple ($v = e^x$).</p>
+
+2. Calcular $\mathrm{d}u$ y $v$:
+
+	- $u = x$, entonces $\mathrm{d}u = \mathrm{d}x$.
+	- <p>$\mathrm{d}v = e^x \, \mathrm{d}x$, entonces $v = e^x$.</p>
+
+3. Sustituir en la fórmula:
+
+	<p>
+		$\int xe^x \, \mathrm{d}x = x \cdot e^x - \int e^x \, \mathrm{d}x$
+	</p>
+
+4. Resolver la nueva integral:
+
+	<p>
+		$\int xe^x \, \mathrm{d}x = x \cdot e^x - e^x + C$
+	</p>
+
+	Factorizamos $e^x$:
+
+	<p>
+		$\int xe^x \, \mathrm{d}x = e^x (x - 1) + C$
+	</p>
 
 ### 12.1.6. Integral definida. Regla de Barrow
 
@@ -219,33 +247,287 @@ Si $f(x)$ es una función continua en $[a,b]$ y $F(x)$ es una primitiva cualquie
 
 ### 12.2.1. Cálculo de áreas
 
+Distinguimos 5 casos distintos:
+
 1. **Cálculo de área entre $f(x)$ y el eje X** si $f(x) \ge 0$ en el intervalo $[a,b]$.
 
-<p>
-	$$A = \int_a^b \! f(x) \, \mathrm{d}x$$
-</p>
+	<p>
+		$$A = \int_a^b \! f(x) \, \mathrm{d}x$$
+	</p>
+
+	- La integral definida de $f(x)$ en $[a, b]$ representa el área bajo la curva de $f(x)$ y sobre el eje X.
+	- Si $f(x) \ge 0$ en $[a,b]$, la integral da directamente el área buscada.
+	- La integral se evalúa usando una antiderivada de $f(x)$ y aplicando la Regla de Barrow:
+
+	<p>
+		$$A = F(b) - F(a)$$
+	</p>
+
+	donde $F(x)$ es una primitiva de $f(x)$.
+
+	**Ejemplo**: Calculemos el área entre la función $f(x) = x^2$ y el eje X en el intervalo $[0,2]$.
+
+	1. **Planteamos la integral**:
+
+		<p>
+			$$A = \int_0^2 \! x^2 \, \mathrm{d}x$$
+		</p>
+	
+	2. **Calculamos la antiderivada**:
+
+		<p>
+			$$\int \! x^2 \, \mathrm{d}x = \frac{x^3}{3} + C$$
+		</p>
+
+	3. **Evaluamos en los límites**:
+
+		<p>
+			$$A = \left[ \frac{x^3}{3} \right ]^2_0 = \frac{2^3}{3} - \frac{0^3}{3}$$
+		</p>
+		<p>
+			$$A = \frac{8}{3} - 0 = \frac{8}{3} \mathrm{u}^2$$
+		</p>
+
+---
 
 2. **Cálculo de área $f(x)$ y el eje X** si $f(x) \le 0$ en el intervalo $[a,b]$.
 
-<p>
-	$$A = -\int_a^b \! f(x) \, \mathrm{d}x$$
-</p>
+	<p>
+		$$A = -\int_a^b \! f(x) \, \mathrm{d}x$$
+	</p>
 
-- De hecho, podemos unir los dos casos anteriores añadiendo un valor absoluto:
+	- De hecho, podemos unir los dos casos anteriores añadiendo un valor absoluto:
 
-<p>
-	$$A = \left\lvert \int_a^b \! f(x) \, \mathrm{d}x \right\rvert$$
-</p>
+		<p>
+			$$A = \left\lvert \int_a^b \! f(x) \, \mathrm{d}x \right\rvert$$
+		</p>
+
+---
 
 3. **Cálculo de área $f(x)$ y el eje X** si $f(x)$ **cambia de signo en el intervalo** $[a,b]$. Así, si tenemos, por ejemplo, 3 raíces $x_1, x_2, x_3$ en el intervalo $[a,b]$ tales que $x_1 < x_2 < x_3$, el área que buscamos es
 
-<p>
-	$$A = \left\lvert \int_{a}^{x_1} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_1}^{x_2} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_2}^{x_3} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_3}^{b} \! f(x) \, \mathrm{d}x \right\rvert$$
-</p>
+	<p>
+		$$A = \left\lvert \int_{a}^{x_1} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_1}^{x_2} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_2}^{x_3} \! f(x) \, \mathrm{d}x \right\rvert + \left\lvert \int_{x_3}^{b} \! f(x) \, \mathrm{d}x \right\rvert$$
+	</p>
 
-4. **Cálculo de área entre dos curvas $f(x)$ y $g(x)$ en el intervalo $[a,b]$**. Podemos aplicar los casos anteriores con una sola función considerando la función diferencia $f(x) - g(x)$. Igual que hemos hecho antes, tendremos que separar los casos según si la diferencia es siempre positiva, siempre negativa o bien si cambia de signo dentro del intervalo $[a, b]$, y en este caso tendremos que separar el intervalo $[a,b]$ en subintervalos cuyos extremos son los puntos en donde la diferencia de las funciones cambia de signo.
+	**Ejemplo**: $f(x) = x - 1$ en $[0,2]$
+	
+	1. **Encontrar los ceros de $f(x)$**
 
-5. **Cálculo de área entre dos curvas $f(x)$ y $g(x)$**. En este caso, a diferencia de los anteriores, no nos limita el intervalo, y por lo tanto tendremos que estudiar los puntos en donde se cortan las dos funciones para encontrar los límites de integración. Por lo tanto, tendremos que resolver la ecuación $f(x) = g(x)$ y calcular el área de cada región limitada entre dos puntos de corte seguidos.
+		Resolvemos $x - 1 = 0$ para encontrar dónde cambia de signo:
+
+		<p>
+			$$x = 1$$
+		</p>
+	
+	Así, dividimos el intervalo $[0,2]$ en los subintervalos $[0,1]$ y $[1,2]$.
+
+	2. **Calcular las áreas en cada subintervalo**
+
+		1. En $[0,1]$, $f(x) = x - 1$ es negativa.
+		2. En $[1,2]$, $f(x) = x - 1$ es positiva.
+
+		Cálculo en $[0,1]$:
+
+		<p>
+			$$A_1 = \int_0^1 \! (x - 1) \, \mathrm{d}x$$
+		</p>
+
+		Calculamos la primitiva:
+
+		<p>
+			$$\int \! (x - 1) \, \mathrm{d}x = \frac{x^2}{2} - x$$
+		</p>
+
+		Evaluamos en los límites:
+
+		<p>
+			$$A_1 = \left[ \frac{x^2}{2} - x \right ]^1_0 = \left( \frac{1^2}{2} - 1 \right ) - (0 - 0)$$
+		</p>
+		<p>
+			$$A_1 = \left( \frac{1}{2} - 1 \right ) = -\frac{1}{2}$$
+		</p>
+		
+		Tomamos el valor absoluto:
+
+		<p>
+			$$\left\lvert A_1 \right\rvert = \frac{1}{2}$$
+		</p>
+		
+		Cálculo en $[1,2]$:
+
+		<p>
+			$$A_2 = \int_1^2 \! (x - 1) \, \mathrm{d}x$$
+		</p>
+
+		Usamos la misma primitiva y evaluamos en $[1,2]$:
+
+		<p>
+			$$A_2 = \left [ \frac{x^2}{2} - x \right ]^2_1$$
+		</p>
+
+		<p>
+			$$A_2 = \left ( \frac{2^2}{2} - 2 \right ) - \left ( \frac{1^2}{2} - 1 \right )$$
+		</p>
+		
+		<p>
+			$$A_2 = \left ( \frac{4}{2} - 2 \right ) - \left ( \frac{1}{2} - 1 \right )$$
+		</p>
+
+		<p>
+			$$A_2 = \left ( 2 - 2 \right ) - \left ( \frac{1}{2} - 1 \right ) = 0 - \left ( -\frac{1}{2} \right )$$
+		</p>
+
+		<p>
+			$$A_2 = \frac{1}{2}$$
+		</p>
+
+	3. **Sumar las áreas absolutas**
+
+		<p>
+			$$A_\text{total} = \left\lvert A_1 \right\rvert + \left\lvert A_2 \right\rvert = \frac{1}{2} + \frac{1}{2} = 1 \mathrm{u}^2$$
+		</p>
+
+---
+
+4. **Cálculo de área entre dos curvas $f(x)$ y $g(x)$ en el intervalo $[a,b]$**. 
+
+	Fórmula general:
+
+	<p>
+		$$\text{Área} = \int_{a}^{b} \! \lvert f(x) - g(x) \rvert \mathrm{d}x$$
+	</p>
+
+	Para explicar cada paso, usaremos el siguiente caso de ejemplo:
+
+	$$f(x) = x^2 \text{ y } g(x) = x + 2 \text{ en el intervalo } [-1, 2]$$
+	
+	1. **Encontrar los puntos de intersección $x_i$**: Resuelve la ecuación $f(x) = g(x)$ para determinar dónde se cruzan las curvas. Estos puntos dividen el intervalo $[a, b]$ en subintervalos.
+
+		Resolvemos $x^2 = x + 2$:
+
+		$$x^2 - x - 2 = 0 \quad \text{(factorizamos)} \quad (x - 2)(x + 1) = 0$$	
+		
+		Los puntos de intersección son $x = -1$ y $x = 2$.
+
+	2. **Determinar qué curva está por encima en cada subintervalo**: En cada subintervalo, evalúa si $f(x) \geq g(x)$ o $g(x) \geq f(x)$ para decidir el orden de las funciones al calcular $\lvert f(x) - g(x) \rvert$.
+
+		Las curvas se cruzan en $x = -1$ y $x = 2$, así que analizamos en $[-1,2]$:
+
+		- Para $x \in [-1, 2]$, evaluamos qué función está por encima:
+			- Por inspección o prueba, $g(x) = x + 2$ está por encima de $f(x) = x^2$ en todo el intervalo.
+
+	3. **Configurar las integrales**: Para cada subintervalo donde una curva está por encima de la otra, calculamos el área como:
+
+		<p>
+			$$\text{Área parcial} = \int_{\text{subintervalo}} (\text{curva superior} - \text{curva inferior}) \, \mathrm{d}x$$
+		</p>
+		
+		Aplicándolo al ejemplo, la curva superior es $g(x)$ y la inferior es $f(x)$, entonces el área es:
+
+		<p>
+			$$\text{Área} = \int_{-1}^{2} ((x + 2) - x^2) \, \mathrm{d}x$$
+		</p>
+
+	4. **Sumar las áreas parciales**: La suma de las áreas parciales en todos los subintervalos da el área total.
+
+		Para aplicarlo al ejemplo, resolvemos la integral. En primer lugar, simplificamos el integrando:
+
+		$$(x + 2) - x^2 = -x^2 + x + 2$$
+		
+		Calculamos:
+		<p>
+			$$\text{Área} = \int_{-1}^{2} \! (-x^2 + x + 2) \, \mathrm{d}x$$
+		</p>
+
+		Usamos las reglas de integración:
+		<p>
+			$$\int \! (-x^2 + x + 2) \mathrm{d}x = -\frac{x^3}{3} + \frac{x^2}{2} + 2x + C$$
+		</p>
+		
+		Evaluamos en los límites $[-1, 2]$:
+
+		1. Para $x = 2$:
+
+			$$-\frac{2^3}{3} + \frac{2^2}{2} + 2(2) = -\frac{8}{3} + 2 + 4 = -\frac{8}{3} + 6 = \frac{10}{3}$$
+			
+		2. Para $x = -1$:
+
+			$$-\frac{(-1)^3}{3} + \frac{(-1)^2}{2} + 2(-1) = \frac{1}{3} + \frac{1}{2} - 2 = \frac{1}{3} + \frac{3}{6} - 2 = -\frac{7}{6}$$
+			
+		Diferencia entre los valores:
+
+		$$\text{Área} = \frac{10}{3} - (-\frac{7}{6}) = \frac{10}{3} + \frac{7}{6} = \frac{20}{6} + \frac{7}{6} = \frac{27}{6} = \frac{9}{2} \mathrm{u}^2$$
+
+---
+
+5. **Cálculo de área entre dos curvas $f(x)$ y $g(x)$**. En este caso, a diferencia de los anteriores, no nos limita el intervalo. Procedemos a explicar el proceso a través del cálculo del área entre $f(x) = x^2$ y $g(x) = x + 2$:
+
+	1. **Determinar los puntos de intersección de $f(x)$ y $g(x)$ resolviendo $f(x) = g(x)$**
+
+		<p>
+			$$x^2 = x + 2 \implies x^2 - x - 2 = 0 \implies (x - 2)(x + 1) = 0$$
+		</p>
+		
+		Soluciones:
+
+		<p>
+			$$x = -1, \quad x = 2$$
+		</p>
+
+		Estos serán nuestros límites de integración.
+
+	2. **Determinar qué función es mayor en cada subintervalo**
+
+		Para $x \in (-1, 2)$, comparamos $f(x) = x^2$ y $g(x) = x + 2$.
+
+		Tomamos un punto intermedio, como $x = 0$:
+
+		<p>
+			$$f(0) = 0^2 = 0, \quad g(0) = 0 + 2 = 2$$
+		</p>
+
+		Como $g(x) > f(x)$ en este intervalo, el área se calcula como:
+
+		<p>
+			$$A = \int_{-1}^2 \! \left [ (x + 2) - x^2 \right ] \, \mathrm{d}x$$
+		</p>
+
+	3. **Resolver la integral**
+
+		Calculamos la primitiva de cada término:
+
+		<p>
+			$$\int \! \left (x + 2 - x^2 \right ) \, \mathrm{d}x = \int \! x \, \mathrm{d}x + \int \! 2 \, \mathrm{d}x - \int \! x^2 \, \mathrm{d}x = \frac{x^2}{2} + 2x - \frac{x^3}{3}$$
+		</p>
+		
+		Evaluamos en los límites $-1$ y $2$:
+
+		<p>
+			$$A = \left [ \frac{x^2}{2} + 2x - \frac{x^3}{3} \right ]^2_{-1}$$
+		</p>
+		
+		Calculamos en $x = 2$:
+
+		<p>
+			$$\frac{2^2}{2} + 2(2) - \frac{2^3}{3} = \frac{4}{2} + 4 - \frac{8}{3} = 2 + 4 - \frac{8}{3} = 6 - \frac{8}{3} = \frac{18}{6} - \frac{8}{3} = \frac{10}{3}$$
+		</p>
+		
+		Calculamos en $x = -1$:
+
+		<p>
+			$$\frac{(-1)^2}{2} + 2(-1) - \frac{(-1)^3}{3} = \frac{1}{2} - 2 + \frac{1}{3} = \frac{1}{2} - 2 + \frac{1}{3} = \frac{3}{6} - \frac{12}{6} + \frac{2}{6} = \frac{-7}{6}$$
+		</p>
+		
+		Restamos:
+
+		<p>
+			$$A = \frac{10}{3} - \left ( -\frac{7}{6} \right )$$
+		</p>
+		
+		<p>
+			$$A = \frac{10}{3} + \frac{7}{6} = \frac{20}{6} + \frac{7}{6} = \frac{27}{6} = \frac{9}{2} \mathrm{u}^2$$
+		</p>
 
 ### 12.2.2. Cálculo de volúmenes
 
