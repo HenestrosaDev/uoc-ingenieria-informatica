@@ -144,7 +144,7 @@
 	</tr>
 	<!-- ANÁLISIS MATEMÁTICO -->
 	<tr>
-		<td rowspan="5">
+		<td rowspan="6">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico">
 				Análisis matemático (24/25-2)
 			</a>
@@ -155,7 +155,7 @@
 			</a>
 		</td>
 		<td>-</td>
-		<td rowspan="5">
+		<td rowspan="6">
 			- / 10,00 ()
 		</td>
 	</tr>
@@ -190,6 +190,15 @@
 			</a>
 		</td>
 		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/examen">
+					EXAMEN
+				</a>
+			</strong>
+		</td>
 	</tr>
 	<!-- FUNDAMENTOS DE COMPUTADORES -->
 	<tr>
