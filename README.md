@@ -100,7 +100,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/PEC1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/pec1">
 				PEC1 - Tipificación y análisis de una organización
 			</a>
 		</td>
@@ -111,7 +111,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/PEC2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/pec2">
 				PEC2 - Análisis financiero y contable de una organización
 			</a>
 		</td>
