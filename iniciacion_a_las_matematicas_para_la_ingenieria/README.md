@@ -45,7 +45,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td rowspan="9">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria_pec1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1">
 				PEC1 - Bloque 1: Álgebra
 			</a>
 		</td>
