@@ -15,7 +15,7 @@
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/1.png)
+![](capturas/01.png)
 </details>
 
 **Átomos**:
@@ -39,7 +39,7 @@ $(M \wedge D) \vee T$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/2.png)
+![](capturas/02.png)
 </details>
 
 **Átomos**:
@@ -62,7 +62,7 @@ $(P \wedge M) \vee R$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/3.png)
+![](capturas/03.png)
 </details>
 
 **Átomos**:
@@ -87,7 +87,7 @@ $M \vee (\neg C \rightarrow T)$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/4.png)
+![](capturas/04.png)
 </details>
 
 **Átomos**:
@@ -110,7 +110,7 @@ $R \rightarrow (O \rightarrow P)$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/5.png)
+![](capturas/05.png)
 </details>
 
 **Átomos**:
@@ -133,7 +133,7 @@ $(P \vee O) \rightarrow M$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/6.png)
+![](capturas/06.png)
 </details>
 
 **Átomos**:
@@ -156,7 +156,7 @@ $(R \rightarrow O) \wedge (M \rightarrow P)$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/7.png)
+![](capturas/07.png)
 </details>
 
 **Átomos**:
@@ -180,7 +180,7 @@ $D \rightarrow (M \vee T)$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/8.png)
+![](capturas/08.png)
 </details>
 
 **Átomos**:
@@ -204,7 +204,7 @@ $(M \wedge T) \rightarrow (D \rightarrow I)$
 <details>
 	<summary>Captura de pantalla</summary>
 
-![](capturas/9.png)
+![](capturas/09.png)
 </details>
 
 **Átomos**:
