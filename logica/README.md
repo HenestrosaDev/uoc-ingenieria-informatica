@@ -60,12 +60,12 @@ xychart-beta
 
 | NOMBRE                                                              | CALIFICACIÓN       |
 |---------------------------------------------------------------------|--------------------|
-| [PP1 - El lenguaje formal de la lógica de enunciados](pec1/pp1)            | - / 16,67 ( )  |
-| [PP2 - La deducción natural: un sistema de razonamiento formal](pec2/pp2)     | - / 16,67 ( )  |
-| [PP3 - Mecanización y verificación de razonamientos formales](pec3/pp3) | - / 16,67 ( ) |
-| [PP4 - El lenguaje formal de la lógica de predicados](pec4/pp4)                    | - / 16,67 ( ) |
-| [PP5 - La deducción natural en la lógica de predicados](pec5/pp5)                    | - / 16,67 ( ) |
-| [PP6 - El método de resolución y la semántica de la lógica de predicados](pec6/pp6)                    | - / 16,67 ( ) |
+| [PP1 - El lenguaje formal de la lógica de enunciados](pec1/pp1)            | - / 10,00 ( )  |
+| [PP2 - La deducción natural: un sistema de razonamiento formal](pec2/pp2)     | - / 10,00 ( )  |
+| [PP3 - Mecanización y verificación de razonamientos formales](pec3/pp3) | - / 10,00 ( ) |
+| [PP4 - El lenguaje formal de la lógica de predicados](pec4/pp4)                    | - / 10,00 ( ) |
+| [PP5 - La deducción natural en la lógica de predicados](pec5/pp5)                    | - / 10,00 ( ) |
+| [PP6 - El método de resolución y la semántica de la lógica de predicados](pec6/pp6)                    | - / 10,00 ( ) |
 
 ## Ejercicios de Alura
 
