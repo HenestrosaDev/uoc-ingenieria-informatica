@@ -76,29 +76,29 @@ xychart-beta
 ### PEC1
 
 [Lógica de enunciados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5)
-- Apartado **1. La lógica de enunciados y su lenguaje**. Páginas 7 a 22. [Resumen](pec1/README.md).
+- Apartado **1. La lógica de enunciados y su lenguaje**. Páginas 7 a 22. [Resumen](pec1/recursos).
 
 ### PEC2
 
 [Lógica de enunciados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5)
-- Apartado **2. La deducción natural**. Páginas 23 a 52. [Resumen](pec2/README.md).
+- Apartado **2. La deducción natural**. Páginas 23 a 52. [Resumen](pec2/recursos).
 
 ### PEC3
 
 [Lógica de enunciados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5)
-- Desde el apartado **3. Verdad y falsedad: alternativa y complemento de la deducción natural** hasta el **5. Resolución**. Páginas 53 a 78. [Resumen](pec3/README.md).
+- Desde el apartado **3. Verdad y falsedad: alternativa y complemento de la deducción natural** hasta el **5. Resolución**. Páginas 53 a 78. [Resumen](pec3/recursos).
 
 ### PEC4
 
 [Lógica de predicados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265958&hash=baefe4fe0e1c8594e63fe3a9c98754ced25fc6b142154c8a6c4e6f31ed28dfde)
-- Apartado **1. La lógica de predicados y su lenguaje**. Páginas 7 a 23. [Resumen](pec4/README.md).
+- Apartado **1. La lógica de predicados y su lenguaje**. Páginas 7 a 23. [Resumen](pec4/recursos).
 
 ### PEC5
 
 [Lógica de predicados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265958&hash=baefe4fe0e1c8594e63fe3a9c98754ced25fc6b142154c8a6c4e6f31ed28dfde)
-- Apartado **2. La deducción natural**. Páginas 24 a 33. [Resumen](pec5/README.md).
+- Apartado **2. La deducción natural**. Páginas 24 a 33. [Resumen](pec5/recursos).
 
 ### PEC6
 
 [Lógica de predicados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265958&hash=baefe4fe0e1c8594e63fe3a9c98754ced25fc6b142154c8a6c4e6f31ed28dfde)
-- Desde el apartado **3. Verdad y falsedad en la lógica de predicados** hasta el **6. La programación lógica**. Páginas 34 a 62. [Resumen](pec6/README.md).
+- Desde el apartado **3. Verdad y falsedad en la lógica de predicados** hasta el **6. La programación lógica**. Páginas 34 a 62. [Resumen](pec6/recursos).
