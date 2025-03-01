@@ -394,6 +394,38 @@ Y da lugar a la función compuesta $(g \circ f)(x)$, donde $f$ es la función ex
 
 Para que la función se pueda definir, es necesario que la imagen $B$ de la función interna $f$ esté incluida en el dominio $C$ de la función externa $g: B \set{C \dots}$
 
+De ese modo, la composición queda definida en los conjuntos $(g \circ f): A \rightarrow D$.
+
+El dominio de la función compuesta resulta de la intersección entre el dominio de la función interna y toda la región del dominio de la función interna que pertenezca al dominio de la externa:
+
+$$\text{Dom}(g \circ f) = \set{x \in \text{Dom}(f) \wedge f(x) \in \text{Dom}(g)}$$
+
+En la práctica, se pueden dar dos casos:
+
+1. Que el recorrido de la primera función (externa) esté totalmente incluido en el dominio de la segunda (interna), de modo que el dominio de la función compuesta coincide con el dominio de la primera función.
+2. Que el recorrido de la primera función (externa) no esté totalmente incluido en el dominio de la segunda (interna), de modo que el dominio de la función compuesta está formado por el conjunto de imágenes de la función externa que son antiimagen del dominio de la función interna.
+
+Es útil verificar dos de sus propiedades:
+- La composición de funciones **no es conmutativa**: $f \circ g \neq g \circ f$
+- La composición de funciones **es asociativa**: $h \circ (g \circ f) = (h \circ g) \circ f$
+
+**Ejemplo**:
+
+Dadas las funciones:
+
+$$f(x) = \sqrt{x} + \sin x$$  
+$$g(x) = 4x^2 - \tan x$$
+
+encontrar las composiciones:
+
+$$g \circ f$$  
+$$f \circ g$$
+
+Se tiene:
+
+$$g \circ f = g(f(x)) = 4(f(x))^2 - \tan (f(x)) = 4(\sqrt{x} + \sin x)^2 - \tan (\sqrt{x} + \sin x)$$  
+$$f \circ g = f(g(x)) = \sqrt{g(x)} + \sin (g(x)) = \sqrt{4x^2 - \tan x} + \sin (4x^2 - \tan x)$$
+
 ### 2.4. Función inversa
 
 Ver apartado [2.1.4. Funciones invertibles (e inversas)](#214-funciones-invertibles-e-inversas).
