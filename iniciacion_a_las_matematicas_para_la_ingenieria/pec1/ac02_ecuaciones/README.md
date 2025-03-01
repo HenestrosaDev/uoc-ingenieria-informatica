@@ -202,7 +202,7 @@ Por lo tanto, $x^{2} = 4$ o $x^{2} = 9$. Los valores de x son:
 - Si $x^{2} = 4$, $x = \pm\sqrt{4} = \pm2$
 - Si $x^{2} = 9$, $x = \pm\sqrt{9} = \pm3$
 
-Las posibles soluciones de $x$ son $x = \{2, -2, 3, -3\}$.
+Las posibles soluciones de $x$ son $x = \set{2, -2, 3, -3}$.
 
 ---
 
@@ -219,7 +219,7 @@ Por lo tanto, $x^{4} = 3$ o $x^{4} = -1$. Los valores de x son:
 - Si $x^{4} = 3$, $x = \pm\sqrt[4]{3}$.
 - Si $x^{4} = -1$, no hay solución, ya que no hay ningún número que, elevado a $4$, dé $−1$.
 
-Las posibles soluciones de $x$ son $x = \{-\sqrt[4]{3}, +\sqrt[4]{3}\}$.
+Las posibles soluciones de $x$ son $x = \set{-\sqrt[4]{3}, +\sqrt[4]{3}}$.
 
 ## 2.5. Inecuaciones
 

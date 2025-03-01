@@ -91,7 +91,7 @@ $f(x) = e^u \to f\prime(x) = e^u \cdot u\prime$$
 		</tr>
 		<tr>
 			<td>Puntos del eje X donde $f(x)$ está definida.</td>
-			<td>$Dom\ f = \mathbb{R} \setminus \{-1, 1\}$</td>
+			<td>$Dom\ f = \mathbb{R} \setminus \set{-1, 1}$</td>
 		</tr>
 		<tr>
 			<td align="center" colspan="2"><strong>PUNTOS DE CORTE CON LOS EJES</strong>

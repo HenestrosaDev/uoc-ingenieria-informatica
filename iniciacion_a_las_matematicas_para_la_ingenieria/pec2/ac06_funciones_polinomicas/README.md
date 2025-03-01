@@ -14,27 +14,27 @@ El conjunto formado por los números naturales $1, 2, 3, 4, 6$ y $11$ puede deno
 
 Entonces, el conjunto puede expresarse así:
 
-$$A = \{1, 2, 3, 4, 6, 11\}$$
+$$A = \set{1, 2, 3, 4, 6, 11}$$
 
 **Elementos de una correspondencia entre dos conjuntos**
 
-Consideramos $R$ que relaciona los conjuntos $A = \{2, 4, 6, 8, 41\}$ y $B = \{1, 3, 5, 6\}$.
+Consideramos $R$ que relaciona los conjuntos $A = \set{2, 4, 6, 8, 41}$ y $B = \set{1, 3, 5, 6}$.
 
 ![](img/conjuntos.jpg)
 
 Entonces:
 - El **dominio** de una función es el conjunto de todos los valores de entrada ($x$) para los cuales la función está definida y produce un resultado válido.
-	- El dominio de la correspondencia es el conjunto $\text{Dom}R = \{2, 6, 4, 8\}$ y la imagen de la correspondencia es $\text{Im}R = \{1, 5, 6\}$.
+	- El dominio de la correspondencia es el conjunto $\text{Dom}R = \set{2, 6, 4, 8}$ y la imagen de la correspondencia es $\text{Im}R = \set{1, 5, 6}$.
 - El **codominio** de una función es el conjunto de todos los valores posibles de salida ($y$).
 - La **imagen o recorrido** de una función son todos aquellos valores que puede llegar a tomar una función.
-	- La imagen del $2$ es el conjunto $\{1\} \implies f(2) = 1, \text{, punto } (2,1)$.
-	- La imagen del $8$ es el conjunto $\{5\} \implies f(8) = 5 \text{, punto } (8,5)$.
-	- La imagen del $4$ es el conjunto $\{5, 6\} \implies f(4) = 5 \text{, punto (4,5) y } f(4) = 6 \text{, punto } (4,6)$.
-	- La imagen del $6$ es el conjunto $\{1\} \implies f(6) = 1 \text{, punto } (6,1)$.
+	- La imagen del $2$ es el conjunto $\set{1} \implies f(2) = 1, \text{, punto } (2,1)$.
+	- La imagen del $8$ es el conjunto $\set{5} \implies f(8) = 5 \text{, punto } (8,5)$.
+	- La imagen del $4$ es el conjunto $\set{5, 6} \implies f(4) = 5 \text{, punto (4,5) y } f(4) = 6 \text{, punto } (4,6)$.
+	- La imagen del $6$ es el conjunto $\set{1} \implies f(6) = 1 \text{, punto } (6,1)$.
 - La **antiimagen** de una función es el conjunto de valores en el dominio que, al aplicarse en la función, dan como resultado un valor específico en el codominio.
-	- La antiimagen del $1$ es el conjunto $\{2, 6\}$.
-	- La antiimagen del $5$ es $\{4, 8\} \implies f(4) = 5 \text{, punto (4,5) y } f(8) = 5 \text{, punto (8,5)}$.
-	- La antiimagen del $6$ es $\{4\} \implies f(4) = 6 \text{, punto} (4,6)$.
+	- La antiimagen del $1$ es el conjunto $\set{2, 6}$.
+	- La antiimagen del $5$ es $\set{4, 8} \implies f(4) = 5 \text{, punto (4,5) y } f(8) = 5 \text{, punto (8,5)}$.
+	- La antiimagen del $6$ es $\set{4} \implies f(4) = 6 \text{, punto} (4,6)$.
 
 ### 6.1.2. Aplicaciones y funciones
 
