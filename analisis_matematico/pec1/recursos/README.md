@@ -292,9 +292,9 @@ Para que una función sea invertible, debe ser **biyectiva** (es decir, inyectiv
 
 $$f(x) = 3x + 5$$
 
-1. **Verificar si es invertible**
+1. **Verificar si es invertible** (biyectiva)
 
-	Para que $f(x)$ sea invertible, debe ser **biyectiva**, es decir:
+	Para que sea inyectiva, tiene que ser **inyectiva** y **exhaustiva**:
 
 	1. **Inyectiva** (función uno a uno):
 
@@ -314,37 +314,28 @@ $$f(x) = 3x + 5$$
 
 	2. **Exhaustiva (cubre todo el codominio)**:
 
-		Dado que $f(x)$ puede tomar cualquier valor en $\mathbb{R}$, es **exhaustiva**.
+		Dado que el dominio de $f(x)$ puede tomar cualquier valor en $\mathbb{R}$, la función es **exhaustiva**.
 		
 		Como $f(x)$ es inyectiva y exhaustiva, es **biyectiva**, por lo que es **invertible**.
 
 2. **Encontrar la función inversa**
 
-	Para encontrar $f^{-1}(x)$, hacemos:
+	1. Intercambiar $f(x)$ por $y$.
 
-	$$y = 3x + 5$$
+		$$x = 3y + 5$$
 
-	Despejamos $x$:
+	2. Despejar $y$.
 
-	$$y - 5 j= 3x \rightarrow x = \frac{y - 5}{3}$$
+		$$y = \frac{x - 5}{3}$$
 
-	Por lo tanto, la función inversa es:
+	3. Cambiar $y$ por $f^{-1}$.
 
-	$$f^{-1}(x) = \frac{x - 5}{3}$$
+		$$f^{-1}(x) = \frac{x - 3}{3}$$
 
-3. **Verificar**
+	4. Verificar.
 
-	Debemos comprobar que:
-
-	1. $f(f^{-1}(x)) = x$
-
-		$$f \left( \frac{x - 5}{3} \right) = 3 \left( \frac{x - 5}{3} \right) + 5 = x - 5 + 5 = x$$
-
-	2. $f^{-1}(f(x)) = x$
-
-		$$f^{-1}(3x + 5) = \frac{(3x + 5) - 5}{3} = \frac{3x}{3} = x$$
-
-	Ambas verificaciones confirman que $f^{-1}(x)$ es realmente la inversa de $f(x)$.
+		- $$f(f^{-1}(x)) = f \left( \frac{x - 5}{3} \right) = 3 \left( \frac{x - 5}{3} \right) + 5 = x - 5 + 5 = x$$
+		- $$f^{-1}(f(x)) = f^{-1} (3x + 5) = \frac{3x + 5 - 5}{3} = x$$
 
 #### 2.1.5. Restricción de una función
 
