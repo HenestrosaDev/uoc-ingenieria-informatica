@@ -5,7 +5,7 @@
 
 ## 1. Conjuntos numéricos
 
-![](img/conjunto_numeros.png)
+![Representación gráfica de los conjuntos numéricos](https://github.com/user-attachments/assets/1a11491e-d64e-4d57-afc7-4526fd53d9c7)
 
 ### 1.1. El conjunto de los números naturales
 
