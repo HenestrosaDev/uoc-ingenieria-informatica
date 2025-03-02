@@ -432,3 +432,32 @@ Ver apartado [2.1.4. Funciones invertibles (e inversas)](#214-funciones-invertib
 
 ## 3. Funciones elementales básicas
 
+>[!NOTE]
+>La definición de la función signo y de la función Heaviside no se renderiza correctamente en GitHub.
+
+| **NOMBRE** | **DEFINICIÓN** | **EXPRESIÓN** | **DOMINIO** | **IMAGEN** | **INVERSA** | **CARACTERÍSTICAS** |
+|------------|--------------|-------------|------------|------------|------------|---------------------|
+| **Función identidad** | Devuelve el mismo valor de entrada | $f(x) = x$ | $\mathbb{R}$ | $\mathbb{R}$ | Ella misma | Gráfica: recta con pendiente 1 |
+| **Función constante** | Devuelve siempre el mismo valor | $f(x) = c$, $c \in \mathbb{R}$ | $\mathbb{R}$ | $\set{c}$ | No existe | Gráfica: línea horizontal |
+| **Función signo** | Indica el signo de un número | $f(x) = \begin{cases} -1, & x < 0 \\ 0, & x = 0 \\ 1, & x > 0 \end{cases}$ | $\mathbb{R}$ | $\set{-1,0,1}$ | No existe | Gráfica: escalón en $x=0$ |
+| **Función de Heaviside** | Activa un valor a partir de un umbral | $f(x) = \begin{cases} 0, & x < a \\ 1, & x \geq a \end{cases}$ | $\mathbb{R}$ | $\set{0,1}$ | No existe | Gráfica: escalón en $x=a$ |
+| **Función parte entera por defecto** | Redondea hacia abajo al entero más cercano | $f(x) = m,$ si $x \in [m, m+1)$, $m \in \mathbb{Z}$ | $\mathbb{R}$ | $\mathbb{Z}$ | No existe | Función escalonada |
+| **Función parte entera por exceso** | Redondea hacia arriba al entero más cercano | $f(x) = m,$ si $x \in (m-1, m]$, $m \in \mathbb{Z}$ | $\mathbb{R}$ | $\mathbb{Z}$ | No existe | Función escalonada |
+| **Función exponencial (natural)** | Crecimiento exponencial con base $e$ | $f(x) = e^x$ | $\mathbb{R}$ | $(0, +\infty)$ | $\ln(x)$ | $e^x \cdot e^y = e^{x+y}$, $e^{-x} = \frac{1}{e^x}$ |
+| **Función logaritmo neperiano** | Inversa de la función exponencial | $f(x) = \ln(x)$ | $(0, +\infty)$ | $\mathbb{R}$ | $e^x$ | $\ln(x \cdot y) = \ln(x) + \ln(y)$, $\ln(1/x) = -\ln(x)$ |
+| **Exp & Log (base $a$)** | Generalización de exp y log con base $a$ | $f(x) = a^x = e^{x \ln(a)}$, $f(x) = \log_a(x) = \frac{\ln(x)}{\ln(a)}$ | $\mathbb{R}$, $(0,+\infty)$ | $(0,+\infty)$, $\mathbb{R}$ | $\log_a(x)$, $a^x$ | Definidas para $a > 0, a \neq 1$ |
+| **Función raíz cuadrada** | Devuelve la raíz cuadrada de $x$ | $f(x) = \sqrt{x}$ | $[0,+\infty)$ | $[0,+\infty)$ | $x^2$ (con dominio restringido) | Solo valores positivos |
+| **Función seno** | Función trigonométrica periódica | $f(x) = \sin(x)$ | $\mathbb{R}$ | $[-1,1]$ | $\arcsin(x)$ en $[-\pi/2, \pi/2]$ | Periódica de periodo $2\pi$ |
+| **Función coseno** | Función trigonométrica periódica | $f(x) = \cos(x)$ | $\mathbb{R}$ | $[-1,1]$ | $\arccos(x)$ en $[0, \pi]$ | Periódica de periodo $2\pi$ |
+| **Función tangente** | Relación entre seno y coseno | $f(x) = \tan(x)$ | $\mathbb{R} \setminus \{x = \frac{\pi}{2} + k\pi, k \in \mathbb{Z} \}$ | $\mathbb{R}$ | $\arctan(x)$ en $(-\pi/2, \pi/2)$ | Periódica de periodo $\pi$ |
+
+Por último, podemos recordar las propiedades de las **funciones trigonómetricas**:
+- **Propiedad fundamental**: $\sin^2 (x) + \cos^2 (x) = 1$
+- **Relaciones angulares**:
+	- **Ángulos complementarios**: $\sin (\pi / 2 - x) = \cos (x)$ y $\cos (\pi / 2 - x) = \sin (x)$.
+	- **Ángulos suplementarios**: $\sin (\pi - x) = \sin (x)$ y $\cos (\pi - x) = -\cos (x)$.
+	- **Difieren en $\pi$**: $\sin (\pi + x) = -\sin (x)$ y $\cos (\pi + x) = -\cos (x)$.
+	- **Difieren en $\pi / 2$**: $\sin (\pi / 2 + x) = \cos (x)$ y $\cos (\pi / 2 + x) = -\sin (x)$.
+- **Simetría**:
+	- **Función par**: $\cos (-x) = \cos (x)$
+	- **Función impar**: $\sin (-x) = -\sin(x)$ y $\tan (-x) = -\tan(x)$.
