@@ -8,7 +8,7 @@
 ## Ejercicio 1 - Test
 
 <details>
-	<summary>Captura de pantalla</summary>
+	<summary>Solución</summary>
 
 ![](capturas/1.png)
 </details>
@@ -23,7 +23,7 @@
 >4. $\therefore A \rightarrow B$
 
 <details>
-	<summary>Captura de pantalla</summary>
+	<summary>Solución</summary>
 
 ![](capturas/2.png)
 </details>
@@ -37,7 +37,7 @@
 >3. $\therefore \neg B$
 
 <details>
-	<summary>Captura de pantalla</summary>
+	<summary>Solución</summary>
 
 ![](capturas/3.png)
 </details>
@@ -52,7 +52,7 @@
 >4. $\therefore B$
 
 <details>
-	<summary>Captura de pantalla</summary>
+	<summary>Solución</summary>
 
 ![](capturas/4.png)
 </details>
@@ -70,7 +70,7 @@
 >Tiene que resolverse utilizando las reglas derivadas MT y SD.
 
 <details>
-	<summary>Captura de pantalla</summary>
+	<summary>Solución</summary>
 
 ![](capturas/5.png)
 </details>
@@ -85,7 +85,7 @@
 >4. $\therefore \neg B \rightarrow D$
 
 <details>
-	<summary>Captura de pantalla</summary>
+	<summary>Solución</summary>
 
 ![](capturas/6.png)
 </details>
