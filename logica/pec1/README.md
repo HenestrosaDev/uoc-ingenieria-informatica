@@ -46,6 +46,7 @@ $(M \wedge D) \vee T$
 - $R$: Tener razón (tienes razón, se tiene razón).
 - $O$: Alcanzar los objetivos (alcanzas los objetivos, los objetivos se alcanzan).
 - $M$: Disponer de medios (tener los medios, tienes los medios, dispones de los medios).
+- $P$: Tener paciencia (tienes paciencia, se tiene paciencia).
 
 <details>
 	<summary><strong>Formalización</strong></summary>
@@ -94,6 +95,7 @@ $M \vee (\neg C \rightarrow T)$
 - $R$: Tener razón (tienes razón, se tiene razón).
 - $O$: Alcanzar los objetivos (alcanzas los objetivos, los objetivos se alcanzan).
 - $M$: Disponer de medios (tener los medios, tienes los medios, dispones de los medios).
+- $P$: Tener paciencia (tienes paciencia, se tiene paciencia).
 
 <details>
 	<summary><strong>Formalización</strong></summary>
@@ -117,6 +119,7 @@ $R \rightarrow (O \rightarrow P)$
 - $R$: Tener razón (tienes razón, se tiene razón).
 - $O$: Alcanzar los objetivos (alcanzas los objetivos, los objetivos se alcanzan).
 - $M$: Disponer de medios (tener los medios, tienes los medios, dispones de los medios).
+- $P$: Tener paciencia (tienes paciencia, se tiene paciencia).
 
 <details>
 	<summary><strong>Formalización</strong></summary>
@@ -140,6 +143,7 @@ $(P \vee O) \rightarrow M$
 - $R$: Tener razón (tienes razón, se tiene razón).
 - $O$: Alcanzar los objetivos (alcanzas los objetivos, los objetivos se alcanzan).
 - $M$: Disponer de medios (tener los medios, tienes los medios, dispones de los medios).
+- $P$: Tener paciencia (tienes paciencia, se tiene paciencia).
 
 <details>
 	<summary><strong>Formalización</strong></summary>
@@ -258,11 +262,11 @@ $(\neg T \rightarrow M) \rightarrow (A \rightarrow C)$
 </details>
 
 **Átomos**:
-- $C$: Coger el coche (cojo el coche, se coge el coche).
-- $A$: Pasar por la autopista (paso por la autopista, se pasa por la autopista).
-- $T$: Llegar tarde al trabajo (llego tarde al trabajo, se llega tarde al trabajo).
-- $M$: Madrugar mucho (madrugar mucho, se madruga mucho).
-- $F$: Ser fiesta/festivo (es fiesta/festivo).
+- $T$: Trabajo en la ESA.
+- $R$: Me siento realizado.
+- $P$: Participo en proyectos.
+- $M$: Soy meticuloso.
+- $D$: Recibo distinciones.
 
 ### Premisa 1
 
@@ -304,7 +308,9 @@ $T \rightarrow (D \wedge R)$
 $P \rightarrow (M \wedge F)$
 </details>
 
-**Criterios de corrección**:
+<br>
+
+**Criterios de corrección para este ejercicio**:
 - **A**: Todas correctas.
 - **C+**: 75% correctas.
 - **C-**: 50% correctas.
