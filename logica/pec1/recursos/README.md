@@ -65,11 +65,11 @@ El alfabeto del lenguaje formal de la lógica se compone de:
 				condicional
 			</td>
 			<td>
-				Suficiencia
+				**SUFICIENCIA**
 				<br> <br> 
 				<strong>$A \rightarrow B$ = $A$ es <strong>SUFICIENTE</strong> para $B$</strong> 
 				<br> 
-				<strong>NO EXCLUYE</strong> otros antecedentes impliquen $B$
+				<strong>NO EXCLUYE</strong> que otros antecedentes impliquen $B$
 			</td>
 			<td>
 				"Si... entonces..." <br>
@@ -126,8 +126,8 @@ En este módulo, no se utilizarán las siguientes conectivas de manera explícit
 
 | CONECTIVA                | SÍMBOLO            | EQUIVALENCIA                                                                                     | SIGNIFICADO                |
 |--------------------------|--------------------|--------------------------------------------------------------------------------------------------|----------------------------|
-| **Disyunción exclusiva** | $\underline{\vee}$ | $(A \vee B) \neg (A \wedge B)$ <br> Conjunción de disyunción y negado de conjunción.               | "uno u otro, pero no ambos" |
-| **Bicondicionalidad**    | $\iff$             | $(A \rightarrow B) \wedge (B \rightarrow A) <br> Conjunción de condición suficiente y necesaria. | "si y solo si"             |
+| **Disyunción exclusiva** | $\underline{\vee}$ | $(A \vee B)$ $\wedge$ $\neg (A \wedge B)$ <br> Conjunción de disyunción y negado de conjunción.               | "uno u otro, pero no ambos" |
+| **Bicondicionalidad**    | $\iff$             | $(A \rightarrow B) \wedge (B \rightarrow A)$ <br> Conjunción de condición suficiente y necesaria. | "si y solo si"             |
 
 ## 1.6. Formalización
 
@@ -190,7 +190,7 @@ Aunque la frase conjuntiva sea adversativa, solo cambia el significado respecto 
 
 ---
 
-### Ejemplo con frase **disyuntiva alternativa**
+### Ejemplos con frases **disyuntivas alternativas**
 
 >**Llueven calamares o no es martes**
 
@@ -206,7 +206,7 @@ Aunque la frase conjuntiva sea adversativa, solo cambia el significado respecto 
 
 ---
 
-### Ejemplo con frase **implicativa de suficiencia**
+### Ejemplos con frases **implicativas de suficiencia**
 
 >**Cuando te duermes, alguien hace malabares**
 
@@ -283,7 +283,7 @@ Aunque la frase conjuntiva sea adversativa, solo cambia el significado respecto 
 
 ---
 
-### Ejemplo con frase **implicativa de necesidad**
+### Ejemplos con frases **implicativas de necesidad**
 
 >**Para que duermas, alguien debe hacer malabares**
 
@@ -390,7 +390,7 @@ Aunque la frase conjuntiva sea adversativa, solo cambia el significado respecto 
 
 ---
 
-### Ejemplo con varias conectivas
+### Ejemplos con varias conectivas
 
 >**Cuando no estoy seguro, o pregunto y lo averiguo, o descanso**
 
