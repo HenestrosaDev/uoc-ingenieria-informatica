@@ -2,11 +2,13 @@
 
 El desglose de los ejercicios se realiza por dificultad:
 
-- 🟩 Fácil
-- 🟧 Media
-- 🟥 Difícil
+- [🟩 Fácil](#-fácil)
+- [🟧 Media](#-media)
+- [🟥 Difícil](#-difícil)
 
 ## 🟩 Fácil
+
+### 1
 
 >**Siempre que piensas en escribir, o bien abandonas la idea o bien te sale algo más importante**
 
@@ -29,7 +31,8 @@ $P \rightarrow A \vee S$
 </details>
 
 <br>
-<br>
+
+### 2
 
 >**Cuando ni llueve ni soplas el viento, me gusta pasear por la ciudad**
 
@@ -51,7 +54,8 @@ $\neg P \wedge \neg B \rightarrow A$
 </details>
 
 <br>
-<br>
+
+### 3
 
 >**Cuando llueve me gusta pasear por la ciudad, cuando no sopla el viento**
 
@@ -74,7 +78,8 @@ $\neg B \rightarrow (P \rightarrow A)$
 </details>
 
 <br>
-<br>
+
+### 4
 
 >**Si llueve no sopla el viento y si no llueve sí que sopla**
 
@@ -95,6 +100,8 @@ $(P \rightarrow \neg B) \wedge (\neg P \rightarrow B)$
 </details>
 
 ## 🟧 Media
+
+### 1
 
 >**Cuando tengo prisa y hambre, corro siempre que no estoy nervioso**
 
@@ -118,7 +125,8 @@ $P \wedge G \rightarrow (\neg N \rightarrow C)$
 </details>
 
 <br>
-<br>
+
+### 2
 
 >**Cuando estoy nervioso, corro cuando tengo hambre y no tengo prisa**
 
@@ -142,7 +150,8 @@ $N \wedge (G \wedge \neg P \rightarrow C)$
 </details>
 
 <br>
-<br>
+
+### 3
 
 >**Si cuando tengo hambre tengo prisa, cuando estoy nervioso no corro**
 
@@ -165,7 +174,8 @@ $(G \rightarrow P) \rightarrow (N \rightarrow \neg C)$
 </details>
 
 <br>
-<br>
+
+### 4
 
 >**Debo estar nervioso para tener prisa y debo tener hambre para correr**
 
@@ -187,7 +197,9 @@ $(G \rightarrow P) \rightarrow (N \rightarrow \neg C)$
 $(P \rightarrow N) \wedge (C \rightarrow G)$
 </details>
 
-### 🟥 Difícil
+## 🟥 Difícil
+
+### 1
 
 >**Cuando debo tener dinero para ir de vacaciones, es necesario que tenga tiempo libre para tener salud**
 
@@ -210,7 +222,8 @@ $(V \rightarrow D) \rightarrow (S \rightarrow L)$
 </details>
 
 <br>
-<br>
+
+### 2
 
 >**Cuando tengo tiempo libre, es necesario que tenga dinero y salud para ir de vacaciones**
 
@@ -234,7 +247,8 @@ $L \rightarrow (V \rightarrow D \wedge S)$
 </details>
 
 <br>
-<br>
+
+### 3
 
 >**Es necesario que tenga dinero y salud para ir de vacaciones cuando tengo tiempo libre**
 
