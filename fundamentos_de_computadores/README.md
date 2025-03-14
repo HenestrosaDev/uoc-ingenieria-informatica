@@ -4,8 +4,7 @@
 
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
-- **Método de evaluación**: Evaluación continua (EC) + Examen (EX)
-- **Ponderación**: EC 70% (PEC 50% + PR 50%) + EX 30%
+- **Método de evaluación**: Evaluación continua (70%: PECs 50% + PR 50%) + Examen (30%)
 - **Créditos**: 6
 - [**Plan docente**](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20242&SignatureCode=75.562&Context=3&Locale=es)
 
@@ -20,20 +19,112 @@ xychart-beta
 ><details>
 >	<summary>Leyenda de calificaciones</summary>
 >
->	- Matrícula de Honor (M): 9 a 10
->	- Sobresaliente (EX): 9 a 10
->	- Notable (NO): 7 a 8,99
->	- Aprobado (A): 5 a 6,99
->	- Suspendido (SU): 0 a 4,99
+>	- **Matrícula de Honor (M)**: 9 a 10
+>	- **Sobresaliente (EX)**: 9 a 10
+>	- **Notable (NO)**: 7 a 8,99
+>	- **Aprobado (A)**: 5 a 6,99
+>	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
-## Calificación final 
+## Resumen de calificaciones
 
-- [**Examen**](examen): - / 10,00 ()
-- **Evaluación continua**: - / 10,00 ()
-	- **PECs**: - / 10,00 ()
-	- **PR**: - / 10,00 ()
-- **Calificación final**: - / 10,00 ()
+>[!NOTE]
+>La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
+
+<table>
+	<tr>
+		<th>BLOQUE</th>
+		<th>DESGLOSE</th>
+		<th>ACTIVIDAD</th>
+		<th>CALIFICACIÓN</th>
+		<th>CALIFICACIÓN PONDERADA</th>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<strong>Evaluación continua (EC)</strong> (70%)
+		</td>
+		<td rowspan="3">
+			<strong>
+				Pruebas de evaluación continua (PEC)
+			</strong>
+			(50%)
+		</td>
+		<td>
+			<a href="pec1">
+				PEC1 - ¿Estás preparado para adentrarte en el mundo de los computadores digitales?
+			</a>
+		</td>
+		<td>
+			- / 20,00 ( )
+		</td>
+		<td rowspan="4">
+			<p>
+				<strong>Calificación total PECs</strong>:
+				<br>
+				- / 100,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada EC</strong>:
+				<br>
+				- / 7,00
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec2">
+				PEC2 - Diseñando circuitos combinacionales
+			</a> (40%)
+		</td>
+		<td>
+			- / 40,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec3">
+				PEC3 - De los sistemas combinacionales a los sistemas secuenciales: diseñando circuitos con memoria
+			</a> (40%)
+		</td>
+		<td>
+			- / 40,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Práctica (PR)</strong> 
+			(50%)
+		</td>	
+		<td>
+			<a href="pr1">
+				PR1 - Máquinas de estados: entendiendo la arquitectura básica de un computador a partir de las máquinas algorítmicas generalizables
+			</a> (100%)
+		</td>
+		<td>- / 100,00 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="examen">
+				<strong>Examen</strong>
+			</a> (30%)
+		</td>
+		<td colspan="2"></td>
+		<td>- / 10,00</td>
+		<td>- / 3,00</td>
+	</tr>
+	<tr>
+		<td colspan="4">
+		</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<strong>CALIFICACIÓN FINAL</strong>
+		</td>
+		<td>- / 10,00 ( )</td>
+	</tr>
+</table>
 
 ## Pruebas de evaluación continua (PECs)
 

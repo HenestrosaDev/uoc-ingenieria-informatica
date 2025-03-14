@@ -4,8 +4,7 @@
 
 - **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Optativa
-- **Método de evaluación**: Evaluación continua (EC)
-- **Ponderación**: EC 100% (PEC1 50% + PEC2 50%)
+- **Método de evaluación**: Evaluación continua (100%: PEC1 50% + PEC2 50%)
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.614&idioma=CAS&pagina=PD_PREV_PORTAL)
 
@@ -24,33 +23,30 @@ xychart-beta
 ><details>
 >	<summary>Leyenda de calificaciones</summary>
 >
->	- Matrícula de Honor (M): 9 a 10
->	- Sobresaliente (EX): 9 a 10
->	- Notable (NO): 7 a 8,99
->	- Aprobado (A): 5 a 6,99
->	- Suspendido (SU): 0 a 4,99
+>	- **Matrícula de Honor (M)**: 9 a 10
+>	- **Sobresaliente (EX)**: 9 a 10
+>	- **Notable (NO)**: 7 a 8,99
+>	- **Aprobado (A)**: 5 a 6,99
+>	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
-## Calificación final 
+## Resumen de calificaciones
 
-- **Evaluación continua**: 9,60 / 10,00 (EX)
-	- **PEC1**: 9,45/ 10,00 (EX)
-	- **PEC2**: 9,76 / 10,00 (EX)
-- **Calificación final**: 9,60 / 10,00 (M)
-
-## Pruebas de evaluación continua (PECs)
+>[!NOTE]
+>La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
 
 <table>
 	<tr>
-		<th>PEC</th>
+		<th>BLOQUE</th>
 		<th>ACTIVIDAD</th>
 		<th>CALIFICACIÓN</th>
+		<th>CALIFICACIÓN PONDERADA</th>
 	</tr>
 	<tr>
-		<td rowspan="9">
+		<td rowspan="6">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1">
 				PEC1 - Bloque 1: Álgebra
-			</a>
+			</a> (50%)
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac01_numeros">
@@ -59,6 +55,19 @@ xychart-beta
 		</td>
 		<td>
 			6,17 / 7,00 (B)
+		</td>
+		<td rowspan="6">
+			<p>
+				<strong>Calificación total PEC1</strong>:
+				<br>
+				 39,67 / 42,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada PEC2</strong>:
+				<br>
+				47,23 / 50,00
+			</p>
 		</td>
 	</tr>
 	<tr>
@@ -112,22 +121,10 @@ xychart-beta
 		</td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td><strong>SUMA DE CALIFICACIONES</strong></td>
-		<td><strong>39,67 / 42,00 (A)</strong></td>
-	</tr>
-	<tr>
-		<td><strong>CALIFICACIÓN PONDERADA</strong> (50%)</td>
-		<td><strong>47,23 / 50,00 (A)</strong></td>
-	</tr>
-	<tr>
-		<td rowspan="12">
+		<td rowspan="9">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2">
 				PEC2 - Bloque 2: Análisis
-			</a>
+			</a> (50%)
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac06_funciones_polinomicas">
@@ -136,6 +133,19 @@ xychart-beta
 		</td>
 		<td>
 			7,00 / 7,00 (A)
+		</td>
+		<td rowspan="9">
+			<p>
+				<strong>Calificación total PEC2</strong>:
+				<br>
+				61,50 / 63,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada PEC2</strong>:
+				<br>
+				48,81 / 50,00
+			</p>
 		</td>
 	</tr>
 	<tr>
@@ -219,16 +229,14 @@ xychart-beta
 		</td>
 	</tr>
 	<tr>
-		<td></td>
+		<td colspan="3"></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><strong>SUMA DE CALIFICACIONES</strong></td>
-		<td><strong>61,50 / 63,00 (A)</strong></td>
-	</tr>
-	<tr>
-		<td><strong>CALIFICACIÓN PONDERADA</strong> (50%)</td>
-		<td><strong>48,81 / 50,00 (A)</strong></td>
+		<td colspan="3">
+			<strong>CALIFICACIÓN FINAL</strong>
+		</td>	
+		<td>9,60 / 10,00 (M)</td>	
 	</tr>
 </table>
 
@@ -236,5 +244,4 @@ xychart-beta
 
 >[!NOTE]
 >Cada bloque del libro tiene un resumen asociado en la carpeta correspondiente a su actividad.
-
 - [**Iniciación a las matemáticas para la ingeniería**](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=273914&hash=44d365d71c2f61ac6cb2d049701a0fb93de2211c41e2dcbaed7291589a05a02a)

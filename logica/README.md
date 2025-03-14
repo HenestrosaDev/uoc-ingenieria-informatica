@@ -4,8 +4,7 @@
 
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
-- **Método de evaluación**: [Evaluación continua (EC) + Prueba de síntesis (PS)] o [Evaluación continua (EC) + Examen (EX)]
-- **Ponderación**: (EC 70% + PS 30%) o (EC 35% + EX 65%)
+- **Método de evaluación**: [Evaluación continua (70%) + Prueba de síntesis (30%)] o [Evaluación continua (35%) + Examen (65%)]
 - **Créditos**: 6
 - [**Plan docente**](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20242&SignatureCode=75.570&Context=3&Locale=es)
 
@@ -20,36 +19,115 @@ xychart-beta
 ><details>
 >	<summary>Leyenda de calificaciones</summary>
 >
->	- Matrícula de Honor (M): 9 a 10
->	- Sobresaliente (EX): 9 a 10
->	- Notable (NO): 7 a 8,99
->	- Aprobado (A): 5 a 6,99
->	- Suspendido (SU): 0 a 4,99
+>	- **Matrícula de Honor (M)**: 9 a 10
+>	- **Sobresaliente (EX)**: 9 a 10
+>	- **Notable (NO)**: 7 a 8,99
+>	- **Aprobado (A)**: 5 a 6,99
+>	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
-## Calificación final 
-
-- [**Prueba de síntesis**](ps): - / 10,00 ()
-- **Evaluación continua**: - / 10,00 ()
-- **Calificación final**: - / 10,00 ()
-
-## Pruebas de evaluación continua (PECs)
+## Resumen de calificaciones
 
 >[!NOTE]
->- En la mayoría de casos, se dispondrá de un máximo de tres intentos para realizar el ejercicio. Si no se consigue resolver el ejercicio se puede solicitar, un nuevo enunciado hasta completar el número máximo de intentos permitido.
->- Cada ejercicio de la PEC varía de un intento a otro.
+>La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
 
-| NOMBRE                                                              | CALIFICACIÓN       |
-|---------------------------------------------------------------------|--------------------|
-| [PEC1 - El lenguaje formal de la lógica de enunciados](pec1)            | - / 16,67 ( )  |
-| [PEC2 - La deducción natural: un sistema de razonamiento formal](pec2)     | - / 16,67 ( )  |
-| [PEC3 - Mecanización y verificación de razonamientos formales](pec3) | - / 16,67 ( ) |
-| [PEC4 - El lenguaje formal de la lógica de predicados](pec4)                    | - / 16,67 ( ) |
-| [PEC5 - La deducción natural en la lógica de predicados](pec5)                    | - / 16,67 ( ) |
-| [PEC6 - El método de resolución y la semántica de la lógica de predicados](pec6)                    | - / 16,67 ( ) |
-|                                                                     |                      |
-| **SUMA DE CALIFICACIONES**                                          | **- / 100,02 ( )** |
-| **CALIFICACIÓN PONDERADA** (70%)                                    | **- / 70,00 ( )** |
+<table>
+	<tr>
+		<th>BLOQUE</th>
+		<th>ACTIVIDAD</th>
+		<th>CALIFICACIÓN</th>
+		<th>CALIFICACIÓN PONDERADA</th>
+	</tr>
+	<tr>
+		<td rowspan="6">
+			<strong>Evaluación continua (EC)</strong> (70%)
+		</td>
+		<td>
+			<a href="pec1">
+				PEC1 - El lenguaje formal de la lógica de enunciados
+			</a>
+			(16,67%)
+		</td>
+		<td>- / 16,67 ( )</td>
+		<td rowspan="6">
+			<p>
+				<strong>Calificación total PECs</strong>:
+				<br>
+				- / 100,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada EC</strong>:
+				<br>
+				- / 7,00</td>
+			</p>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec2">
+				PEC2 - La deducción natural: un sistema de razonamiento formal
+			</a>
+			(16,67%)
+		</td>
+		<td>- / 16,67 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec3">
+				PEC3 - Mecanización y verificación de razonamientos formales
+			</a>
+			(16,67%)
+		</td>
+		<td>- / 16,67 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec4">
+				PEC4 - El lenguaje formal de la lógica de predicados
+			</a>
+			(16,67%)
+		</td>
+		<td>- / 16,67 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec5">
+				PEC5 - La deducción natural en la lógica de predicados
+			</a>
+			(16,67%)
+		</td>
+		<td>- / 16,67 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec6">
+				PEC6 - El método de resolución y la semántica de la lógica de predicados
+			</a>
+			(16,67%)
+		</td>
+		<td>- / 16,67 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="ps">
+				<strong>Prueba de síntesis</strong>
+			</a> (30%)
+		</td>
+		<td></td>
+		<td>- / 10,00</td>
+		<td>- / 3,00</td>
+	</tr>
+	<tr>
+		<td colspan="3"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<strong>CALIFICACIÓN FINAL</strong>
+		</td>
+		<td>- / 10,00 ( )</td>
+	</tr>
+</table>
 
 ## Pruebas prácticas (PPs)
 
@@ -69,7 +147,7 @@ xychart-beta
 
 ## Ejercicios de Alura
 
-Alura es la herramienta en la que se realizan las PECs y las PPs de la asignatura. Proporciona retroalimentación inmediata sobre la corrección de los ejercicios realizados. Dentro de ella, hay **ejercicios de carácter opcional** que permiten al alumno poner en práctica los aspectos teóricos estudiados en el libro.
+Alura es la herramienta con la que se realizan las PECs y las PPs de la asignatura. Proporciona retroalimentación inmediata sobre la corrección de los ejercicios realizados. Dentro de ella, hay **ejercicios de carácter opcional** que permiten al alumno poner en práctica los aspectos teóricos estudiados en el libro.
 
 Los ejercicios se dividen en los dos bloques principales enseñados en la asignatura: la lógica de **enunciados** y la lógica de **predicados**.
 

@@ -4,8 +4,7 @@
 
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
-- **Método de evaluación**: Evaluación continua (EC) + Examen (EX)
-- **Ponderación**: EC 35% + EX 65%
+- **Método de evaluación**: Examen (65%) + Evaluación continua (35%)
 - **Créditos**: 6
 - [**Plan docente**](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20242&SignatureCode=75.558&Context=2&Locale=es)
 
@@ -20,169 +19,141 @@ xychart-beta
 ><details>
 >	<summary>Leyenda de calificaciones</summary>
 >
->	- Matrícula de Honor (M): 9 a 10
->	- Sobresaliente (EX): 9 a 10
->	- Notable (NO): 7 a 8,99
->	- Aprobado (A): 5 a 6,99
->	- Suspendido (SU): 0 a 4,99
+>	- **Matrícula de Honor (M)**: 9 a 10
+>	- **Sobresaliente (EX)**: 9 a 10
+>	- **Notable (NO)**: 7 a 8,99
+>	- **Aprobado (A)**: 5 a 6,99
+>	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
-## Calificación final 
+## Resumen de calificaciones
 
-- [**Examen**](examen): - / 10,00 ()
-- **Evaluación continua**: - / 10,00 ()
-- **Calificación final**: - / 10,00 ()
-
-## Pruebas de evaluación continua (PECs)
+>[!NOTE]
+>La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
 
 <table>
 	<tr>
-		<th>PEC</th>
+		<th>BLOQUE</th>
+		<th>ACTIVIDAD</th>
 		<th>PARTE</th>
 		<th>CALIFICACIÓN</th>
+		<th>CALIFICACIÓN PONDERADA</th>
 	</tr>
 	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec1">
-				PEC1 - Funciones reales de variable real
-			</a>
+		<td rowspan="7">
+			<strong>Evaluación continua (EC)</strong> (35%)
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec1/parte1">
+			<a href="pec1">
+				PEC1 - Funciones reales de variable real
+			</a>
+			(10%)
+		</td>
+		<td>
+			<a href="pec1">
 				Parte 1
 			</a>
-		<td>
-			10,00 / 10,00 (A)
+		</td>
+		<td>10,00 / 10,00 (A)</td>
+		<td rowspan="7">
+			<p>
+				<strong>Calificación total PECs</strong>:
+				<br>
+				- / 100,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada EC</strong>:
+				<br>
+				- / 3,50
+			</p>	
 		</td>
 	</tr>
 	<tr>
 		<td rowspan="2">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec2">
+			<a href="pec2">
 				PEC2 - Límites de funciones y continuidad
 			</a>
+			(30%)
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec2/parte1">
+			<a href="pec2/parte1">
 				Parte 1
 			</a>
 		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
+		<td>- / 10,00 ( )</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec2/parte2">
+			<a href="pec2/parte2">
 				Parte 2
 			</a>
 		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
+		<td>- / 10,00 ( )</td>
 	</tr>
 	<tr>
 		<td rowspan="3">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec1">
+			<a href="pec3">
 				PEC3 - Derivación: el problema de la tangente
 			</a>
+			(30%)
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec3/parte1">
+			<a href="pec3/parte1">
 				Parte 1
 			</a>
 		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
+		<td>- / 10,00 ( )</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec3/parte2">
+			<a href="pec3/parte2">
 				Parte 2
 			</a>
 		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
+		<td>- / 10,00 ( )</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec3/parte3">
+			<a href="pec3/parte3">
 				Parte 3
 			</a>
 		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
+		<td>- / 10,00 ( )</td>
 	</tr>
 	<tr>
-		<td rowspan="3">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec4">
-				PEC4 - Integración: el problema del área
+		<td>
+			<a href="pec4">
+				PEC4 - Integración
 			</a>
+			(10%)
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec4/parte1">
+			<a href="pec4">
 				Parte 1
 			</a>
 		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
+		<td>- / 10,00 ( )</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec4/parte2">
-				Parte 2
-			</a>
+			<a href="examen">
+				<strong>Examen</strong>
+			</a> (65%)
 		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec4/parte3">
-				Parte 3
-			</a>
-		</td>
-		<td>
-			- / 10,00 ( )
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec5">
-				PEC5 - Sucesiones y series de números reales
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec5/parte1">
-				Parte 1
-			</a>
-		<td>
-			- / 10,00 ( )
-		</td>
-	</tr>
-	<tr>
 		<td colspan="2"></td>
+		<td>- / 10,00</td>
+		<td>- / 6,50</td>
+	</tr>
+	<tr>
+		<td colspan="4"></td>	
 		<td></td>
 	</tr>
 	<tr>
-		<td colspan="2">
-			<strong>SUMA DE CALIFICACIONES</strong>
+		<td colspan="4">
+			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
-		<td>
-			<strong>- / 100,00 ( )</strong>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<strong>CALIFICACIÓN PONDERADA</strong> (35%)
-		</td>
-		<td>
-			<strong>- / 35,00 ( )</strong>
-		</td>
+		<td>- / 10,00 ( )</td>
 	</tr>
 </table>
 

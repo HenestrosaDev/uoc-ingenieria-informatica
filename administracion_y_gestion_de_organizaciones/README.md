@@ -4,8 +4,7 @@
 
 - **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Básica
-- **Método de evaluación**: Examen (EX) + Evaluación continua (EC)
-- **Ponderación**: EX 65% + EC 35%
+- **Método de evaluación**: Examen (65%) + Evaluación continua (35%)
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.556&idioma=CAS&pagina=PD_PREV_PORTAL)
 
@@ -20,32 +19,102 @@ xychart-beta
 ><details>
 >	<summary>Leyenda de calificaciones</summary>
 >
->	- Matrícula de Honor (M): 9 a 10
->	- Sobresaliente (EX): 9 a 10
->	- Notable (NO): 7 a 8,99
->	- Aprobado (A): 5 a 6,99
->	- Suspendido (SU): 0 a 4,99
+>	- **Matrícula de Honor (M)**: 9 a 10
+>	- **Sobresaliente (EX)**: 9 a 10
+>	- **Notable (NO)**: 7 a 8,99
+>	- **Aprobado (A)**: 5 a 6,99
+>	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
-## Calificación final
+## Resumen de calificaciones
 
-- [**Examen**](examen): 7,60 / 10,00 (NO)
-- **Evaluación continua**: 8,88 / 10,00 (NO)
-- **Calificación final**: 8,10 / 10,00 (NO)
+>[!NOTE]
+>La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
 
-## Pruebas de evaluación continua (PECs)
-
-| NOMBRE                                                              | CALIFICACIÓN       |
-|---------------------------------------------------------------------|--------------------|
-| [PEC1 - Tipificación y análisis de una organización](pec1)            | 24,30 / 30,00 (B)  |
-| [PEC2 - Análisis financiero y contable de una organización](pec2)     | 27,13 / 30,00 (A)  |
-| [PEC3 - Elaboración de un plan de negocio, con aspectos de RSC](pec3) | 27,60 / 30,00 (A) |
-| [PEC4 - Datos, organizaciones y resiliencia](pec4)                    | 9,80 / 10,00 (A) |
-|                                                                     |                      |
-| **SUMA DE CALIFICACIONES**                                          | **88,83 / 100,00 (B)** |
-| **CALIFICACIÓN PONDERADA** (35%)                                    | **31,09 / 35,00 (B)** |
+<table>
+	<tr>
+		<th>BLOQUE</th>
+		<th>ACTIVIDAD</th>
+		<th>CALIFICACIÓN</th>
+		<th>CALIFICACIÓN PONDERADA</th>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<strong>Evaluación continua (EC)</strong> (35%)
+		</td>
+		<td>
+			<a href="pec1">
+				PEC1 - Tipificación y análisis de una organización
+			</a>
+			(30%)
+		</td>
+		<td>24,30 / 30,00 (B)</td>
+		<td rowspan="4">
+			<p>
+				<strong>Calificación total PECs</strong>:
+				<br>
+				88,83 / 100,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada EC</strong>:
+				<br>
+				3,10 / 3,50</td>
+			</p>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec2">
+				PEC2 - Análisis financiero y contable de una organización
+			</a>
+			(30%)
+		</td>
+		<td>27,13 / 30,00 (A)</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec3">
+				PEC3 - Elaboración de un plan de negocio, con aspectos de RSC
+			</a>
+			(30%)
+		</td>
+		<td>27,60 / 30,00 (A)</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec4">
+				PEC4 - Datos, organizaciones y resiliencia
+			</a>
+			(10%)
+		</td>
+		<td>9,80 / 10,00 (A)</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="examen">
+				<strong>Examen</strong>
+			</a> (65%)
+		</td>
+		<td></td>
+		<td>7,60 / 10,00</td>
+		<td>4,94 / 6,50</td>
+	</tr>
+	<tr>
+		<td colspan="3"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<strong>CALIFICACIÓN FINAL</strong>
+		</td>
+		<td>8,10 / 10,00 (NO)</td>
+	</tr>
+</table>
 
 ## Debates
+
+>[!NOTE]
+>A pesar que la participación en los mismos es optativa, pueden representar hasta un **10% adicional** en algunas notas del curso (siempre y cuando haya sido una participación de calidad). Esta valoración positiva influirá principalmente en notas donde haya alguna duda (por ejemplo, entre aprobado y suspenso, entre EX/M, etc.), tanto de la EC como del examen.
 
 - [**Debate 1**: Impacto de la IA en la toma de decisiones empresariales: ¿automatización o supervisión humana?](debate1)
 - [**Debate 2**: Objetivos de Desarrollo Sostenible (ODS)](debate2)
