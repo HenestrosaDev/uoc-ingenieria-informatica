@@ -139,7 +139,7 @@ xychart-beta
 | NOMBRE                                                              | CALIFICACIÓN       |
 |---------------------------------------------------------------------|--------------------|
 | [PP1 - El lenguaje formal de la lógica de enunciados](pec1/pp1)            | 10,00 / 10,00 (A)  |
-| [PP2 - La deducción natural: un sistema de razonamiento formal](pec2/pp2)     | - / 10,00 ( )  |
+| [PP2 - La deducción natural: un sistema de razonamiento formal](pec2/pp2)     | 10,00 / 10,00 (A)  |
 | [PP3 - Mecanización y verificación de razonamientos formales](pec3/pp3) | - / 10,00 ( ) |
 | [PP4 - El lenguaje formal de la lógica de predicados](pec4/pp4)                    | - / 10,00 ( ) |
 | [PP5 - La deducción natural en la lógica de predicados](pec5/pp5)                    | - / 10,00 ( ) |
