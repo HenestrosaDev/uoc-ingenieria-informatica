@@ -126,26 +126,6 @@ xychart-beta
 	</tr>
 </table>
 
-## Pruebas de evaluación continua (PECs)
-
-| NOMBRE                                                              | CALIFICACIÓN       |
-|---------------------------------------------------------------------|--------------------|
-| [PEC1 - ¿Estás preparado para adentrarte en el mundo de los computadores digitales?](pec1)            | - / 20,00 ( )  |
-| [PEC2 - Diseñando circuitos combinacionales](pec2)     | - / 40,00 ( )  |
-| [PEC3 - De los sistemas combinacionales a los sistemas secuenciales: diseñando circuitos con memoria](pec3) | - / 40,00 ( ) |
-|                                                                     |                      |
-| **SUMA DE CALIFICACIONES**                                          | **- / 100,00 ( )** |
-| **CALIFICACIÓN PONDERADA** (50% de la EC)                                    | **- / 50,00 ( )** |
-
-## Prácticas (PRs)
-
-| NOMBRE                                                            | CALIFICACIÓN           |
-|-------------------------------------------------------------------|------------------------|
-| [PR1 - Máquinas de estados: Entendiendo la arquitectura básica de un computador a partir de las máquinas algoritmicas generalizables](pr1)                | - / 100,00 ( )     |
-|                                                                   |                        |
-| **SUMA DE CALIFICACIONES**                                        | **- / 100,00 ( )** |
-| **CALIFICACIÓN PONDERADA** (50% de la EC)                                    | **- / 50,00 ( )** |
-
 ## Recursos de aprendizaje
 
 >[!NOTE]
