@@ -40,7 +40,7 @@ xychart-beta
 		<th>CALIFICACIÓN PONDERADA</th>
 	</tr>
 	<tr>
-		<td rowspan="7">
+		<td rowspan="10">
 			<strong>Evaluación continua (EC)</strong> (35%)
 		</td>
 		<td>
@@ -55,7 +55,7 @@ xychart-beta
 			</a>
 		</td>
 		<td>10,00 / 10,00 (A)</td>
-		<td rowspan="7">
+		<td rowspan="10">
 			<p>
 				<strong>Calificación total PECs</strong>:
 				<br>
@@ -74,7 +74,7 @@ xychart-beta
 			<a href="pec2">
 				PEC2 - Límites de funciones y continuidad
 			</a>
-			(30%)
+			(20%)
 		</td>
 		<td>
 			<a href="pec2/parte1">
@@ -122,14 +122,44 @@ xychart-beta
 		<td>- / 10,00 ( )</td>
 	</tr>
 	<tr>
-		<td>
+		<td rowspan="3">
 			<a href="pec4">
-				PEC4 - Integración
+				PEC4 - Integración: el problema del área
+			</a>
+			(30%)
+		</td>
+		<td>
+			<a href="pec4/parte1">
+				Parte 1
+			</a>
+		</td>
+		<td>- / 10,00 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec4/parte2">
+				Parte 2
+			</a>
+		</td>
+		<td>- / 10,00 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec4/parte3">
+				Parte 3
+			</a>
+		</td>
+		<td>- / 10,00 ( )</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="pec5">
+				PEC5 - Sucesiones y series de números reales
 			</a>
 			(10%)
 		</td>
 		<td>
-			<a href="pec4">
+			<a href="pec5">
 				Parte 1
 			</a>
 		</td>
