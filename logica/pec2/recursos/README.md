@@ -38,11 +38,14 @@ La **deducción natural** es un método de validación de razonamientos que perm
 
 A partir de un conjunto de premisas marcadas como **P**, tendremos que aplicar un conjunto de reglas de inferencia para alcanzar la conclusión planteada en el razonamiento lógico. En lenguaje formal, se expresa del siguiente modo:
 
-$A \vee B, A \rightarrow (T \rightarrow), \neg(B \vee D) \therefore \neg T$
+$A \vee B, A \rightarrow (T \rightarrow D), \neg(B \vee D) \therefore \neg T$
 
 Donde:
 - El enunciado de cada premisa está separado por una coma.
 - La conclusión putativa se denota con un $\therefore$, que puede interpretarse en lenguaje natural como _entonces_.
+
+>[!NOTE]
+>En lugar de $\therefore$, también podremos encontrar el símbolo $\vdash$, el cual significa, entre otros, "se desprende de ello". El significado de ambos símbolos es diferente, ya que $\therefore$ indica que lo que viene a continuación es la conclusión del razonamiento, mientras que $\vdash$ indica que lo que va a continuación es una conclusión **válida** de las premisas del razonamiento.
 
 Las reglas BÁSICAS para llegar a la conclusión putativa son las siguientes: 
 
