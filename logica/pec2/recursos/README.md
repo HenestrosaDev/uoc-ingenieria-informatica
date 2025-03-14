@@ -4,7 +4,7 @@
 >Es ESENCIAL aprender y practicar la deducción natural sin ayuda de Alura, ya que tanto en el examen como en la prueba de síntesis se nos requerirá adjuntar fotos de los ejercicios realizados a mano. Además, tampoco dispondremos del acceso a dicha herramienta para comprobar nuestras deducciones.
 
 >[!NOTE]
->Los siguientes apartados no se recogen en este resumen, puesto que solo se aplican las [reglas básicas](#222-las-reglas) en la resolución de los ejercicios de deducción natural planteados por la UOC.
+>Los siguientes apartados no se recogen en este resumen, puesto que solo se aplican las [reglas básicas](#22-notación-y-reglas-de-la-deducción-natural) en la resolución de los ejercicios de deducción natural planteados por la UOC.
 >- **2.4. Reglas derivadas**
 >- **2.5. Equivalencias deductivas**
 >- **2.6. Teoremas**
@@ -36,11 +36,21 @@ La **deducción natural** es un método de validación de razonamientos que perm
 
 ## 2.2. Notación y reglas de la deducción natural
 
+A partir de un conjunto de premisas marcadas como **P**, tendremos que aplicar un conjunto de reglas de inferencia para alcanzar la conclusión planteada en el razonamiento lógico. En lenguaje formal, se expresa del siguiente modo:
+
+$A \vee B, A \rightarrow (T \rightarrow), \neg(B \vee D) \therefore \neg T$
+
+Donde:
+- El enunciado de cada premisa está separado por una coma.
+- La conclusión putativa se denota con un $\therefore$, que puede interpretarse en lenguaje natural como _entonces_.
+
+Las reglas BÁSICAS para llegar a la conclusión putativa son las siguientes: 
+
+>[!WARNING]
+>Hay que tener en cuenta que también existen reglas derivadas y equivalentes deductivos, los cuales no veremos en este bloque.
+
 ![Reglas básicas](img/reglas_basicas.png)
 >Captura sacada de [este vídeo](https://youtu.be/zkpdfRDuaqY) del canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
-
->[!NOTE]
->La **P** dentro de la columna REGLA APLICADA hace referencia a _premisa_.
 
 <br>
 <br>
@@ -487,6 +497,9 @@ Cualquier enunciado que aparece en una deducción puede volver a ser escrito al 
 ![](img/r6_iteracion.png)
 >Captura sacada de [este vídeo](https://youtu.be/0yzZRuBus1k) del canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
 
+<br>
+<br>
+
 Para cerrar una subdeducción abierta ―exportar en sentido ascendente al ámbito base―, se tiene que aplicar una de las tres reglas siguientes:
 
 <br>
@@ -502,8 +515,6 @@ Para cerrar una subdeducción abierta ―exportar en sentido ascendente al ámbi
 
 ![](img/r7_introduccion_de_la_implicacion.png)
 >Ejemplo sacado de [este vídeo](https://youtu.be/0yzZRuBus1k) del canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
-
->[!NOTE]
 
 <br>
 <br>
