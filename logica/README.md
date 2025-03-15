@@ -162,12 +162,12 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	<!-- FORMALIZACIÓN -->
 	<tr>
 		<td rowspan="3">
-			<a href="1_logica_de_enunciados/1_formalizacion">
+			<a href="ejercicios_alura/1_logica_de_enunciados/1_formalizacion">
 			Formalización
 			</a>
 		</td>
 		<td>
-			<a href="1_logica_de_enunciados/1_formalizacion/1_facil">
+			<a href="ejercicios_alura/1_logica_de_enunciados/1_formalizacion/1_facil">
 				🟩 Fácil
 			</a>
 		</td>
@@ -175,7 +175,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="1_logica_de_enunciados/1_formalizacion/2_medio">
+			<a href="ejercicios_alura/1_logica_de_enunciados/1_formalizacion/2_medio">
 				🟧 Media
 			</a>
 		</td>
@@ -183,7 +183,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="1_logica_de_enunciados/1_formalizacion/3_dificil">
+			<a href="ejercicios_alura/1_logica_de_enunciados/1_formalizacion/3_dificil">
 				🟥 Difícil
 			</a>
 		</td>
@@ -192,12 +192,12 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	<!-- DEDUCCIÓN NATURAL -->
 	<tr>
 		<td rowspan="2">
-			<a href="1_logica_de_enunciados/2_deduccion_natural">
+			<a href="ejercicios_alura/1_logica_de_enunciados/2_deduccion_natural">
 			Deducción natural
 			</a>
 		</td>
 		<td>
-			<a href="1_logica_de_enunciados/2_deduccion_natural/1_medio">
+			<a href="ejercicios_alura/1_logica_de_enunciados/2_deduccion_natural/1_medio">
 				🟧 Media
 			</a>
 		</td>
@@ -205,7 +205,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="1_logica_de_enunciados/2_deduccion_natural/2_dificil">
+			<a href="ejercicios_alura/1_logica_de_enunciados/2_deduccion_natural/2_dificil">
 				🟥 Difícil
 			</a>
 		</td>
@@ -214,12 +214,12 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	<!-- RESOLUCIÓN -->
 	<tr>
 		<td>
-			<a href="1_logica_de_enunciados/3_resolucion">
+			<a href="ejercicios_alura/1_logica_de_enunciados/3_resolucion">
 				Resolución
 			</a>
 		</td>
 		<td>
-			<a href="1_logica_de_enunciados/3_resolucion/1_medio">
+			<a href="ejercicios_alura/1_logica_de_enunciados/3_resolucion/1_medio">
 				🟧 Media
 			</a>
 		</td>
@@ -228,12 +228,12 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	<!-- TABLAS DE VERDAD -->
 	<tr>
 		<td rowspan="3">
-			<a href="1_logica_de_enunciados/4_tablas_de_verdad">
+			<a href="ejercicios_alura/1_logica_de_enunciados/4_tablas_de_verdad">
 				Tablas de verdad
 			</a>
 		</td>
 		<td>
-			<a href="1_logica_de_enunciados/4_tablas_de_verdad/1_facil">
+			<a href="ejercicios_alura/1_logica_de_enunciados/4_tablas_de_verdad/1_facil">
 				🟩 Fácil
 			</a>
 		</td>
@@ -241,7 +241,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="1_logica_de_enunciados/4_tablas_de_verdad/2_medio">
+			<a href="ejercicios_alura/1_logica_de_enunciados/4_tablas_de_verdad/2_medio">
 				🟧 Media
 			</a>
 		</td>
@@ -249,7 +249,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="1_logica_de_enunciados/4_tablas_de_verdad/3_dificil">
+			<a href="ejercicios_alura/1_logica_de_enunciados/4_tablas_de_verdad/3_dificil">
 				🟥 Difícil
 			</a>
 		</td>
@@ -268,12 +268,12 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	<!-- DEDUCCIÓN NATURAL -->
 	<tr>
 		<td rowspan="2">
-			<a href="2_logica_de_predicados/1_deduccion_natural">
+			<a href="ejercicios_alura/2_logica_de_predicados/1_deduccion_natural">
 			Deducción natural
 			</a>
 		</td>
 		<td>
-			<a href="2_logica_de_predicados/1_deduccion_natural/1_facil">
+			<a href="ejercicios_alura/2_logica_de_predicados/1_deduccion_natural/1_facil">
 				🟩 Fácil
 			</a>
 		</td>
@@ -281,7 +281,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="2_logica_de_predicados/1_deduccion_natural//2_medio">
+			<a href="ejercicios_alura/2_logica_de_predicados/1_deduccion_natural//2_medio">
 				🟧 Media
 			</a>
 		</td>
@@ -290,12 +290,12 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	<!-- RESOLUCIÓN -->
 	<tr>
 		<td>
-			<a href="2_logica_de_predicados/2_resolucion">
+			<a href="ejercicios_alura/2_logica_de_predicados/2_resolucion">
 				Resolución
 			</a>
 		</td>
 		<td>
-			<a href="2_logica_de_predicados/2_resolucion/1_medio">
+			<a href="ejercicios_alura/2_logica_de_predicados/2_resolucion/1_medio">
 				🟧 Media
 			</a>
 		</td>
@@ -304,12 +304,12 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	<!-- FÓRMULAS A ENUNCIADOS -->
 	<tr>
 		<td rowspan="2">
-			<a href="2_logica_de_predicados/3_formulas_a_enunciados">
+			<a href="ejercicios_alura/2_logica_de_predicados/3_formulas_a_enunciados">
 				Fórmulas a enunciados
 			</a>
 		</td>
 		<td>
-			<a href="2_logica_de_predicados/3_formulas_a_enunciados/1_facil">
+			<a href="ejercicios_alura/2_logica_de_predicados/3_formulas_a_enunciados/1_facil">
 				🟩 Fácil
 			</a>
 		</td>
@@ -317,7 +317,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="2_logica_de_predicados/3_formulas_a_enunciados/2_medio">
+			<a href="ejercicios_alura/2_logica_de_predicados/3_formulas_a_enunciados/2_medio">
 				🟧 Media
 			</a>
 		</td>
