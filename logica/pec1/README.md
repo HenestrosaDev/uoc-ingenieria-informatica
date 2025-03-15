@@ -350,4 +350,4 @@ $P \rightarrow (M \wedge F)$
 
 ### Calificación
 
-- / 10,00 (grado -)
+10,00 / 10,00 (grado A)

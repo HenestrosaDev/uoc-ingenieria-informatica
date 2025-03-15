@@ -48,7 +48,7 @@ xychart-beta
 			</a>
 			(16,67%)
 		</td>
-		<td>- / 16,67 ( )</td>
+		<td>16,67 / 16,67 (A)</td>
 		<td rowspan="6">
 			<p>
 				<strong>Calificación total PECs</strong>:
