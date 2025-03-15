@@ -132,8 +132,8 @@ xychart-beta
 ## Pruebas prácticas (PPs)
 
 >[!NOTE]
->- La PP no tiene efectos en la nota y su objetivo se prepararse para la PEC.
->- Se puede repetir tantas veces como quiera.
+>- La PP no tiene efectos en la calificación de la evaluación continua. Su objetivo es ayudar al alumnado a lograr los contenidos y las habilidades necesarias para resolver la PEC.
+>- Se puede repetir tantas veces como se quiera.
 >- Cada intento se puede guardar y continuar más tarde.
 
 | NOMBRE                                                              | CALIFICACIÓN       |
