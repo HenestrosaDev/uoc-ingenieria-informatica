@@ -92,6 +92,8 @@
 
 **Calificación**: 1,00 / 1,00
 
+---
+
 ## Calificación final
 
 10,00 / 10,00

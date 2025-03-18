@@ -128,6 +128,8 @@ $F \rightarrow (B \rightarrow H)$
 
 **Calificación**: 1,25 / 1,25
 
+---
+
 ## Calificación final
 
 10,00 / 10,00
