@@ -81,7 +81,7 @@ Cada proposición representa una columna en la tabla de verdad con la siguiente 
 Donde:
 - Las columnas en las que figuran los **átomos** nos permitirán determinar el **valor de verdad** de las premisas y, a su vez, de la conclusión.
 - Las filas son **interpretaciones**, las cuales constituyen conjuntos de asignaciones de valores de verdad para cada una de estas proposiciones.
-- Las celdas de cada fila de interpretación tienen asignadas un **valor de verdad** (**V**erdadero o **F**also), el cual se determina aplicando unas reglas que veremos en el [tercer paso]() apartado de [Resolución](#resolución).
+- Las celdas de cada fila de interpretación tienen asignadas un **valor de verdad** (**V**erdadero o **F**also), el cual se determina aplicando unas reglas que veremos en el [tercer paso](#3-escribir-las-combinaciones-de-valores-para-los-átomos) apartado de [Resolución](#resolución).
 
 Una interpretación puede ser escrita en álgebra booleana. Por ejemplo, este sería el equivalente de la tabla de verdad de arriba en dicha notación, donde cada proposición tiene asociada un valor de verdad:
 
