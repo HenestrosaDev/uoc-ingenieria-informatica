@@ -1,5 +1,4 @@
-
-# Ejercicios de Alura - Lógica de enunciados: Formalización
+# Ejercicios de Alura - Lógica de enunciados: deducción natural
 
 El desglose de los ejercicios se realiza por dificultad:
 
