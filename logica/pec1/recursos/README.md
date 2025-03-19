@@ -139,9 +139,9 @@ Podemos desglosarlos en estos dos pasos:
 
 	- Deben ser positivos para facilitar el análisis.
 	- No incluir las conectivas en la definición de los átomos.
-	- Evitar interpretaciones. Recordemos que estamos analizando la estructura sintáctica de las frases, no la semántica ni su validez empírica.
-
+	- Evitar interpretaciones. Recordemos que estamos analizando la estructura **sintáctica** de las frases, no la semántica ni su validez empírica.
 2. **Identificar conectivas**
+3. **Encontrar una frase equivalente para aclarar la estructura lógica del enunciado dado** a partir de las estructuras dadas en la tabla del apartado [1.3. Los elementos básicos del lenguaje de enunciados: átomos y conectivas](#13-los-elementos-básicos-del-lenguaje-de-enunciados-átomos-y-conectivas).
 
 ---
 
@@ -423,7 +423,7 @@ Aunque la frase conjuntiva sea adversativa, solo cambia el significado respecto 
 
 >**Cuando no estoy seguro, o pregunto y lo averiguo, o descanso**  
 >$\equiv$  
->**NO** estar seguro es **SUFICIENTE** para **O** preguntar **Y** averiguarlo **O** descansar
+>**NO** estar seguro es **SUFICIENTE** para (preguntar **Y** averiguarlo) **O** (descansar)
 
 **Átomos**:
 - $S$: "Estoy seguro"
@@ -444,14 +444,14 @@ Aunque la frase conjuntiva sea adversativa, solo cambia el significado respecto 
 
 >**Ella piensa, y argumenta cuando comprende la movida**
 >$\equiv$  
->Que ella piense es **SUFICIENTE** para que argumente **Y**, **ENTONCES**, argumente la movida
+>Ella piensa **Y** (comprender la movida es **SUFICIENTE** para argumentar)
 
 **Átomos**:
 - $P$: "piensa"
 - $A$: "argumenta"
 - $C$: "comprende la movida"
 
-**Formalización**: $P \wedge (A \rightarrow C)$
+**Formalización**: $P \wedge (C \rightarrow A)$
 
 <br>
 <br>

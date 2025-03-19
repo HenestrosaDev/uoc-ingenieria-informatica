@@ -20,6 +20,12 @@
 >**Si hace frío entonces sopla una brisa suave**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que haga frío es **SUFICIENTE** para que sople una brisa suave
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](capturas/2.png)
@@ -42,6 +48,12 @@ $F \rightarrow B$
 >**Sólo cuando hay poca humedad el invierno es agradable**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que haga poca humedad es **NECESARIO** para que el invierno sea agradable
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](capturas/3.png)
@@ -62,6 +74,12 @@ $A \rightarrow H$
 ## Ejercicio 4 - Formalización
 
 >**El invierno es agradable cuando no hace frío ni sopla una brisa suave**
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que **NO** haga frío **NI** sople una brisa suave es **SUFICIENTE** para que el invierno sea agradable
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -87,6 +105,12 @@ $\neg F \wedge \neg B \rightarrow A$
 >**Cuando no pasa que haga frío y haya poca humedad, el invierno es agradable**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que **NO** haga frío **NI** haga poca humedad es **SUFICIENTE** para que el invierno sea agradable
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](capturas/5.png)
@@ -108,6 +132,12 @@ $\neg (F \wedge H) \rightarrow A$
 ## Ejercicio 6 - Formalización
 
 >**Cuando hace frío, sólo si hay poca humedad sopla una brisa suave**
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que haga frío es **SUFICIENTE** para que (poca humedad sea **NECESARIA** para que sople una brisa suave)
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>

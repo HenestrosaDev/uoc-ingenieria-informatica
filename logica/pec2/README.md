@@ -97,6 +97,12 @@
 >**Cuando trabajo en la ESA, para participar en proyectos y recibir distinciones es necesario que sea meticuloso**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Trabajar en la ESA es **SUFICIENTE** para (ser meticuloso es **NECESARIO** para (participar en proyectos **Y** recibir distinciones))
+</details>
+
+<details>
 	<summary><strong>Formalización</strong></summary>
 
 $T \rightarrow ((P \wedge D) \rightarrow M)$
@@ -105,6 +111,12 @@ $T \rightarrow ((P \wedge D) \rightarrow M)$
 ### Premisa 2
 
 >**No hago formación continua cuando ni participo en proyectos ni recibo distinciones**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+(**NO** participar en proyectos **Y NO** recibir distinciones) es **SUFICIENTE** para no hacer formación continua
+</details>
 
 <details>
 	<summary><strong>Formalización</strong></summary>
@@ -117,6 +129,12 @@ $(\neg P \wedge \neg D) \rightarrow \neg F$
 >**Solo si hago formación continua participo en proyectos**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Hacer formación continua es **NECESARIO** para participar en proyectos
+</details>
+
+<details>
 	<summary><strong>Formalización</strong></summary>
 
 $P \rightarrow F$
@@ -125,6 +143,12 @@ $P \rightarrow F$
 ### Conclusión
 
 >**Si soy meticuloso pero no recibo distinciones, no participo en proyectos o no me siento realizado**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Ser meticuloso **Y NO** recibir distinciones es **SUFICIENTE** para **NO** participar en proyectos **O NO** sentirme realizado
+</details>
 
 <details>
 	<summary><strong>Formalización</strong></summary>

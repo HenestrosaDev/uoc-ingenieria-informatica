@@ -65,6 +65,12 @@ $(P \wedge M) \vee R$
 >**O madrugo mucho, o llego tarde al trabajo si no cojo el coche**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+**O** madrugo mucho, **O** (**NO** coger el coche es **SUFICIENTE** para llegar tarde al trabajo)
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](capturas/03.png)
@@ -90,6 +96,12 @@ $M \vee (\neg C \rightarrow T)$
 ### Ejercicio 4
 
 >**Si tienes razón, has de tener paciencia para alcanzar los objetivos**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Tener razón es **SUFICIENTE** para (tener paciencia es **NECESARIO** para alcanzar los objetivos)
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -118,6 +130,12 @@ $R \rightarrow (O \rightarrow P)$
 >**Es necesario disponer de medios para tener paciencia o alcanzar los objetivos**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Disponer de los medios es **NECESARIO** para tener paciencia **O** alcanzar los objetivos
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](capturas/05.png)
@@ -142,6 +160,12 @@ $(P \vee O) \rightarrow M$
 ### Ejercicio 6
 
 >**Si tengo razón alcanzo los objetivos, y si dispongo de medios tengo paciencia**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+(Tener razón es **SUFICIENTE** para alcanzar los objetivos) **Y** (disponer de medios es **SUFICIENTE** para tener paciencia)
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -170,6 +194,12 @@ $(R \rightarrow O) \wedge (M \rightarrow P)$
 >**Para desarrollar software de calidad, hay que ser metódico o aplicar técnicas de ingeniería**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Ser metódico **O** aplicar técnicas de ingeniería es **NECESARIO** para desarrollar software de calidad 
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](capturas/07.png)
@@ -194,6 +224,12 @@ $D \rightarrow (M \vee T)$
 ### Ejercicio 8
 
 >**Has de ser un informático graduado para desarrollar software de calidad, cuando eres metódico y aplicas técnicas de ingeniería**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Ser metódico **Y** aplicar técnicas de ingeniería es **SUFICIENTE** para (ser un informático graduado es **NECESARIO** para desarrollar software de calidad)
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -222,6 +258,12 @@ $(M \wedge T) \rightarrow (D \rightarrow I)$
 >**Si eres metódico, solamente desarrollas software de calidad cuando eres un informático graduado y aplicas técnicas de ingeniería**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Ser metódico es **SUFICIENTE** para (ser un informático graduado **Y** aplicar técnicas de ingeniería es **NECESARIO** para desarrollar software de calidad)
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](capturas/09.png)
@@ -246,6 +288,12 @@ $M \rightarrow (D \rightarrow (I \wedge T))$
 ### Ejercicio 10
 
 >**Se debe coger el coche para pasar por la autopista, cuando es necesario madrugar para no llegar tarde al trabajo**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+(Madrugar es **NECESARIO** para **NO** llegar tarde al trabajo) es **SUFICIENTE** para (coger el coche es **NECESARIO** para pasar por la autopista)
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -287,10 +335,17 @@ $(\neg T \rightarrow M) \rightarrow (A \rightarrow C)$
 - $P$: Participo en proyectos.
 - $M$: Soy meticuloso.
 - $D$: Recibo distinciones.
+- $F$: Hago formación continua.
 
 ### Premisa 1
 
 >**Si recibo distinciones, hago formación continua cuando participo en proyectos**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Recibir distinciones es **SUFICIENTE** para (participar en proyectos es **SUFICIENTE** para hacer formación continua)
+</details>
 
 <details>
 	<summary><strong>Formalización</strong></summary>
@@ -303,6 +358,12 @@ $D \rightarrow (P \rightarrow F)$
 >**Solo cuando participo en proyectos me siento realizado**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Participar en proyectos es **necesario** para que me sienta realizado
+</details>
+
+<details>
 	<summary><strong>Formalización</strong></summary>
 
 $R \rightarrow P$
@@ -313,6 +374,12 @@ $R \rightarrow P$
 >**Recibo distinciones y me siento realizado, cuando trabajo en la ESA**.
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Trabajar en la ESA es **SUFICIENTE** para (recibir distinciones **Y** sentirme realizado)
+</details>
+
+<details>
 	<summary><strong>Formalización</strong></summary>
 
 $T \rightarrow (D \wedge R)$
@@ -321,6 +388,12 @@ $T \rightarrow (D \wedge R)$
 ### Conclusión
 
 >**Debo ser meticuloso y hacer formación continua para participar en proyectos**.
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Ser meticuloso **Y** hacer formación continua es **NECESARIO** para participar en proyectos
+</details>
 
 <details>
 	<summary><strong>Formalización</strong></summary>
