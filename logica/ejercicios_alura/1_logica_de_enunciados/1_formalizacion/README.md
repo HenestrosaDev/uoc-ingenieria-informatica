@@ -13,6 +13,12 @@ El desglose de los ejercicios se realiza por dificultad:
 >**Siempre que piensas en escribir, o bien abandonas la idea o bien te sale algo más importante**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que pienses en escribir es **SUFICIENTE** para que **O** abandones la idea **O** te salga algo más importante
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](1_facil/1.png)
@@ -37,6 +43,12 @@ $P \rightarrow A \vee S$
 >**Cuando ni llueve ni soplas el viento, me gusta pasear por la ciudad**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que **NO** llueva **NI** sople el viento es **SUFICIENTE** para que me guste pasear por la ciudad 
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](1_facil/2.png)
@@ -58,6 +70,12 @@ $\neg P \wedge \neg B \rightarrow A$
 ### 3
 
 >**Cuando llueve me gusta pasear por la ciudad, cuando no sopla el viento**
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Que llueva y que **NO** sople el viento es **SUFICIENTE** para que me guste pasear por la ciudad
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -106,6 +124,12 @@ $(P \rightarrow \neg B) \wedge (\neg P \rightarrow B)$
 >**Cuando tengo prisa y hambre, corro siempre que no estoy nervioso**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Tener prisa **Y** hambre es **SUFICIENTE** para que, (si no estoy nervioso, entonces corra)
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](2_medio/1.png)
@@ -129,6 +153,12 @@ $P \wedge G \rightarrow (\neg N \rightarrow C)$
 ### 2
 
 >**Cuando estoy nervioso, corro cuando tengo hambre y no tengo prisa**
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Estar nervioso es **SUFICIENTE** para, si tengo hambre y **NO** tengo prisa, correr
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -156,6 +186,12 @@ $N \wedge (G \wedge \neg P \rightarrow C)$
 >**Si cuando tengo hambre tengo prisa, cuando estoy nervioso no corro**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+(Si cuando tengo hambre es **SUFICIENTE** para tener prisa), **ENTONCES** (ponerme nervioso es SUFICIENTE para **NO** correr)
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](2_medio/3.png)
@@ -178,6 +214,12 @@ $(G \rightarrow P) \rightarrow (N \rightarrow \neg C)$
 ### 4
 
 >**Debo estar nervioso para tener prisa y debo tener hambre para correr**
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+(Estar nervioso es **NECESARIO** para tener prisa) **Y** (tener hambre es **NECESARIO** para correr)
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -204,6 +246,12 @@ $(P \rightarrow N) \wedge (C \rightarrow G)$
 >**Cuando debo tener dinero para ir de vacaciones, es necesario que tenga tiempo libre para tener salud**
 
 <details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Si (tener dinero es **NECESARIO** para ir de vacaciones), **ENTONCES** (tener tiempo libre es **NECESARIO** para tener salud)
+</details>
+
+<details>
 	<summary>Captura de pantalla</summary>
 
 ![](3_dificil/1.png)
@@ -226,6 +274,12 @@ $(V \rightarrow D) \rightarrow (S \rightarrow L)$
 ### 2
 
 >**Cuando tengo tiempo libre, es necesario que tenga dinero y salud para ir de vacaciones**
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Si tengo tiempo libre, **ENTONCES** (tener dinero **Y** salud es **NECESARIO** para ir de vacaciones)
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
@@ -251,6 +305,12 @@ $L \rightarrow (V \rightarrow D \wedge S)$
 ### 3
 
 >**Es necesario que tenga dinero y salud para ir de vacaciones cuando tengo tiempo libre**
+
+<details>
+	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
+
+Si tengo tiempo libre, **ENTONCES** (tener dinero **Y** salud) es **NECESARIO** para ir de vacaciones
+</details>
 
 <details>
 	<summary>Captura de pantalla</summary>
