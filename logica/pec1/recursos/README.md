@@ -1,5 +1,22 @@
 # RESUMEN Lógica de enunciados: formalización
 
+>[!NOTE]
+>Este resumen toma como referencia los vídeos 1 al 8 (ambos incluidos) de [esta playlist de YouTube](https://www.youtube.com/playlist?list=PLX3CfQWn-1E1MpqMS_CWzbSSiY7hgOhtA) realizada por el canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas). Para dividir su estructura en apartados, me he guiado por el [libro proporcionado por la UOC](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5).
+
+>[!NOTE]
+>En los [ejercicios de deducción natural de Alura](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ejercicios_alura/1_logica_de_enunciados/1_formalizacion) encontrarás problemas resueltos con los que podrás practicar y comprobar tus soluciones.
+
+## Índice
+
+- [1.1. El objeto de interés de la lógica: los razonamientos](#11-el-objeto-de-interés-de-la-lógica-los-razonamientos)
+- [1.2. La necesidad de un lenguaje formal](#12-la-necesidad-de-un-lenguaje-formal)
+- [1.3. Los elementos básicos del lenguaje de enunciados: los átomos y conectivas](#13-los-elementos-básicos-del-lenguaje-de-enunciados-átomos-y-conectivas)
+- [1.4. Enunciados](#14-enunciados)
+- [1.5. Otras conectivas](#15-otras-conectivas)
+- [1.6. Formalización](#16-formalización)
+
+<br>
+
 ## 1.1. El objeto de interés de la lógica: los razonamientos
 
 Un **razonamiento** es una secuencia de frases (**premisas**) organizadas de manera que sustentan una **conclusión**.
