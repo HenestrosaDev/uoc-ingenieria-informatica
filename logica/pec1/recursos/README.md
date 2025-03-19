@@ -90,12 +90,12 @@ El alfabeto del lenguaje formal de la lógica se compone de:
 			</td>
 			<td>
 				"Si... entonces..." <br>
-				"...si..." <br>
+				"... si ..." <br>
 				"Cuando... entonces..." <br>
-				"si..., cuando..." <br>
+				"Si..., cuando..." <br>
 				"Basta... para...." <br>
 				"Siempre que... entonces..." <br>
-				"siempre que $A$, $B$" <br>
+				"Siempre que $A$, $B$" <br>
 				$\text{"} B$ siempre que $A$" <br>
 			</td>
 		</tr>
@@ -114,9 +114,9 @@ El alfabeto del lenguaje formal de la lógica se compone de:
 				La ausencia de $A$ es <strong>SUFICIENTE</strong> para la ausencia de $B$
 			</td>
 			<td>
-				"se debe... para..." <br>
-				"solo..." <br>
-				"es necesario... para..." <br>
+				"Se debe... para..." <br>
+				"Sólo..." <br>
+				"Es necesario... para..." <br>
 				"Hay que... para..." <br>
 				"Para... se debe..." <br>
 			</td>
