@@ -4,7 +4,7 @@
 >- Para realizar la PEC2, es necesario sacar un 4,00 o más en la [PP2](pp2).
 >- Los 4 primeros ejercicios de esta PEC son de **deducción natural**, mientras que el último es de **formalización**.
 >- Recomiendo realizar todos los ejercicios en papel, ya que la prueba final (examen o prueba de síntesis) se tiene que entregar adjuntando fotos de los ejercicios en dicho formato.
->- La suma de la calificación total de todos los ejercicios es 100,00.
+>- La suma de la calificación total de todos los ejercicios es 10,00.
 
 ## Ejercicios
 
@@ -21,7 +21,7 @@
 ![](capturas/1.png)
 </details>
 
-**Calificación**: 18,00 / 18,00
+**Calificación**: 1,80 / 1,80
 
 <br>
 
@@ -36,7 +36,7 @@
 ![](capturas/2.png)
 </details>
 
-**Calificación**: 18,00 / 18,00
+**Calificación**: 1,80 / 1,80
 
 <br>
 
@@ -53,7 +53,7 @@
 ![](capturas/3.png)
 </details>
 
-**Calificación**: 20,00 / 20,00
+**Calificación**: 2,00 / 2,00
 
 <br>
 
@@ -70,7 +70,7 @@
 ![](capturas/4.png)
 </details>
 
-**Calificación**: 24,00 / 24,00
+**Calificación**: 2,40 / 2,40
 
 <br>
 
@@ -162,7 +162,7 @@ $(M \wedge \neg D) \rightarrow (\neg P \vee \neg R)$
 - **C-**: 50% correctas.
 - **D**: 25% correctas o menos.
 
-**Calificación**: 20,00 / 20,00
+**Calificación**: 2,00 / 2,00
 
 <br>
 

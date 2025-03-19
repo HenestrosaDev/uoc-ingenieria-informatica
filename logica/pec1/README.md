@@ -4,7 +4,7 @@
 >- Para realizar la PEC1, es necesario sacar un 4,00 o más en la [PP1](pp1).
 >- Todos los ejercicios de esta PEC son de **formalización**.
 >- Recomiendo realizar todos los ejercicios en papel, ya que la prueba final (examen o prueba de síntesis) se tiene que entregar adjuntando fotos de los ejercicios en dicho formato.
->- La suma de la calificación total de todos los ejercicios es 100,00.
+>- La suma de la calificación total de todos los ejercicios es 10,00.
 
 ## Ejercicios
 
@@ -30,7 +30,7 @@
 $(M \wedge D) \vee T$
 </details>
 
-**Calificación**: 7,00 / 7,00
+**Calificación**: 0,70 / 0,70
 
 <br>
 
@@ -56,7 +56,7 @@ $(M \wedge D) \vee T$
 $(P \wedge M) \vee R$
 </details>
 
-**Calificación**: 7,00 / 7,00
+**Calificación**: 0,70 / 0,70
 
 <br>
 
@@ -89,7 +89,7 @@ $(P \wedge M) \vee R$
 $M \vee (\neg C \rightarrow T)$
 </details>
 
-**Calificación**: 7,00 / 7,00
+**Calificación**: 0,70 / 0,70
 
 <br>
 
@@ -121,7 +121,7 @@ Tener razón es **SUFICIENTE** para (tener paciencia es **NECESARIO** para alcan
 $R \rightarrow (O \rightarrow P)$
 </details>
 
-**Calificación**: 8,00 / 8,00
+**Calificación**: 0,80 / 0,80
 
 <br>
 
@@ -153,7 +153,7 @@ Disponer de los medios es **NECESARIO** para tener paciencia **O** alcanzar los 
 $(P \vee O) \rightarrow M$
 </details>
 
-**Calificación**: 8,00 / 8,00
+**Calificación**: 0,80 / 0,80
 
 <br>
 
@@ -185,7 +185,7 @@ $(P \vee O) \rightarrow M$
 $(R \rightarrow O) \wedge (M \rightarrow P)$
 </details>
 
-**Calificación**: 8,00 / 8,00
+**Calificación**: 0,80 / 0,80
 
 <br>
 
@@ -217,7 +217,7 @@ Ser metódico **O** aplicar técnicas de ingeniería es **NECESARIO** para desar
 $D \rightarrow (M \vee T)$
 </details>
 
-**Calificación**: 8,00 / 8,00
+**Calificación**: 0,80 / 0,80
 
 <br>
 
@@ -249,7 +249,7 @@ Ser metódico **Y** aplicar técnicas de ingeniería es **SUFICIENTE** para (ser
 $(M \wedge T) \rightarrow (D \rightarrow I)$
 </details>
 
-**Calificación**: 10,00 / 10,00
+**Calificación**: 1,00 / 1,00
 
 <br>
 
@@ -281,7 +281,7 @@ Ser metódico es **SUFICIENTE** para (ser un informático graduado **Y** aplicar
 $M \rightarrow (D \rightarrow (I \wedge T))$
 </details>
 
-**Calificación**: 10,00 / 10,00
+**Calificación**: 1,00 / 1,00
 
 <br>
 
@@ -314,7 +314,7 @@ $M \rightarrow (D \rightarrow (I \wedge T))$
 $(\neg T \rightarrow M) \rightarrow (A \rightarrow C)$
 </details>
 
-**Calificación**: 10,00 / 10,00
+**Calificación**: 1,00 / 1,00
 
 <br>
 
@@ -407,7 +407,7 @@ $P \rightarrow (M \wedge F)$
 - **C-**: 50% correctas.
 - **D**: 25% correctas o menos.
 
-**Calificación**: 17,00 / 17,00
+**Calificación**: 1,70 / 1,70
 
 <br>
 
