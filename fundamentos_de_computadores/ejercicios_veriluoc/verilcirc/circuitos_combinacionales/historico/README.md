@@ -1135,11 +1135,11 @@ Sintetizad la función `f` con un decodificador de 4 entradas y las puertas lóg
 <details>
 	<summary>Capturas del ejercicio resuelto</summary>
 	<img
-		src="capturas/ejercicios/20142_PAC2_4A.png"
+		src="capturas/ejercicios/20152_PAC2_2B.png"
 		width="49%"
 	>
 	<img
-		src="capturas/ejercicios/printer_view/20142_PAC2_4A.png"
+		src="capturas/ejercicios/printer_view/20152_PAC2_2B.png"
 		width="49%"
 	>
 </details>
