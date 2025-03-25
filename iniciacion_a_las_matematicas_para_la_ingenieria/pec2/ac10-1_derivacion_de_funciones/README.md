@@ -29,21 +29,20 @@ donde $\alpha$ es el ángulo que hay entre el eje X y la recta tangente a la fun
 
 La derivada de una función $f(x)$ es aquella función que asocia a cada punto $x$ del dominio la derivada de esta función. La función derivada se designa por $f\prime(x)$.
 
-
-|           **f(x)**            |                 **f\prime(x)**                  |                                                      **Ejemplos**                                                       |
-| ----------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| $k, k \in \mathbb{Z}$         | $0$                                        | $f(x) = 5 \Rightarrow f\prime(x) = 0$                                                                                        |
-| $a \cdot x, a \in \mathbb{R}$ | $a$                                        | $f(x) = 7x \Rightarrow f\prime(x) = 7$ <br> $g(x) = -\frac{2}{3}x \Rightarrow g\prime(x) = -\frac{2}{3}$                          |
-| $x^n, n \in \mathbb{Z}$       | $n \cdot x^{n-1}$                          | $f(x) = x^5 \Rightarrow f\prime(x) = 5x^4$ <br> $g(x) = \frac{1}{x^3} \Rightarrow g\prime(x) = -\frac{3}{x^4}$                    |
+| $f(x)$                        | $f\prime(x)$                             | **EJEMPLOS**                                                                                                                         |
+|-------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| $k, k \in \mathbb{Z}$         | $0$                                        | $f(x) = 5 \Rightarrow f\prime(x) = 0$                                                                                                |
+| $a \cdot x, a \in \mathbb{R}$ | $a$                                        | $f(x) = 7x \Rightarrow f\prime(x) = 7$ <br> $g(x) = -\frac{2}{3}x \Rightarrow g\prime(x) = -\frac{2}{3}$                             |
+| $x^n, n \in \mathbb{Z}$       | $n \cdot x^{n-1}$                          | $f(x) = x^5 \Rightarrow f\prime(x) = 5x^4$ <br> $g(x) = \frac{1}{x^3} \Rightarrow g\prime(x) = -\frac{3}{x^4}$                       |
 | $\sqrt{x}$                    | $\frac{1}{2\sqrt{x}}$                      | $f(x) = \sqrt{3x} \Rightarrow f\prime(x) = \frac{\sqrt{3}}{2\sqrt{x}}$                                                               |
-| $\sin(x)$                     | $\cos(x)$                                  | $f(x) = \sin(2x) \Rightarrow f\prime(x) = 2\cos(2x)$                                                                         |
-| $\cos(x)$                     | $-\sin(x)$                                 | $f(x) = \cos(3x) \Rightarrow f\prime(x) = -3\sin(3x)$                                                                        |
-| $\tan(x)$                     | $\frac{1}{\cos^2(x)}$ <br> $1 + \tan^2(x)$ | $f(x) = \tan(\frac{x}{2}) \Rightarrow f\prime(x) = \frac{1}{2\cos^2(\frac{x}{2})}$                                           |
-| $a^x, a \in \mathbb{R}$       | $a^x \cdot \ln(a)$                         | $f(x) = 2^{2x} \Rightarrow f\prime(x) = 2^{2x} \cdot 2\ln(2)$                                                                |
+| $\sin(x)$                     | $\cos(x)$                                  | $f(x) = \sin(2x) \Rightarrow f\prime(x) = 2\cos(2x)$                                                                                 |
+| $\cos(x)$                     | $-\sin(x)$                                 | $f(x) = \cos(3x) \Rightarrow f\prime(x) = -3\sin(3x)$                                                                                |
+| $\tan(x)$                     | $\frac{1}{\cos^2(x)}$ <br> $1 + \tan^2(x)$ | $f(x) = \tan(\frac{x}{2}) \Rightarrow f\prime(x) = \frac{1}{2\cos^2(\frac{x}{2})}$                                                   |
+| $a^x, a \in \mathbb{R}$       | $a^x \cdot \ln(a)$                         | $f(x) = 2^{2x} \Rightarrow f\prime(x) = 2^{2x} \cdot 2\ln(2)$                                                                        |
 | $\log_a(x)$                   | $\frac{1}{x} \cdot \log_a(e)$              | $f(x) = \log_2(x^2) \Rightarrow f\prime(x) = \frac{2}{x} \cdot \log_2(e)$ <br> $g(x) = \ln(4x) \Rightarrow g\prime(x) = \frac{1}{x}$ |
-| $\arcsin(x)$                  | $\frac{1}{\sqrt{1-x^2}}$                   | $f(x) = \arcsin(\frac{x}{2}) \Rightarrow f\prime(x) = \frac{1}{\sqrt{4-x^2}}$                                                |
-| $\arccos(x)$                  | $-\frac{1}{\sqrt{1-x^2}}$                  | $f(x) = \arccos(\sqrt{x}) \Rightarrow f\prime(x) = -\frac{1}{2\sqrt{x}\sqrt{1-x}}$                                           |
-| $\arctan(x)$                  | $\frac{1}{1+x^2}$                          | $f(x) = \arctan(3x) \Rightarrow f\prime(x) = \frac{3}{1+9x^2}$                                                               |
+| $\arcsin(x)$                  | $\frac{1}{\sqrt{1-x^2}}$                   | $f(x) = \arcsin(\frac{x}{2}) \Rightarrow f\prime(x) = \frac{1}{\sqrt{4-x^2}}$                                                        |
+| $\arccos(x)$                  | $-\frac{1}{\sqrt{1-x^2}}$                  | $f(x) = \arccos(\sqrt{x}) \Rightarrow f\prime(x) = -\frac{1}{2\sqrt{x}\sqrt{1-x}}$                                                   |
+| $\arctan(x)$                  | $\frac{1}{1+x^2}$                          | $f(x) = \arctan(3x) \Rightarrow f\prime(x) = \frac{3}{1+9x^2}$                                                                       |
 
 ### 11.2.2. Reglas de cálculo
 
@@ -67,7 +66,7 @@ $(f ○ g)\prime(x) = (f(g(x)))\prime = f\prime(g(x)) \cdot g\prime(x)$
 
 $f(x) = a^u \to f\prime(x) = a^u \cdot \ln (a) \cdot u\prime$
 
-$f(x) = e^u \to f\prime(x) = e^u \cdot u\prime$$
+$f(x) = e^u \to f\prime(x) = e^u \cdot u\prime$
 
 ## 11.3. Aplicaciones de una derivada
 
