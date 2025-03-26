@@ -85,11 +85,11 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="pec2/parte2">
+			<a href="pec2/parte2.png">
 				Parte 2
 			</a>
 		</td>
-		<td>- / 10,00 ( )</td>
+		<td>10,00 / 10,00 (A)</td>
 	</tr>
 	<tr>
 		<td rowspan="3">
