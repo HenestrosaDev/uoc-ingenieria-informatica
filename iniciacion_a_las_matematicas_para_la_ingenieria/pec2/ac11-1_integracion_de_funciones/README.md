@@ -92,7 +92,7 @@ Para expresar la integración de una función, se utiliza el símbolo de integra
 ### 12.1.4. Reglas de cálculo
 
 <p>
-	$$\text{Si } g(x) = \int \! f(x) \, \mathrm{d}x \implies g\prime(x) = f(x)$$
+	$$\text{Si } g(x) = \int \! f(x) \, \mathrm{d}x \implies g'(x) = f(x)$$
 </p>
 
 **Suma y resta**
@@ -110,7 +110,7 @@ Para expresar la integración de una función, se utiliza el símbolo de integra
 **Regla de la cadena**
 
 <p>
-	$$\int \! f(g(x)) \cdot g\prime(x) \, \mathrm{d}x = f(g(x)) + C$$
+	$$\int \! f(g(x)) \cdot g'(x) \, \mathrm{d}x = f(g(x)) + C$$
 </p>
 
 A partir de esta regla, podemos elaborar esta tabla:
@@ -129,35 +129,35 @@ A partir de esta regla, podemos elaborar esta tabla:
 	</thead>
 	<tbody>
 		<tr>
-			<td>$\int \! \left[ f(x) \right ]^n \cdot f\prime(x) \, \mathrm{d}x = \frac{\left[ f(x) \right]^{n + 1}}{n + 1} + C$ si $n \neq 1$</td>
+			<td>$\int \! \left[ f(x) \right ]^n \cdot f'(x) \, \mathrm{d}x = \frac{\left[ f(x) \right]^{n + 1}}{n + 1} + C$ si $n \neq 1$</td>
 			<td>$\int \! \left[ \sin(x) \right ]^4 \cdot \cos(x) \, \mathrm{d}x = \frac{\left[ \sin(x) \right]^{5}}{5} + C$</td>
 		</tr>
 		<tr>
-			<td>$\int \! \frac{f\prime(x)}{f(x)} \, \mathrm{d}x = \ln |f(x)| + C$</td>
+			<td>$\int \! \frac{f'(x)}{f(x)} \, \mathrm{d}x = \ln |f(x)| + C$</td>
 			<td>$\int \! \frac{2x - 3}{x^2 - 3x + 13} \, \mathrm{d}x = \ln \left\lvert x^2 - 3x + 12 \right\rvert + C$</td>
 		</tr>
 		<tr>
-			<td>$\int \! e^{f(x)} \cdot f\prime(x) \, \mathrm{d}x = e^{f(x)} + C$</td>
+			<td>$\int \! e^{f(x)} \cdot f'(x) \, \mathrm{d}x = e^{f(x)} + C$</td>
 			<td>$\int \! e^{4x^2 + 3x - 2} \cdot (8x + 3) \, \mathrm{d}x = e^{4x^2 + 3x - 2} + C$</td>
 		</tr>
 		<tr>
-			<td>$\int \! a^{f(x)} \cdot f\prime(x) \, \mathrm{d}x = \frac{a^{f(x)}}{\ln (a)} + C$</td>
+			<td>$\int \! a^{f(x)} \cdot f'(x) \, \mathrm{d}x = \frac{a^{f(x)}}{\ln (a)} + C$</td>
 			<td>$\int \! 5^{4x^2 + 3x - 2} \cdot (8x + 3) \, \mathrm{d}x = \frac{5^{4x^2 + 3x - 2}}{\ln (5)} + C$</td>
 		</tr>
 		<tr>
-			<td>$\int \! f\prime(x)^{f(x)} \cdot \sin (f(x)) \, \mathrm{d}x = -\cos (f(x)) + C$</td>
+			<td>$\int \! f'(x)^{f(x)} \cdot \sin (f(x)) \, \mathrm{d}x = -\cos (f(x)) + C$</td>
 			<td>$\int \! \cos (x) \cdot \sin (\sin(x)) \, \mathrm{d}x = -\cos (\sin (x)) + C$</td>
 		</tr>
 		<tr>
-			<td>$\int \! f\prime(x)^{f(x)} \cdot \cos (f(x)) \, \mathrm{d}x = \sin (f(x)) + C$</td>
+			<td>$\int \! f'(x)^{f(x)} \cdot \cos (f(x)) \, \mathrm{d}x = \sin (f(x)) + C$</td>
 			<td>$\int \! 6 \cdot \cos (6x - 2) \, \mathrm{d}x = \sin (6x - 2) + C$</td>
 		</tr>
 		<tr>
-			<td>$\int \! \frac{f\prime(x)}{1 + (f(x))^2}  \, \mathrm{d}x = \arctan (f(x)) + C$</td>
+			<td>$\int \! \frac{f'(x)}{1 + (f(x))^2}  \, \mathrm{d}x = \arctan (f(x)) + C$</td>
 			<td>$\int \! \frac{\frac{1}{x}}{1 + (\ln (x))^2}  \, \mathrm{d}x = \arctan (\ln (x)) + C$</td>
 		</tr>
 		<tr>
-			<td>$\int \! \frac{f\prime(x)}{\sqrt{1 - (f(x))^2}}  \, \mathrm{d}x = \arcsin (f(x)) + C$</td>
+			<td>$\int \! \frac{f'(x)}{\sqrt{1 - (f(x))^2}}  \, \mathrm{d}x = \arcsin (f(x)) + C$</td>
 			<td>$\int \! \frac{e^x}{\sqrt{1 - (e^x)^2}}  \, \mathrm{d}x = \arcsin (e^x) + C$</td>
 		</tr>
 	</tbody>
@@ -169,16 +169,16 @@ A partir de esta regla, podemos elaborar esta tabla:
 
 Método para transformar una integral en una integral inmediata o casi inmediata mediante un cambio de variable. Los pasos a seguir son:
 
-1. Sustituimos $x$ por $u(t)$ y $\mathrm{d}x$ por $u\prime(t) \mathrm{d}t$:
+1. Sustituimos $x$ por $u(t)$ y $\mathrm{d}x$ por $u'(t) \mathrm{d}t$:
 
 <p>
-	$$\int \! f(x) \, \mathrm{d}x \overset{\mathrm{d}x = u\prime(t) \mathrm{d}t}{\underset{x = u(t)}{\longrightarrow}} \int \! f(u(t)) \cdot u\prime(t) \, \mathrm{d}t$$
+	$$\int \! f(x) \, \mathrm{d}x \overset{\mathrm{d}x = u'(t) \mathrm{d}t}{\underset{x = u(t)}{\longrightarrow}} \int \! f(u(t)) \cdot u'(t) \, \mathrm{d}t$$
 </p>
 
 2. Resolvemos la nueva integral:
 
 <p>
-	$$\int \! f(u(t)) \cdot u\prime(t) \, \mathrm{d}t = G(t) + C$$
+	$$\int \! f(u(t)) \cdot u'(t) \, \mathrm{d}t = G(t) + C$$
 </p>
 
 3. Aislamos la variable $t$ de la igualdad $x = u(t)$ y obtenemos $t = u^{-1}(x)$.

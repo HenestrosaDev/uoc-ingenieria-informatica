@@ -170,7 +170,7 @@ $S = \set{C \vee \neg A, D \vee \neg A, C \vee \neg B, \neg C \vee A \vee D, C, 
 
 #### 3.1. Aplicar subsunción a partir del negado de la conclusión
 
-Si una cláusula del conjunto $S$ integra (incluye) una cláusula del FNC($\neg C$), la eliminaremos del conjunto $S$ para simplificarlo en $S \prime$. _La pequeña come a la grande._
+Si una cláusula del conjunto $S$ integra (incluye) una cláusula del FNC($\neg C$), la eliminaremos del conjunto $S$ para simplificarlo en $S'$. _La pequeña come a la grande._
 
 Ejemplos de subsunción:
 - $C$ subsume a $C \vee \neg A$, ya que $C$ está ÍNTEGRAMENTE en $C \vee \neg A$.
@@ -180,7 +180,7 @@ Ejemplos de subsunción:
 Aplicada al caso del ejemplo principal:
 
 $S = \set{C \vee \neg A, D \vee \neg A, C \vee \neg B, \neg C \vee A \vee D, C, B \neg D}$  
-$S\prime = \set{D \vee \neg A, \neg C \vee A \vee D, C, B \neg D}$
+$S' = \set{D \vee \neg A, \neg C \vee A \vee D, C, B \neg D}$
 
 #### 3.2. Aplicar literal puro
 
@@ -256,9 +256,9 @@ B \vee C
 \end{align*}
 $$
 
-A partir del ejemplo principal, aplicamos la regla al conjunto $S \prime$:
+A partir del ejemplo principal, aplicamos la regla al conjunto $S'$:
 
-$S\prime = \set{D \vee \neg A, \neg C \vee A \vee D, C, B \neg D}$
+$S' = \set{D \vee \neg A, \neg C \vee A \vee D, C, B \neg D}$
 
 <table>
 	<tr>
@@ -342,9 +342,9 @@ $P = \set{C \vee \neg A, D \vee \neg A, C \vee \neg B, \neg C \vee A \vee D}$ [$
 
 Simplificamos el conjunto $P$ aplicando la subsunción y el literal puro:
 
-$P \prime = \set{C \vee \neg A, C \vee \neg B}$ [$C$ es LP (no hay $\neg C$)]
+$P' = \set{C \vee \neg A, C \vee \neg B}$ [$C$ es LP (no hay $\neg C$)]
 
-$P \prime \prime = \emptyset$ (conjunto vacío)
+$P'' = \emptyset$ (conjunto vacío)
 
 ### Interpretación
 

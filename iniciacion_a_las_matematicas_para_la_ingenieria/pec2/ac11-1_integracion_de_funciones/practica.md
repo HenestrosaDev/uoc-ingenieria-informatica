@@ -6,7 +6,7 @@ Ver primera pregunta en la captura de pantalla `practica.png`.
 	2. $f(x)$ y $g(x)$ son dos funciones tales que $f(x) - g(x) = -9$. Marcad las respuestas correctas.
 </h2>
 
-### ❌ $f\prime(x) - g\prime(x) = -9$
+### ❌ $f'(x) - g'(x) = -9$
 
 La derivada de ambos lados de $f(x) - g(x) = -9$ nos da:
 
@@ -30,7 +30,7 @@ Como $f(x) - g(x) = -9$, entonces:
 
 Por lo tanto, esta afirmación es **incorrecta**, ya que no es una constante $-9$, sino una función de $x$.
 
-### ✅ $f\prime(x) - g\prime(x) = 0$
+### ✅ $f'(x) - g'(x) = 0$
 
 Como vimos en el análisis de la primera afirmación, derivar $f(x) - g(x) = -9$ nos da:
 
@@ -99,24 +99,24 @@ Por último, agregamos la constante de integración, lo cual da como resultado
 </p>
 
 <h2>
-	4. Determinad la función $f(x)$ tal que $f\prime\prime(x) = 6$, $f\prime(0) = 9$ y $f(1) = 2$
+	4. Determinad la función $f(x)$ tal que $f''(x) = 6$, $f'(0) = 9$ y $f(1) = 2$
 </h2>
 
-En primer lugar, hay que integrar $f\prime\prime(x)$ para obtener $f\prime(x)$. Sabemos que $f\prime\prime(x) = 6$, por lo que integramos una vez para obtener $f'(x)$:
+En primer lugar, hay que integrar $f''(x)$ para obtener $f'(x)$. Sabemos que $f''(x) = 6$, por lo que integramos una vez para obtener $f'(x)$:
 
 <p>
-	$$f\prime(x) = \int \! f\prime\prime(x) \, \mathrm{d}x = \int \! 6 \, \mathrm{d}x = 6x + C_1$$
+	$$f'(x) = \int \! f''(x) \, \mathrm{d}x = \int \! 6 \, \mathrm{d}x = 6x + C_1$$
 </p>
 
 donde $C_1$ es una constante.
 
-A continuación, usamos la condición $f\prime(0) = 9$ y sustituimos $x = 0$ en $f\prime(x) = 6x + C_1$:
+A continuación, usamos la condición $f'(0) = 9$ y sustituimos $x = 0$ en $f'(x) = 6x + C_1$:
 
-$$f\prime(0) = 6(0) + C_1 = 9 \quad \implies \quad C_1 = 9$$
+$$f'(0) = 6(0) + C_1 = 9 \quad \implies \quad C_1 = 9$$
 
 Por lo tanto:
 
-$$f\prime(x) = 6x + 9$$
+$$f'(x) = 6x + 9$$
 
 Ahora que tenemos la derivada, la integramos para obtener $f(x)$:
 
@@ -193,9 +193,9 @@ donde $C$ es una constante de integración. Aquí, el coeficiente del término l
 
 <h3>✅ $f(x)$ es primitiva de una función constante</h3>
 
-Si $f(x)$ es primitiva de una función constante $C$, por lo que $f\prime(x) = C$. Sin embargo:
+Si $f(x)$ es primitiva de una función constante $C$, por lo que $f'(x) = C$. Sin embargo:
 
-$$f\prime(x) = \frac{\mathrm{d}}{\mathrm{d}x} (-x - 3) = -1$$
+$$f'(x) = \frac{\mathrm{d}}{\mathrm{d}x} (-x - 3) = -1$$
 
 que no es cero (una condición necesaria para que $f(x)$ sea primitiva de una función constante). Esta afirmación es **incorrecta**.
 
@@ -395,13 +395,13 @@ Ahora que tenemos la respuesta, podemos afirmar que las opciones correctas son:
 - [x] $\ln (\lvert x^2 + 9x + 20 \rvert)$
 
 <h2>
-	10. Encontrad el punto $P(x,y)$ donde la función $f(x)$ corta al eje de ordenadas, sabiendo que la intersección con el eje de abscisas es el punto $(1,0)$ y su derivada es $$f\prime(x) = 108x^5 \cdot e^{6x^6}$$
+	10. Encontrad el punto $P(x,y)$ donde la función $f(x)$ corta al eje de ordenadas, sabiendo que la intersección con el eje de abscisas es el punto $(1,0)$ y su derivada es $$f'(x) = 108x^5 \cdot e^{6x^6}$$
 </h2>
 
-En primer lugar, tenemos que integrar $f\prime(x)$ para hallar $f(x)$:
+En primer lugar, tenemos que integrar $f'(x)$ para hallar $f(x)$:
 
 <p>
-	$$f(x) = \int \! f\prime(x) \, \mathrm{d}x = \int \! 108 \cdot x^5 \cdot e^{6x^6} \, \mathrm{d}x$$
+	$$f(x) = \int \! f'(x) \, \mathrm{d}x = \int \! 108 \cdot x^5 \cdot e^{6x^6} \, \mathrm{d}x$$
 </p>
 
 Para resolver esta integral, realizamos un cambio de variable:
