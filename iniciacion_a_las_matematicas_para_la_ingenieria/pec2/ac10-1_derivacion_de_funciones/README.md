@@ -75,148 +75,177 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<strong>Descripción de los elementos</strong> para representar gráficamente una función $f(x)$
-			</td>
-			<td>
-				<strong>Ejemplo</strong>. Representar gráficamente $f(x) = \frac{x^3}{x^2 - 1}$
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2"></td>
+			<th>
+				ELEMENTOS PARA EL ANÁLISIS GRÁFICO DE FUNCIONES
+			</th>
+			<th>
+				EJEMPLO: $f(x) = \frac{x^3}{x^2 - 1}$
+			</th>
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>DOMINIO</strong>
-			</td>
-		</tr>
-		<tr>
-			<td>Puntos del eje X donde $f(x)$ está definida.</td>
-			<td>$Dom\ f = \mathbb{R} \setminus \set{-1, 1}$</td>
-		</tr>
-		<tr>
-			<td align="center" colspan="2"><strong>PUNTOS DE CORTE CON LOS EJES</strong>
-		</tr>
-		<tr>
-			<td>Puntos del tipo $(0, f(0))$ y $(x, 0)$.</td>
-			<td>Un único punto de corte, el $(0, 0)$</td>
-		</tr>
-		<tr>
-			<td align="center" colspan="2">
-				<strong>SIMETRÍA</strong>
+				<strong>① DOMINIO</strong>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Una función $f$ es par o simétrica respecto del eje Y cuando $f(-x) = f(x)$.
+				<strong>Definición</strong>: Conjunto de valores de $x$ para los que $f(x)$ existe.
 				<br>
-				Una función $f$ es simétrica respecto del origen cuando $f(-x) = -f(x)$.
+				<strong>Método</strong>: Buscar valores que hagan cero el denominador o generen indefiniciones.
 			</td>
 			<td>
-				Es simétrica respecto del origen:  
+				$Dom\ f = \mathbb{R} \setminus \set{-1, 1}$
+				<br>
+				<strong>Explicación</strong>: El denominador $x^2 - 1 = 0$ cuando $x = \pm 1$
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><strong>② PUNTOS DE CORTE</strong>
+		</tr>
+		<tr>
+			<td>
+				<strong>Con eje X</strong>: Raíces de $f(x) = 0$
+				<br>
+				<strong>Con eje Y</strong>: $(0, f(0))$
+			</td>
+			<td>
+				<strong>Corte X</strong>: $(0,0)$ (triple raíz en $x = 0$)</li>
+				<br>
+				<strong>Corte Y</strong>: $(0,0)$ (único punto de corte)</li>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2">
+				<strong>③ SIMETRÍA</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Función par</strong>: $f(-x) = f(x)$ (simetría axial)
+				<br>
+				<strong>Función impar</strong>: $f(-x) = -f(x)$ (simetría central)
+			</td>
+			<td>
 				$f(-x) = \frac{(-x)^3}{(-x)^2 - 1} = -\frac{x^3}{x^2 - 1} = -f(x)$
+				<br>
+				<strong>Conclusión</strong>: Función impar (simétrica respecto al origen)
 			</td>
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>INTERVALOS DE CRECIMIENTO Y DECRECIMIENTO</strong>
+				<strong>④ MONOTONÍA (CRECIMIENTO Y DECRECIMIENTO)</strong>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Signo de la derivada de la función:
+				<strong>Derivada primera</strong>:
 				<ul>
-					<li>$f(x)$ es creciente en $f'(x) > 0$.</li>
-					<li>$f(x)$ es decreciente en $f'(x) < 0$.</li>
+					<li>$f'(x) > 0 \to$ Creciente</li>
+					<li>$f'(x) < 0 \to$ Decreciente</li>
 				</ul>
 			</td>
 			<td>
-				Es creciente en $(-\infty, -\sqrt{3}) \cup (\sqrt{3}, +\infty)$ y decreciente en $(-\sqrt{3}, -1) \cup (-1, 1) \cup (1, \sqrt{3})$
+				$f'(x) = \frac{x^2(x^2 - 3)}{(x^2 - 1)^2}$
+				<br>
+				<strong>Crece en</strong> $(-\infty, -\sqrt{3}) \cup (\sqrt{3}, +\infty)$ 
+				<br>
+				<strong>Decrece en</strong> $(-\sqrt{3}, -1) \cup (-1, 1) \cup (1, \sqrt{3})$
 			</td>
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>EXTREMOS: MÁXIMOS Y MÍNIMOS</strong>
+				<strong>⑤ EXTREMOS RELATIVOS (MÁXIMOS Y MÍNIMOS)</strong>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Cuando se anula la derivada de la función,
+				<strong>Criterio</strong>:
 				<ul>
-					<li>
-						<p>
-							Un <strong>máximo</strong> de una función $f(x)$ es un punto de la función la imagen del cual es más grande o igual que la imagen de cualquier otro punto que es cercano al punto:  
-						</p>
-						<p>
-							$x_0$ máximo de $f(x)$ si $f'(x_0) = 0$ y $f''(x_0) < 0$.
-						</p>
-					</li>
-					<li>
-						<p>
-							Un <strong>mínimo</strong> es un punto de la función la imagen del cual es menor o igual que la imagen de cualquier otro punto que es cercano al punto:
-						</p>
-						<p>
-							$x_0$ mínimo de $f(x)$ si $f'(x_0) = 0$ y $f''(x_0) > 0$.
-						</p>
-					</li>
+					<li>Máximo si $f'(x_0) = 0$ y $f''(x_0) < 0$</li>
+					<li>Mínimo si $f'(x_0) = 0$ y $f''(x_0) > 0$</li>
 				</ul>
 			</td>
 			<td>
-				$(-\sqrt{3}, f(-\sqrt{3})) = (-\sqrt{3}, -\frac{3\sqrt{3}}{2})$ es máximo.  
-				$(\sqrt{3}, f(\sqrt{3})) = (\sqrt{3}, \frac{3\sqrt{3}}{2})$ es mínimo.
+				<strong>Máximo</strong>: $(-\sqrt{3}, f(-\sqrt{3})) = \left(-\sqrt{3}, -\frac{3\sqrt{3}}{2}\right)$  
+				<br>
+				<strong>Mínimo</strong>: $\left(\sqrt{3}, f(\sqrt{3})) = (\sqrt{3}, \frac{3\sqrt{3}}{2}\right)$
+				<br>
+				<em>Nota</em>: No hay extremos en $x = \pm 1$ (no pertenecen al dominio)
 			</td>
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>PUNTOS DE INFLEXIÓN</strong>
+				<strong>⑥ CURVATURA (CONCAVIDAD Y CONVEXIDAD)</strong>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p>
-					Un <strong>punto de inflexión</strong> de una función $f(x)$ es un punto en el que la función cambia su curvatura, es decir, pasa de ser cóncava a convexa, o viceversa.
-				</p>
-				<p>
-					Cuando la segunda derivada de la función $f(x)$ se anula, $x_0$ es un punto de inflexión si $f''(x_0) = 0$ y $f''(x)$ cambia de signo en un intervalo alrededor de $x_0$.
-				</p>
-			</td>
-			<td>
-				$(0, f(0)) = (0, 0)$ es un punto de inflexión.
-			</td>
-		</tr>
-		<tr>
-			<td align="center" colspan="2">
-				<strong>INTERVALOS DE CONCAVIDAD Y CONVEXIDAD</strong>
-			</td>
-		</tr>
-		<tr>
-			<td>Signo de la segunda derivada de la función:
+				<strong>Derivada segunda</strong>:
 				<ul>
-					<li>
-						Parte de la función cuya gráfica tiene la forma de un "arco hacia arriba".  
-						$f(x)$ convexa si $f''(x) > 0$.
-					</li>
-					<li>
-						Parte de la función cuya gráfica tiene la forma de un "arco hacia abajo".  
-						$f(x)$ cóncava si $f''(x) < 0$.
-					</li>
+					<li>$f''(x) > 0 \to$ Convexa ($\cup$)</li>
+					<li>$f''(x) < 0 \to $ Cóncava ($\cap$)</li>
 				</ul>
 			</td>
 			<td>
-				Es cóncava en $(-1, 0)$ y $(1, \infty)$.  
-				Es convexa en $(-\infty, -1)$ y $(0, 1)$.
+				<strong>Convexa</strong> $\cup$: $(-\infty, -1) \cup (0, 1)$
+				<br>
+				<strong>Cóncava</strong> $\cap$: $(-1, 0) \cup (1, \infty)$
 			</td>
 		</tr>
 		<tr>
-			<td align="center" colspan="2"><strong>COMPORTAMIENTO ASINTÓTICO</strong>
+			<td align="center" colspan="2">
+				<strong>⑦ PUNTOS DE INFLEXIÓN</strong>
+			</td>
 		</tr>
 		<tr>
-			<td>Estudio de la existencia de asíntotas verticales, horizontales u oblicuas de la función (visto en el bloque de continuidad de funciones).</td>
-			<td>$x = -1$ y $x = 1$ son asíntotas verticales y $y = x$ es una asíntota oblicua.</td>
+			<td>
+				<strong>Condición</strong>: $f''(x_0) = 0$ con cambio de curvatura (de cóncava a convexa o viceversa)
+			</td>
+			<td>
+				<strong>Punto de inflexión</strong>: $(0, f(0)) = (0, 0)$
+				<br>
+				<em>Verificación:</em> $f''(0) = 0$ (cambia de cóncava a convexa)
+			</td>
 		</tr>
 		<tr>
 			<td align="center" colspan="2">
-				<strong>GRÁFICA</strong>
+				<strong>⑧ ASÍNTOTAS</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>Tipos:</strong>
+				<ul>
+					<li>Verticales</li>
+					<li>Horizontales</li>
+					<li>Oblicuas</li>
+				</ul>
+			</td>
+			<td>
+				<strong>Asíntotas verticales</strong>: $x = -1$ y $x = 1$ (al menos uno de los límites laterales cuando $x \to \pm 1 = \pm \infty$)
+				<ul>
+					<li>$\lim_{x \to -1^-} f(x) = -\infty$</li>
+					<li>$\lim_{x \to -1^+} f(x) = +\infty$</li>
+					<li>$\lim_{x \to 1^-} f(x) = -\infty$</li>
+					<li>$\lim_{x \to 1^+} f(x) = +\infty$</li>
+				</ul>
+				<br>
+				<strong>Asíntota horizontal</strong>: No hay (ambos límites tienen que ser finitos)
+				<ul>
+					<li>$\lim_{x \to -\infty} f(x) = -\infty$</li>
+					<li>$\lim_{x \to +\infty} f(x) = +\infty$</li>
+				</ul>
+				<br>
+				<strong>Asíntota oblicua</strong>: $y = x$
+				<ul>
+					<li>$m = \lim_{x \to \pm \infty} \frac{f(x)}{x} = 1$</li>
+					<li>$n = \lim_{x \to \pm \infty} [f(x) - mx] = 0$</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2">
+				<strong>⑨ REPRESENTACIÓN GRÁFICA</strong>
 			</td>
 		</tr>
 		<tr>
@@ -225,6 +254,7 @@ $f(x) = e^u \to f'(x) = e^u \cdot u'$
 					alt="Ejemplo de representación gráfica" 
 					src="img/ejemplo_representacion_grafica.png"
 				>
+				<blockquote>Comportamiento completo de la función con todos los elementos analizados</blockquote>
 			</td>
 		</tr>
 	</tbody>
