@@ -111,7 +111,7 @@ xychart-beta
 				Parte 2
 			</a>
 		</td>
-		<td>- / 10,00 ( )</td>
+		<td>9,25 / 10,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
