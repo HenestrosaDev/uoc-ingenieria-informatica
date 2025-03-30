@@ -194,20 +194,20 @@ xychart-beta
 
 ### PEC1
 
-- [Funciones reales de variable real](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284292&hash=698e6f70d8d51d3cbe7b9e288ca162f49eadc2bb61c832a9990783a27cdb9717)
+- [Funciones reales de variable real](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284292&hash=698e6f70d8d51d3cbe7b9e288ca162f49eadc2bb61c832a9990783a27cdb9717) ([resumen](pec1/README.md))
 
 ### PEC2
 
-- [Límites de funciones y continuidad](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284288&hash=6aaa82909fee7ad8205ab3b6e8fb45fa47ca1845a10ccdbf0ec38ad9e8415768)
+- [Límites de funciones y continuidad](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284288&hash=6aaa82909fee7ad8205ab3b6e8fb45fa47ca1845a10ccdbf0ec38ad9e8415768) ([resumen](pec2/README.md))
 
 ### PEC3
 
-- [Derivación: el problema de la tangente](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284285&hash=d2b9fd2f3d54657bf691c6a73166ab55ecfb532d60ae21aa3b6d3b4a40df505f)
+- [Derivación: el problema de la tangente](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284285&hash=d2b9fd2f3d54657bf691c6a73166ab55ecfb532d60ae21aa3b6d3b4a40df505f) ([resumen](pec3/README.md))
 
 ### PEC4
 
-- [Integración: el problema del área](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284290&hash=ab97fdca71e4cd5f5085a0b3ba5aeac41d886f19d35fb22f43d3a25a5a5a63bf)
+- [Integración: el problema del área](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284290&hash=ab97fdca71e4cd5f5085a0b3ba5aeac41d886f19d35fb22f43d3a25a5a5a63bf) ([resumen](pec4/README.md))
 
 ### PEC5
 
-- [Sucesiones y series de números reales](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284286&hash=6620186fa12c1c2e8822e0a7720fccdc86578afe3a7e9f045693f30574bf90d9)
+- [Sucesiones y series de números reales](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284286&hash=6620186fa12c1c2e8822e0a7720fccdc86578afe3a7e9f045693f30574bf90d9) ([resumen](pec5/README.md))
