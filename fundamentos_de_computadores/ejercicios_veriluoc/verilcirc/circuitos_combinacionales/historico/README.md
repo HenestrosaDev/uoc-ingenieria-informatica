@@ -151,6 +151,10 @@ Sintetizad la manera mínima a dos niveles la función $g$ mediante el método d
 
 <table>
 	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="2">SALIDA</th>
+	</tr>
+	<tr>
 		<th>$x$</th>
 		<th>$y$</th>
 		<th>$z$</th>
@@ -292,6 +296,10 @@ Sintetizad la manera mínima a dos niveles la función $g$ mediante el método d
 Implementad la función `f` utilizando un descodificador 4-16 y una puerta OR.
 
 <table>
+	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="2">SALIDA</th>
+	</tr>
 	<tr>
 		<th>$x$</th>
 		<th>$y$</th>
@@ -450,6 +458,10 @@ Implementad la función `f` utilizando un descodificador 4-16 y una puerta OR.
 Implementad la función `g` utilizando un multiplexor de 3 variables de control.
 
 <table>
+	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="2">SALIDA</th>
+	</tr>
 	<tr>
 		<th>$x$</th>
 		<th>$y$</th>
@@ -643,6 +655,10 @@ Diseñad el circuito NORM utilizando las puertas y los bloques combinacionales (
 Dada la siguiente tabla de verdad:
 
 <table>
+	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="3">SALIDA</th>
+	</tr>
 	<tr>
 		<th>$a$</th>
 		<th>$b$</th>
@@ -839,6 +855,10 @@ Dada la siguiente tabla de verdad:
 
 <table>
 	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="1">SALIDA</th>
+	</tr>
+	<tr>
 		<th>$a$</th>
 		<th>$b$</th>
 		<th>$c$</th>
@@ -1009,6 +1029,10 @@ Dada la siguiente tabla de verdad:
 
 <table>
 	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="1">SALIDA</th>
+	</tr>
+	<tr>
 		<th>$a$</th>
 		<th>$b$</th>
 		<th>$c$</th>
@@ -1151,6 +1175,10 @@ Sintetizad la función `f` con un decodificador de 4 entradas y las puertas lóg
 Dada la siguiente tabla de verdad:
 
 <table>
+	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="2">SALIDA</th>
+	</tr>
 	<tr>
 		<th>$a$</th>
 		<th>$b$</th>
@@ -1330,6 +1358,10 @@ Dada la siguiente tabla de verdad:
 
 <table>
 	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="2">SALIDA</th>
+	</tr>
+	<tr>
 		<th>$a$</th>
 		<th>$b$</th>
 		<th>$c$</th>
@@ -1489,6 +1521,10 @@ Sintetizad de forma mínima a dos niveles la función `f2` mediante el método d
 Diseñad **a nivel de bloques** un circuito que implemente `f1`:
 
 <table>
+	<tr>
+		<th colspan="4">ENTRADA</th>
+		<th colspan="2">SALIDA</th>
+	</tr>
 	<tr>
 		<th>$a$</th>
 		<th>$b$</th>

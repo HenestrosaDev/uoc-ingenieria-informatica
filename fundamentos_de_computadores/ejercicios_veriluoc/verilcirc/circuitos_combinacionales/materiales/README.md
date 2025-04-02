@@ -133,6 +133,10 @@ Sintetizad la siguiente función a dos niveles:
 
 <table>
 	<tr>
+		<th colspan="3">ENTRADA</th>
+		<th colspan="1">SALIDA</th>
+	</tr>
+	<tr>
 		<th>$x_2$</th>
 		<th>$x_1$</th>
 		<th>$x_0$</th>
