@@ -1,4 +1,4 @@
-# Kemap - Circuitos combinacionales (materiales)
+# KeMAP - Circuitos combinacionales (materiales)
 
 ## Índice
 
