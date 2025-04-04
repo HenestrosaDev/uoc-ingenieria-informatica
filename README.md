@@ -71,7 +71,8 @@
 ## Asignaturas
 
 >[!NOTE]
->Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
+>- Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
+>- Las asignaturas están ordenadas alfabéticamente.
 
 >[!NOTE]
 ><details>
