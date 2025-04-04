@@ -73,9 +73,7 @@
 >[!NOTE]
 >- Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
 >- Las asignaturas están ordenadas alfabéticamente.
-
->[!NOTE]
-><details>
+>- <details>
 >	<summary>Leyenda de calificaciones</summary>
 >
 >	- Matrícula de Honor (M): 9 a 10
