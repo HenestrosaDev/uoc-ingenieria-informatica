@@ -36,7 +36,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM1[@]</th>
@@ -82,9 +82,10 @@ Completad el siguiente cronograma:
 ## 20131_PAC2_3C
 
 <blockquote>
+
 A continuación se muestra la tabla de verdad de un circuito combinacional:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADA</th>
 		<th colspan="2">SALIDA</th>
@@ -245,9 +246,10 @@ Completad el siguiente cronograma:
 ## 20132_PAC2_2E
 
 <blockquote>
+
 A continuación se muestra la tabla de verdad de un circuito combinacional:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADA</th>
 		<th colspan="2">SALIDA</th>
@@ -408,9 +410,10 @@ Completad el siguiente cronograma:
 ## 20141_PAC2_3A
 
 <blockquote>
+
 A continuación se muestra la tabla de verdad de un circuito combinacional:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="3">ENTRADA</th>
 		<th colspan="2">SALIDA</th>
@@ -498,9 +501,10 @@ Completad el siguiente cronograma:
 ## 20142_PAC2_3
 
 <blockquote>
+
 A continuación se muestra la tabla de verdad de un circuito combinacional:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADA</th>
 		<th>SALIDA</th>
@@ -652,12 +656,11 @@ Dado el siguiente circuito combinacional:
 ![](capturas/enunciados/20152_PAC2_4.png)
 </div>
 
->[!IMPORTANT]
 >`0cd1` y `00ab` **NO SON** números hexadecimales. `a` y `b` hacen referencia a las entradas.
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>M[@]</th>
@@ -724,7 +727,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM[@]</th>
@@ -765,10 +768,10 @@ donde el contenido de la memoria ROM es:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADAS</th>
-	<th colspan="4">SALIDAS</th>
+		<th colspan="4">SALIDAS</th>
 	</tr>
 	<tr>
 		<th>$a$</th>
@@ -945,7 +948,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="4">ENTRADAS</th>
 		<th colspan="4">SALIDAS</th>
@@ -1136,7 +1139,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM[@]</th>
@@ -1161,9 +1164,7 @@ donde el contenido de la memoria ROM es:
 
 Completad la siguiente tabla de verdad:
 
-<div align="center">
-
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADAS</th>
 		<th colspan="7">SALIDAS</th>
@@ -1390,12 +1391,11 @@ Completad la siguiente tabla de verdad:
 		<td>0</td>
 	</tr>
 </table>
-</div>
 </blockquote>
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="4">ENTRADAS</th>
 			<th colspan="7">SALIDAS</th>
@@ -1637,7 +1637,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM1[@]</th>
@@ -1667,7 +1667,7 @@ donde el contenido de la memoria ROM es:
 
 Completad la siguiente tabl, donde $e1$ y $e0$ son las entradas del multiplexor:
 
-<table>
+<table align="center">
 	<tr>
 		<th>ENTRADAS</th>
 		<th colspan="4">SALIDAS</th>
@@ -1740,7 +1740,7 @@ Completad la siguiente tabl, donde $e1$ y $e0$ son las entradas del multiplexor:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th>ENTRADAS</th>
 			<th colspan="4">SALIDAS</th>
@@ -1824,7 +1824,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM[@]</th>
@@ -1849,7 +1849,7 @@ donde el contenido de la memoria ROM es:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="3">ENTRADA</th>
 		<th colspan="5">SALIDA</th>
@@ -1949,7 +1949,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="3">ENTRADA</th>
 			<th colspan="5">SALIDA</th>
@@ -2060,7 +2060,7 @@ Dado el siguiente circuito:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="3">ENTRADA</th>
 		<th colspan="5">SALIDA</th>
@@ -2160,7 +2160,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="3">ENTRADA</th>
 			<th colspan="5">SALIDA</th>
@@ -2271,7 +2271,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM[@]</th>
@@ -2296,7 +2296,7 @@ donde el contenido de la memoria ROM es:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="3">ENTRADA</th>
 		<th colspan="5">SALIDA</th>
@@ -2396,7 +2396,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="3">ENTRADA</th>
 			<th colspan="5">SALIDA</th>
@@ -2507,7 +2507,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM[@]</th>
@@ -2548,7 +2548,7 @@ donde el contenido de la memoria ROM es:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADAS</th>
 		<th colspan="4">SALIDAS</th>
@@ -2728,7 +2728,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="4">ENTRADAS</th>
 			<th colspan="4">SALIDAS</th>
@@ -2919,7 +2919,7 @@ Dado el siguiente circuito:
 
 donde el contenido de la memoria ROM es:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM[@]</th>
@@ -2960,7 +2960,7 @@ donde el contenido de la memoria ROM es:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADAS</th>
 		<th colspan="5">SALIDAS</th>
@@ -3157,7 +3157,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="4">ENTRADAS</th>
 			<th colspan="5">SALIDAS</th>
@@ -3367,7 +3367,7 @@ Considerad que las entradas $A$ y $B$ son números enteros representados en comp
 
 Rellenad la tabla de verdad siguiente con las salidas correspondientes a este comparador donde las salidas están etiquetadas como $\text{gt}$ ($A>B$), $\text{eq}$ $(A=B)$ y $\text{lt}$ ($A<B$):
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADAS</th>
 		<th colspan="3">SALIDAS</th>
@@ -3530,7 +3530,7 @@ Rellenad la tabla de verdad siguiente con las salidas correspondientes a este co
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="4">ENTRADAS</th>
 			<th colspan="3">SALIDAS</th>
@@ -3705,7 +3705,7 @@ Dado el siguiente circuito:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADAS</th>
 		<th colspan="7">SALIDAS</th>
@@ -3936,7 +3936,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="4">ENTRADAS</th>
 			<th colspan="7">SALIDAS</th>
@@ -4180,7 +4180,7 @@ Donde la entrada $A$ contiene un **número binario natural** de dos bits, y la e
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="4">ENTRADAS</th>
 		<th colspan="4">SALIDAS</th>
@@ -4196,156 +4196,171 @@ Completad la siguiente tabla de verdad:
 		<th>$s0$</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>0</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>0</td>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>0</th>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>1</td>
-		<td>0</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>0</td>
-		<td>1</td>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>0</th>
+		<th>1</th>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>0</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>0</td>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>0</th>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 	<tr>
-		<td>1</td>
-		<td>1</td>
-		<td>1</td>
-		<td>1</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<th>1</th>
+		<th>1</th>
+		<th>1</th>
+		<th>1</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
+		<th>0</th>
 	</tr>
 </table>
 </blockquote>
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="4">ENTRADAS</th>
 			<th colspan="4">SALIDAS</th>
@@ -4361,149 +4376,164 @@ Completad la siguiente tabla de verdad:
 			<th>$s0$</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>0</td>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>0</td>
-			<td>1</td>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>0</td>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>0</th>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>1</th>
+			<th>0</th>
+			<th>1</th>
+			<th>1</th>
 		</tr>
 	</table>
 </details>
@@ -4521,7 +4551,7 @@ Dado el siguiente circuito combinacional:
 
 donde el contenido de la memoria ROM:
 
-<table>
+<table align="center">
 	<tr>
 		<th>@</th>
 		<th>ROM[@]</th>
@@ -4562,7 +4592,7 @@ donde el contenido de la memoria ROM:
 
 Completad la siguiente tabla de verdad:
 
-<table>
+<table align="center">
 	<tr>
 		<th colspan="3">ENTRADA</th>
 		<th colspan="7">SALIDA</th>
@@ -4680,7 +4710,7 @@ Completad la siguiente tabla de verdad:
 
 <details>
 	<summary>Ejercicio resuelto</summary>
-	<table>
+	<table align="center">
 		<tr>
 			<th colspan="3">ENTRADA</th>
 			<th colspan="7">SALIDA</th>
