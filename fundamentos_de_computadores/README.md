@@ -52,10 +52,10 @@ xychart-beta
 		<td>
 			<a href="pec1">
 				PEC1 - ¿Estás preparado para adentrarte en el mundo de los computadores digitales?
-			</a>
+			</a> (20%)
 		</td>
 		<td>
-			- / 20,00 ( )
+			17,00 / 20,00 (B)
 		</td>
 		<td rowspan="4">
 			<p>

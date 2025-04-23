@@ -17,4 +17,34 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ### Calificación
 
-- de 10,00 (grado  )
+8,50 de 10,00 (grado B)
+
+### Comentarios de retroalimentación sobre la entrega original 
+
+![](correcciones/1c.png)
+>Ejercicio 1c
+
+<br>
+
+![](correcciones/2ab.png)
+>Ejercicio 2ab
+
+<br>
+
+![](correcciones/3a.png)
+>Ejercicio 3a
+
+<br>
+
+![](correcciones/3b-1.png)
+>Ejercicio 3b (parte 1)
+
+<br>
+
+![](correcciones/3b-2.png)
+>Ejercicio 3b (parte 2)
+
+<br>
+
+![](correcciones/4a.png)
+>Ejercicio 4a
