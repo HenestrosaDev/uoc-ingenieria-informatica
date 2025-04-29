@@ -413,4 +413,4 @@ $\neg Q(b,a) \wedge \exists x [S(x) \wedge Q(x,a)]$
 
 ### Calificación
 
-- / 10,00 (grado )
+10,00 / 10,00 (grado A)
