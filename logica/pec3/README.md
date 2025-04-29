@@ -218,4 +218,4 @@ $(M \vee R) \rightarrow (P \rightarrow F)$
 
 ### Calificación
 
-- / 10,00 (grado )
+7,30 / 10,00 (grado B)
