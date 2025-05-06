@@ -25,10 +25,10 @@
 
 ## 20111_EX1_2B
 
->Construid un circuito combinacional que reciba, como entrada, un número `N` de 5 bits en formato de complemento a 2 y que dé, como salida, el mismo número de 5 bits en formato de signo y magnitud y, además, una salida que indique si ha habido desbordamiento en el cambio de formato. En este caso, la salida `M` tiene que ser $0_{\text{(SM2}}$
+>Construid un circuito combinacional que reciba, como entrada, un número `N` de 5 bits en formato de complemento a 2 y que dé, como salida, el mismo número de 5 bits en formato de signo y magnitud `y`, además, una salida que indique si ha habido desbordamiento en el cambio de formato. En este caso, la salida `M` tiene que ser $0_{\text{(SM2}}$
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20111_EX1_2B.png"
 		width="49%"
@@ -44,7 +44,7 @@
 >Diseñad un sumador de números en representación BCD. La representación en BCD representa cada dígito decimal con 4 bits. Por ejemplo, el decimal 9 en BCD es 1001, pero para representar el valor 10 en BCD, necesitamos 2 dígitos BCD, 0001 0000, el primer grupo de 4 bits para representar el dígito 1 y el segundo grupo para representar el dígito 0. El sumador BCD recibe dos números de un dígito, `A` y `B`, y da como resultado un número BCD de un dígito de suma, `S`, y un bit de acarreo, `c`, que vale 1 cuando la suma obtenga un número BCD no representable con un dígito. Tened en cuenta que, cuando la suma en binario de los números BCD supera el valor 9, el resultado correcto en BCD se obtiene sumando 6 al resultado obtenido. Por ejemplo, si se suma 5 (0101 en BCD) con 8 (1000 en BCD), el resultado tiene que ser 3 (0011 en BCD) con acarreo 1 pero, al sumar los números binarios de 4 bits correspondientes, el resultado da un número no BCD, que es 13, o 1101, y sin acarreo. Para corregirlo, se le suma 6, o 0110, y da un número en BCD, que es 3 (0011 en BCD), y acarreo 1.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20111_EX2_2B.png"
 		width="49%"
@@ -74,7 +74,7 @@ Realizad un circuito que calcule `s1` utilizando sólo un MUX de 4 entradas de c
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20121_PAC2_1D.png"
 		width="49%"
@@ -104,7 +104,7 @@ Realizad un circuito que calcule $s_1$ utilizando un MUX de 3 entradas de contro
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20121_PAC2_1E.png"
 		width="49%"
@@ -132,7 +132,7 @@ Se pide que diseñéis el circuito `FUNC` usando bloques y puertas combinacional
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20122_EX3_2B.png"
 		width="49%"
@@ -278,7 +278,7 @@ Sintetizad la manera mínima a dos niveles la función $g$ mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20131_PAC2_2B_C.png"
 		width="49%"
@@ -440,7 +440,7 @@ Implementad la función `f` utilizando un descodificador 4-16 y una puerta OR.
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20131_PAC2_3B.png"
 		width="49%"
@@ -476,7 +476,7 @@ Implementad la función `g` utilizando un multiplexor de 3 variables de control.
 		<td>0</td>
 		<td>0</td>
 		<td>1</td>
-		<td>x</td>
+		<td>X</td>
 	</tr>
 	<tr>
 		<td>0</td>
@@ -602,7 +602,7 @@ Implementad la función `g` utilizando un multiplexor de 3 variables de control.
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20132_PAC2_2D.png"
 		width="49%"
@@ -637,7 +637,7 @@ Diseñad el circuito NORM utilizando las puertas y los bloques combinacionales (
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20132_PAC2_4.png"
 		width="49%"
@@ -818,7 +818,7 @@ Sintetizad de forma mínima a dos niveles la función `f2` mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20141_PAC2_1B.png"
 		width="49%"
@@ -836,7 +836,7 @@ Sintetizad de forma mínima a dos niveles la función `f2` mediante el método d
 >**NOTA**: En este apartado NO se puede usar ninguna memoria ROM, pero será útil usar un multiplexor de buses.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20141_PAC2_4C.png"
 		width="49%"
@@ -983,7 +983,7 @@ Sintetizad de forma mínima a dos niveles la función `f0` mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20142_PAC2_1C.png"
 		width="49%"
@@ -1010,7 +1010,7 @@ Se quiero diseñar un circuito lógico combinacional que sume o reste una unidad
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20142_PAC2_4A.png"
 		width="49%"
@@ -1157,7 +1157,7 @@ Sintetizad la función `f` con un decodificador de 4 entradas y las puertas lóg
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20152_PAC2_2B.png"
 		width="49%"
@@ -1321,7 +1321,7 @@ Sintetizad de forma mínima a dos niveles la función `f2` mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20161_PAC2_1B.png"
 		width="49%"
@@ -1339,7 +1339,7 @@ Sintetizad de forma mínima a dos niveles la función `f2` mediante el método d
 >A _nivel de bloques_ quiere decir que no se admite construir el circuito partiendo de una tabla de verdad y haciendo la implementación con dos niveles de puertas, sino que se tiene que construir usando bloques combinacionales, y las puertas lógicas que hagan falta. El único bloque combinacional que no está permitido en este ejercicio es la memoria ROM.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20161_PAC2_4.png"
 		width="49%"
@@ -1503,7 +1503,7 @@ Sintetizad de forma mínima a dos niveles la función `f2` mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20162_PAC2_1B.png"
 		width="49%"
@@ -1667,7 +1667,7 @@ A _nivel de bloques_ quiere decir que no se admite construir el circuito partien
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20162_PAC2_1C.png"
 		width="49%"
