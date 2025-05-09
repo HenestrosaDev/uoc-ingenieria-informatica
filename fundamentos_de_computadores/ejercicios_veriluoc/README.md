@@ -56,262 +56,262 @@
 		<th>DESCRIPCIÓN</th>
 	</tr>
 	<tr>
-		<td>Reto Inicial</td>
+		<td><strong>Reto Inicial</strong></td>
 		<td>$\emptyset$</td>
 		<th>$\emptyset$</th>
 		<td>$\emptyset$</td>
 		<td>$\emptyset$</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_inicial-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_inicial-oro.png">
 		</td>
 		<td>Verificar correctamente el ejercicio AND2.</td>
 	</tr>
 	<tr>
 		<td><strong>Reto VerilCirc</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilcirc-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilcirc-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio de VerilCirc</th>
+		<td>Verificar correctamente 1 ejercicio de VerilCirc</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilcirc-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilcirc-plata.png">
 		</td>
 		<td>Verificar correctamente 10 ejercicios de VerilCirc</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilcirc-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilcirc-oro.png">
 		</td>
 		<td>Verificar correctamente 20 ejercicios de VerilCirc</td>
 	</tr>
 	<tr>
 		<td><strong>Reto KeMAP</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_kemap-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_kemap-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio de KeMAP</th>
+		<td>Verificar correctamente 1 ejercicio de KeMAP</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_kemap-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_kemap-plata.png">
 		</td>
 		<td>Verificar correctamente 5 ejercicios de KeMAP</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_kemap-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_kemap-oro.png">
 		</td>
 		<td>Verificar correctamente 10 ejercicios de KeMAP</td>
 	</tr>
 	<tr>
 		<td><strong>Reto VerilChart</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilchart-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilchart-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio de VerilChart</th>
+		<td>Verificar correctamente 1 ejercicio de VerilChart</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilchart-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilchart-plata.png">
 		</td>
 		<td>Verificar correctamente 5 ejercicios de VerilChart</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilchart-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilchart-oro.png">
 		</td>
 		<td>Verificar correctamente 10 ejercicios de VerilChart</td>
 	</tr>
 	<tr>
 		<td><strong>Reto Laboratorio</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_laboratorio-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_laboratorio-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio de laboratorio</th>
+		<td>Verificar correctamente 1 ejercicio de laboratorio</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_laboratorio-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_laboratorio-plata.png">
 		</td>
 		<td>Verificar correctamente 5 ejercicios de laboratorio</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_laboratorio-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_laboratorio-oro.png">
 		</td>
 		<td>Verificar correctamente TODOS los ejercicios de laboratorio</td>
 	</tr>
 	<tr>
 		<td><strong>Reto Circuitos Combinacionales</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_circuitos_combinacionales-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_circuitos_combinacionales-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio del módulo "los circuitos combinacionales"</th>
+		<td>Verificar correctamente 1 ejercicio del módulo "los circuitos combinacionales"</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_circuitos_combinacionales-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_circuitos_combinacionales-plata.png">
 		</td>
 		<td>Verificar correctamente 10 ejercicios del módulo "los circuitos combinacionales"</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_circuitos_combinacionales-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_circuitos_combinacionales-oro.png">
 		</td>
 		<td>Verificar correctamente 20 ejercicios del módulo "los circuitos combinacionales"</td>
 	</tr>
 	<tr>
 		<td><strong>Reto Circuitos Secuenciales</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_circuitos_secuenciales-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_circuitos_secuenciales-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio del módulo "los circuitos secuenciales"</th>
+		<td>Verificar correctamente 1 ejercicio del módulo "los circuitos secuenciales"</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_circuitos_secuenciales-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_circuitos_secuenciales-plata.png">
 		</td>
 		<td>Verificar correctamente 5 ejercicios módulo "los circuitos secuenciales"</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_circuitos_secuenciales-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_circuitos_secuenciales-oro.png">
 		</td>
 		<td>Verificar correctamente 10 ejercicios módulo "los circuitos secuenciales"</td>
 	</tr>
 	<tr>
 		<td><strong>Reto Ejercicios Materiales</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_materiales-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_materiales-bronce.png">
 		</td>
-		<th>Verificar correctamente 10 ejercicios del apartado de materiales</th>
+		<td>Verificar correctamente 10 ejercicios del apartado de materiales</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_materiales-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_materiales-plata.png">
 		</td>
 		<td>Verificar correctamente 25 ejercicios del apartado de materiales</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_materiales-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_materiales-oro.png">
 		</td>
 		<td>Verificar correctamente TODOS los ejercicios del apartado de materiales</td>
 	</tr>
 	<tr>
 		<td><strong>Reto Ejercicios PEC</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec-bronce.png">
 		</td>
-		<th>Verificar correctamente 3 ejercicios del apartado PEC/PR</th>
+		<td>Verificar correctamente 3 ejercicios del apartado PEC/PR</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec-plata.png">
 		</td>
 		<td>Verificar correctamente 7 ejercicios del apartado PEC/PR</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec-oro.png">
 		</td>
 		<td>Verificar correctamente TODOS los ejercicios del apartado PEC/PR</td>
 	</tr>
 	<tr>
-		<td>Reto Ejercicios Histórico</td>
+		<td><strong>Reto Ejercicios Histórico</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_historico-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_historico-bronce.png">
 		</td>
-		<th>Verificar correctamente 5 ejercicios del apartado histórico</th>
+		<td>Verificar correctamente 5 ejercicios del apartado histórico</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_historico-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_historico-plata.png">
 		</td>
 		<td>Verificar correctamente 10 ejercicios del apartado histórico</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_historico-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_historico-oro.png">
 		</td>
 		<td>Verificar correctamente TODOS los ejercicios del apartado histórico</td>
 	</tr>
 	<tr>
-		<td>Reto Ejercicios PEC2</td>
+		<td><strong>Reto Ejercicios PEC2</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec2-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec2-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio de la PEC2</th>
+		<td>Verificar correctamente 1 ejercicio de la PEC2</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec2-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec2-plata.png">
 		</td>
 		<td>Verificar correctamente 2 ejercicios de la PEC2</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec2-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec2-oro.png">
 		</td>
 		<td>Verificar correctamente TODOS los ejercicios de la PEC2</td>
 	</tr>
 	<tr>
-		<td>Reto Ejercicios PEC3</td>
+		<td><strong>Reto Ejercicios PEC3</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec3-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec3-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio de la PEC3</th>
+		<td>Verificar correctamente 1 ejercicio de la PEC3</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec3-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec3-plata.png">
 		</td>
 		<td>Verificar correctamente 2 ejercicios de la PEC3</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pec3-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pec3-oro.png">
 		</td>
 		<td>Verificar correctamente TODOS los ejercicios de la PEC3</td>
 	</tr>
 	<tr>
-		<td>Reto Ejercicios Práctica</td>
+		<td><strong>Reto Ejercicios Práctica</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pr-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pr-bronce.png">
 		</td>
-		<th>Verificar correctamente 1 ejercicio de la Práctica</th>
+		<td>Verificar correctamente 1 ejercicio de la Práctica</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pr-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pr-plata.png">
 		</td>
 		<td>Verificar correctamente 2 ejercicios de la Práctica</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_ejercicios_pr-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_ejercicios_pr-oro.png">
 		</td>
 		<td>Verificar correctamente TODOS los ejercicios de la Práctica</td>
 	</tr>
 	<tr>
-		<td>Reto VerilCirc calidad</td>
+		<td><strong>Reto VerilCirc calidad</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilcirc_calidad-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilcirc_calidad-bronce.png">
 		</td>
-		<th>Obtener un acumulado de 15 estrellas en ejercicios de VerilCirc</th>
+		<td>Obtener un acumulado de 15 estrellas en ejercicios de VerilCirc</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilcirc_calidad-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilcirc_calidad-plata.png">
 		</td>
-		<th>Obtener un acumulado de 30 estrellas en ejercicios de VerilCirc</th>
+		<td>Obtener un acumulado de 30 estrellas en ejercicios de VerilCirc</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilcirc_calidad-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilcirc_calidad-oro.png">
 		</td>
-		<th>Obtener un acumulado de 60 estrellas en ejercicios de VerilCirc</th>
+		<td>Obtener un acumulado de 60 estrellas en ejercicios de VerilCirc</td>
 	</tr>
 	<tr>
-		<td>Reto KeMAP calidad</td>
+		<td><strong>Reto KeMAP calidad</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_kemap_calidad-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_kemap_calidad-bronce.png">
 		</td>
-		<th>Obtener un acumulado de 15 estrellas en ejercicios de KeMAP</th>
+		<td>Obtener un acumulado de 15 estrellas en ejercicios de KeMAP</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_kemap_calidad-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_kemap_calidad-plata.png">
 		</td>
-		<th>Obtener un acumulado de 30 estrellas en ejercicios de KeMAP</th>
+		<td>Obtener un acumulado de 30 estrellas en ejercicios de KeMAP</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_kemap_calidad-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_kemap_calidad-oro.png">
 		</td>
-		<th>Obtener un acumulado de 60 estrellas en ejercicios de KeMAP</th>
+		<td>Obtener un acumulado de 60 estrellas en ejercicios de KeMAP</td>
 	</tr>
 	<tr>
-		<td>Reto VerilChart calidad</td>
+		<td><strong>Reto VerilChart calidad</strong></td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilchart_calidad-bronce.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilchart_calidad-bronce.png">
 		</td>
-		<th>Obtener un acumulado de 15 estrellas en ejercicios de VerilChart</th>
+		<td>Obtener un acumulado de 15 estrellas en ejercicios de VerilChart</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilchart_calidad-plata.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilchart_calidad-plata.png">
 		</td>
-		<th>Obtener un acumulado de 30 estrellas en ejercicios de VerilChart</th>
+		<td>Obtener un acumulado de 30 estrellas en ejercicios de VerilChart</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_verilchart_calidad-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_verilchart_calidad-oro.png">
 		</td>
-		<th>Obtener un acumulado de 60 estrellas en ejercicios de VerilChart</th>
+		<td>Obtener un acumulado de 60 estrellas en ejercicios de VerilChart</td>
 	</tr>
 	<tr>
-		<td>Reto Sumar 0,5 puntos PR (básico)</td>
+		<td><strong>Reto Sumar 0,5 puntos PR (básico)</strong></td>
 		<td>$\emptyset$</td>
-		<th>$\emptyset$</th>
+		<td>$\emptyset$</td>
 		<td>$\emptyset$</td>
 		<td>$\emptyset$</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_sumar_puntos_pr-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_sumar_puntos_pr-oro.png">
 		</td>
-		<th>Lograr la medalla de plata en el reto Laboratorio y la medalla de bronce en los retos Ejercicios Material e Histórico</th>
+		<td>Lograr la medalla de plata en el reto Laboratorio y la medalla de bronce en los retos Ejercicios Material e Histórico</td>
 	</tr>
 	<tr>
-		<td>Reto Sumar 0,5 puntos PR (EC)</td>
+		<td><strong>Reto Sumar 0,5 puntos PR (EC)</strong></td>
 		<td>$\emptyset$</td>
-		<th>$\emptyset$</th>
+		<td>$\emptyset$</td>
 		<td>$\emptyset$</td>
 		<td>$\emptyset$</td>
 		<td>
-			<img src="img/logros_sin_fondo/reto_sumar_puntos_pr-oro.png">
+			<img width="45" src="img/logros_sin_fondo/reto_sumar_puntos_pr-oro.png">
 		</td>
-		<th>Lograr la medalla de plata en los retos Ejercicios PEC2 y PEC3 y la medalla de bronce en el reto Ejercicios Práctica</th>
+		<td>Lograr la medalla de plata en los retos Ejercicios PEC2 y PEC3 y la medalla de bronce en el reto Ejercicios Práctica</td>
 	</tr>
 </table>
 
