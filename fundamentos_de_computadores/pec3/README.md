@@ -15,4 +15,4 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ### Calificación
 
-- de 10,00 (grado  )
+10,00 de 10,00 (grado A)
