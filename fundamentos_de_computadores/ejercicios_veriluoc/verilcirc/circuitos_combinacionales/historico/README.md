@@ -76,11 +76,11 @@ Realizad un circuito que calcule `s1` utilizando sólo un MUX de 4 entradas de c
 <details>
 	<summary>Ejercicio resuelto</summary>
 	<img
-		src="capturas/ejercicios/20121_PAC2_1D.png"
+		src="capturas/ejercicios/20122_PAC2_1D.png"
 		width="49%"
 	>
 	<img
-		src="capturas/ejercicios/printer_view/20121_PAC2_1D.png"
+		src="capturas/ejercicios/printer_view/20122_PAC2_1D.png"
 		width="49%"
 	>
 </details>
@@ -95,7 +95,7 @@ Se quiere diseñar un circuito (`NEG`) que calcule el opuesto de un número ente
 
 <div align="center">
 
-![](capturas/enunciados/20122_PAC2_1D.jpg)
+![](capturas/enunciados/20122_PAC2_1E.png)
 </div>
 
 Deducid el número de bits de la salida `S`.
@@ -106,11 +106,11 @@ Realizad un circuito que calcule $s_1$ utilizando un MUX de 3 entradas de contro
 <details>
 	<summary>Ejercicio resuelto</summary>
 	<img
-		src="capturas/ejercicios/20121_PAC2_1E.png"
+		src="capturas/ejercicios/20122_PAC2_1E.png"
 		width="49%"
 	>
 	<img
-		src="capturas/ejercicios/printer_view/20121_PAC2_1E.png"
+		src="capturas/ejercicios/printer_view/20122_PAC2_1E.png"
 		width="49%"
 	>
 </details>
