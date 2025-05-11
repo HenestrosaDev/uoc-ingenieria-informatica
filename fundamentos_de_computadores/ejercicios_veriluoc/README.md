@@ -1,5 +1,18 @@
 # Ejercicios VerilUOC
 
+- [¿Qué es VerilUOC?](#qué-es-veriluoc)
+- [¿Cómo se usa?](#cómo-se-usa)
+	- [Windows](#windows)
+	- [macOS](#macos)
+- [Beneficios PyPAC](#beneficios-pypac)
+- [Logros](#logros)
+- [Ejercicios](#ejercicios)
+	- [VerilCirc](#verilcirc)
+	- [KeMAP](#kemap)
+	- [VerilChart](#verilchart)
+
+<br>
+
 ## ¿Qué es VerilUOC?
 
 >VerilUOC es una herramienta de apoyo al autoaprendizaje para la resolución de las PECs y Práctica de Fundamentos de Computadores. Actualmente, esta herramienta permite verificar automáticamente un subconjunto de los ejercicios relacionados con el diseño y análisis de circuitos digitales. Además todas las herramientas, permiten exportar los resultados en formato imagen, lo que reduce el tiempo de edición necesario realizar las actividades de la asignatura.
@@ -12,7 +25,7 @@
 >
 >El cliente de VerilUOC es una aplicación Java multiplataforma que utiliza el programa base LogiSim. No hace falta ningún tipo de instalación. El único requerimiento es tener instalado JAVA (1.8, a día de la escritura de este documento) y acceso a Internet para autenticarse con vuestro login/password del campus de la UOC.
 >
->>Parte de la información ha sido extraída de la [Wiki de VerilUOC](https://eimtveril.uoc.edu/mediawiki/es/Inicio).
+>>Información extraída de la [Wiki de VerilUOC](https://eimtveril.uoc.edu/mediawiki/es/Inicio).
 
 ## ¿Cómo se usa?
 
@@ -398,6 +411,8 @@
 - [CMPBIT](verilcirc/laboratorio/README.md#cmpbit)
 - [REG2B](verilcirc/laboratorio/README.md#reg2b)
 
+---
+
 ### KeMAP
 
 ##### Circuitos combinacionales
@@ -429,6 +444,8 @@
 - [m3ex27KM](kemap/circuitos_combinacionales/historico/README.md#m3ex27km)
 - [m3ex28E](kemap/circuitos_combinacionales/historico/README.md#m3ex28e)
 - [m3ex28R](kemap/circuitos_combinacionales/historico/README.md#m3ex28r)
+
+---
 
 ### VerilChart
 
