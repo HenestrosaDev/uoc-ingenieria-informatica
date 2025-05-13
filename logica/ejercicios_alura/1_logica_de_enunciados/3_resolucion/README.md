@@ -9,7 +9,7 @@ El desglose de los ejercicios se realiza por dificultad:
 ### 1
 
 >1. $A \rightarrow (B \rightarrow \neg (A \vee B))$
->2. $\neg (A \vee B)$
+>2. $\therefore \neg (A \vee B)$
 
 <details>
 	<summary>Solución</summary>
