@@ -94,18 +94,18 @@ xychart-beta
 			<a href="pec5">
 				PEC5 - La deducción natural en la lógica de predicados
 			</a>
-			(16,67%)
+			(16,66%)
 		</td>
-		<td>- / 16,67 ( )</td>
+		<td>14,66 / 16,66 (B)</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="pec6">
 				PEC6 - El método de resolución y la semántica de la lógica de predicados
 			</a>
-			(16,67%)
+			(16,66%)
 		</td>
-		<td>- / 16,67 ( )</td>
+		<td>- / 16,66 ( )</td>
 	</tr>
 	<tr>
 		<td>
