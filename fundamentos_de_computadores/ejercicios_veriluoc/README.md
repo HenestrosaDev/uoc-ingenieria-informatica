@@ -497,7 +497,7 @@
 - [20132\_PAC3\_2B](verilchart/circuitos_secuenciales/historico/README.md#20132_pac3_2b)
 - [20132\_PAC3\_4](verilchart/circuitos_secuenciales/historico/README.md#20132_pac3_4)
 - [20141\_PAC3\_1](verilchart/circuitos_secuenciales/historico/README.md#20141_pac3_1)
-- [20141\_PAC3\_1](verilchart/circuitos_secuenciales/historico/README.md#20141_pac3_1-1)
+- [20141\_PAC3\_3](verilchart/circuitos_secuenciales/historico/README.md#20141_pac3_3)
 - [20141\_PAC3\_5](verilchart/circuitos_secuenciales/historico/README.md#20141_pac3_5)
 - [20142\_PAC3\_1](verilchart/circuitos_secuenciales/historico/README.md#20142_pac3_1)
 - [20142\_PAC3\_2](verilchart/circuitos_secuenciales/historico/README.md#20142_pac3_2)
