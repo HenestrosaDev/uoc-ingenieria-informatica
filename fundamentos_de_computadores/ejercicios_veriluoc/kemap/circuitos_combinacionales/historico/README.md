@@ -157,7 +157,7 @@ Dada la tabla de verdad, minimizad la expresión en suma de productos de la func
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20102_EX3_2B.png">
 	</div>
@@ -297,7 +297,7 @@ Dada la tabla de verdad, minimizad la expresión en suma de productos de la func
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20111_EX1_2A.png">
 	</div>
@@ -437,7 +437,7 @@ Dada la tabla de verdad, minimizad la expresión en suma de productos de la func
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20111_EX2_2A.png">
 	</div>
@@ -577,9 +577,9 @@ Dada la tabla de verdad, minimizad la expresión en suma de productos de la func
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
-		<img src="capturas/ejercicios/20111_EX2_2A.png">
+		<img src="capturas/ejercicios/20111_EX3_2A.png">
 	</div>
 </details>
 
@@ -598,9 +598,9 @@ Obtened la tabla de verdad de $y_2$ y minimizad $y_2$ utilizando el método de K
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
-		<img src="capturas/ejercicios/20111_EX3_2A.png">
+		<img src="capturas/ejercicios/20112_EX1_2B.png">
 	</div>
 </details>
 
@@ -651,9 +651,9 @@ Minimizad la salida $s$ utilizando el método de Karnaugh.
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
-		<img src="capturas/ejercicios/20112_EX2.png">
+		<img src="capturas/ejercicios/20112_EX2_2.png">
 	</div>
 </details>
 
@@ -791,7 +791,7 @@ Dada la tabla de verdad, sintetizad de forma mínima a dos niveles la función $
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20121_EX2_2A.png">
 	</div>
@@ -931,7 +931,7 @@ Dada la tabla de verdad, sintetizad de forma mínima a dos niveles la función $
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20122_PAC2_2A_KM.png">
 	</div>
@@ -1088,7 +1088,7 @@ Dada la tabla de verdad, sintetizad de forma mínima a dos niveles la función $
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20122_EX3_2A.png">
 	</div>
@@ -1228,7 +1228,7 @@ Dada la tabla de verdad, sintetizad de forma mínima a dos niveles la función $
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20131_PAC2_2A_KM.png">
 	</div>
@@ -1385,7 +1385,7 @@ Dada la siguiente tabla de verdad, sintetizad de manera mínima a dos niveles la
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20132_PAC2_2C_KM.png">
 	</div>
@@ -1561,7 +1561,7 @@ Sintetizad de forma mínima a dos niveles la función $f2$ mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20141_PAC2_1B_KM.png">
 	</div>
@@ -1703,7 +1703,7 @@ Sintetizad la forma mínima a dos niveles la función $f_0$ mediante el método 
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20142_PAC2_1C_KM.png">
 	</div>
@@ -1845,7 +1845,7 @@ Sintetizad la forma mínima a dos niveles la función $f_2$ mediante el método 
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20151_PAC2_2_KM.png">
 	</div>
@@ -1987,9 +1987,9 @@ Sintetizad la forma mínima a dos niveles la función $f$ mediante el método de
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
-		<img src="capturas/ejercicios/20151_PAC2_2A_KM.png">
+		<img src="capturas/ejercicios/20152_PAC2_2A_KM.png">
 	</div>
 </details>
 
@@ -2146,7 +2146,7 @@ Sintetizad de forma mínima a dos niveles la función $f2$ mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20161_PAC2_1B_KM.png">
 	</div>
@@ -2305,7 +2305,7 @@ Sintetizad de forma mínima a dos niveles la función $f2$ mediante el método d
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20162_PAC2_1B_KM.png">
 	</div>
@@ -2464,7 +2464,7 @@ Sintetizad de forma mínima a dos niveles la función $g$ mediante el método de
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/20171_PAC2_2A_KM.png">
 	</div>

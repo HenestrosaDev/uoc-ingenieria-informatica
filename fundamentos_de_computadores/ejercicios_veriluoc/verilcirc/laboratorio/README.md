@@ -29,7 +29,7 @@ Diseñad con puertas lógicas un multiplexor 2-1 (2 entradas/1 salida) con entra
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/MUX2.png">
 		<img src="capturas/ejercicios/printer_view/MUX2.png">
@@ -52,7 +52,7 @@ Diseñad con puertas lógicas un demultiplexor 1-2 (1 entrada/2 salidas) con una
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/DEMUX2.png"
@@ -80,7 +80,7 @@ Diseñad con puertas lógicas un codificador 4-2 (4 entradas/2 salidas) con entr
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/COD4IN.png"
@@ -108,7 +108,7 @@ Diseñad con puertas lógicas un decodificador 1-2 (1 entrada/2 salidas) con una
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/DECOD2.png"
@@ -136,7 +136,7 @@ Diseñad con puertas lógicas un sumador en complemento a 2 de 1 bit con las ent
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/SUM1.png"
@@ -162,7 +162,7 @@ Diseñad con puertas lógicas un desplazador de 2 bits a la izquierda con una en
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/SHIFT2L.png"
@@ -190,7 +190,7 @@ Diseñad con un bloque de suma y puertas lógicas un restador en complemento a 2
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/SUBST2.png"
@@ -218,7 +218,7 @@ Diseñad con puertas lógicas un comparador de un bit con entradas `A` y `B`. El
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/CMPBIT.png"
@@ -247,7 +247,7 @@ Diseñad con dos biestables un registro de 2 bits con las entradas `D` de 2 bits
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img
 			src="capturas/ejercicios/REG2B.png"

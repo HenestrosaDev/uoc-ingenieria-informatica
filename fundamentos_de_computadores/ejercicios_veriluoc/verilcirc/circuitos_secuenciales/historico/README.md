@@ -55,7 +55,7 @@ Para hacer el circuito deberéis utilizar los siguientes bloques:
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20161_PAC3_3B.png"
 		width="49%"
@@ -83,7 +83,7 @@ Se desea implementar el grafo de estados usando una memoria ROM del tamaño nece
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/20171_PAC3_3B.png"
 		width="49%"

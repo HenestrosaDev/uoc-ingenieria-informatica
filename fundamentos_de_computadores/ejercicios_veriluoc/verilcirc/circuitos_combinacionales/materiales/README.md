@@ -44,7 +44,7 @@
 >Construid un circuito con una puerta AND de dos entradas. Las señales de entrado son `in1`, `in2` y la señal de salida es output.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/and2.png"
 		width="49%"
@@ -60,7 +60,7 @@
 >Sintetizad la función $f(a,b,c,d) = d \cdot (a' + a \cdot b) \cdot (b' \oplus c)$
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex21.png"
 		width="49%"
@@ -78,7 +78,7 @@
 >$$f(x,y,z,w) = x' y' z' w' + x'yz'w' + xy'zw' + xyzw + x'y'z'w + x'yzw$$
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex23a.png"
 		width="49%"
@@ -96,7 +96,7 @@
 >$$f(x,y,z) = xz' + y'z + x'y$$
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex23b.png"
 		width="49%"
@@ -114,7 +114,7 @@
 >Implementad el circuito a dos niveles.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex24c.png"
 		width="49%"
@@ -194,7 +194,7 @@ Sintetizad la siguiente función a dos niveles:
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex25.png"
 		width="49%"
@@ -214,7 +214,7 @@ Sintetizad la siguiente función a dos niveles:
 >Minimizad la función mediante Karnaugh.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex26.png"
 		width="49%"
@@ -234,7 +234,7 @@ Sintetizad la siguiente función a dos niveles:
 >Minimizad la función $F$ mediante Karnaugh.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex27.png"
 		width="49%"
@@ -252,7 +252,7 @@ Sintetizad la siguiente función a dos niveles:
 >Haced su implementación interna mediante puertas lógicas.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex29.png"
 		width="49%"
@@ -268,7 +268,7 @@ Sintetizad la siguiente función a dos niveles:
 >Implementad la función $f(a,b,c) = abc' + a'c$ con un multiplexor 8-1.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex30.png"
 		width="49%"
@@ -284,7 +284,7 @@ Sintetizad la siguiente función a dos niveles:
 >Implementad un circuito combinacional que permita multiplicar dos números enteros de dos bits representados en complemento a 2 utilizando sólo un multiplexor.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex31.png"
 		width="49%"
@@ -300,7 +300,7 @@ Sintetizad la siguiente función a dos niveles:
 >Diseñad un multiplexor de 16-1 utilizando dos multiplexores 8-1 y las puertas lógicas que hagan falta.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex32.png"
 		width="49%"
@@ -316,7 +316,7 @@ Sintetizad la siguiente función a dos niveles:
 >Deducid la implementación interna (mediante puertas lógicas) de un codificador 4-2.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex35.png"
 		width="49%"
@@ -332,7 +332,7 @@ Sintetizad la siguiente función a dos niveles:
 >Deducid la implementación interna (mediante puertas lógicas) de un descodificador 2-4.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex36.png"
 		width="49%"
@@ -348,7 +348,7 @@ Sintetizad la siguiente función a dos niveles:
 >Implementad la función $f(a,b,c) = abc' + a'c$ con un descodificador 3-8.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex37.png"
 		width="49%"
@@ -369,7 +369,7 @@ Sintetizad la siguiente función a dos niveles:
 >- Otra salida de un bit, `null`, que valdrá 1 sólo cuándo no se indique ninguna magnitud para ser representada. En este caso, las salidas `s3`... `s0` también valdrán 0.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex38.png"
 		width="49%"
@@ -385,7 +385,7 @@ Sintetizad la siguiente función a dos niveles:
 >Construid un circuito que implemente la función $Y = (X + 3) \mod 4$, siendo `X` e `Y` números naturales representados en binario con 2 bits. El circuito sólo puede contener dos bloques y ninguna puerta.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex40.png"
 		width="49%"
@@ -401,7 +401,7 @@ Sintetizad la siguiente función a dos niveles:
 >Diseñad un descodificador 3-8 utilizando dos descodificadores 2-4 y las puertas lógicas que hagan falta.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex42.png"
 		width="49%"
@@ -417,7 +417,7 @@ Sintetizad la siguiente función a dos niveles:
 >Implementad un circuito que pueda actuar como un desplazador de un bit a la izquierda de señales de cuatro bits usando un multiplexor 2-1 de buses de cuatro bits. Una señal de control de un bit, `d`, determina si el número de entrada se debe desplazar o no.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex44.png"
 		width="49%"
@@ -433,7 +433,7 @@ Sintetizad la siguiente función a dos niveles:
 >Diseñad un circuito con una entrada `X` por la que llegan números naturales representados en binario con 8 bits y una salida `Z` de 8 bits, de manera que $Z = X'$ si `X` es múltiplo de 4, y $Z = x_3 x_2 00$ si no lo es.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex45.png"
 		width="49%"
@@ -461,7 +461,7 @@ Implementad el bloque `M0` con el mínimo número de bloques combinacionales y, 
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex46.png"
 		width="49%"
@@ -479,7 +479,7 @@ Implementad el bloque `M0` con el mínimo número de bloques combinacionales y, 
 >Diseñad el circuito para conseguir la salida `C` utilizando una memoria ROM.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex47.png"
 		width="49%"
@@ -513,7 +513,7 @@ Implementad el bloque `M0` con el mínimo número de bloques combinacionales y, 
 >Implementa la función usando una memoria ROM.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex48.png"
 		width="49%"
@@ -551,7 +551,7 @@ Diseñad el bloque CONTAR utilizando sólo bloques combinacionales (exceptuando 
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex50b.png"
 		width="49%"
@@ -588,7 +588,7 @@ Diseñad el circuito combinacional completo `A` con una memoria ROM e indicad su
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex50c.png"
 		width="49%"
@@ -604,7 +604,7 @@ Diseñad el circuito combinacional completo `A` con una memoria ROM e indicad su
 >Deducid las expresiones algebraicas de las funciones de salida $A = B$ y $A < B$ de un comparador de números de 2 bits y haced su implementación mediante puertas lógicas.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex51.png"
 		width="49%"
@@ -620,7 +620,7 @@ Diseñad el circuito combinacional completo `A` con una memoria ROM e indicad su
 >Diseñad un circuito que obtenga en su salida el máximo de dos números naturales, `X` e `Y`, de 4 bits.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex52.png"
 		width="49%"
@@ -641,7 +641,7 @@ Diseñad el circuito combinacional completo `A` con una memoria ROM e indicad su
 >- Si $X = Y$ y son iguales a 0, `S` debe valer 11.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex53.png"
 		width="49%"
@@ -685,7 +685,7 @@ Utilizando cualesquiera de los bloques y puertas que se han visto, diseñad un c
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex54.png"
 		width="49%"
@@ -701,7 +701,7 @@ Utilizando cualesquiera de los bloques y puertas que se han visto, diseñad un c
 >Suponed que `X` es un número natural codificado con 3 bits e implementad la función $Z = (3 \cdot X) \mod 8$ usando sólo un sumador de cuatro bits y un desplazador.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex55.png"
 		width="49%"
@@ -719,7 +719,7 @@ Utilizando cualesquiera de los bloques y puertas que se han visto, diseñad un c
 >El circuito debe indicar si se produce desbordamiento en el cálculo poniendo la salida `V` (de un bit) a 1.
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex57.png"
 		width="49%"
@@ -747,7 +747,7 @@ Los buses de entrada y salida de cada bloque deben tener el menor ancho posible 
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex59.png"
 		width="49%"
@@ -771,7 +771,7 @@ Diseñad una UAL que, a partir de dos entradas de control `c1` y `c0`, realice l
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex60a.png"
 		width="49%"
@@ -802,7 +802,7 @@ Añadid a la UAL diseñada en el apartado anterior los circuitos necesarios para
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<img
 		src="capturas/ejercicios/m3ex60b.png"
 		width="49%"

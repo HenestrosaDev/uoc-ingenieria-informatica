@@ -82,7 +82,7 @@ Minimizad la función mediante Karnaugh.
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/m3ex26KM.png">
 	</div>
@@ -226,7 +226,7 @@ Minimizad la función `F` mediante Karnaugh.
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/m3ex27KM.png">
 	</div>
@@ -319,7 +319,7 @@ Minimizad la función `E` mediante Karnaugh.
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/m3ex28E.png">
 	</div>
@@ -412,7 +412,7 @@ Minimizad la función `R` mediante Karnaugh.
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div align="center">
 		<img src="capturas/ejercicios/m3ex28R.png">
 	</div>

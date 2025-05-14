@@ -27,7 +27,7 @@ Completad el siguiente cronograma, suponiendo que la señal `f` corresponde a la
 </blockquote>
 
 <details>
-	<summary>Capturas del ejercicio resuelto</summary>
+	<summary>Ejercicio resuelto</summary>
 	<div>
 		<img src="capturas/ejercicios/m3ex22.png">
 	</div>
