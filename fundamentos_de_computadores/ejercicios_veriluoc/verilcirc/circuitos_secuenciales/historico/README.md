@@ -1,5 +1,9 @@
 # VerilCirc - Circuitos secuenciales (histórico)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 2 ejercicios $\times$ 3⭐ = 6⭐
+
 ## Índice
 
 - [20161\_PAC3\_3B](#20161_pac3_3b)

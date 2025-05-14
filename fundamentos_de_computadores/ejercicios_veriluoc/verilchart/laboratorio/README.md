@@ -1,5 +1,9 @@
 # VerilChart - Laboratorio
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 11 ejercicios $\times$ 3⭐ = 33⭐
+
 ## Índice
 
 - [VMUX2](#vmux2)

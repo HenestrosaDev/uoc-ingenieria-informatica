@@ -1,5 +1,9 @@
 # VerilChart - Circuitos secuenciales (histórico)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 24 ejercicios $\times$ 3⭐ = 72⭐
+
 ## Índice
 
 - [20111\_EX2\_3B](#20111_ex2_3b)

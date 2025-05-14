@@ -1,12 +1,34 @@
 # VerilChart - Circuitos combinacionales
 
 >[!NOTE]
->Todas las soluciones de los ejercicios tienen 3 estrellas (⭐).
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+
+## Desglose de puntuación
+
+<table>
+	<tr>
+		<th>CATEGORÍA</th>
+		<th>ESTRELLAS</th>
+	</tr>
+	<tr>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>1 ejercicio $\times$ 3⭐ = 3⭐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><strong>PUNTUACIÓN TOTAL</strong></td>
+		<td>57⭐</td>
+	</tr>
+</table>
 
 ## Histórico
-
-**Total de ejercicios**: 18  
-**Total de estrellas a conseguir**: 18 ejercicios x 3⭐ = 54⭐
 
 - [20122\_PAC2\_3B](historico/README.md#20122_pac2_3b)
 - [20131\_PAC2\_3C](historico/README.md#20131_pac2_3c)
@@ -28,8 +50,5 @@
 - [20171\_PAC2\_3](historico/README.md#20171_pac2_3)
 
 ## Materiales
-
-**Total de ejercicios**: 1  
-**Total de estrellas a conseguir**: 1 ejercicios x 3⭐ = 3⭐
 
 - [m3ex22](materiales/README.md#m3ex22)

@@ -1,5 +1,9 @@
 # VerilChart - Circuitos combinacionales (histórico)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 18 ejercicios $\times$ 3⭐ = 57⭐
+
 ## Índice
 
 - [20122\_PAC2\_3B](#20122_pac2_3b)

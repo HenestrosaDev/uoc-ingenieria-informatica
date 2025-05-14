@@ -1,5 +1,9 @@
 # KeMAP - Circuitos combinacionales (materiales)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 4 ejercicios $\times$ 3⭐ = 12⭐
+
 ## Índice
 
 - [m3ex26KM](#m3ex26km)

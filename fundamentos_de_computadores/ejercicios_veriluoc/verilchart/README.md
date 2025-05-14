@@ -8,6 +8,52 @@ VerilChart es una herramienta de verificación de cronogramas de tiempo y tablas
 
 ## Ejercicios
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>
+>- Categorías de ejercicios:
+>	- **Materiales**: Ejercicios de práctica que se encuentran en los materiales didácticos correspondientes a cada bloque.
+>	- **Histórico**: Ejercicios de exámenes, PECs y PRs realizados durante cursos anteriores.
+
+### Desglose de puntuación
+
+>[!IMPORTANT]
+>NO se incluyen los ejercicios de las PECs ni de la PR, los cuales se encuentran en sus respectivas carpetas.
+
+<table>
+	<tr>
+		<th>BLOQUE</th>
+		<th>CATEGORÍA</th>
+		<th>ESTRELLAS</th>
+	</tr>
+	<tr>
+		<td rowspan="2">Circuitos combinacionales</td>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>1 ejercicio $\times$ 3⭐ = 3⭐</td>
+	</tr>
+	<tr>
+		<td rowspan="2">Circuitos secuenciales</td>
+		<td>Histórico</td>
+		<td>24 ejercicios $\times$ 3⭐ = 72⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>10 ejercicios $\times$ 3⭐ = 30⭐</td>
+	</tr>
+	<tr>
+		<td colspan="2">Laboratorio</td>
+		<td>11 ejercicios $\times$ 3⭐ = 33⭐</td>
+	</tr>
+	<tr>
+		<td colspan="2"><strong>PUNTUACIÓN TOTAL</strong></td>
+		<td>192⭐</td>
+	</tr>
+</table>
+
 ### Circuitos combinacionales
 
 #### Histórico

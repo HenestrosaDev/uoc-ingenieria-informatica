@@ -1,5 +1,9 @@
 # KeMAP - Circuitos combinacionales (histórico)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 18 ejercicios $\times$ 3⭐ = 54⭐
+
 ## Índice
 
 - [20102\_EX3\_2B](#20102_ex3_2b)

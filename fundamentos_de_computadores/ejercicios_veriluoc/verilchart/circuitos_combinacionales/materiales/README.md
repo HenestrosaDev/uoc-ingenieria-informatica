@@ -1,6 +1,10 @@
 
 # VerilChart - Circuitos combinacionales (materiales)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 1 ejercicio $\times$ 3⭐ = 3⭐
+
 ## Índice
 
 - [m3ex22](#m3ex22)

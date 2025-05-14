@@ -1,12 +1,34 @@
 # VerilCirc - Circuitos combinacionales
 
 >[!NOTE]
->Todas las soluciones de los ejercicios tienen 3 estrellas (⭐).
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+
+## Desglose de puntuación
+
+<table>
+	<tr>
+		<th>CATEGORÍA</th>
+		<th>ESTRELLAS</th>
+	</tr>
+	<tr>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>34 ejercicios $\times$ 3⭐ = 102⭐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><strong>PUNTUACIÓN TOTAL</strong></td>
+		<td>156⭐</td>
+	</tr>
+</table>
 
 ## Histórico
-
-**Total de ejercicios**: 18  
-**Total de estrellas a conseguir**: 18 ejercicios x 3⭐ = 54⭐
 
 - [20111\_EX1\_2B](historico/README.md#20111_ex1_2b)
 - [20111\_EX2\_2B](historico/README.md#20111_ex2_2b)
@@ -28,9 +50,6 @@
 - [20162\_PAC2\_1C](historico/README.md#20162_pac2_1c)
 
 ## Materiales
-
-**Total de ejercicios**: 34  
-**Total de estrellas a conseguir**: 34 ejercicios x 3⭐ = 102⭐
 
 - [and2](materiales/README.md#and2)
 - [m3ex21](materiales/README.md#m3ex21)

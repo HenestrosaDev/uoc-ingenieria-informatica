@@ -7,6 +7,7 @@
 - [Beneficios PyPAC](#beneficios-pypac)
 - [Logros](#logros)
 - [Ejercicios](#ejercicios)
+	- [Desglose de puntuación](#desglose-de-puntuación)
 	- [VerilCirc](#verilcirc)
 	- [KeMAP](#kemap)
 	- [VerilChart](#verilchart)
@@ -331,15 +332,91 @@
 ## Ejercicios
 
 >[!NOTE]
->Categorías de ejercicios:
->- **Materiales**: Ejercicios de práctica que se encuentran en los [materiales didácticos](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215620&hash=dcd88579656e2413ea29712f929c6a1bb3fea6655c0dc503f4246beef6e558a2) de cada bloque.
->- **Histórico**: Ejercicios de exámenes, PECs y PRs realizados durante cursos anteriores.
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>
+>- Categorías de ejercicios:
+>	- **Materiales**: Ejercicios de práctica que se encuentran en los materiales didácticos correspondientes a cada bloque.
+>	- **Histórico**: Ejercicios de exámenes, PECs y PRs realizados durante cursos anteriores.
 
-### VerilCirc
+### Desglose de puntuación
 
-#### Circuitos combinacionales
+>[!IMPORTANT]
+>NO se incluyen los ejercicios de las PECs ni de la PR, los cuales se encuentran en sus respectivas carpetas.
 
-##### Histórico
+<table>
+	<tr>
+		<th>HERRAMIENTA</th>
+		<th>BLOQUE</th>
+		<th>CATEGORÍA</th>
+		<th>ESTRELLAS</th>
+	</tr>
+	<tr>
+		<th rowspan="2">KeMAP</th>
+		<td rowspan="2">Circuitos combinacionales</td>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>4 ejercicios $\times$ 3⭐ = 12⭐</td>
+	</tr>
+	<tr>
+		<th rowspan="5">VerilChart</th>
+		<td rowspan="2">Circuitos combinacionales</td>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>1 ejercicio $\times$ 3⭐ = 3⭐</td>
+	</tr>
+	<tr>
+		<td rowspan="2">Circuitos secuenciales</td>
+		<td>Histórico</td>
+		<td>24 ejercicios $\times$ 3⭐ = 72⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>10 ejercicios $\times$ 3⭐ = 30⭐</td>
+	</tr>
+	<tr>
+		<td colspan="2">Laboratorio</td>
+		<td>11 ejercicios $\times$ 3⭐ = 33⭐</td>
+	</tr>
+	<tr>
+		<th rowspan="4">VerilCirc</th>
+		<td rowspan="2">Circuitos combinacionales</td>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>34 ejercicios $\times$ 3⭐ = 102⭐</td>
+	</tr>
+	<tr>
+		<td>Circuitos secuenciales</td>
+		<td>Histórico</td>
+		<td>2 ejercicios $\times$ 3⭐ = 6⭐</td>
+	</tr>
+	<tr>
+		<td colspan="2">Laboratorio</td>
+		<td>9 ejercicios $\times$ 3⭐ = 27⭐</td>
+	</tr>
+	<tr>
+		<td colspan="3"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td colspan="3"><strong>PUNTUACIÓN TOTAL</strong></td>
+		<td>447⭐</td>
+	</tr>
+</table>
+
+### [VerilCirc](verilcirc/)
+
+#### [Circuitos combinacionales](verilcirc/circuitos_combinacionales/)
+
+##### [Histórico](verilcirc/circuitos_combinacionales/historico/)
 
 - [20111\_EX1\_2B](verilcirc/circuitos_combinacionales/historico/README.md#20111_ex1_2b)
 - [20111\_EX2\_2B](verilcirc/circuitos_combinacionales/historico/README.md#20111_ex2_2b)
@@ -360,7 +437,7 @@
 - [20162\_PAC2\_1B](verilcirc/circuitos_combinacionales/historico/README.md#20162_pac2_1b)
 - [20162\_PAC2\_1C](verilcirc/circuitos_combinacionales/historico/README.md#20162_pac2_1c)
 
-##### Materiales
+##### [Materiales](verilcirc/circuitos_combinacionales/materiales/)
 
 - [and2](verilcirc/circuitos_combinacionales/materiales/README.md#and2)
 - [m3ex21](verilcirc/circuitos_combinacionales/materiales/README.md#m3ex21)
@@ -397,14 +474,14 @@
 - [m3ex60a](verilcirc/circuitos_combinacionales/materiales/README.md#m3ex60a)
 - [m3ex60b](verilcirc/circuitos_combinacionales/materiales/README.md#m3ex60b)
 
-#### Circuitos secuenciales
+#### [Circuitos secuenciales](verilcirc/circuitos_secuenciales/)
 
-##### Histórico
+##### [Histórico](verilcirc/circuitos_secuenciales/historico/)
 
 - [20161\_PAC3\_3B](verilcirc/circuitos_secuenciales/historico/README.md#20161_pac3_3b)
 - [20171\_PAC3\_3B](verilcirc/circuitos_secuenciales/historico/README.md#20171_pac3_3b)
 
-#### Laboratorio
+#### [Laboratorio](verilcirc/laboratorio/)
 
 - [MUX2](verilcirc/laboratorio/README.md#mux2)
 - [DEMUX2](verilcirc/laboratorio/README.md#demux2)
@@ -418,11 +495,11 @@
 
 ---
 
-### KeMAP
+### [KeMAP](kemap/)
 
-##### Circuitos combinacionales
+##### [Circuitos combinacionales](kemap/circuitos_combinacionales/)
 
-###### Histórico
+###### [Histórico](kemap/circuitos_combinacionales/historico/)
 
 - [20102\_EX3\_2B](kemap/circuitos_combinacionales/historico/README.md#20102_ex3_2b)
 - [20111\_EX1\_2A](kemap/circuitos_combinacionales/historico/README.md#20111_ex1_2a)
@@ -443,7 +520,7 @@
 - [20162\_PAC2\_1B\_KM](kemap/circuitos_combinacionales/historico/README.md#20162_pac2_1b_km)
 - [20171\_PAC2\_2A\_KM](kemap/circuitos_combinacionales/historico/README.md#20171_pac2_2a_km)
 
-###### Materiales
+###### [Materiales](kemap/circuitos_combinacionales/materiales/)
 
 - [m3ex26KM](kemap/circuitos_combinacionales/historico/README.md#m3ex26km)
 - [m3ex27KM](kemap/circuitos_combinacionales/historico/README.md#m3ex27km)
@@ -452,11 +529,11 @@
 
 ---
 
-### VerilChart
+### [VerilChart](verilchart/)
 
-#### Circuitos combinacionales
+#### [Circuitos combinacionales](verilchart/circuitos_combinacionales/)
 
-##### Histórico
+##### [Histórico](verilchart/circuitos_combinacionales/historico/)
 
 - [20122\_PAC2\_3B](verilchart/circuitos_combinacionales/historico/README.md#20122_pac2_3b)
 - [20131\_PAC2\_3C](verilchart/circuitos_combinacionales/historico/README.md#20131_pac2_3c)
@@ -477,13 +554,13 @@
 - [20171\_PAC2\_1B](verilchart/circuitos_combinacionales/historico/README.md#20171_pac2_1b)
 - [20171\_PAC2\_3](verilchart/circuitos_combinacionales/historico/README.md#20171_pac2_3)
 
-##### Materiales
+##### [Materiales](verilchart/circuitos_combinacionales/materiales/)
 
 - [m3ex22](verilchart/circuitos_combinacionales/historico/README.md#m3ex22)
 
-#### Circuitos secuenciales
+#### [Circuitos secuenciales](verilchart/circuitos_secuenciales/)
 
-##### Histórico
+##### [Histórico](verilchart/circuitos_secuenciales/historico/)
 
 - [20111\_EX2\_3B](verilchart/circuitos_secuenciales/historico/README.md#20111_ex2_3b)
 - [20111\_EX3\_3B](verilchart/circuitos_secuenciales/historico/README.md#20111_ex3_3b)
@@ -510,7 +587,7 @@
 - [20161\_PAC3\_3A](verilchart/circuitos_secuenciales/historico/README.md#20161_pac3_3a)
 - [20171\_PAC3\_3A](verilchart/circuitos_secuenciales/historico/README.md#20171_pac3_3a)
 
-##### Materiales
+##### [Materiales](verilchart/circuitos_secuenciales/materiales/)
 
 - [m4ex4](verilchart/circuitos_secuenciales/materiales/README.md#m4ex4)
 - [m4ex5](verilchart/circuitos_secuenciales/materiales/README.md#m4ex5)
@@ -523,7 +600,7 @@
 - [m4exa7](verilchart/circuitos_secuenciales/materiales/README.md#m4exa7)
 - [m4ex32](verilchart/circuitos_secuenciales/materiales/README.md#m4ex32)
 
-#### Laboratorio
+#### [Laboratorio](verilchart/laboratorio/)
 
 - [VMUX2](verilchart/laboratorio/README.md#vmux2)
 - [VDEMUX2](verilchart/laboratorio/README.md#vdemux2)

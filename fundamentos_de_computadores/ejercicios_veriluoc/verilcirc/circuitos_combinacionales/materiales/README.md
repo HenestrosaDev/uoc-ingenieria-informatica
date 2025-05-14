@@ -1,5 +1,9 @@
 # VerilCirc - Circuitos combinacionales (materiales)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 34 ejercicios $\times$ 3⭐ = 102⭐
+
 ## Índice
 
 - [and2](#and2)

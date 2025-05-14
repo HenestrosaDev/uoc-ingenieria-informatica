@@ -1,12 +1,34 @@
 # VerilChart - Circuitos secuenciales
 
 >[!NOTE]
->Todas las soluciones de los ejercicios tienen 3 estrellas (⭐).
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+
+## Desglose de puntuación
+
+<table>
+	<tr>
+		<th>CATEGORÍA</th>
+		<th>ESTRELLAS</th>
+	</tr>
+	<tr>
+		<td>Histórico</td>
+		<td>24 ejercicios $\times$ 3⭐ = 72⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>10 ejercicios $\times$ 3⭐ = 30⭐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><strong>PUNTUACIÓN TOTAL</strong></td>
+		<td>102⭐</td>
+	</tr>
+</table>
 
 ## Histórico
-
-**Total de ejercicios**: 24  
-**Total de estrellas a conseguir**: 24 ejercicios x 3⭐ = 72⭐
 
 - [20111\_EX2\_3B](historico/README.md#20111_ex2_3b)
 - [20111\_EX3\_3B](historico/README.md#20111_ex3_3b)
@@ -34,9 +56,6 @@
 - [20171\_PAC3\_3A](historico/README.md#20171_pac3_3a)
 
 ## Materiales
-
-**Total de ejercicios**: 10  
-**Total de estrellas a conseguir**: 10 ejercicios x 3⭐ = 30⭐
 
 - [m4ex4](materiales/README.md#m4ex4)
 - [m4ex5](materiales/README.md#m4ex5)

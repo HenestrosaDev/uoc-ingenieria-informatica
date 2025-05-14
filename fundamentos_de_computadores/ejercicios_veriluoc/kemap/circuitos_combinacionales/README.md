@@ -1,12 +1,34 @@
 # KeMAP - Circuitos combinacionales
 
 >[!NOTE]
->Todas las soluciones de los ejercicios tienen 3 estrellas (⭐).
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+
+## Desglose de puntuación
+
+<table>
+	<tr>
+		<th>CATEGORÍA</th>
+		<th>ESTRELLAS</th>
+	</tr>
+	<tr>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>4 ejercicios $\times$ 3⭐ = 12⭐</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><strong>PUNTUACIÓN TOTAL</strong></td>
+		<td>66⭐</td>
+	</tr>
+</table>
 
 ## Histórico
-
-**Total de ejercicios**: 18  
-**Total de estrellas a conseguir**: 18 ejercicios x 3⭐ = 54⭐
 
 - [20111\_EX2\_3B](historico/README.md#20111_ex2_3b)
 - [20111\_EX3\_3B](historico/README.md#20111_ex3_3b)
@@ -34,9 +56,6 @@
 - [20171\_PAC3\_3A](historico/README.md#20171_pac3_3a)
 
 ## Materiales
-
-**Total de ejercicios**: 4  
-**Total de estrellas a conseguir**: 4 ejercicios x 3⭐ = 12⭐
 
 - [m3ex26KM](materiales/README.md#m3ex26km)
 - [m3ex27KM](materiales/README.md#m3ex27km)

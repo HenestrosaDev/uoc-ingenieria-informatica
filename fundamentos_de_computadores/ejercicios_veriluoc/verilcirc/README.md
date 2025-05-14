@@ -8,6 +8,54 @@ VerilCirc es una herramienta de verificación de circuitos digitales.
 
 ## Ejercicios
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>
+>- Categorías de ejercicios:
+>	- **Materiales**: Ejercicios de práctica que se encuentran en los materiales didácticos correspondientes a cada bloque.
+>	- **Histórico**: Ejercicios de exámenes, PECs y PRs realizados durante cursos anteriores.
+
+### Desglose de puntuación
+
+>[!IMPORTANT]
+>NO se incluyen los ejercicios de las PECs ni de la PR, los cuales se encuentran en sus respectivas carpetas.
+
+<table>
+	<tr>
+		<th>HERRAMIENTA</th>
+		<th>BLOQUE</th>
+		<th>CATEGORÍA</th>
+		<th>ESTRELLAS</th>
+	</tr>
+	<tr>
+		<th rowspan="4">VerilCirc</th>
+		<td rowspan="2">Circuitos combinacionales</td>
+		<td>Histórico</td>
+		<td>18 ejercicios $\times$ 3⭐ = 54⭐</td>
+	</tr>
+	<tr>
+		<td>Materiales</td>
+		<td>34 ejercicios $\times$ 3⭐ = 102⭐</td>
+	</tr>
+	<tr>
+		<td>Circuitos secuenciales</td>
+		<td>Histórico</td>
+		<td>2 ejercicios $\times$ 3⭐ = 6⭐</td>
+	</tr>
+	<tr>
+		<td colspan="2">Laboratorio</td>
+		<td>9 ejercicios $\times$ 3⭐ = 27⭐</td>
+	</tr>
+	<tr>
+		<td colspan="3"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td colspan="3"><strong>PUNTUACIÓN TOTAL</strong></td>
+		<td>189⭐</td>
+	</tr>
+</table>
+
 ### Circuitos combinacionales
 
 #### Histórico

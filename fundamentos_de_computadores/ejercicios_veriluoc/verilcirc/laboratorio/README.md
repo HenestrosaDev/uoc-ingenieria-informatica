@@ -1,5 +1,9 @@
 # VerilCirc - Laboratorio
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 9 ejercicios $\times$ 3⭐ = 27⭐
+
 ## Índice
 
 - [MUX2](#mux2)

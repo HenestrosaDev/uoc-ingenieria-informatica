@@ -1,5 +1,9 @@
 # VerilCirc - Circuitos combinacionales (histórico)
 
+>[!NOTE]
+>- Todos los ejercicios tienen una puntuación de 3 estrellas (⭐).
+>- **Puntuación total**: 18 ejercicios $\times$ 3⭐ = 54⭐
+
 ## Índice
 
 - [20111\_EX1\_2B](#20111_ex1_2b)
