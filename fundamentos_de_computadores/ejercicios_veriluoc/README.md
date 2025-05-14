@@ -330,6 +330,11 @@
 
 ## Ejercicios
 
+>[!NOTE]
+>Categorías de ejercicios:
+>- **Materiales**: Ejercicios de práctica que se encuentran en los [materiales didácticos](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215620&hash=dcd88579656e2413ea29712f929c6a1bb3fea6655c0dc503f4246beef6e558a2) de cada bloque.
+>- **Histórico**: Ejercicios de exámenes, PECs y PRs realizados durante cursos anteriores.
+
 ### VerilCirc
 
 #### Circuitos combinacionales
