@@ -19,9 +19,9 @@
 >
 >Concretamente, las herramientas que podemos encontrar dentro de VerilUOC son:
 >
->**VerilCirc**: Verificación de circuitos digitales
->**KeMAP**: Verificación de mapas de Karnaugh
->**VerilChart**: Verificación de cronogramas de tiempo y tablas de verdad.
+>- **VerilCirc**: Verificación de circuitos digitales
+>- **KeMAP**: Verificación de mapas de Karnaugh
+>- **VerilChart**: Verificación de cronogramas de tiempo y tablas de verdad.
 >
 >El cliente de VerilUOC es una aplicación Java multiplataforma que utiliza el programa base LogiSim. No hace falta ningún tipo de instalación. El único requerimiento es tener instalado JAVA (1.8, a día de la escritura de este documento) y acceso a Internet para autenticarse con vuestro login/password del campus de la UOC.
 >
