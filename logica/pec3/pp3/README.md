@@ -3,7 +3,7 @@
 >[!NOTE]
 >- La suma total de la calificación de todos los ejercicios es 10,00.
 >- Se pueden realizar tantos intentos como se deseen antes de la fecha límite. 
->- Cuando el resultado sea del 40% o más, se podrá acceder a la PEC2.
+>- Cuando el resultado sea del 40% o más, se podrá acceder a la PEC3.
 
 ## Ejercicio 1 - Test
 
