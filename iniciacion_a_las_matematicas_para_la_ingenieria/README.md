@@ -49,7 +49,7 @@ xychart-beta
 			</a> (50%)
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac01_numeros">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac01">
 				AC1 - Números
 			</a>
 		</td>
@@ -72,7 +72,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac02_ecuaciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac02">
 				AC2 - Ecuaciones
 			</a>
 		</td>
@@ -82,7 +82,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac03_sistemas_de_ecuaciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac03">
 				AC3 - Sistemas de ecuaciones
 			</a>
 		</td>
@@ -92,7 +92,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac04_polinomios">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac04">
 				AC4 - Polinomios
 			</a>
 		</td>
@@ -102,7 +102,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac05_matrices">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac05">
 				AC5 - Matrices
 			</a>
 		</td>
@@ -112,7 +112,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac_recapitulacion_1">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1/ac_recapitulacion-1">
 				AC - Recapitulación 1
 			</a>
 		</td>
@@ -127,7 +127,7 @@ xychart-beta
 			</a> (50%)
 		</td>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac06_funciones_polinomicas">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac06">
 				AC6 - Funciones polinómicas
 			</a>
 		</td>
@@ -150,7 +150,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac07_funciones_trigonometricas">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac07">
 				AC7 - Funciones trigonométricas
 			</a>
 		</td>
@@ -160,7 +160,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac08_funciones_exponenciales_y_logaritmicas">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac08">
 				AC8 - Funciones exponenciales y logarítmicas
 			</a>
 		</td>
@@ -170,7 +170,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac09_continuidad_de_funciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac09">
 				AC9 - Continuidad de funciones
 			</a>
 		</td>
@@ -180,7 +180,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac10-1_derivacion_de_funciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac10-1">
 				AC10-1 - Derivación de funciones 1
 			</a>
 		</td>
@@ -190,7 +190,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac10-2_derivacion_de_funciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac10-2">
 				AC10-2 - Derivación de funciones 2
 			</a>
 		</td>
@@ -200,7 +200,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac11-1_integracion_de_funciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac11-1">
 				AC11-1 - Integración de funciones 1
 			</a>
 		</td>
@@ -210,7 +210,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac11-2_integracion_de_funciones">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac11-2">
 				AC11-2 - Integración de funciones 2
 			</a>
 		</td>
@@ -220,7 +220,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac_recapitulacion_2">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec2/ac_recapitulacion-2">
 				AC - Recapitulación 2
 			</a>
 		</td>
