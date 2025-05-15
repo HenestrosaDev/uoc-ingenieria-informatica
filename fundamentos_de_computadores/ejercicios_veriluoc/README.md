@@ -59,6 +59,22 @@
 ![Beneficios PyPAC](img/beneficios_pypac.png)
 </details>
 
+>Los diferentes beneficios a los cuales podéis optar son los siguientes:
+>
+>- **Actividad + 0,5p / actividad + 1p**: Estos beneficios disponibles para todas las actividades os permite subir la nota en 0,5 puntos o bien 1 punto respectivamente. En cada actividad el coste es diferente en función de la dificultad e impacto de la actividad en la asignatura. Se aplica automáticamente después de activarlo a PyPAC.
+>- **EX + 0,5p / EX + 1p**: Estos beneficios os permiten subir la nota del examen en 0,5 puntos o bien 1 punto respectivamente, siempre que la nota del examen sea igual o superior a 3. En cada actividad el coste es diferente en función de la dificultad e impacto de la actividad en la asignatura. Se aplica automáticamente después de activarlo a PyPAC.
+>- **Actividad + 2 DÍAS**: Este beneficio permite ampliar dos días la fecha de entrega de la actividad. En cada actividad el coste es diferente en función de la dificultad e impacto de la actividad en la asignatura. Se aplica automáticamente después de activarlo a PyPAC.
+>- **Actividad - 1ACT**: Este beneficio permite evitar de hacer un ejercicio en concreto de la actividad. Según la actividad es un subapartado de un ejercicio (1.a o 2.c) o bien un ejercicio completo con todos los subapartados. Leed atentamente la descripción del beneficio para saber qué tipo de beneficio es. Se tiene que escribir el código de activación dentro del documento que se entrega en el ejercicio o subapartado que se quiere obviar.
+>- **NO PACX**: Este beneficio solo está disponible en algunas actividades. Permite obviar de hacer la actividad. En la descripción indica cómo se recalcula la nota en caso de obviar una actividad. Se aplica automáticamente después de activarlo a PyPAC.
+>- **Anular PACX**: Este beneficio es similar a "NO actividad" con la diferencia que permite anular la actividad y su nota asociada. Muy útil para subir una media, por ejemplo en el AC, donde hemos tenido una nota muy baja en una actividad. Igualmente que en "NO actividad", en la descripción del beneficio se describe como se calcula la nota media. Se aplica automáticamente después de activarlo a PyPAC.
+>- **NO EX**:  Permite obviar de hacer el examen. En la descripción indica cómo se recalcula la nota en caso de obviarlo. En este caso, el estudiante tiene que hacer el examen y tiene que escribir en el examen el código de activación del beneficio. El examen se hace virtualmente. Se enviará información más detallada de cómo acceder al examen virtual unos días antes del turno elegido. 
+>- **NO PR**:  Permite obviar de hacer la práctica. En la descripción indica cómo se recalcula la nota en caso de obviarlo. Se aplica automáticamente después de activarlo a PyPAC.
+>- **Romper el límite actividad**: Este beneficio anula las condiciones para hacer media entre la práctica y el examen. Se tiene que tener en cuenta que hay uno para cada actividad, es decir, uno por el examen y el otro por la práctica. Nota mínima para romper el límite es un 3. Se aplica automáticamente después de activarlo en PyPAC
+>- **Salvación**: Este beneficio redondea la nota final entre 4,5 y 4,9 a 5. Notad que el cálculo de la nota final a la UOC es un cálculo estricto, es decir, que una nota inferior a 5 es un suspenso. Se aplica automáticamente después de activarlo a PyPAC.
+>- **No convocatoria**: Este beneficio anula cualquier nota de la asignatura asignando como nota final una nota de NP (No presentado). Este beneficio es muy útil para evitar correr convocatoria. Notad que a las asignaturas con Práctica, una vez presentada la Práctica ya tenéis nota final, aunque renunciéis al examen final. Se aplica automáticamente después de activarlo a PyPAC.
+>- **Joker**: Tal como su nombre indica, es un joker. Se puede intercambiar por cualquier beneficio descrito anteriormente aunque no  haya unidades disponibles. Se tiene que indicar al PRA (dbaneres@uoc.edu) qué beneficio se quiere intercambiar
+>>Información extraída de la entrada "Descripción Herramienta" del aula de Laboratorio de Fundamentos de Computadores.
+
 ## Logros
 
 <table>
