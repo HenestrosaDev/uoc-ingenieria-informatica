@@ -149,7 +149,7 @@ xychart-beta
 				Parte 3
 			</a>
 		</td>
-		<td>- / 10,00 ( )</td>
+		<td>9,29 / 10,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
