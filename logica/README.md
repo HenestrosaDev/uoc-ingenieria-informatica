@@ -53,14 +53,15 @@ xychart-beta
 			<p>
 				<strong>Calificación total PECs</strong>:
 				<br>
-				- / 100,00
+				91,25 / 100,00
 			</p>
 			<br>
 			<p>
 				<strong>Calificación ponderada EC</strong>:
 				<br>
-				- / 7,00</td>
+				6,39 / 7,00
 			</p>
+		</td>
 	</tr>
 	<tr>
 		<td>
