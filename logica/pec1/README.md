@@ -424,3 +424,7 @@ $P \rightarrow (M \wedge F)$
 ### Calificación
 
 10,00 / 10,00 (grado A)
+
+### Detalles de la puntuación
+
+![](detalles_puntuacion.png)

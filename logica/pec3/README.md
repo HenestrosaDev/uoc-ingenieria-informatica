@@ -219,3 +219,7 @@ $(M \vee R) \rightarrow (P \rightarrow F)$
 ### Calificación
 
 7,30 / 10,00 (grado B)
+
+### Detalles de la puntuación
+
+![](detalles_puntuacion.png)
