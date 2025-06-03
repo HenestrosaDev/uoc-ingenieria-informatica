@@ -220,6 +220,6 @@ $(M \vee R) \rightarrow (P \rightarrow F)$
 
 7,30 / 10,00 (grado B)
 
-### Detalles de la puntuación
+### Detalles sobre la puntuación
 
 ![](detalles_puntuacion.png)

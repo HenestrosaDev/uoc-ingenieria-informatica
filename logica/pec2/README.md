@@ -180,6 +180,7 @@ $(M \wedge \neg D) \rightarrow (\neg P \vee \neg R)$
 
 10,00 / 10,00 (grado A)
 
+
 ### Detalles de la puntuación
 
 ![](detalles_puntuacion.png)
