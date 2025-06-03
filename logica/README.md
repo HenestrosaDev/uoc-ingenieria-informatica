@@ -142,8 +142,8 @@ xychart-beta
 | [PP2 - La deducción natural: un sistema de razonamiento formal](pec2/pp2)     | 10,00 / 10,00 (A)  |
 | [PP3 - Mecanización y verificación de razonamientos formales](pec3/pp3) | 10,00 / 10,00 (A) |
 | [PP4 - El lenguaje formal de la lógica de predicados](pec4/pp4)                    | 10,00 / 10,00 (A) |
-| [PP5 - La deducción natural en la lógica de predicados](pec5/pp5)                    | - / 10,00 ( ) |
-| [PP6 - El método de resolución y la semántica de la lógica de predicados](pec6/pp6)                    | - / 10,00 ( ) |
+| [PP5 - La deducción natural en la lógica de predicados](pec5/pp5)                    | 10,00 / 10,00 (A) |
+| [PP6 - El método de resolución y la semántica de la lógica de predicados](pec6/pp6)                    | 10,00 / 10,00 (A) |
 
 ## Ejercicios de Alura
 
