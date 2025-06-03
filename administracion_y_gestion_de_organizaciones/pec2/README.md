@@ -27,3 +27,13 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 - **Parte práctica** (`entrega.pdf`): 14,10 de 15,00 [9,40 (grado A)]
 
 **Calificación total**: 27,13 de 30,00 [9,04 (grado A)]
+
+### Detalles de la puntuación
+
+![](detalles_puntuacion.png)
+>Detalles de la puntuación de la entrega
+
+<br>
+
+![](detalles_puntuacion-cuestionario.png)
+>Detalles de la puntuación del cuestionario

@@ -41,3 +41,7 @@ Recordad que mañana dia 27 finaliza el plazo para la entrega de la PEC4.
 Cuando haya finalizado la evaluación contínua se publicarán unas breves orientaciones sobre el examen final.
 
 ¡Mucho ánimo!
+
+### Detalles de la puntuación
+
+![](detalles_puntuacion.png)

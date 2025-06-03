@@ -36,3 +36,7 @@ Os felicito encarecidamente por haber llegado con éxito hasta el final de la Ev
 Ya habéis visto las orientaciones para la prueba final.
 
 ¡Mucho ánimo con su preparación!
+
+### Detalles de la puntuación
+
+![](detalles_puntuacion.png)
