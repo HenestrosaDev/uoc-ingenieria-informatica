@@ -48,3 +48,7 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ![](correcciones/4a.png)
 >Ejercicio 4a
+
+### Detalles sobre la puntuación
+
+![](detalles_puntuacion.png)

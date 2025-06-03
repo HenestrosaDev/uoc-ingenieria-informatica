@@ -21,3 +21,7 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ![](correcciones/1a.png)
 >Ejercicio 1a
+
+### Detalles sobre la puntuación
+
+![](detalles_puntuacion.png)
