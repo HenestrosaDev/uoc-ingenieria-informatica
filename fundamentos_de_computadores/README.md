@@ -2,6 +2,9 @@
 
 ## Información sobre la asignatura
 
+>[!IMPORTANT]
+>Los **métodos de evaluación** pueden variar en función de los beneficios de PyPAC canjeados.
+
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
 - **Método de evaluación**: Evaluación continua (70%: PECs 50% + PR 50%) + Examen (30%)
@@ -29,7 +32,8 @@ xychart-beta
 ## Resumen de calificaciones
 
 >[!NOTE]
->La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
+>- La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
+>- La ponderación de los bloques es distinta respecto a la de los **métodos de evaluación** propuestos, ya que canjeé el beneficio No EX de PyPAC, lo que hace que la evaluación de la asignatura se base al 100% en la EC.
 
 <table>
 	<tr>
@@ -41,7 +45,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<strong>Evaluación continua (EC)</strong> (70%)
+			<strong>Evaluación continua (EC)</strong> (100%)
 		</td>
 		<td rowspan="3">
 			<strong>
@@ -65,9 +69,21 @@ xychart-beta
 			</p>
 			<br>
 			<p>
+				<strong>Calificación ponderada PECs</strong>:
+				<br>
+				4,79 / 5,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada PR</strong>:
+				<br>
+				5,00 / 5,00
+			</p>
+			<br>
+			<p>
 				<strong>Calificación ponderada EC</strong>:
 				<br>
-				6,71 / 7,00
+				9,79 / 10,00
 			</p>
 		</td>
 	</tr>
@@ -101,17 +117,17 @@ xychart-beta
 				PR1 - Máquinas de estados: entendiendo la arquitectura básica de un computador a partir de las máquinas algorítmicas generalizables
 			</a> (100%)
 		</td>
-		<td>- / 100,00 ( )</td>
+		<td>100,00 / 100,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="examen">
 				<strong>Examen</strong>
-			</a> (30%)
+			</a> (0%)
 		</td>
 		<td colspan="2"></td>
-		<td>- / 10,00</td>
-		<td>- / 3,00</td>
+		<td>- / -</td>
+		<td>- / -</td>
 	</tr>
 	<tr>
 		<td colspan="4">
