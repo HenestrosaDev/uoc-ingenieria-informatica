@@ -145,7 +145,7 @@ xychart-beta
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- En lugar de usar los recursos provistos por la UOC, recomiendo seguir [estas playlists de YouTube](https://www.youtube.com/@carlosguerrerouib6095/playlists) realizadas por el canal [Carlos Guerrero UIB](https://www.youtube.com/@carlosguerrerouib6095).
+>- Como complemento a los recursos provistos por la UOC, recomiendo seguir [estas playlists de YouTube](https://www.youtube.com/@carlosguerrerouib6095/playlists) realizadas por el canal [Carlos Guerrero UIB](https://www.youtube.com/@carlosguerrerouib6095).
 >- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 
 ### PEC1
