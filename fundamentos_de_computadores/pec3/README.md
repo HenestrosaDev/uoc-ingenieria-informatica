@@ -5,9 +5,9 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 ## Recursos docentes
 
 >[!NOTE]
->Los resúmenes de cada recurso para esta PEC se encuentran en la carpeta [`recursos`](recursos).
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 
-- [Los circuitos lógicos secuenciales](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215619&hash=d25026dd14b3ee362d765576d3893c40b200af038100e77bc444144a21df7985) ([resumen](recursos/los_circuitos_logicos_secuenciales_resumen.md))
+- [Los circuitos lógicos secuenciales](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215619&hash=d25026dd14b3ee362d765576d3893c40b200af038100e77bc444144a21df7985) ([resumen](recursos/README.md))
 
 ---
 
