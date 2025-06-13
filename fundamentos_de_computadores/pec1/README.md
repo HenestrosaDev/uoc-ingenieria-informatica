@@ -2,7 +2,7 @@
 
 El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), así como la entrega en el archivo [`entrega.pdf`](entrega.pdf) y las plantillas para realizarlo ([`plantilla.docx`](plantilla.docx) para Microsoft Word y [`plantilla.odt`](plantilla.odt) para OpenOffice).
 
-## Recursos docentes
+## Recursos de aprendizaje
 
 >[!NOTE]
 >Para realizar la PEC, solo es necesario consultar el recurso _Representación de la información_.
