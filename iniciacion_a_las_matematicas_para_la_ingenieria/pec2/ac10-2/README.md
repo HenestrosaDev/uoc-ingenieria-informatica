@@ -1,4 +1,4 @@
-# AC7 - Funciones trigonométricas
+# AC10-2 - Derivación de funciones (II)
 
 ## Evaluación
 
@@ -41,7 +41,7 @@
 ## Recursos de aprendizaje
 
 - [**Iniciación a las matemáticas para la ingeniería**](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=273914&hash=44d365d71c2f61ac6cb2d049701a0fb93de2211c41e2dcbaed7291589a05a02a)
-- Apartado **8. Funciones trigonométricas**. [Resumen](recursos/README.md).
+- Apartado **11. Derivación de funciones**. [Resumen](../ac10-1/recursos/README.md).
 
 ## Resultado
 

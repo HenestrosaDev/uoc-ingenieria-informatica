@@ -1,4 +1,4 @@
-# AC Recapitulación 1
+# AC Recapitulación 2
 
 >[!NOTE]
 >Esta AC no cuenta con actividades paso a paso ni temario.
@@ -22,6 +22,14 @@
 ![](practica.png)
 </details>
 
+## Actividades paso a paso
+
+<details>
+	<summary>Actividad paso a paso resuelta</summary>
+
+![](actividades_paso_a_paso.png)
+</details>
+
 ## Reto optativo
 
 - [Enunciado](reto_optativo/enunciado.pdf)
@@ -31,9 +39,9 @@
 
 ### Calificación
 
-- **Calificación original**: 6,00 / 7,00
-- **Calificación sobre 10**: 8,57 / 10,00
-- **Letra (escala internacional)**: B
+- **Calificación original**: 7,00 / 7,00
+- **Calificación sobre 10**: 10,00 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Detalles sobre la puntuación
 
