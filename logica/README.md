@@ -360,5 +360,8 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 
 ### PEC6
 
+>[!NOTE]
+>El bloque de fórmulas a enunciados no aparece en el libro, por lo que recomiendo consultar [este resumen](pec6/recursos/formulas_a_enunciados.md) de elaboración propia.
+
 [Lógica de predicados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265958&hash=baefe4fe0e1c8594e63fe3a9c98754ced25fc6b142154c8a6c4e6f31ed28dfde)
-- Desde el apartado **3. Verdad y falsedad en la lógica de predicados** hasta el **6. La programación lógica**. Páginas 34 a 62. [Resumen](pec6/recursos).
+- Desde el apartado **3. Verdad y falsedad en la lógica de predicados** hasta el **5. Resolución**. Páginas 34 a 53. [Resumen](pec6/recursos).
