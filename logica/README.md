@@ -26,10 +26,16 @@ xychart-beta
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
+## Exámenes y pruebas de síntesis
+
+- [Archivo de 147 exámenes desde 2005](examenes)
+- [Archivo de 102 pruebas de síntesis desde 2011](ps)
+
 ## Resumen de calificaciones
 
 >[!NOTE]
->La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
+>- Considero que realizar el examen es una opción mejor que la prueba de síntesis, ya que son similares en cuanto a dificultad y el examen ofrece una hora más de tiempo a cambio de un ejercicio más (en total, 5), lo que hace que sea más asequible sacar mejor nota, terminarlo a tiempo y no cometer errores tontos por las prisas.
+>- La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
 
 <table>
 	<tr>
@@ -40,7 +46,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td rowspan="6">
-			<strong>Evaluación continua (EC)</strong> (70%)
+			<strong>Evaluación continua (EC)</strong> (35%)
 		</td>
 		<td>
 			<a href="pec1">
@@ -59,7 +65,7 @@ xychart-beta
 			<p>
 				<strong>Calificación ponderada EC</strong>:
 				<br>
-				6,39 / 7,00
+				3,19 / 3,50
 			</p>
 		</td>
 	</tr>
@@ -110,13 +116,13 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="ps">
-				<strong>Prueba de síntesis</strong>
-			</a> (30%)
+			<a href="examenes/2025/junio/espanol/20242_75570_210625_1_E_SOL">
+				<strong>Examen</strong>
+			</a> (65%)
 		</td>
 		<td></td>
 		<td>- / 10,00</td>
-		<td>- / 3,00</td>
+		<td>- / 6,50</td>
 	</tr>
 	<tr>
 		<td colspan="3"></td>

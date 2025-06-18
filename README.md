@@ -305,8 +305,8 @@
 	<tr>
 		<td colspan="2" align="center">
 			<strong>
-				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ps">
-					PRUEBA DE SÍNTESIS
+				<a href="logica/examenes/2025/junio/espanol/20242_75570_210625_1_E_SOL">
+					EXAMEN
 				</a>
 			</strong>
 		</td>
