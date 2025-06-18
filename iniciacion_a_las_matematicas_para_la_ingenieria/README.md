@@ -242,5 +242,6 @@ xychart-beta
 ## Recursos de aprendizaje
 
 >[!NOTE]
->Cada bloque del libro tiene un resumen asociado en la carpeta correspondiente a su actividad.
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Cada bloque del libro tiene un resumen asociado en la carpeta correspondiente a su actividad.
 - [**Iniciación a las matemáticas para la ingeniería**](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=273914&hash=44d365d71c2f61ac6cb2d049701a0fb93de2211c41e2dcbaed7291589a05a02a)
