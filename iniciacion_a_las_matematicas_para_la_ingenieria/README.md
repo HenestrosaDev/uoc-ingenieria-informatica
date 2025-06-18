@@ -8,10 +8,6 @@
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.614&idioma=CAS&pagina=PD_PREV_PORTAL)
 
->[!NOTE]
->- Cada PEC se divide en una Actividad Evaluable (AC). 
->- Cada AC se corresponde con un bloque del [libro](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=273914&hash=44d365d71c2f61ac6cb2d049701a0fb93de2211c41e2dcbaed7291589a05a02a).
-
 ```mermaid
 xychart-beta
 		title "Estadísticas de las calificaciones para el curso 2024/25-1"
@@ -33,7 +29,10 @@ xychart-beta
 ## Resumen de calificaciones
 
 >[!NOTE]
->La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
+>- Cada PEC se divide en una Actividad Evaluable (AC). 
+>- Cada AC se corresponde con un bloque del [libro](https://campus.uoc.edu/autors/MostraPDFMaterialAction.do?id=273914&hash=44d365d71c2f61ac6cb2d049701a0fb93de2211c41e2dcbaed7291589a05a02a).
+>- Cada AC contiene un reto optativo y actividades paso a paso, que son de carácter opcional y discriminantes a la hora de obtener la matrícula de honor.
+>- La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
 
 <table>
 	<tr>
