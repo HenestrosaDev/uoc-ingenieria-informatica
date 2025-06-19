@@ -150,7 +150,7 @@ $\exists x (B(x) \to P(x,c)) \to \exists x (S(x) \wedge  Q(x,a))$
 
 <br>
 
-## Recursos docentes
+## Recursos de aprendizaje
 
 >[!NOTE]
 >El bloque de fórmulas a enunciados no aparece en el libro, por lo que recomiendo consultar [este resumen](pec6/recursos/formulas_a_enunciados.md) de elaboración propia.
