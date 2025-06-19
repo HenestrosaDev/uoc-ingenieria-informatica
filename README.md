@@ -499,7 +499,6 @@
 
 - [Página oficial de la UOC sobre el grado](https://www.uoc.edu/es/estudios/grados/grado-ingenieria-informatica)
 - [Recopilatorio no oficial de asignaturas con sus respectivas notas medias, métodos de evaluación y grupos de Telegram/WhatsApp](https://uoc-nextjs.vercel.app/)
-- [Repositorio no oficial de MEGA con soluciones de exámenes y de PECs de cursos anteriores](https://mega.nz/folder/edg2wAIQ#TU4qkiQJvv_3d5BxBwQa8A)
 
 ## Licencia
 
