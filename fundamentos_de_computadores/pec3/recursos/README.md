@@ -7,7 +7,7 @@
 >
 >- **3.3. Memoria RAM**
 >
->Por otro lado, los siguientes subapartados no están presentes en este resumen, ya que se incluyen en los apuntes del apartado [4.2. Representación gráfica: grafos de estado](#42-representación-gráfica-grafos-de-estado):
+>Por otro lado, los siguientes subapartados no están presentes en este resumen, ya que se incluyen implícitamente en el apartado [4.2. Representación gráfica: grafos de estado](#42-representación-gráfica-grafos-de-estado):
 >
 >- **4.2.1. Mecánica de diseño**
 >- **4.2.2. Notación**
@@ -156,8 +156,8 @@ Podemos ver que en el instante $t_0$ el valor de $Q$ no varía, aunque $D = 1$, 
 Las **entradas asíncronas** de un biestable permiten modificar su valor de forma instantánea, independientemente del valor de la señal de reloj y de las entradas $D$ y $\text{load}$.
 
 Descripción de las entradas:
-- $R$ (_reset_): cuando su valor es $1$, $Q^+$ es $0$.
-- $S$ (_set_): cuando su valor es $1$, $Q^+$ es $1$.
+- **Reset $(R)$**: Cuando su valor es $1$, $Q^+$ es $0$.
+- **Set $(S)$**: Cuando su valor es $1$, $Q^+$ es $1$.
 
 <div align="center">
 
@@ -185,15 +185,15 @@ Se compone de:
 
 - **Entradas**
 
-	1. **$E$ (Entrada de datos)**
+	1. **Entrada de datos $(E)$**
 		- **Función**: Es el dato binario que se desea almacenar en el registro.
 		- Este dato solo será cargado si $\text{load} = 1$.
-	2. **$\text{load}$ (Carga)**
+	2. **Carga $(\text{load})$**
 		- **Tipo**: Control (1 bit)
 		- **Función**: Permite que el dato de entrada sea almacenado en el registro.
 		- Si $\text{load} = 0$, en el próximo flanco activo del reloj, el registro conserva su contenido anterior (no cambia).
 		- Si $\text{load} = 1$, en el próximo flanco activo del reloj, el registro captura el valor de entrada ($E$) y lo almacena ($S$).
-	3. **$\text{clear}$ (Borrado)**
+	3. **Borrado $\text{clear}$**
 		- **Tipo**: Control (1 bit)
 		- **Función**: Pone a 0 el contenido del registro en el momento en el que $\text{clear} = 1$, independientemente del reloj, ya que es una señal **asíncrona**.
 		- Tiene prioridad sobre $\text{load}$; si ambos están activos, el contenido del registro se borra primero.
@@ -201,10 +201,9 @@ Se compone de:
 
 - **Salidas**
 
-	1. **$S$ (Salida de datos)**
+	1. **Salida de datos $(S)$**
 		- **Función**: Muestra el valor actualmente almacenado en el registro.
 		- Refleja lo que se cargó por $\text{load}$, o lo que quedó tras un $\text{clear}$.
-
 
 Las entradas $\text{clear}$ y $\text{load}$ se pueden entender mejor a partir de esta tabla:
 
@@ -251,27 +250,27 @@ Se compone de:
 
 - **Entradas**
 
-	1. **$SL$ (Selector de Lectura)**
+	1. **Selector de lectura $(SL)$**
 		- **Tamaño**: $m$ bits
 		- **Función**: Selecciona qué registro quieres leer.
 		- Como hay $2^m$ registros, este campo sirve para escoger uno de ellos y obtener su valor por la salida $\text{Dout}$.
-	2. **$SE$ (Selector de Escritura)**
+	2. **Selector de escritura $(SE)$**
 		- **Tamaño**: $m$ bits
 		- **Función**: Seleccionar qué registro se va a modificar.
 		- Se usa junto con la señal de permiso de escritura, $E$, y el dato de entrada a escribir, $\text{Din}$.
-	3. **$E$ (Enable o Habilitación de Escritura)**
+	3. **Enable o Habilitación de escritura $(E)$**
 		- **Tamaño**: 1 bit
 		- **Función**: Controla si se debe escribir el valor $\text{Din}$ en el registro seleccionado por $SE$.
 		- Si $E = 0$, no se realiza la escritura.
 		- Si $E = 1$, se realiza la escritura.
-	4. **$\text{Din}$ (Data Input o Dato de Entrada)**
+	4. **Data input o datos de entrada $(\text{Din})$**
 		- **Tamaño**: $n$ bits
 		- **Función**: Contiene el dato que se va a guardar en el registro indicado por $SE$ si la escritura está habilitada $E = 1$.
 	5. **Reloj**
 
 - **Salidas**
 
-	1. **$\text{Dout}$ (Data Output o Dato de salida)**
+	1. **Data output o datos de salida $(\text{Dout})$**
 		- **Tamaño**: $n$ bits
 		- **Función**: Entrega el contenido del registro seleccionado por $SL$.
 		- No depende de la escritura, solo del selector de lectura.
