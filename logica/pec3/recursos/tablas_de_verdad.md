@@ -21,6 +21,8 @@
 
 Las **tablas de verdad** son un método de validación de razonamientos alternativo a la deducción natural para demostrar si existe alguna forma para vincular una serie de premisas a una conclusión.
 
+Cada celda de la tabla tiene un **valor de verdad** que indica si una proposición es **verdadera** o **falsa**.
+
 ## Estructura
 
 Dadas las proposiciones del siguiente razonamiento:
@@ -116,7 +118,7 @@ Las dimensiones de una tabla de verdad se determinan a partir de esta fórmula:
 $$\text{número de interpretaciones} = 2^{\text{número de átomos}}$$
 
 >[!NOTE]
->Tomamos el $2$ porque sólo existen dos valores posibles (**V** o **F**).
+>Tomamos el 2 porque solo existen dos valores posibles (**V** o **F**).
 
 Si la aplicamos al ejemplo, obtenemos $2^3 = 6$ interpretaciones posibles.
 
@@ -137,6 +139,9 @@ Si la aplicamos a nuestro ejemplo, obtenemos:
 <br>
 
 <table>
+	<tr>
+		<th colspan="3">ÁTOMOS</th>
+	</tr>
 	<tr>
 		<td>$A$</td>
 		<td>$B$</td>
@@ -190,9 +195,9 @@ A partir de los valores de verdad para cada interpretación posible, procedemos 
 
 Para ello, seguimos estos criterios para obtener los valores de verdad según las conectivas:
 
-- *Valor de verdad para la conjunción*: Verdadero cuando ambos conjuntandos son **verdaderos** ($V \wedge V$).
-- *Valor de verdad para la disyunción*: Verdadero cuando uno o los dos disyuntandos son **verdaderos** ($V \vee F$; $F \vee V$; $V \vee V$)$.
-- **Valor de verdad para la implicación**: SÓLO es FALSO cuando el **antecedente es verdadero** y el **consecuente es falso** ($V \rightarrow F$).
+- **Conjunción**: Solo es **verdadero** cuando ambos conjuntandos son verdaderos $(V \wedge V)$.
+- **Disyunción**: Solo es **falso** cuando los dos disyuntandos son falsos $(F \vee F)$.
+- **Implicación**: Solo es **falso** cuando el antecedente es verdadero y el consecuente es falso $(V \rightarrow F)$.
 
 <table>
 	<tr>
@@ -243,6 +248,11 @@ Para ello, seguimos estos criterios para obtener los valores de verdad según la
 Si resolvemos el ejemplo planteado en los anteriores pasos, obtenemos esta tabla como solución:
 
 <table>
+	<tr>
+		<th colspan="3">ÁTOMOS</th>
+		<th colspan="3">PREMISAS</th>
+		<th>CONCLUSIÓN</th>
+	</tr>
 	<tr>
 		<td>$A$</td>
 		<td>$B$</td>
@@ -334,6 +344,11 @@ En función del valor de verdad de un enunciado, tenemos:
 
 	<table>
 		<tr>
+			<th colspan="2">ÁTOMOS</th>
+			<th>PREMISAS</th>
+			<th>CONCLUSIÓN</th>
+		</tr>
+		<tr>
 			<th>$A$</th>
 			<th>$B$</th>
 			<th>$B \rightarrow A$</th>
@@ -368,6 +383,11 @@ En función del valor de verdad de un enunciado, tenemos:
 - **Antinomia** o **contradicción**: Razonamiento que **no se cumple NUNCA**, independientemente de las asignaciones de los valores de verdad para sus premisas.
 
 	<table>
+		<tr>
+			<th colspan="2">ÁTOMOS</th>
+			<th colspan="3">PREMISAS</th>
+			<th>CONCLUSIÓN</th>
+		</tr>
 		<tr>
 			<th>$A$</th>
 			<th>$B$</th>
@@ -412,15 +432,64 @@ En función del valor de verdad de un enunciado, tenemos:
 
 - **Contingencia**: Se da cuando el razonamiento se cumple algunas veces y otras no. Esto depende de los valores de verdad de sus premisas.
 
+<table>
+	<tr>
+		<th colspan="2">ÁTOMOS</th>
+		<th colspan="2">PREMISAS</th>
+		<th>CONCLUSIÓN</th>
+	</tr>
+	<tr>
+		<td>$A$</td>
+		<td>$B$</td>
+		<td>$A \wedge B$</td>
+		<td>$A \vee B$</td>
+		<td>$A \rightarrow B$</td>
+	</tr>
+	<tr>
+		<td>$V$</td>
+		<td>$V$</td>
+		<td>$V$</td>
+		<td>$V$</td>
+		<td>$V$</td>
+	</tr>
+	<tr>
+		<td>$V$</td>
+		<td>$F$</td>
+		<td>$F$</td>
+		<td>$V$</td>
+		<td>$F$</td>
+	</tr>
+	<tr>
+		<td>$F$</td>
+		<td>$V$</td>
+		<td>$F$</td>
+		<td>$V$</td>
+		<td>$V$</td>
+	</tr>
+	<tr>
+		<td>$F$</td>
+		<td>$F$</td>
+		<td>$F$</td>
+		<td>$F$</td>
+		<td>$V$</td>
+	</tr>
+</table>
+
 ### Corrección de razonamientos
 
-- ✅ Si las premisas son consistentes —es decir, que TODAS sean $V$— y observamos que TODAS las conclusiones son VERDADERAS, diremos que el razonamiento es **CORRECTO**
-- ✅ Si las premisas son inconsistentes —es decir, no todas son $V$—, diremos que el razonamiento es **VÁLIDO** por inconsistencia de premisas. 
-- ❌ Si las premisas son consistentes —es decir, que TODAS sean $V$— observamos que ALGUNA conclusión es FALSA (contraejemplo), diremos que el razonamiento es **INCORRECTO**
+- ✅ Si las premisas son **CONSISTENTES** —es decir, TODAS son VERDADERAS— y observamos que TODAS las conclusiones son VERDADERAS, diremos que el razonamiento es **VÁLIDO** por **consistencia de premisas**.
+- ✅ Si las premisas son **INCONSISTENTES** —es decir, NO TODAS son VERDADERAS—, diremos que el razonamiento es **VÁLIDO** por **inconsistencia de premisas**. 
+- ❌ Si las premisas son **CONSISTENTES** —es decir, TODAS son VERDADERAS— y observamos que ALGUNA conclusión es FALSA, diremos que el razonamiento **NO ES VÁLIDO** por presentar un **contraejemplo**.
 
 **Ejemplo**:
 
 <table>
+	<tr>
+		<th colspan="3">ÁTOMOS</th>
+		<th colspan="3">PREMISAS</th>
+		<th>CONCLUSIÓN</th>
+		<th>OBSERVACIONES</th>
+	</tr>
 	<tr>
 		<th>$A$</th>	
 		<th>$B$</th>	
@@ -429,6 +498,7 @@ En función del valor de verdad de un enunciado, tenemos:
 		<th>$A \rightarrow B \vee C$</th>	
 		<th>$\neg B \wedge C$</th>	
 		<th>$A$</th>	
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>$V$</td>
@@ -438,6 +508,7 @@ En función del valor de verdad de un enunciado, tenemos:
 		<td>$V$</td>
 		<td>$F$</td>
 		<td>$V$</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>$V$</td>
@@ -447,6 +518,7 @@ En función del valor de verdad de un enunciado, tenemos:
 		<td>$V$</td>
 		<td>$F$</td>
 		<td>$V$</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>$V$</td>
@@ -466,6 +538,7 @@ En función del valor de verdad de un enunciado, tenemos:
 		<td>$F$</td>
 		<td>$F$</td>
 		<td>$V$</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>$F$</td>
@@ -475,6 +548,7 @@ En función del valor de verdad de un enunciado, tenemos:
 		<td>$V$</td>
 		<td>$F$</td>
 		<td>$F$</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>$F$</td>
@@ -484,6 +558,7 @@ En función del valor de verdad de un enunciado, tenemos:
 		<td>$V$</td>
 		<td>$F$</td>
 		<td>$F$</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>$F$</td>
@@ -507,7 +582,8 @@ En función del valor de verdad de un enunciado, tenemos:
 		<td>$V$</td>
 		<td>$F$</td>
 		<td>$F$</td>
+		<td>-</td>
 	</tr>
 </table>
 
-Como el razonamiento presenta un **contraejemplo**, podemos concluir que NO ES VÁLIDO. 
+Como el razonamiento presenta un **contraejemplo**, podemos concluir que **NO ES VÁLIDO**.
