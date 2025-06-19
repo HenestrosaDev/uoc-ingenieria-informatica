@@ -259,7 +259,7 @@ Antes de presentar este algoritmo, es necesario entender los siguientes concepto
 - **Sustitución**: Par de la forma $<v/t>$, donde $v$ es una variable y $t$ es
 una constante, una variable o una función que no lo sea de $v$.
 
-- **Unificador** ($\sigma$): Secuencia de sustituciones que hace idénticas (unifica) dos expresiones. Para denotar que el unificador $\sigma$ se aplica a la fórmula $F$, se escribe $F \sigma$. Así, si $\sigma$ es un unificador de F1 y de F2, entonces $F1 \sigma = F2 \sigma$.
+- **Unificador** $(\sigma)$: Secuencia de sustituciones que hace idénticas (unifica) dos expresiones. Para denotar que el unificador $\sigma$ se aplica a la fórmula $F$, se escribe $F \sigma$. Así, si $\sigma$ es un unificador de F1 y de F2, entonces $F1 \sigma = F2 \sigma$.
 
 	Cuando un par de fórmulas $F1$ y $F2$ de un único predicado tienen un unificador que las hace idénticas, entonces se dice que son **fórmulas unificables**.
 

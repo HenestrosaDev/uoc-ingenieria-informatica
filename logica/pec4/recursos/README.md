@@ -59,8 +59,8 @@ Por ejemplo, si usamos el predicado $\text{EsRojo}(x)$ para describir colores de
 
 Si $P(x)$ quiere decir _"$x$ es un estudiante"_, entonces:
 
-- $\forall x P(x)$ significa "todos son estudiantes" ($\forall x P(x) == P(1) \wedge P(2) \wedge P(3) \cdots$).
-- $\exists x P(x)$ significa "existen estudiantes" ($\exists x P(x) == P(1) \vee P(2) \vee P(3) \cdots$).
+- $\forall x P(x)$ significa "todos son estudiantes" $(\forall x P(x) == P(1) \wedge P(2) \wedge P(3) \cdots)$.
+- $\exists x P(x)$ significa "existen estudiantes" $(\exists x P(x) == P(1) \vee P(2) \vee P(3) \cdots)$.
 
 
 ### 1.2.3. Fórmulas
@@ -99,8 +99,8 @@ Dados los siguientes predicados:
 
 $$\forall x \set{ P(x) \wedge I(x) \wedge A(x) \to \exists y [C(y) \wedge U(y) \wedge S(x,y)] }$$
 
-- **Ámbito del cuantificador universal** ($\forall$): $\set{ P(x) \wedge I(x) \wedge A(x) \to \exists y (C(y) \wedge U(y) \wedge S(x,y)) }$
-- **Ámbito del cuantificador existencial** ($\exists$): $[C(y) \wedge U(y) \wedge S(x,y)]$
+- **Ámbito del cuantificador universal** $(\forall)$: $\set{ P(x) \wedge I(x) \wedge A(x) \to \exists y (C(y) \wedge U(y) \wedge S(x,y)) }$
+- **Ámbito del cuantificador existencial** $(\exists)$: $[C(y) \wedge U(y) \wedge S(x,y)]$
 
 <br>
 
@@ -132,13 +132,13 @@ Pasos a seguir:
 	- **Predicados**: Identificar propiedades o relaciones (ej. "es alto" → $A(x)$, "ama a" → $A(x,y)$).
 
 2. **Determinar los cuantificadores**
-	- **Universal** ($\forall$): "Todos", "cualquier", "cada", "ningún" (en contextos negativos).
+	- **Universal** $(\forall)$: "Todos", "cualquier", "cada", "ningún" (en contextos negativos).
   	- **Ejemplo**: "Todos los humanos son mortales" → $\forall x (H(x) \to M(x))$
-	- **Existencial** ($\exists$): "Algún", "existe", "hay al menos uno".
+	- **Existencial** $(\exists)$: "Algún", "existe", "hay al menos uno".
   	- **Ejemplo**: "Algún gato es negro" → $\exists x (G(x) \wedge N(x))$.
 
 3. **Usar conectivas**	
-	Conjunción ($\wedge$), disyunción ($\vee$), implicación ($\to$) y negación ($\neg$).
+	Conjunción $(\wedge)$, disyunción $(\vee)$, implicación $(\to)$ y negación $(\neg)$.
 
 4. **Encontrar una frase equivalente para aclarar la estructura lógica del enunciado dado** a partir de la combinación de predicados, cuantificadores y conectivas según el significado de la frase a formalizar.
 	- Ejemplo:
@@ -216,19 +216,19 @@ Todas las frases que se exponen a continuación parten de los siguientes átomos
 
 5. **Una princesa bonita también es valiente**.
 
-	**Interpretación**: (**TODAS** ($\forall$)) Ser princesa bonita es **SUFICIENTE** ($\to$) para ser valiente.
+	**Interpretación**: (**TODAS** $(\forall)$) Ser princesa bonita es **SUFICIENTE** $(\to)$ para ser valiente.
 
 	$$\forall x [P(x) \wedge B(x) \to V(x)]$$
 
 6. **Para ser caballero hay que haber matado a algún dragón**.
 
-	**Interpretación**: Matar a algún dragón es **NECESARIO** ($\to$) para ser caballero.
+	**Interpretación**: Matar a algún dragón es **NECESARIO** $(\to)$ para ser caballero.
 
 	$$\forall x \set{ C(x) \to \exists y [D(y) \wedge M(x,y)] }$$
 
 7. **Cualquier caballero ha matado a un dragón**.
 
-	**Interpretación**: Matar a algún dragón es **NECESARIO** ($\to$) para ser caballero.
+	**Interpretación**: Matar a algún dragón es **NECESARIO** $(\to)$ para ser caballero.
 
 	$$\forall x \set{ C(x) \implies \exists y [D(y) \wedge M(x,y)] }$$
 
@@ -236,31 +236,31 @@ Todas las frases que se exponen a continuación parten de los siguientes átomos
 
 8. **Hay princesas que matan a todos los caballeros**.
 
-	**Interpretación**: **EXISTEN** ($\exists$) princesas que, además ($\wedge$), matan a **TODOS** ($\forall$) los caballeros. Ser caballero es **SUFICIENTE** ($\to$) para que una princesa te mate.
+	**Interpretación**: **EXISTEN** $(\exists)$ princesas que, además $(\wedge)$, matan a **TODOS** $(\forall)$ los caballeros. Ser caballero es **SUFICIENTE** $(\to)$ para que una princesa te mate.
 
 	$$\exists x \set{ P(x) \wedge \forall y [C(y) \wedge M(x,y)] }$$
 
 9. **Un caballero ha matado a todos los dragones**
 
-	**Interpretación**: **EXISTE** ($\exists$) un caballero que, además ($\wedge$), ha matado a **TODOS** ($\forall$) los dragones. Ser dragón es **SUFICIENTE** ($\to$) para que el caballero te mate.
+	**Interpretación**: **EXISTE** $(\exists)$ un caballero que, además $(\wedge)$, ha matado a **TODOS** $(\forall)$ los dragones. Ser dragón es **SUFICIENTE** $(\to)$ para que el caballero te mate.
 
 	$$\exists x \set{ C(x) \wedge \forall y [D(y) \to M(x,y)] }$$
 
 10. **Hay un caballero que solo mata a dragones**.
 
-	**Interpretación**: **EXISTE** ($\exists$) un caballero que, además ($\wedge$), hace que **NO EXISTA** ($\neg \exists$) un elemento **NO** ($\neg$) dragón que haya sido matado por el caballero.
+	**Interpretación**: **EXISTE** $(\exists)$ un caballero que, además $(\wedge)$, hace que **NO EXISTA** $(\neg \exists)$ un elemento **NO** $(\neg)$ dragón que haya sido matado por el caballero.
 
 	$$\exists x \set{ C(x) \wedge \neg \exists y [\neg D(y) \wedge C(x,y)] } $$
 
 11. **Hay caballeros que no han matado a ningún dragón**.
 
-	**Interpretación**: **EXISTEN** ($\exists$) caballeros que, además ($\wedge$), **NO** ($\neg$) han matado a **NINGÚN** ($\neg \exists$) dragón.
+	**Interpretación**: **EXISTEN** $(\exists)$ caballeros que, además $(\wedge)$, **NO** $(\neg)$ han matado a **NINGÚN** $(\neg \exists)$ dragón.
 
 	$$\exists x \set{ C(x) \wedge \neg \exists y [D(y) \wedge M(x,y)] }$$
 
 12. **Hay un caballero que no ha matado a ningún dragón**.
 
-	**Interpretación**: **EXISTE** ($\exist$) un caballero que, además ($\wedge$), **NO** ($\neg$) ha matado a ningún dragón.
+	**Interpretación**: **EXISTE** $(\exist)$ un caballero que, además $(\wedge)$, **NO** $(\neg)$ ha matado a ningún dragón.
 
 	$$\exists x \set{ C(x) \wedge \neg \exists y [D(y) \wedge M(x,y)] }$$
 
@@ -268,13 +268,13 @@ Todas las frases que se exponen a continuación parten de los siguientes átomos
 
 13. **Existe una princesa que es amada por todos los caballeros**.
 
-	**Interpretación**: **EXISTE** ($\exists$) una princesa que, además ($\wedge$), es amada por **TODOS** ($\forall$) los caballeros. Ser caballero es **SUFICIENTE** ($\to$) para amar a una princesa.
+	**Interpretación**: **EXISTE** $(\exists)$ una princesa que, además $(\wedge)$, es amada por **TODOS** $(\forall)$ los caballeros. Ser caballero es **SUFICIENTE** $(\to)$ para amar a una princesa.
 
 	$$\exists x \set{ P(x) \wedge \forall y [C(y) \to A(y,x)] }$$
 
 14. **Para matar a un caballero hay que ser un dragón valiente**.
 
-	**Interpretación**: Ser un dragón valiente es **NECESARIO** ($\to$) para matar a un caballero.
+	**Interpretación**: Ser un dragón valiente es **NECESARIO** $(\to)$ para matar a un caballero.
 
 	$$\forall x \set{ D(x) \wedge V(x) \to \exists y [C(y) \wedge M(x,y)] }$$
 
@@ -284,55 +284,55 @@ Todas las frases que se exponen a continuación parten de los siguientes átomos
 
 	$$B \to A \dashv \vdash \neg A \to \neg B$$
 
-	**NO SER** ($\neg \exists$) un dragón valiente es **SUFICIENTE** ($\to$) para que **NO EXISTA** ($\neg \exists$) un caballero que sea matado por un dragón.
+	**NO SER** $(\neg \exists)$ un dragón valiente es **SUFICIENTE** $(\to)$ para que **NO EXISTA** $(\neg \exists)$ un caballero que sea matado por un dragón.
 
 	$$\forall x \set{ \neg[D(x) \wedge V(x)] \to \neg \exists y [C(y) \wedge M(x,y)] }$$
 
 15. **Hay un caballero que mata a un dragón y que es valiente**.
 
-	**Interpretación**: **EXISTE** ($\exists$) un caballero valiente que, además ($\wedge$), mata a un dragón.
+	**Interpretación**: **EXISTE** $(\exists)$ un caballero valiente que, además $(\wedge)$, mata a un dragón.
 
 	$$\exists x \set{ C(x) \wedge V(x) \wedge \exists y [D(y) \wedge M(x,y)] }$$
 
 16. **Hay caballeros que solo matan a dragones valientes**.
 
-	**Interpretación**: **EXISTEN** ($\exists$) caballeros que, además ($\wedge$), hacen que **NO EXISTA** ($\neg \exists$) un elemento de tipo **NO** ($\neg$) dragón valiente que haya sido matado por los caballeros.
+	**Interpretación**: **EXISTEN** $(\exists)$ caballeros que, además $(\wedge)$, hacen que **NO EXISTA** $(\neg \exists)$ un elemento de tipo **NO** $(\neg)$ dragón valiente que haya sido matado por los caballeros.
 
 	$$\exists x \set{ C(x) \wedge \neg \exists y [\neg (D(y) \wedge V(y)) \wedge M(x,y)] }$$
 
 17. **Hay caballeros que, de dragones, solo matan valientes**.
 
-	**Interpretación**: **EXISTEN** ($\exists$) caballeros que, además ($\wedge$), solo matan a dragones valientes. Ser dragón **Y** ($\wedge$) ser matado por un caballero es **SUFICIENTE** ($\to$) para ser un dragón valiente.
+	**Interpretación**: **EXISTEN** $(\exists)$ caballeros que, además $(\wedge)$, solo matan a dragones valientes. Ser dragón **Y** $(\wedge)$ ser matado por un caballero es **SUFICIENTE** $(\to)$ para ser un dragón valiente.
 
 	$$\exists x \set{ C(x) \wedge \forall y [D(y) \wedge M(x,y) \to V(y)] }$$
 
 18. **Un caballero amado por una princesa es valiente**.
 
-	**Interpretación**: (Para **TODO** ($\forall$) caballero) Que una princesa ame a un caballero es **SUFICIENTE** ($\to$) para que sea valiente.
+	**Interpretación**: (Para **TODO** $(\forall)$ caballero) Que una princesa ame a un caballero es **SUFICIENTE** $(\to)$ para que sea valiente.
 
 	$$\forall x \set{ C(x) \wedge \exists y [P(y) \wedge A(y,x)] \to V(x) }$$
 
 19. **Los caballeros son todos valientes y las princesas son todas bonitas**.
 
-	**Interpretación**: (**TODOS** ($\forall$)) Ser caballero es **SUFICIENTE** ($\to$) para ser valiente **Y** ($\wedge$) (**TODAS** ($\forall$)) ser princesa es **SUFICIENTE** ($\to$) para ser bonita.
+	**Interpretación**: (**TODOS** $(\forall)$) Ser caballero es **SUFICIENTE** $(\to)$ para ser valiente **Y** $(\wedge)$ (**TODAS** $(\forall)$) ser princesa es **SUFICIENTE** $(\to)$ para ser bonita.
 
 	$$\forall x [C(x) \wedge V(x)] \wedge \forall y [P(y) \wedge B(y)]$$
 
 20. **Un caballero que mata a un dragón es valiente**.
 
-	**Interpretación**: (**TODOS** ($\forall$)) Que un caballero mate a un dragón es **SUFICIENTE** ($\to$) para que sea valiente.
+	**Interpretación**: (**TODOS** $(\forall)$) Que un caballero mate a un dragón es **SUFICIENTE** $(\to)$ para que sea valiente.
 
 	$$\forall x \set{ C(x) \wedge \exists y [D(y) \wedge M(x,y)] \to V(x) }$$
 
 21. **Hay un caballero que si matara a un dragón sería valiente**.
 
-	**Interpretación**: **EXISTE** ($\exists$) un caballero que si matara a un dragón sería **SUFICIENTE** para ser valiente.
+	**Interpretación**: **EXISTE** $(\exists)$ un caballero que si matara a un dragón sería **SUFICIENTE** para ser valiente.
 
 	$$\exists x \set{ C(x) \wedge \exists y [D(y) \wedge M(x,y)] \to V(x) }$$
 
 22. **Hace falta que todos los dragones sean valientes para que alguna princesa sea amada por todos los caballeros**.
 
-	**Interpretación**: Que **TODOS** ($\forall$) los dragones sean valientes es **NECESARIO** ($\to$) para que **ALGUNA** ($\exists$) princesa sea amada por **TODOS** ($\forall$) los caballeros.
+	**Interpretación**: Que **TODOS** $(\forall)$ los dragones sean valientes es **NECESARIO** $(\to)$ para que **ALGUNA** $(\exists)$ princesa sea amada por **TODOS** $(\forall)$ los caballeros.
 
 	$$\exists x \set{ P(x) \wedge \forall y [C(y) \to A(y,x)] } \to \forall z [D(z) \wedge V(z)]$$
 
@@ -342,7 +342,7 @@ Todas las frases que se exponen a continuación parten de los siguientes átomos
 
 23. **Si hubiera un caballero que  matara todos los dragones, no habría princesas valientes**.
 
-	**Interpretación**: La **EXISTENCIA** ($\exists$) de un caballero que, además ($\wedge$), mate a **TODOS** ($\forall$) los dragones es **SUFICIENTE** para la **NO EXISTENCIA** ($\neg \exists$) de princesas valientes.
+	**Interpretación**: La **EXISTENCIA** $(\exists)$ de un caballero que, además $(\wedge)$, mate a **TODOS** $(\forall)$ los dragones es **SUFICIENTE** para la **NO EXISTENCIA** $(\neg \exists)$ de princesas valientes.
 
 	$$\exists x \set{ C(x) \wedge \forall y [D(y) \wedge M(x,y)] } \to \neg \exists z [P(z) \wedge V(z)]$$
 
@@ -352,42 +352,42 @@ Todas las frases que se exponen a continuación parten de los siguientes átomos
 
 25. **Si se es caballero, es necesario matar a un dragón para ser amado por alguna princesa**.
 
-	**Interpretación**: (Para **TODO** ($\forall$) caballero) Que un caballero mate a un dragón es **NECESARIO** para que **EXISTA** alguna princesa que ame a un caballero.
+	**Interpretación**: (Para **TODO** $(\forall)$ caballero) Que un caballero mate a un dragón es **NECESARIO** para que **EXISTA** alguna princesa que ame a un caballero.
 
 	$$\forall x \set{ C(x) \to \set{ \exists y [P(y) \wedge A(y,x)] \to \exists z [D(z) \wedge M(x,z)] }}$$
 
 26. **Hace falta que todos los caballeros hayan matado a algún dragón para que ninguna princesa no sea bonita**.
 
-	**Interpretación**: Que **TODOS** ($\forall$) los caballeros hayan matado a **ALGÚN** ($\exists$) dragón es **NECESARIO** para que **NO EXISTA** ($\neg \exists$) ninguna princesa que no sea bonitas.
+	**Interpretación**: Que **TODOS** $(\forall)$ los caballeros hayan matado a **ALGÚN** $(\exists)$ dragón es **NECESARIO** para que **NO EXISTA** $(\neg \exists)$ ninguna princesa que no sea bonitas.
 
 	$$\neg \exists x [P(x) \wedge \neg B(x)] \to \forall x \set{ C(x) \to \exists z (D(z) \wedge M(y,z)) }$$
 
 27. **Las princesas, solo si son bonitas, son amadas por un caballero valiente**.
 
-	**Interpretación**: (Para **TODAS** ($\forall$) las princesas) Que una princesa sea amada por un caballero valiente es **SUFICIENTE** para que sean bonitas.
+	**Interpretación**: (Para **TODAS** $(\forall)$ las princesas) Que una princesa sea amada por un caballero valiente es **SUFICIENTE** para que sean bonitas.
 
 	$$\forall x \set{ P(x) \wedge \exists y [C(y) \wedge V(y) \wedge A(y,x)] \to B(x) }$$
 
 28. **Hay un caballero que ha matado a todos los dragones y que no ama a ninguna princesa**.
 
-	**Interpretación**: **EXISTE** ($\exists$) un caballero que ha matado a **TODOS** ($\forall$) los dragones **Y** ($\wedge$) que ama a **NINGUNA** ($\neg \exists$) princesa.
+	**Interpretación**: **EXISTE** $(\exists)$ un caballero que ha matado a **TODOS** $(\forall)$ los dragones **Y** $(\wedge)$ que ama a **NINGUNA** $(\neg \exists)$ princesa.
 
 	$$\exists x \set{ C(x) \wedge \forall y [D(y) \wedge M(x,y)] \wedge \neg \exists z [P(z) \wedge A(x,z)] }$$
 
 29. **Un caballero que no sea amado por ninguna princesa no habrá matado ningún dragón valiente**.
 
-	**Interpretación**: (Para **TODO** ($\forall$) caballero) Que un caballero **NO** ($\neg$) sea amado por **UNA** ($\exists$) princesa es **SUFICIENTE** ($\to$) para que **NO** mate a **UN** ($\exists$) dragón valiente$$
+	**Interpretación**: (Para **TODO** $(\forall)$ caballero) Que un caballero **NO** $(\neg)$ sea amado por **UNA** $(\exists)$ princesa es **SUFICIENTE** $(\to)$ para que **NO** mate a **UN** $(\exists)$ dragón valiente$$
 
 	$$\forall x \set{ C(x) \wedge \neg \exists y [P(y) \wedge A(y,x)] \to \neg \exists z [D(z) \wedge V(z) \wedge M(x,z)] }$$
 
 30. **Los caballeros, para ser queridos por una princesa, deben haber matado a un dragón**.
 
-	**Interpretación**: (Para **TODOS** ($\forall$) los caballeros) Que un caballero mate a **ALGÚN** ($\exists$) dragón es **NECESARIO** para que sea amado por una princesa.
+	**Interpretación**: (Para **TODOS** $(\forall)$ los caballeros) Que un caballero mate a **ALGÚN** $(\exists)$ dragón es **NECESARIO** para que sea amado por una princesa.
 
 	$$\forall x \set{ C(x) \wedge \exists y [P(y) \wedge A(y,x)] \to \exists z [D(z) \wedge M(x,z)] }$$
 
 31. **Si un caballero es amado por una princesa que también ama a un dragón, no podrá matar a ningún dragón**.
 
-	**Interpretación**: Que **EXISTA** ($\exists$) un caballero amado por una princesa **QUE TAMBIÉN** ($\wedge$) ama a un dragón es **SUFICIENTE** para que **NO** ($\neg$) pueda matarlo (al dragón).
+	**Interpretación**: Que **EXISTA** $(\exists)$ un caballero amado por una princesa **QUE TAMBIÉN** $(\wedge)$ ama a un dragón es **SUFICIENTE** para que **NO** $(\neg)$ pueda matarlo (al dragón).
 
 	$$\exists x \set{ C(x) \wedge \exists y \set{P(y) \wedge A(y,x) \wedge \exists z [D(z) \wedge A(y,z)]} \to \neg \exists w [D(w) \wedge M(x,w)] }$$

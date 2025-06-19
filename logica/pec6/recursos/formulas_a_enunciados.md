@@ -4,8 +4,8 @@ A partir de un dominio dado, podemos transformar las fórmulas de un razonamient
 
 Para conseguir este propósito, tendremos que eliminar los cuantificadores de las fórmulas.  Dado el dominio $\set{1,2}$, podemos eliminar los cuantificadores de la siguiente forma:
 
-- **Cuantificador universal** ($\forall$): $\forall x P(x) \equiv P(1) \wedge P(2)$
-- **Cuantificador existencial** ($\exists$): $\exists x P(x) \equiv P(1) \vee P(2)$
+- **Cuantificador universal** $(\forall)$: $\forall x P(x) \equiv P(1) \wedge P(2)$
+- **Cuantificador existencial** $(\exists)$: $\exists x P(x) \equiv P(1) \vee P(2)$
 
 Con esas dos únicas equivalencias, seremos capaz de lograr nuestro objetivo. Para entender este concepto, vamos a utilizar un ejemplo más sofisticado.
 
@@ -29,7 +29,7 @@ Para facilitar el proceso, es recomendable eliminar los cuantificadores de izqui
 	<tr>
 		<td>2</td>
 		<td>$(P(1) \to \exists y Q(1,y)) \wedge (P(2) \to \exists y Q(2,y))$</td>
-		<td>Eliminar cuantificador ($\forall x$)</td>
+		<td>Eliminar cuantificador $(\forall x)$</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -39,7 +39,7 @@ Para facilitar el proceso, es recomendable eliminar los cuantificadores de izqui
 	<tr>
 		<td>4</td>
 		<td>$(P(1) \to (Q(1,1) \vee Q(1,2))) \wedge (P(2) \to (Q(2,1) \vee Q(2,2,)))$</td>
-		<td>Eliminar cuantificador ($\exists y$)</td>
+		<td>Eliminar cuantificador $(\exists y)$</td>
 	</tr>
 	<tr>
 		<td>5</td>

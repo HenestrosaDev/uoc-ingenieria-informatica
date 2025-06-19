@@ -451,7 +451,7 @@ Aunque la frase conjuntiva sea adversativa, solo cambia el significado respecto 
 **Formalización**: $\neg S \rightarrow (P \wedge A) \vee (D)$
 
 >[!IMPORTANT]
->- Las comas cuentan como un _entonces_ ($\rightarrow$) a nivel conectivo.
+>- Las comas cuentan como un _entonces_ $(\rightarrow)$ a nivel conectivo.
 >- Los paréntesis son importantes, ya que en la formalización hay asociatividad de izquierda a derecha; es decir, que pueden afectar al sentido de la formalización.
 >
 >	Por ejemplo, no es lo mismo $\neg S \rightarrow (P \wedge A) \vee (D)$ que $\neg S \rightarrow P \wedge A \vee D$, ya que, en la primera expresión, la implicación $\neg S \rightarrow$ afecta a toda la subexpresión $(P \wedge A) \vee D$. En cambio, en la segunda expresión la implicación solo afecta a $P$, por lo que la conjunción y la disyunción se evalúan por separado, alterando así el significado de la proposición.

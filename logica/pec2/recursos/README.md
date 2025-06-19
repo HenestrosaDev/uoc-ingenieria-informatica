@@ -14,19 +14,19 @@
 
 ## Índice
 
-- [**2.1. La validación de razonamientos**](#21-la-validación-de-razonamientos)
-- [**2.2. Notación y reglas de la deducción natural**](#22-notación-y-reglas-de-la-deducción-natural)
-	- [**REGLA 0: Hipótesis**](#regla-0-hipótesis-h)
-	- [**REGLA 1: Introducción de la conjunción**](#regla-1-introducción-de-la-conjunción-i-wedge)
-	- [**REGLA 2: Eliminación de la conjunción**](#regla-2-eliminación-de-la-conjunción-e-wedge)
-	- [**REGLA 3: Introducción de la disyunción**](#regla-3-introducción-de-la-disyunción-i-vee)
-	- [**REGLA 4: Eliminación de la implicación o _modus ponens_**](#regla-4-eliminación-de-la-implicación-o-modus-ponens-e-rightarrow)
-	- [**REGLA 5: Eliminación de la negación**](#regla-5-eliminación-de-la-negación-e-neg)
-	- [**REGLA 6: Iteración**](#regla-6-iteración-it)
-	- [**REGLA 7: Introducción de la implicación**](#regla-7-introducción-de-la-implicación-i-rightarrow)
-	- [**REGLA 8: Eliminación de la disyunción**](#regla-8-eliminación-de-la-disyunción-e-vee)
-	- [**REGLA 9: Introducción de la negación**](#regla-9-introducción-de-la-negación-i-neg)
-- [**2.3. Planteamiento estratégico de las demostraciones por deducción natural**](#23-planteamiento-estratégico-de-las-demostraciones-por-deducción-natural)
+- [2.1. La validación de razonamientos](#21-la-validación-de-razonamientos)
+- [2.2. Notación y reglas de la deducción natural](#22-notación-y-reglas-de-la-deducción-natural)
+	- [REGLA 0: Hipótesis](#regla-0-hipótesis-h)
+	- [REGLA 1: Introducción de la conjunción](#regla-1-introducción-de-la-conjunción-i-wedge)
+	- [REGLA 2: Eliminación de la conjunción](#regla-2-eliminación-de-la-conjunción-e-wedge)
+	- [REGLA 3: Introducción de la disyunción](#regla-3-introducción-de-la-disyunción-i-vee)
+	- [REGLA 4: Eliminación de la implicación o _modus ponens_](#regla-4-eliminación-de-la-implicación-o-modus-ponens-e-rightarrow)
+	- [REGLA 5: Eliminación de la negación](#regla-5-eliminación-de-la-negación-e-neg)
+	- [REGLA 6: Iteración](#regla-6-iteración-it)
+	- [REGLA 7: Introducción de la implicación](#regla-7-introducción-de-la-implicación-i-rightarrow)
+	- [REGLA 8: Eliminación de la disyunción](#regla-8-eliminación-de-la-disyunción-e-vee)
+	- [REGLA 9: Introducción de la negación](#regla-9-introducción-de-la-negación-i-neg)
+- [2.3. Planteamiento estratégico de las demostraciones por deducción natural](#23-planteamiento-estratégico-de-las-demostraciones-por-deducción-natural)
 
 <br>
 

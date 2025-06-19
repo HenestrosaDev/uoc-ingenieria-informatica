@@ -382,7 +382,7 @@ $\exists x \set{ S(x) \wedge M(x) \neg \exists y [R(y) \wedge Q(x,y)] }$
 <details>
 	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
 
-(El Parson's Eye **NO** está equipado con el PR-QuantumDeath), **PERO** ($\wedge$) hay algunos satélites que sí
+(El Parson's Eye **NO** está equipado con el PR-QuantumDeath), **PERO** $(\wedge)$ hay algunos satélites que sí
 </details>
 
 <details>

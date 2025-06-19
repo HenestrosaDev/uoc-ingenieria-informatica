@@ -126,7 +126,7 @@ Por un lado, obtenemos las FNC de las premisas y, por otro, las FNC del negado d
 
 <table>
 	<tr>
-		<th colspan="3">FNC($\neg C$)</th>
+		<th colspan="3">FNC$(\neg C)$</th>
 	</tr>
 	<tr>
 		<th>Nº PASO</th>
@@ -136,7 +136,7 @@ Por un lado, obtenemos las FNC de las premisas y, por otro, las FNC del negado d
 	<tr>
 		<td>1</td>
 		<td>$\neg (C \wedge B \rightarrow D)$</td>
-		<td>($\neg C$)</td>
+		<td>$(\neg C)$</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -155,7 +155,7 @@ Por un lado, obtenemos las FNC de las premisas y, por otro, las FNC del negado d
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>FNC($\neg C$) = $\set{C, B, \neg D}$</td>
+		<td>FNC$(\neg C)$ = $\set{C, B, \neg D}$</td>
 		<td>FNC</td>
 	</tr>
 </table>
@@ -170,7 +170,7 @@ $S = \set{C \vee \neg A, D \vee \neg A, C \vee \neg B, \neg C \vee A \vee D, C, 
 
 #### 3.1. Aplicar subsunción a partir del negado de la conclusión
 
-Si una cláusula del conjunto $S$ integra (incluye) una cláusula del FNC($\neg C$), la eliminaremos del conjunto $S$ para simplificarlo en $S'$. _La pequeña come a la grande._
+Si una cláusula del conjunto $S$ integra (incluye) una cláusula del FNC$(\neg C)$, la eliminaremos del conjunto $S$ para simplificarlo en $S'$. _La pequeña come a la grande._
 
 Ejemplos de subsunción:
 - $C$ subsume a $C \vee \neg A$, ya que $C$ está ÍNTEGRAMENTE en $C \vee \neg A$.
@@ -332,7 +332,7 @@ $S' = \set{D \vee \neg A, \neg C \vee A \vee D, C, B \neg D}$
 >	</tr>
 ></table>
 
-Ahora que sabemos que hay una contradicción, tenemos que identificar si se da en el conjunto de las premisas ($S$) o en el conjunto de apoyo. Es importante realizarlo en este orden porque puede ser que en el paso anterior hallemos si el cuerpo de premisas sobre el que estamos operando es consistente o no, ya que, si es inconsistente, sabremos que es **válido** por inconsistencia de premisas. A su vez, si obtenemos un conjunto vacío al simplificar $S$, sabremos que el razonamiento es **inválido**.
+Ahora que sabemos que hay una contradicción, tenemos que identificar si se da en el conjunto de las premisas $(S)$ o en el conjunto de apoyo. Es importante realizarlo en este orden porque puede ser que en el paso anterior hallemos si el cuerpo de premisas sobre el que estamos operando es consistente o no, ya que, si es inconsistente, sabremos que es **válido** por inconsistencia de premisas. A su vez, si obtenemos un conjunto vacío al simplificar $S$, sabremos que el razonamiento es **inválido**.
 
 Como tenemos que determinar la consistencia de las premisas, en este caso de ejemplo, la evaluamos a partir del conjunto $S$. Para ello, tenemos que excluir los literales del conjunto de apoyo incluidos en $S$, tal que así:
 
@@ -348,6 +348,6 @@ $P'' = \emptyset$ (conjunto vacío)
 
 ### Interpretación
 
-Como obtenemos un conjunto vacío ($\emptyset$) al simplificar $P$, no podemos obtener el árbol de resolución y, por tanto, no hay cláusula vacía ([]). En consecuencia, tampoco se produce una contradicción, por lo que $P$ es **CONSISTENTE**.
+Como obtenemos un conjunto vacío $(\emptyset)$ al simplificar $P$, no podemos obtener el árbol de resolución y, por tanto, no hay cláusula vacía ([]). En consecuencia, tampoco se produce una contradicción, por lo que $P$ es **CONSISTENTE**.
 
 Según el diagrama presentado más arriba, tendríamos que aplicar la regla de resolución usando $S$, cosa que ya hemos hecho. Sabemos que obtenemos una cláusula vacía al aplicarla, por lo que podemos concluir que el razonamiento es VÁLIDO, ya que el conjunto $P$ es **CONSISTENTE**.

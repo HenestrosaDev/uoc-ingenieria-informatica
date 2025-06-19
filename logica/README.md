@@ -288,7 +288,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="ejercicios_alura/2_logica_de_predicados/1_deduccion_natural//2_medio">
+			<a href="ejercicios_alura/2_logica_de_predicados/1_deduccion_natural/2_medio">
 				🟧 Media
 			</a>
 		</td>

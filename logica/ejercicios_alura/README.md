@@ -134,11 +134,11 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 	</tr>
 	<tr>
 		<td>
-			<a href="2_logica_de_predicados/1_deduccion_natural//2_medio">
+			<a href="2_logica_de_predicados/1_deduccion_natural/2_medio">
 				🟧 Media
 			</a>
 		</td>
-		<td>12</td>
+		<td>11</td>
 	</tr>
 	<!-- RESOLUCIÓN -->
 	<tr>

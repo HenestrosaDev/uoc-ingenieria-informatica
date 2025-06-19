@@ -114,7 +114,7 @@ $\forall x (S(x) \wedge M(x) \to \exists y (R(y) \wedge Q(x,y))) \to \neg \exist
 <details>
 	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
 
-**NO EXISTE** ningún emisor de picos de radiación que **NO** esté instalado en **ALGÚN** ($\exists$) satélite militar.
+**NO EXISTE** ningún emisor de picos de radiación que **NO** esté instalado en **ALGÚN** $(\exists)$ satélite militar.
 </details>
 
 <details>
@@ -130,7 +130,7 @@ $\neg \exists x (R(x) \wedge \neg \exists y (S(y) \wedge M(y) \wedge Q(y,x))$
 <details>
 	<summary>Frase equivalente para aclarar la estructura lógica del enunciado dado</summary>
 
-(El Parson's Eye **NO** está equipado con el PR-QuantumDeath), **PERO** ($\wedge$) hay algunos satélites que sí
+(El Parson's Eye **NO** está equipado con el PR-QuantumDeath), **PERO** $(\wedge)$ hay algunos satélites que sí
 </details>
 
 <details>
