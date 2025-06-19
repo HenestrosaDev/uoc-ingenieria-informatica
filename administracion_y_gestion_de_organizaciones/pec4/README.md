@@ -2,7 +2,7 @@
 
 El enunciado de la PEC está en el archivo [`enunciado.docx`](enunciado.docx), así como la entrega en el archivo [`entrega.pdf`](entrega.pdf).
 
-## Recursos docentes
+## Recursos de aprendizaje
 
 >[!NOTE]
 >Los resúmenes de cada recurso para esta PEC se encuentran en la carpeta [`recursos`](recursos/).

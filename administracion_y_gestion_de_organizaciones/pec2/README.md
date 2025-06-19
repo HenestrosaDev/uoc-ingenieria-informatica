@@ -4,7 +4,7 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 - **Parte teórica**: Tipo test que se encuentra en el archivo `test_entrega.png`.
 - **Parte práctica**: El enunciado de esta parte está en el archivo [`enunciado.docx`](enunciado.docx), mientras que el del ejercicio resuelto se corresponde con el archivo [`entrega.pdf`](entrega.pdf).
 
-## Recursos docentes
+## Recursos de aprendizaje
 
 - [Calculadora de balance, TIR, VAN y pay-back](./recursos/calculadora.xlsx)
 
