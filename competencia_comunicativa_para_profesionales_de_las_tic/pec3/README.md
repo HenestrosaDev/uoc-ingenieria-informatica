@@ -26,7 +26,7 @@ En esta actividad **no está permitido el uso de herramientas de inteligencia ar
 
 En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y en la [web sobre integridad académica y plagio de la UOC](https://campus.uoc.edu/estudiant/microsites/plagi/es/index.html) encontraréis información sobre qué se considera conducta irregular en la evaluación y las consecuencias de su incumplimiento.
 
-## Recursos docentes
+## Recursos de aprendizaje
 
 - [Técnicas de producción de textos especializados (III). Léxico y aspectos de cohesión](https://materials.campus.uoc.edu/daisy/Materials/PID_00274804/pdf/PID_00274804.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/competencia_comunicativa_para_profesionales_de_las_tic/recursos/tecnicas_iii_lexico_y_aspectos_de_cohesion_resumen.md)).
 - [Técnicas de producción de textos especializados (IV). Puntuación y aspectos formales](https://materials.campus.uoc.edu/daisy/Materials/PID_00274802/pdf/PID_00274802.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/competencia_comunicativa_para_profesionales_de_las_tic/recursos/tecnicas_iv_puntuacion_y_aspectos_formales_resumen.md)).

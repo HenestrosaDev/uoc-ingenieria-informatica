@@ -31,7 +31,7 @@ Recordad que:
 - Se valorará más la redacción que el contenido.
 - La relación con el interlocutor debe ser cordial y respetuosa a la vez, lo que debéis reflejar en las fórmulas de saludo y despedida, y también en el tratamiento personal que utilicéis.
 
-### Recursos docentes
+### Recursos de aprendizaje
 
 Los recursos docentes que debéis consultar para realizar esta PR1 son los siguientes:
 

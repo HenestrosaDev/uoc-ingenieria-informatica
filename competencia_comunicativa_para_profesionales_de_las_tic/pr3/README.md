@@ -37,7 +37,7 @@ Para ilustrar dicha contradicción se plantea un dilema ético a través de la h
 
 Ver archivos [`entrega_actividad_2.pdf`](entrega_actividad_2.pdf).
 
-**Recursos docentes**
+**Recursos de aprendizaje**
 
 Los recursos docentes que debéis consultar para realizar esta PR3 son los siguientes:
 
