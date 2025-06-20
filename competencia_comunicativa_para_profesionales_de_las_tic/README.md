@@ -30,16 +30,20 @@ xychart-beta
 
 >[!NOTE]
 >- La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
->- Los errores de las tareas marcadas con un asterisco (*) han sido corregidas, por lo que, según las correcciones del profesorado, deberían tener la máxima puntuación en su estado actual.
+>- Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener la máxima puntuación en su estado actual.
 
 <table>
 	<tr>
+		<th>BLOQUE</th>
 		<th>DESGLOSE</th>
 		<th>ACTIVIDAD</th>
 		<th>CALIFICACIÓN</th>
 		<th>CALIFICACIÓN PONDERADA</th>
 	</tr>
 	<tr>
+		<td rowspan="7">
+			<strong>Evaluación continua (EC)</strong> (100%)
+		</td>
 		<td rowspan="3">
 			<strong>
 				Pruebas de evaluación continua (PEC)
@@ -54,17 +58,31 @@ xychart-beta
 		<td>
 			31,31 / 33,00 (A)
 		</td>
-		<td rowspan="3">
+		<td rowspan="7">
 			<p>
 				<strong>Calificación total PECs</strong>:
 				<br>
 				94,35 / 100,00
 			</p>
-			<br>
 			<p>
 				<strong>Calificación ponderada PECs</strong>:
 				<br>
 				3,77 / 4,00
+			</p>
+			<p>
+				<strong>Calificación total PRs</strong>:
+				<br>
+				94,94 / 100,00
+			</p>
+			<p>
+				<strong>Calificación ponderada PRs</strong>:
+				<br>
+				5,70 / 6,00
+			</p>
+			<p>
+				<strong>Calificación ponderada EC</strong>:
+				<br>
+				9,47 / 10,00
 			</p>
 		</td>
 	</tr>
@@ -99,19 +117,6 @@ xychart-beta
 			</a> (15%)*
 		</td>
 		<td>14,40 / 15,00 (A)</td>
-		<td rowspan="4">
-			<p>
-				<strong>Calificación total PRs</strong>:
-				<br>
-				94,94 / 100,00
-			</p>
-			<br>
-			<p>
-				<strong>Calificación ponderada PRs</strong>:
-				<br>
-				5,70 / 6,00
-			</p>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -144,11 +149,11 @@ xychart-beta
 		</td>
 	</tr>
 	<tr>
-		<td colspan="3"></td>
+		<td colspan="4"></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td colspan="3">
+		<td colspan="4">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
 		<td>10,00 / 10,00 (M)</td>
