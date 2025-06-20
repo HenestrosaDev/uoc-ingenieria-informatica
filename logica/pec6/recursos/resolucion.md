@@ -61,7 +61,13 @@ Introducción del concepto mediante un ejemplo con las siguientes **cláusulas b
 
 6. **Resolver el árbol de resolución resultante**
 
-	![](img/51_arbol_de_resolucion.png)
+	<div align="center">
+	<img
+		src="img/51_arbol_de_resolucion.png"
+		width="400"
+		height="275"
+	>
+	</div>
 
 #### 5.2.2. Quién sustituye a quién y cómo lo hace
 
@@ -175,19 +181,42 @@ $$\set{\neg C(b,b)}$$
 
 El primer intento de empezar la resolución sería:
 
-![](img/531_arbol_de_resolucion-1.png)
+<div align="center">
+<img
+	src="img/531_arbol_de_resolucion-1.png"
+	width="400"
+	height="245"
+>
+</div>
 
 Dado que se ha producido una repetición, es necesario plantearse la última decisión tomada.
 
+<br>
+
 El siguiente intento sería:
 
-![](img/531_arbol_de_resolucion-2.png)
+<div align="center">
+<img
+	src="img/531_arbol_de_resolucion-2.png"
+	width="400"
+	height="245"
+>
+</div>
 
 Este intento fracasa porque, aunque la variable $x$ puede sustituirse por $b$ haciendo que la cláusula lateral quede $C(b,a)$, ni $a$ puede sustituirse por $b$ ni $b$ puede sustituirse por $a$.
 
 El tercer intento nos llevará al siguiente árbol de resolución (dejamos de mostrar los intentos sin éxito que comportan replanteamientos):
 
-![](img/531_arbol_de_resolucion-3.png)
+<br>
+
+<div align="center">
+<img
+	src="img/531_arbol_de_resolucion-3.png"
+	width="400"
+	height="405"
+>
+</div>
+![]()
 
 Cuando se utiliza la cláusula $\neg C(x,y) \vee C(y,x)$ se cambia el nombre de la variable $y$ por $u$. Esto se hace así para evitar que, antes de empezar a
 calcular las sustituciones necesarias, la cláusula troncal y la lateral tengan variables con el mismo nombre. Esto podría provocar fácilmente confusiones en las sustituciones. En este caso concreto, el cambio de nombre no era estrictamente necesario.
@@ -214,7 +243,15 @@ $$\set{A(y,a), \neg B(y,a)}$$
 
 Árbol de resolución:
 
-![](img/532_arbol_de_resolucion.png)
+<div align="center">
+<img
+	src="img/532_arbol_de_resolucion.png"
+	width="500"
+	height="325"
+>
+</div>
+
+<br>
 
 #### Ejemplo 3
 
@@ -238,13 +275,27 @@ $$\set{\neg A(g(x), g(x)), \neg A(h(x),x)}$$
 
 Primer intento de resolución:
 
-![](img/533_arbol_de_resolucion-1.png)
+<div align="center">
+<img
+	src="img/533_arbol_de_resolucion-1.png"
+	width="400"
+	height="225"
+>
+</div>
 
 Este intento fracasa, ya que $g(x)$ no puede sustituirse por $f(g(x))$ ni $f(g(x))$ se puede sustituir por $g(x)$. Esto se debe a que ninguno de los dos es una variable.
 
+<br>
+
 Segundo intento de resolución:
 
-![](img/533_arbol_de_resolucion-2.png)
+<div align="center">
+<img
+	src="img/533_arbol_de_resolucion-2.png"
+	width="400"
+	height="225"
+>
+</div>
 
 En este caso el problema radica en que la sustitución de $x$ por $f(h(x))$ no es posible porque una variable no puede ser sustituida por una función de sí misma.
 
