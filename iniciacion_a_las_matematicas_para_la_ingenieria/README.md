@@ -37,11 +37,22 @@ xychart-beta
 <table>
 	<tr>
 		<th>BLOQUE</th>
+		<th>DESGLOSE</th>
+		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
 		<th>ACTIVIDAD</th>
 		<th>CALIFICACIÓN</th>
 		<th>CALIFICACIÓN PONDERADA</th>
 	</tr>
 	<tr>
+		<td rowspan="15">
+			<strong>Evaluación continua (EC)</strong> (100%)
+		</td>
+		<td rowspan="15">
+			<strong>
+				Pruebas de evaluación continua (PEC)
+			</strong> 
+			(100%)
+		</td>
 		<td rowspan="6">
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1">
 				PEC1 - Bloque 1: Álgebra
@@ -55,7 +66,7 @@ xychart-beta
 		<td>
 			6,17 / 7,00 (B)
 		</td>
-		<td rowspan="6">
+		<td rowspan="15">
 			<p>
 				<strong>Calificación total PEC1</strong>:
 				<br>
@@ -63,9 +74,29 @@ xychart-beta
 			</p>
 			<br>
 			<p>
+				<strong>Calificación ponderada PEC1</strong>:
+				<br>
+				4,72 / 50,00
+			</p>
+			<br>
+			<br>
+			<p>
+				<strong>Calificación total PEC2</strong>:
+				<br>
+				61,50 / 63,00
+			</p>
+			<br>
+			<p>
 				<strong>Calificación ponderada PEC2</strong>:
 				<br>
-				47,23 / 50,00
+				4,88 / 50,00
+			</p>
+			<br>
+			<br>
+			<p>
+				<strong>Calificación ponderada EC</strong>:
+				<br>
+				9,60 / 10,00
 			</p>
 		</td>
 	</tr>
@@ -132,19 +163,6 @@ xychart-beta
 		</td>
 		<td>
 			7,00 / 7,00 (A)
-		</td>
-		<td rowspan="9">
-			<p>
-				<strong>Calificación total PEC2</strong>:
-				<br>
-				61,50 / 63,00
-			</p>
-			<br>
-			<p>
-				<strong>Calificación ponderada PEC2</strong>:
-				<br>
-				48,81 / 50,00
-			</p>
 		</td>
 	</tr>
 	<tr>
@@ -228,11 +246,11 @@ xychart-beta
 		</td>
 	</tr>
 	<tr>
-		<td colspan="3"></td>
+		<td colspan="5"></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td colspan="3">
+		<td colspan="5">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>	
 		<td>9,60 / 10,00 (M)</td>	
