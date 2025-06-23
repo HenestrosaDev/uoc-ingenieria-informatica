@@ -244,9 +244,7 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 			<td rowspan="2">
 				<a href="2013/junio">Junio</a>
 			</td>
-			<td>
-				<a href="2013/junio/espanol">Español</a>
-			</td>
+			<td>Español</td>
 		</tr>
 		<tr>
 			<td>
