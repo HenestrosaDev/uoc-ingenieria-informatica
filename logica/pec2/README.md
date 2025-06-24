@@ -182,6 +182,6 @@ $(M \wedge \neg D) \rightarrow (\neg P \vee \neg R)$
 - **Calificación sobre 10**: 10,00 / 10,00
 - **Letra (escala internacional)**: A
 
-### Detalles de la puntuación
+### Detalles sobre la puntuación
 
 ![](detalles_puntuacion.png)
