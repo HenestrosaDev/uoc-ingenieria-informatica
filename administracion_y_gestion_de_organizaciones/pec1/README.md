@@ -39,6 +39,6 @@ El enunciado de la PEC está en el archivo [`enunciado.docx`](enunciado.docx), a
 
 No puedo corregir los errores de esta entrega ya que el profesor no ha adjuntado ningún tipo de feedback.
 
-### Detalles de la puntuación
+### Detalles sobre la puntuación
 
 ![](detalles_puntuacion.png)

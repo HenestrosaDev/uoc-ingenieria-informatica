@@ -39,6 +39,6 @@ Ya habéis visto las orientaciones para la prueba final.
 
 ¡Mucho ánimo con su preparación!
 
-### Detalles de la puntuación
+### Detalles sobre la puntuación
 
 ![](detalles_puntuacion.png)

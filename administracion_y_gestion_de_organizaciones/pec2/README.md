@@ -41,12 +41,12 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 - **Calificación sobre 10**: 9,04 / 10,00
 - **Letra (escala internacional)**: A
 
-### Detalles de la puntuación
+### Detalles sobre la puntuación
 
 ![](detalles_puntuacion-cuestionario.png)
->Detalles de la puntuación de la parte teórica
+>Detalles sobre la puntuación de la parte teórica
 
 <br>
 
 ![](detalles_puntuacion.png)
->Detalles de la puntuación de la parte práctica
+>Detalles sobre la puntuación de la parte práctica

@@ -44,6 +44,6 @@ Cuando haya finalizado la evaluación contínua se publicarán unas breves orien
 
 ¡Mucho ánimo!
 
-### Detalles de la puntuación
+### Detalles sobre la puntuación
 
 ![](detalles_puntuacion.png)
