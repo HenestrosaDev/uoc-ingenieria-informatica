@@ -413,7 +413,9 @@ $\neg Q(b,a) \wedge \exists x [S(x) \wedge Q(x,a)]$
 
 ### Calificación
 
-10,00 / 10,00 (grado A)
+- **Calificación original**: 16,67 / 16,67
+- **Calificación sobre 10**: 10,00 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Detalles sobre la puntuación
 

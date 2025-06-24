@@ -218,7 +218,9 @@ $(M \vee R) \rightarrow (P \rightarrow F)$
 
 ### Calificación
 
-7,30 / 10,00 (grado B)
+- **Calificación original**: 12,17 / 16,67
+- **Calificación sobre 10**: 7,30 / 10,00
+- **Letra (escala internacional)**: B
 
 ### Detalles sobre la puntuación
 

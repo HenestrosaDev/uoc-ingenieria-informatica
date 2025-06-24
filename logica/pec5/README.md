@@ -161,9 +161,11 @@ $\exists x (R(x) \wedge M(x)) \to \exists x (S(x) \wedge C(x) \wedge \exists y (
 
 ## Resultado
 
-### Calificación final
+### Calificación
 
-8,80 / 10,00 (grado B)
+- **Calificación original**: 14,66 / 16,66
+- **Calificación sobre 10**: 8,80 / 10,00
+- **Letra (escala internacional)**: B
 
 ### Detalles sobre la puntuación
 

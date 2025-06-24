@@ -178,8 +178,9 @@ $(M \wedge \neg D) \rightarrow (\neg P \vee \neg R)$
 
 ### Calificación
 
-10,00 / 10,00 (grado A)
-
+- **Calificación original**: 16,67 / 16,67
+- **Calificación sobre 10**: 10,00 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Detalles de la puntuación
 

@@ -162,11 +162,13 @@ $\exists x (B(x) \to P(x,c)) \to \exists x (S(x) \wedge  Q(x,a))$
 
 ## Resultado
 
-### Calificación final
+### Calificación
 
-8,65 / 10,00 (grado B)
+- **Calificación original**: 14,66 / 16,66
+- **Calificación sobre 10**: 8,65 / 10,00
+- **Letra (escala internacional)**: B
 
->No entiendo por qué faltan 0,15. Aparentemente, solo tengo un C+ en el ejercicio 5, lo cual se traduce en un 0,80 / 2,00.
+>No entiendo por qué faltan 0,15. Tengo un C+ en el ejercicio 5, lo cual se traduce en un 0,80 / 2,00, por lo que 10,00 - 1,20 = 8,80.
 
 ### Detalles sobre la puntuación
 
