@@ -4,13 +4,12 @@
 >Es ESENCIAL aprender y practicar la deducción natural sin ayuda de Alura, ya que tanto en el examen como en la prueba de síntesis se nos requerirá adjuntar fotos de los ejercicios realizados a mano. Además, tampoco dispondremos del acceso a dicha herramienta para comprobar nuestras deducciones.
 
 >[!NOTE]
->Los siguientes apartados no se recogen en este resumen, puesto que solo se aplican las [reglas básicas](#22-notación-y-reglas-de-la-deducción-natural) en la resolución de los ejercicios de deducción natural planteados por la UOC.
->- **2.4. Reglas derivadas**
->- **2.5. Equivalencias deductivas**
->- **2.6. Teoremas**
-
->[!NOTE]
->En los [ejercicios de deducción natural de Alura](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ejercicios_alura/1_logica_de_enunciados/2_deduccion_natural) encontrarás problemas resueltos con los que podrás practicar y comprobar tus soluciones.
+>- Los siguientes apartados no se recogen en este resumen, puesto que solo se aplican las [reglas básicas](#22-notación-y-reglas-de-la-deducción-natural) en la resolución de los ejercicios de deducción natural planteados por la UOC.
+>	- **2.4. Reglas derivadas**
+>	- **2.5. Equivalencias deductivas**
+>	- **2.6. Teoremas**
+>
+>- En los [ejercicios de deducción natural de lógica de enunciados de Alura](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ejercicios_alura/1_logica_de_enunciados/2_deduccion_natural) encontrarás problemas resueltos con los que podrás practicar y comprobar tus soluciones.
 
 ## Índice
 
