@@ -65,7 +65,9 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/8881) y e
 
 ### Calificación
 
-36,54 de 40,00 [9,14 (grado A)]
+- **Calificación original**: 36,54 / 40,00
+- **Calificación sobre 10**: 9,14 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Comentarios en la rúbrica
 

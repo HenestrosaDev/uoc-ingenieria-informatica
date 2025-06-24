@@ -56,7 +56,9 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/8881) y e
 
 ### Calificación
 
-30,00 de 30,00 [10,00 (grado A)]
+- **Calificación original**: 30,00 / 30,00
+- **Calificación sobre 10**: 10,00 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Comentarios de retroalimentación sobre la entrega original 
 

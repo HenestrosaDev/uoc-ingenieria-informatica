@@ -84,7 +84,9 @@ En el [plan docente](https://aula.uoc.edu/courses/41625/external_tools/8881) y e
 
 ### Calificación
 
-14,00 de 15,00 [9,33 (grado A)]
+- **Calificación original**: 14,00 / 15,00
+- **Calificación sobre 10**: 9,33 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Comentarios de retroalimentación sobre la entrega original
 

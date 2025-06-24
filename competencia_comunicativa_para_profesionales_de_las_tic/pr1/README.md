@@ -77,7 +77,9 @@ José Carlos López Henestrosa
 
 ### Calificación
 
-14,40 de 15,00 [9,60 (grado A)]
+- **Calificación original**: 14,40 / 15,00
+- **Calificación sobre 10**: 9,60 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Comentarios de retroalimentación sobre la entrega original
 

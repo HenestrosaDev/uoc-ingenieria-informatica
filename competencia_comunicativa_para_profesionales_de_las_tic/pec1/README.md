@@ -32,4 +32,8 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ### Calificación
 
-31,31 de 33,00 [9,49 (grado A)] (ver [intento 2](intento_2))
+- **Calificación original**: 31,31 / 33,00
+- **Calificación sobre 10**: 9,49 / 10,00
+- **Letra (escala internacional)**: A
+
+(ver [intento 2](intento_2))
