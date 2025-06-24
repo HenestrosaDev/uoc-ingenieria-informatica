@@ -26,10 +26,10 @@ xychart-beta
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
-## Exámenes y pruebas de síntesis
+## Archivo de exámenes y pruebas de síntesis
 
-- [Archivo de 147 exámenes desde 2005](examenes)
-- [Archivo de 102 pruebas de síntesis desde 2011](ps)
+- [Compilación de 147 exámenes resueltos desde 2005](examenes)
+- [Compilación de 102 pruebas de síntesis resueltas desde 2011](ps)
 
 ## Resumen de calificaciones
 
