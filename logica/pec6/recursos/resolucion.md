@@ -1,12 +1,17 @@
 # RESUMEN Lógica de predicados: resolución
 
+>[!NOTE]
+>En los [ejercicios de resolución de lógica de predicados de Alura](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ejercicios_alura/2_logica_de_predicados/2_resolucion) encontrarás problemas resueltos con los que podrás practicar y comprobar tus soluciones.
+
 ## Índice
 
+>[!NOTE]
+>Los apartados están simplificados y enlazados entre sí respecto a la versión del libro con tal de sintetizar los contenidos.
+
 - [5. Resolución](#5-resolución)
-	- [5.2. Sustituir variables por términos](#52-sustituir-variables-por-términos)
-		- [5.2.1. Ejemplo comentado](#521-ejemplo-comentado)
-		- [5.2.2. Quién sustituye a quién y cómo lo hace](#522-quién-sustituye-a-quién-y-cómo-lo-hace)
-	- [5.3. Más ejemplos](#53-más-ejemplos)
+	- [Proceso](#proceso)
+	- [Quién sustituye a quién y cómo lo hace](#522-quién-sustituye-a-quién-y-cómo-lo-hace)
+	- [Más ejemplos](#53-más-ejemplos)
 		- [Ejemplo 1](#ejemplo-1)
 		- [Ejemplo 2](#ejemplo-2)
 		- [Ejemplo 3](#ejemplo-3)
@@ -16,142 +21,84 @@
 
 ## 5. Resolución
 
-### 5.2. Sustituir variables por términos
+### Proceso
 
-#### 5.2.1. Ejemplo comentado
+Partimos de esta premisa de ejemplo a la que le aplicaremos los pasos que procedan para llegar a su forma normal de Skolem (FNS):
 
-Introducción del concepto mediante un ejemplo con las siguientes **cláusulas base**:
+- $\forall x \exists y (H(x) \to \neg (P(y) \wedge T(x,y)))$
 
-- $\forall x [H(x) \to I(x)]$
-- $H(a)$
-- $\therefore I(a)$
+1. **Eliminar las implicaciones $\to$ $(A \to B \dashv \vdash \neg A \vee B)$**
 
-1. **Eliminar las implicaciones $\to$ $(A \to B \dashv \vdash \neg A \vee B)$ para obtener las formas normales de Skolem (FNS)**
+- $\forall x \exists y (H(x) \to \neg (P(y) \wedge T(x,y)))$
 
-	- FNS $(\forall x [H(x) \to I(x)]) = \forall x [\neg H(x) \vee I(x)]$
-	- FNS $(H(a)) = H(a)$
-	- FNS $(\neg I(a)) = \neg I(a)$
+	Al aplicarle la regla:
+
+- $\forall x \exists y (\neg H(x) \vee \neg (P(y) \wedge T(x,y)))$
 
 2. **Interiorizar las negaciones aplicando las leyes de De Morgan**
 
+	- $\forall x \exists y (\neg H(x) \vee \neg (P(y) \wedge T(x,y)))$
+
+	Al aplicarle la regla:
+
+	- $\forall x \exists y (\neg H(x) \vee \neg P(y) \vee \neg T(x,y))$
+
 3. **Eliminar los cuantificadores existenciales (eskolemización)**
 
-	Si el cuantificador existencial está dentro del ámbito de un cuantificador universal, el término por el que se sustituirá la variable cuantificada existencialmente debe ser una función a la que se le pasa como parámentro la variable cuantificada **universalmente**.
+	Si el cuantificador existencial está **dentro del ámbito** de un cuantificador universal, el término por el que se sustituirá la variable cuantificada existencialmente debe ser una función a la que se le pasa como parámetro la variable cuantificada **universalmente**.
 
-	La variable usada en la eskolemización debe ser **COMPLETAMENTE NUEVA**; es decir, no debe aparecer en ninguna otra parte de las premisas ni de la conclusión, ya que esto podría introducir una relación falsa entre dos fórmulas independientes e invalidar la corrección lógica del proceso de resolución.
+	Siguiendo nuestro ejemplo, tenemos:
 
-	Por ejemplo:
+	- $\forall x \exists y (\neg H(x) \vee \neg P(y) \vee \neg T(x,y))$
 
-	$\forall x (\neg P(x) \vee \exists y Q(y)) = \forall x (\neg P(x) \vee Q(f(x)))$
+	Al aplicarle la eskolemización, obtenemos:
 
-	Tras esto, continuamos con el ejemplo, el cual tiene el siguiente conjunto de cláusulas resultante:
+	- $\forall x (\neg H(x) \vee \neg P(f(x)) \vee \neg T(x,f(x)))$
 
-	$$S = \set{\neg H(x) \vee I(x), H(a), \neg I(a)}$$
+	Si no se da este caso, tenemos que sustituir la variable cuantificada existencialmente por una constante **COMPLETAMENTE NUEVA**; es decir, que no aparezca en ninguna otra parte de las premisas ni de la conclusión, ya que esto podría introducir una relación falsa entre dos fórmulas independientes e invalidar la corrección lógica del proceso de resolución.
 
-	Conjunto de apoyo resultante:
+	Por ejemplo, si partimos de esta otra premisa:
 
-	$$\set{\neg I(a)}$$
+	- $\exists x \forall y (\neg P(y) \vee \neg T(x,y))$
+
+	Y le aplicamos la eskolemización, vemos que sustituimos la $x$ por una constante no usada ($a$):
+
+	- $\forall y (\neg P(y) \vee \neg T(a,y))$
 
 4. **Mover cuantificadores universales a la izquierda**
 
+	En la premisa de ejemplo, no aplica esta regla, pero podemos partir de esta otra premisa para demostrar el uso de esta regla (no se suele usar mucho):
+	
+	$\forall x (\forall y (\neg C(y) \vee \neg R(x,y)) \vee (\neg B(x) \vee \neg A(x)))$
 
-5. **Sustituir las variables por constantes**
+	Al mover los cuantificadores universales a la izquierda, nos queda lo siguiente:
 
-	La regla de eliminación del cuantificador universal afirma que una variable cuantificada universalmente puede ser sustituida por cualquier término, y la constante $a$ es un término. Esto nos permite sustituir la variable $x$ de $\forall x [\neg H(x) \vee I(z)]$ por $\neg H(a) \vee I(a)$.
+	$\forall x \forall y ((\neg C(y) \vee \neg R(x,y)) \vee (\neg B(x) \vee \neg A(x)))$
 
-6. **Resolver el árbol de resolución resultante**
+5. **Aplicar la propiedad distributiva**
 
-	<div align="center">
-	<img
-		src="img/51_arbol_de_resolucion.png"
-		width="400"
-		height="275"
-	>
-	</div>
+	- $\forall x (\neg H(x) \vee \neg P(f(x)) \vee \neg T(x,f(x)))$
 
-#### 5.2.2. Quién sustituye a quién y cómo lo hace
+	Al aplicarle la regla, obtenemos:
 
-1. **Elegir la sustitución que permita eliminar el literal de más a la derecha**
+	- $\forall x ((\neg H(x) \vee \neg P(f(x))) \vee (\neg H(x) \vee \neg T(x,f(x))))$
 
-	Dada esta cláusula troncal:
+6. **Construir conjunto de cláusulas**
 
-	$\neg A(x,y) \vee F(y)$
+	Ver apartado [5.3. Más ejemplos](#53-más-ejemplos) para ver ejemplos completos de resolución.
 
-	Y esta cláusula base:
+7. **Resolver el árbol de resolución resultante**
 
-	$A(a,b)$
+	Ver apartado [5.3. Más ejemplos](#53-más-ejemplos) para ver ejemplos completos de resolución.
 
-	Queremos eliminar el literal más a la derecha de la cláusula troncal (aquí,
-	$F(y)$), así que no nos sirve aún. En cambio, miramos al literal de más a la
-	derecha que sí esté negado, que es $¬A(x, y)$.
+#### Sustituciones en el árbol de resolución
 
-	Buscamos una cláusula con el literal $A(...)$ que nos permita **resolución**. La cláusula $A(a, b)$ unifica con $¬A(x, y)$ usando la sustitución:
+>[!NOTE]
+>Agradecimientos a [este vídeo](https://www.youtube.com/watch?v=v7PZAZV9tOw) del canal de [Cristóbal Sánchez](https://www.youtube.com/@ulkiobal) por sintetizar de forma tan sencilla el contenido de este apartado.
 
-	$$θ = {x → a, y → b}$$
-
-	Aplicamos esta sustitución a la cláusula troncal para eliminar el literal más a la derecha (negado) de la cláusula troncal, y obtenemos:
-
-	$$F(b)$$
-
-2. **Si hay más de una sustitución, se elige una y se guarda el resto como alternativa**
-
-	Cláusula troncal:
-	$\neg P(x,y) \vee C(x,y)$
-
-	Cláusulas base:
-	1. $P(a,b)$
-	2. $P(c,d)$
-
-	Ambas cláusulas pueden resolver con $\neg P(x,y)$ usando:
-
-	- $θ_1 = \set{x \to a, y \to b}$
-	- $θ_2 = \set{x \to c, y \to d}$
-
-	Elegimos, por ejemplo, $θ_1$ primero:
-
-	$C(a,b)$
-
-	Guardamos $θ_2$ como alternativa si más adelante necesitamos replantear (backtracking).
-
-3. **Solo se pueden sustituir variables. No funciones ni constantes. Y no funciones recursivas**
-
-	Cláusula:
-
-	$\neg T(x, f(x))$
-
-	Queremos unificarla con:
-
-	$T(a, f(a))$
-
-	Es válido decir $x \to a$, pero si intentamos $x \to f(x)$, está prohibido, ya que una variable no puede ser sustituida por una función que contiene a sí misma, ya que provocaría una sustitución **infinita**.
-
-	Puesto en un ejemplo, esto está prohibido:
-
-	$x = f(x)$
-
-	Porque conllevaría una sustitución infinita:
-
-	$x = f(f(f(...)))$
-
-	Igualmente, no se permite hacer:
-
-	$f(x) \to a$
-
-	Porque solo se pueden sustituir variables, no funciones ni constantes.
-
-4. **La sustitución debe aplicarse a todas las ocurrencias de la variable, pero la cláusula original permanece intacta**
-
-	Cláusula:
-
-	$\neg H(x, y) \vee \neg H(y, z) \vee P(x, z)$
-
-	Queremos aplicar $θ = \set{x \to a, y \to b}$
-
-	Entonces, en la copia que usamos en el árbol de resolución, se transforma a:
-
-	$\neg H(a,b) \vee \neg H(b,z) \vee P(a,z)$
-
-	Pero la cláusula original se mantiene como estaba para posibles futuros usos en otros caminos del árbol.
+- Las **variables** ($x,y,z$) se pueden sustituir por lo que queramos (variables, funciones o constantes), EXCEPTO POR FUNCIONES DE SÍ MISMA; es decir, $x$ no se puede sustituir por $f(x)$, pero sí por $a$ o $f(y)$ (entre otros).
+- Las **constantes** NO SE PUEDEN sustituir.
+- Las funciones no se pueden sustituir, pero la variable que está dentro de la función sí. Por ejemplo, $f(x)$ puede sustituirse por $f(a)$ si sustituimos $x$ por $a$.
 
 ### 5.3. Más ejemplos
 
@@ -216,7 +163,6 @@ El tercer intento nos llevará al siguiente árbol de resolución (dejamos de mo
 	height="405"
 >
 </div>
-![]()
 
 Cuando se utiliza la cláusula $\neg C(x,y) \vee C(y,x)$ se cambia el nombre de la variable $y$ por $u$. Esto se hace así para evitar que, antes de empezar a
 calcular las sustituciones necesarias, la cláusula troncal y la lateral tengan variables con el mismo nombre. Esto podría provocar fácilmente confusiones en las sustituciones. En este caso concreto, el cambio de nombre no era estrictamente necesario.
