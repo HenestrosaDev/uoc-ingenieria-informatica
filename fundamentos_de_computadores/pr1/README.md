@@ -15,7 +15,9 @@ El enunciado de la PR está en el archivo [`enunciado.pdf`](enunciado.pdf), así
 
 ### Calificación
 
-10,00 de 10,00 (grado A)
+- **Calificación original**: 100,00 / 100,00
+- **Calificación sobre 10**: 10,00 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Detalles sobre la puntuación
 

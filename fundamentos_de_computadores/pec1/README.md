@@ -17,7 +17,9 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ### Calificación
 
-8,50 de 10,00 (grado B)
+- **Calificación original**: 17,00 / 20,00
+- **Calificación sobre 10**: 8,50 / 10,00
+- **Letra (escala internacional)**: B
 
 ### Comentarios de retroalimentación sobre la entrega original 
 

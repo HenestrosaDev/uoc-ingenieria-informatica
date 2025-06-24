@@ -15,7 +15,9 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ### Calificación
 
-10,00 de 10,00 (grado A)
+- **Calificación original**: 40,00 / 40,00
+- **Calificación sobre 10**: 10,00 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Detalles sobre la puntuación
 
