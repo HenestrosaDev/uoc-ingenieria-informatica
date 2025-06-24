@@ -27,6 +27,8 @@
 - [Enunciado](reto_optativo/enunciado.pdf)
 - [Solución oficial](reto_optativo/solucion_oficial.pdf)
 
+---
+
 ## Resultado
 
 ### Calificación
