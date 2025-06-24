@@ -26,6 +26,10 @@ xychart-beta
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
+## Archivo de exámenes
+
+- [Compilación de 49 exámenes desde 2010](examenes)
+
 ## Resumen de calificaciones
 
 >[!NOTE]

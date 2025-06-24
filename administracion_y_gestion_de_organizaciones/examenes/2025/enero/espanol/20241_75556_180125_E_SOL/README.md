@@ -1,4 +1,4 @@
-# Examen de Administración y Gestión de Organizaciones
+# EXAMEN Administración y Gestión de Organizaciones
 
 ## Observaciones
 
@@ -10,4 +10,5 @@
 
 ### Calificación
 
-7,60 / 10,00 (grado B)
+- **Calificación**: 7,60 / 10,00
+- **Letra (escala internacional)**: B
