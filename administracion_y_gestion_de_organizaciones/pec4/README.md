@@ -19,7 +19,9 @@ El enunciado de la PEC está en el archivo [`enunciado.docx`](enunciado.docx), a
 
 ### Calificación
 
-9,80 de 10,00 (grado A)
+- **Calificación original**: 9,80 / 10,00
+- **Calificación sobre 10**: 9,80 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Mensaje que el profesor publicó en el foro con carácter de corrección general
 

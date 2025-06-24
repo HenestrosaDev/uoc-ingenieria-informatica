@@ -20,7 +20,9 @@ El enunciado de la PEC está en el archivo [`enunciado.docx`](enunciado.docx), a
 
 ### Calificación
 
-27,60 de 30,00 [9,20 (grado A)]
+- **Calificación original**: 27,60 / 30,00
+- **Calificación sobre 10**: 9,20 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Mensaje que el profesor publicó en el foro con carácter de corrección general
 

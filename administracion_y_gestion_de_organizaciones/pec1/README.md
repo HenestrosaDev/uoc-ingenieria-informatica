@@ -31,7 +31,9 @@ El enunciado de la PEC está en el archivo [`enunciado.docx`](enunciado.docx), a
 
 ### Calificación
 
-24,30 de 30,00 [8,10 (grado B)]
+- **Calificación original**: 24,30 / 30,00
+- **Calificación sobre 10**: 8,10 / 10,00
+- **Letra (escala internacional)**: B
 
 ### Notas personales
 

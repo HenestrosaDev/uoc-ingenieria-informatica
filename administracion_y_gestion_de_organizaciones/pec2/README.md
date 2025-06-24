@@ -23,17 +23,30 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 
 ### Calificación
 
-- **Parte teórica** (`test_entrega.png`): 13,03 de 15,00 [8,69 (grado B)]
-- **Parte práctica** (`entrega.pdf`): 14,10 de 15,00 [9,40 (grado A)]
+**Parte teórica** ([`test_entrega.png`](test_entrega.png)):
 
-**Calificación total**: 27,13 de 30,00 [9,04 (grado A)]
+- **Calificación original**: 13,03 / 15,00
+- **Calificación sobre 10**: 8,69 / 10,00
+- **Letra (escala internacional)**: B
+
+**Parte práctica** ([`entrega.pdf`](entrega.pdf)):
+
+- **Calificación original**: 14,10 / 15,00
+- **Calificación sobre 10**: 9,40 / 10,00
+- **Letra (escala internacional)**: A
+
+**Calificación total**:
+
+- **Calificación original**: 27,13 / 30,00
+- **Calificación sobre 10**: 9,04 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Detalles de la puntuación
 
-![](detalles_puntuacion.png)
->Detalles de la puntuación de la entrega
+![](detalles_puntuacion-cuestionario.png)
+>Detalles de la puntuación de la parte teórica
 
 <br>
 
-![](detalles_puntuacion-cuestionario.png)
->Detalles de la puntuación del cuestionario
+![](detalles_puntuacion.png)
+>Detalles de la puntuación de la parte práctica
