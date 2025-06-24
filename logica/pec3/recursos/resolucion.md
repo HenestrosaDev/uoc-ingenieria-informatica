@@ -1,7 +1,8 @@
 # RESUMEN Lógica de enunciados: resolución
 
 >[!NOTE]
->Este resumen toma como referencia [este vídeo](https://www.youtube.com/watch?v=R98Fpqt1aPc) del canal [Aprende sin Espinas](https://www.youtube.com/@AprendeSinEspinas) en vez del [libro proporcionado por la UOC](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5).
+>- Este resumen toma como referencia [este vídeo](https://www.youtube.com/watch?v=R98Fpqt1aPc) del canal [Aprende sin Espinas](https://www.youtube.com/@AprendeSinEspinas) en vez del [libro proporcionado por la UOC](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5).
+>- En los [ejercicios de resolución de lógica de enunciados de Alura](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ejercicios_alura/1_logica_de_enunciados/3_resolucion) encontrarás problemas resueltos con los que podrás practicar y comprobar tus soluciones.
 
 ## Índice
 

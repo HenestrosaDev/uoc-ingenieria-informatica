@@ -1,5 +1,10 @@
 # RESUMEN Lógica de predicados: fórmulas a enunciados
 
+>[!NOTE]
+>En los [ejercicios de fórmulas a enunciados de lógica de predicados de Alura](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ejercicios_alura/2_logica_de_predicados/3_formulas_a_enunciados) encontrarás problemas resueltos con los que podrás practicar y comprobar tus soluciones.
+
+## Procedimiento
+
 A partir de un dominio dado, podemos transformar las fórmulas de un razonamientos (lógica de predicados) en enunciados (lógica de enunciados).
 
 Para conseguir este propósito, tendremos que eliminar los cuantificadores de las fórmulas.  Dado el dominio $\set{1,2}$, podemos eliminar los cuantificadores de la siguiente forma:

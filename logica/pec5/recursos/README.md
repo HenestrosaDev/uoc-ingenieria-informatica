@@ -1,7 +1,10 @@
 # RESUMEN Lógica de predicados: deducción natural
 
 >[!IMPORTANT]
->Las nueve primeras reglas de la lógica de predicados son las mismas que la de la lógica de enunciados. Por lo tanto, en este recurso solo se explican aquellas que se utilizan exclusivamente en la lógica de predicados. Puedes ver el resto consultando [este recurso](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/logica/pec2/recursos/README.md).
+>- Las nueve primeras reglas de la lógica de predicados son las mismas que la de la lógica de enunciados. Por lo tanto, en este recurso solo se explican aquellas que se utilizan exclusivamente en la lógica de predicados. Puedes ver el resto consultando [este recurso](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/logica/pec2/recursos/README.md).
+
+>[!NOTE]
+>En los [ejercicios de deducción natural de lógica de predicados de Alura](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/ejercicios_alura/2_logica_de_predicados/1_deduccion_natural) encontrarás problemas resueltos con los que podrás practicar y comprobar tus soluciones.
 
 ## Índice
 
