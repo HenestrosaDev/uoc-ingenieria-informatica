@@ -10,19 +10,19 @@
 - [3. Límites de sucesiones](#3-límites-de-sucesiones)
 	- [3.1. Álgebra de límites](#31-álgebra-de-límites)
 	- [3.2. Indeterminaciones](#32-indeterminaciones)
-		- [3.2.1. Indeterminaciones del tipo $\\infty - \\infty$](#321-indeterminaciones-del-tipo-infty---infty)
+		- [3.2.1. Indeterminaciones del tipo $\infty - \infty$](#321-indeterminaciones-del-tipo-infty---infty)
 			- [Caso 1: Finito](#caso-1-finito)
 			- [Caso 2: Infinito](#caso-2-infinito)
 			- [Caso 3: No existe (oscilación o indefinido)](#caso-3-no-existe-oscilación-o-indefinido)
 			- [¿Cómo resolver estas indeterminaciones?](#cómo-resolver-estas-indeterminaciones)
-		- [3.2.2. Indeterminaciones del tipo $0 \\cdot \\infty$, $\\frac{0}{0}$ y $\\frac{\\infty}{\\infty}$](#322-indeterminaciones-del-tipo-0-cdot-infty-frac00-y-fracinftyinfty)
-		- [3.2.3. Indeterminaciones del tipo $1^{\\infty}$: el número $e$](#323-indeterminaciones-del-tipo-1infty-el-número-e)
+		- [3.2.2. Indeterminaciones del tipo $0 \cdot \infty$, $\frac{0}{0}$ y $\frac{\infty}{\infty}$](#322-indeterminaciones-del-tipo-0-cdot-infty-frac00-y-fracinftyinfty)
+		- [3.2.3. Indeterminaciones del tipo $1^{\infty}$: el número $e$](#323-indeterminaciones-del-tipo-1infty-el-número-e)
 - [4. Progresiones](#4-progresiones)
 	- [4.1. Progresiones aritméticas](#41-progresiones-aritméticas)
 	- [4.2. Progresiones geométricas](#42-progresiones-geométricas)
 	- [4.3. Progresiones armónicas](#43-progresiones-armónicas)
 		- [4.3.1. Serie armónica](#431-serie-armónica)
-	- [5. Recurrencias lineales](#5-recurrencias-lineales)
+- [5. Recurrencias lineales](#5-recurrencias-lineales)
 
 <br>
 
