@@ -63,7 +63,7 @@ Si $\lim a_n = A$ y $\lim b_n = B$, entonces:
 - $\lim_{n \to \infty} (a_n - b_n) = A - B$
 - $\lim_{n \to \infty} (a_n \cdot b_n) = A \cdot B$
 - $\lim_{n \to \infty} (\frac{a_n}{b_n}) = \frac{A}{B}, \text{si} B \neq 0$
-- $\lim_{n \to \infty} (a_n)^k = A^k \quad (\text{para } k \exists \mathbb{N})$ 
+- $\lim_{n \to \infty} (a_n)^k = A^k \quad (\text{para } k \in \mathbb{N})$ 
 - $\lim_{n \to \infty} \sqrt[k]{a_n} = \sqrt[k]{A} \quad (\text{si } a_n \ge 0 eventualmente)$ 
 - Límites de constantes: $\lim c = c$
 - Si $a_n \le b_n$ para todo $n$, entonces $\lim_{a_n} \le \lim_{b_n}$
