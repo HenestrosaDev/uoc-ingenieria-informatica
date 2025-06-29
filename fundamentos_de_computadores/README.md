@@ -29,6 +29,10 @@ xychart-beta
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
+## Archivo de exámenes y pruebas de síntesis
+
+- [Compilación de 55 exámenes resueltos desde 2016](examenes)
+
 ## Resumen de calificaciones
 
 >[!NOTE]
@@ -121,7 +125,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="examen">
+			<a href="examenes/2025/junio/espanol">
 				<strong>Examen</strong>
 			</a> (0%)
 		</td>
