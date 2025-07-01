@@ -71,6 +71,7 @@
 ## Asignaturas
 
 >[!NOTE]
+>- Este repositorio se actualiza al término de cada semestre.
 >- Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
 >- Las asignaturas están desglosadas por tipo (básicas, obligatorias y optativas) y ordenadas alfabéticamente.
 >- <details>
