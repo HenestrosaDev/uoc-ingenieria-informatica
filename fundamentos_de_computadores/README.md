@@ -14,9 +14,9 @@
 ```mermaid
 xychart-beta
 		title "Estadísticas de las calificaciones para el curso 2024/25-2"
-		x-axis ["Matrícula Honor (4%)", "Sobresaliente (6%)", "Notable (26%)", "Aprobado (16%)", "Suspendido (48%)"]
-		y-axis "% de alumnos" 0 --> 48
-		bar [4, 6, 26, 16, 48]
+		x-axis ["Matrícula Honor (7%)", "Sobresaliente (10%)", "Notable (26%)", "Aprobado (14%)", "Suspendido (43%)"]
+		y-axis "% de alumnos" 0 --> 43
+		bar [7, 10, 26, 14, 43]
 ```
 
 ><details>
@@ -142,7 +142,7 @@ xychart-beta
 		<td colspan="4">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
-		<td>- / 10,00 ( )</td>
+		<td>9,70 / 10,00 (M)</td>
 	</tr>
 </table>
 
