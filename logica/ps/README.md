@@ -8,7 +8,7 @@ Esta recopilación de pruebas de síntesis (PS) está actualizada a la fecha en 
 
 >[!NOTE]
 >- Por lo general, cada mes tiene un directorio con dos idiomas (español o catalán) que contiene 3 PS.
->- El desglose de las PS se dividen por la fecha de realización. Por ejemplo, las PS en español del curso 2024/25-1 se encuentran en el directorio `2025/enero/español`.
+>- El desglose de las PS se dividen por la fecha de realización. Por ejemplo, las PS en español del curso 2024/25-1 se encuentran en el directorio `2025/enero/espanol`.
 >- Las celdas de la tabla que no tienen ningún enlace indican que faltan PS de ese idioma o mes.
 
 <table>

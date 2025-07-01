@@ -8,7 +8,7 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 
 >[!NOTE]
 >- Por lo general, cada mes tiene un directorio con dos idiomas (español o catalán) que contiene 3 exámenes.
->- El desglose de los exámenes se dividen por la fecha de realización. Por ejemplo, los exámenes en español del curso 2024/25-1 se encuentran en el directorio `2025/enero/español`.
+>- El desglose de los exámenes se dividen por la fecha de realización. Por ejemplo, los exámenes en español del curso 2024/25-1 se encuentran en el directorio `2025/enero/espanol`.
 >- Las celdas de la tabla que no tienen ningún enlace indican que faltan exámenes de ese idioma o mes.
 
 <table>
@@ -536,6 +536,33 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 		<tr>
 			<td rowspan="2">
 				<a href="2024/junio">Junio</a>
+			</td>
+			<td>
+				<a href="2024/junio/espanol">Español</a>
+			</td>
+		</tr>
+		<tr>
+			<td>Catalán</td>
+		</tr>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2025">2025</a>
+		</td>
+		<td rowspan="2">
+			<a href="2025/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2025/enero/espanol">Español</a>
+		</td>
+		<tr>
+			<td>
+				Catalán
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				<a href="2025/junio">Junio</a>
 			</td>
 			<td>
 				<a href="2024/junio/espanol">Español</a>
