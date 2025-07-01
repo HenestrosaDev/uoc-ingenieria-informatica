@@ -23,6 +23,8 @@
 
 **Calificación**: 2,00 / 2,00
 
+<br>
+
 ### Ejercicio 2 - Resolución
 
 >1. $C \rightarrow (\neg H \rightarrow V)$
@@ -36,6 +38,8 @@
 </details>
 
 **Calificación**: 2,00 / 2,00
+
+<br>
 
 ### Ejercicio 3 - Tabla de verdad
 
@@ -52,6 +56,8 @@
 
 **Calificación**: 1,30 / 1,30
 
+<br>
+
 ### Ejercicio 4 - Tabla de verdad
 
 >1. $\neg (M \vee \neg T)$
@@ -66,6 +72,8 @@
 </details>
 
 **Calificación**: 1,30 / 1,30
+
+<br>
 
 ### Ejercicio 5 - Test
 
@@ -112,6 +120,8 @@ S2: seguro que la aplicación del método de resolución sobre las cláusulas de
 <br>
 
 **Calificación**: - / 1,40
+
+<br>
 
 ### Ejercicio 6 - Formalización
 

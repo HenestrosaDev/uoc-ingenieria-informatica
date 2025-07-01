@@ -111,7 +111,11 @@
 - [x] $\forall x R(x) \wedge \neg \exists x F(x)$
 </details>
 
+<br>
+
 **Calificación**: 2,00 / 2,00
+
+<br>
 
 ## Ejercicio 2 - Test
 
@@ -219,7 +223,11 @@
 - [x] $\exists x \set{ C(x) \wedge \neg \exists y [D(y) \wedge M(x,y)] }$
 </details>
 
+<br>
+
 **Calificación**: 3,00 / 3,00
+
+<br>
 
 ## Ejercicio 3 - Test
 
@@ -300,7 +308,11 @@
 - [x] $\forall x \set{ G(x) \wedge \exists y [R(y) \wedge S(x,y)] \to \neg \exists y [F(y) \wedge S(x,y)] }$
 </details>
 
+<br>
+
 **Calificación**: 2,00 / 2,00
+
+<br>
 
 ## Ejercicio 4 - Formalización
 

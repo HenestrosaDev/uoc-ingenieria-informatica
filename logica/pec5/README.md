@@ -21,6 +21,8 @@
 
 **Calificación**: 1,50 / 1,50
 
+<br>
+
 ### Ejercicio 2 - Deducción natural
 
 >1. $\forall x (K(x) \to \exists y (S(y) \wedge P(x,y)))$
@@ -33,6 +35,8 @@
 </details>
 
 **Calificación**: 1,50 / 1,50
+
+<br>
 
 ### Ejercicio 3 - Deducción natural
 
@@ -49,6 +53,8 @@
 
 **Calificación**: 2,50 / 2,50
 
+<br>
+
 ### Ejercicio 4 - Deducción natural
 
 >1. $\exists x (D(x) \wedge \neg N(x)) \to \forall x \forall y (A(y) \to \neg K(x,y))$
@@ -62,6 +68,8 @@
 </details>
 
 **Calificación**: 2,50 / 2,50
+
+<br>
 
 ### Ejercicio 5 - Formalización
 
