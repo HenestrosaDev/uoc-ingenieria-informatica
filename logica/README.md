@@ -11,9 +11,9 @@
 ```mermaid
 xychart-beta
 		title "Estadísticas de las calificaciones para el curso 2024/25-2"
-		x-axis ["Matrícula Honor (5%)", "Sobresaliente (4%)", "Notable (37%)", "Aprobado (26%)", "Suspendido (28%)"]
-		y-axis "% de alumnos" 0 --> 37
-		bar [5, 4, 37, 26, 28]
+		x-axis ["Matrícula Honor (5%)", "Sobresaliente (4%)", "Notable (40%)", "Aprobado (29%)", "Suspendido (22%)"]
+		y-axis "% de alumnos" 0 --> 40
+		bar [5, 4, 40, 29, 22]
 ```
 
 ><details>
@@ -116,13 +116,13 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="examenes/2025/junio/espanol/20242_75570_210625_1_E_SOL">
+			<a href="examenes/2025/junio/espanol/20242_75570_210625_1_E">
 				<strong>Examen</strong>
 			</a> (65%)
 		</td>
 		<td></td>
-		<td>- / 10,00</td>
-		<td>- / 6,50</td>
+		<td>10,00 / 10,00</td>
+		<td>6,50 / 6,50</td>
 	</tr>
 	<tr>
 		<td colspan="3"></td>
@@ -132,7 +132,7 @@ xychart-beta
 		<td colspan="3">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
-		<td>- / 10,00 ( )</td>
+		<td>10,00 / 10,00 (M)</td>
 	</tr>
 </table>
 
