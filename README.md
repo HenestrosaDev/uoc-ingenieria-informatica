@@ -62,6 +62,7 @@
 >| Trabajo en equipo en la red               | Básica            | 6        |
 >| Diseño de bases de datos                  | Obligatoria       | 6        |
 >| Diseño y programación orientada a objetos | Obligatoria       | 6        |
+>| Ingeniería del software                                       | Obligatoria       | 6        |
 >| Inglés I                                  | Obligatoria       | 6        |
 >| Inglés II                                 | Obligatoria       | 6        |
 >| Uso de bases de datos                     | Obligatoria       | 6        |
@@ -142,6 +143,64 @@
 			</strong>
 		</td>
 	</tr>
+	<!-- ÁLGEBRA -->
+	<tr>
+		<td rowspan="6">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra">
+				Álgebra (25/26-1)
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec1">
+				PEC1 - 
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="6">
+			- / 10,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec2">
+				PEC2 - 
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec3">
+				PEC3 - 
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec4">
+				PEC4 - 
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec5">
+				PEC5 - 
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/examen">
+					EXAMEN
+				</a>
+			</strong>
+		</td>
+	</tr>
 	<!-- ANÁLISIS MATEMÁTICO -->
 	<tr>
 		<td rowspan="6">
@@ -199,6 +258,79 @@
 				</a>
 			</strong>
 		</td>
+	</tr>
+	<!-- ESTADÍSTICA -->
+	<tr>
+		<td rowspan="8">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica">
+				Estadística (25/26-1)
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec1">
+				PEC1 - 
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="8">
+			- / 10,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec2">
+				PEC2 - 
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec3">
+				PEC3 -
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec4">
+				PEC4 -
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec5">
+				PEC5 -
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec6">
+				PEC6 - 
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec7">
+				PEC7 - 
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec8">
+				PEC8 - 
+			</a>
+		</td>
+		<td>-</td>
 	</tr>
 	<!-- FUNDAMENTOS DE COMPUTADORES -->
 	<tr>
@@ -314,6 +446,8 @@
 	</tr>
 </table>
 
+<p align="right">(<a href="#top">volver al principio</a>)</p>
+
 ### Asignaturas obligatorias
 
 <table>
@@ -377,7 +511,51 @@
 			</a>
 		</td>
 	</tr>
+	<!-- GRAFOS Y COMPLEJIDAD -->
+	<tr>
+		<td rowspan="4">
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad">
+				Grafos y complejidad (25/26-1)
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec1">
+				PEC1 - 
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="4">
+			- / 10,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec2">
+				PEC2 - 
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec3">
+				PEC3 - 
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/examen">
+					EXAMEN
+				</a>
+			</strong>
+		</td>
+	</tr>
 </table>
+
+<p align="right">(<a href="#top">volver al principio</a>)</p>
 
 <!-- ### Asignaturas optativas pertenecientes al itinerario de Ingeniería del software
 
