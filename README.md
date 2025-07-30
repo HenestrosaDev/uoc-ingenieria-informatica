@@ -143,64 +143,6 @@
 			</strong>
 		</td>
 	</tr>
-	<!-- ÁLGEBRA -->
-	<tr>
-		<td rowspan="6">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra">
-				Álgebra (25/26-1)
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec1">
-				PEC1 - 
-			</a>
-		</td>
-		<td>-</td>
-		<td rowspan="6">
-			- / 10,00 ( )
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec2">
-				PEC2 - 
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec3">
-				PEC3 - 
-			</a >
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec4">
-				PEC4 - 
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec5">
-				PEC5 - 
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td colspan="2" align="center">
-			<strong>
-				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/examen">
-					EXAMEN
-				</a>
-			</strong>
-		</td>
-	</tr>
 	<!-- ANÁLISIS MATEMÁTICO -->
 	<tr>
 		<td rowspan="6">
@@ -258,79 +200,6 @@
 				</a>
 			</strong>
 		</td>
-	</tr>
-	<!-- ESTADÍSTICA -->
-	<tr>
-		<td rowspan="8">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica">
-				Estadística (25/26-1)
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec1">
-				PEC1 - 
-			</a>
-		</td>
-		<td>-</td>
-		<td rowspan="8">
-			- / 10,00 ( )
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec2">
-				PEC2 - 
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec3">
-				PEC3 -
-			</a >
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec4">
-				PEC4 -
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec5">
-				PEC5 -
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec6">
-				PEC6 - 
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec7">
-				PEC7 - 
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec8">
-				PEC8 - 
-			</a>
-		</td>
-		<td>-</td>
 	</tr>
 	<!-- FUNDAMENTOS DE COMPUTADORES -->
 	<tr>
@@ -509,48 +378,6 @@
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr4">
 				PR4 - ¡Recapitulemos! ¿Qué he aprendido?
 			</a>
-		</td>
-	</tr>
-	<!-- GRAFOS Y COMPLEJIDAD -->
-	<tr>
-		<td rowspan="4">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad">
-				Grafos y complejidad (25/26-1)
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec1">
-				PEC1 - 
-			</a>
-		</td>
-		<td>-</td>
-		<td rowspan="4">
-			- / 10,00 ( )
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec2">
-				PEC2 - 
-			</a>
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec3">
-				PEC3 - 
-			</a >
-		</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td colspan="2" align="center">
-			<strong>
-				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/examen">
-					EXAMEN
-				</a>
-			</strong>
 		</td>
 	</tr>
 </table>
