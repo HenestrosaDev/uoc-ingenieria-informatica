@@ -1,4 +1,4 @@
-# EXÁMENES Fundamentos de Computadores
+# [Fundamentos de computadores] Exámenes
 
 ## Antes de empezar
 
