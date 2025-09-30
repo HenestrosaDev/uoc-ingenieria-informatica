@@ -210,18 +210,18 @@ xychart-beta
 
 ### PEC1
 
-- [Los números: Números naturales, principio de inducción y números complejos](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00271022.pdf) ([resumen](pec1/recursos/README.md))
+- [**Los números: Números naturales, principio de inducción y números complejos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00271022.pdf) ([resumen](pec1/recursos/README.md))
 
 ### PEC2
 
-- [Sistemas de ecuaciones lineales: Discusión, resolución e interpretación geométrica](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293765.pdf) ([resumen](pec2/recursos/sistemas_ecuaciones_lineales.md))
-- [Elementos de álgebra lineal y geometría: Espacios vectoriales, matrices, determinantes, espacio afín y euclídeo](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293818.pdf) ([resumen](pec2/recursos/algebra_lineal.md))
+- [**Sistemas de ecuaciones lineales: Discusión, resolución e interpretación geométrica**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293765.pdf) ([resumen](pec2/recursos/sistemas_ecuaciones_lineales.md))
+- [**Elementos de álgebra lineal y geometría: Espacios vectoriales, matrices, determinantes, espacio afín y euclídeo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293818.pdf) ([resumen](pec2/recursos/algebra_lineal.md))
 
 ### PEC3
 
-- [Elementos de álgebra lineal y geometría: Espacios vectoriales, matrices, determinantes, espacio afín y euclídeo](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293818.pdf) ([resumen](pec2/recursos/algebra_lineal.md))
+- [**Elementos de álgebra lineal y geometría: Espacios vectoriales, matrices, determinantes, espacio afín y euclídeo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293818.pdf) ([resumen](pec2/recursos/algebra_lineal.md))
 
 ### PEC4
 
-- [Aplicaciones lineales: Matriz asociada, vectores y valores propios y diagonalización](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00298140.pdf) ([resumen](pec4/recursos/aplicaciones_lineales.md))
-- [Transformaciones geométricas: Traslación, rotación y escalado](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00301214.pdf) ([resumen](pec4/recursos/transformaciones.md))
+- [**Aplicaciones lineales: Matriz asociada, vectores y valores propios y diagonalización**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00298140.pdf) ([resumen](pec4/recursos/aplicaciones_lineales.md))
+- [**Transformaciones geométricas: Traslación, rotación y escalado**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00301214.pdf) ([resumen](pec4/recursos/transformaciones.md))
