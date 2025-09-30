@@ -157,17 +157,17 @@ xychart-beta
 >[!NOTE]
 >Para realizar la PEC, solo es necesario consultar el recurso _Representación de la información_.
 
-- [Introducción a los fundamentos de los computadores](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=163597&hash=a3d202a21bbd987bcfdbd5d776fa43055248db91bf102dc2236fe32f68d046dc)
-- [Representación de la información](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215618&hash=b0ce9d7416c3a91666d084bf823e8406a4abdcc0e2787d3d1024d81137e6796f) ([resumen](pec1/recursos/README.md))
+- [**Introducción a los fundamentos de los computadores**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=163597&hash=a3d202a21bbd987bcfdbd5d776fa43055248db91bf102dc2236fe32f68d046dc)
+- [**Representación de la información**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215618&hash=b0ce9d7416c3a91666d084bf823e8406a4abdcc0e2787d3d1024d81137e6796f) ([resumen](pec1/recursos/README.md))
 
 ### PEC2
 
-- [Los circuitos lógicos combinacionales](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215620&hash=dcd88579656e2413ea29712f929c6a1bb3fea6655c0dc503f4246beef6e558a2) ([resumen](pec2/recursos/README.md))
+- [**Los circuitos lógicos combinacionales**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215620&hash=dcd88579656e2413ea29712f929c6a1bb3fea6655c0dc503f4246beef6e558a2) ([resumen](pec2/recursos/README.md))
 
 ### PEC3
 
-- [Los circuitos lógicos secuenciales](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215619&hash=d25026dd14b3ee362d765576d3893c40b200af038100e77bc444144a21df7985) ([resumen](pec3/recursos/README.md))
+- [**Los circuitos lógicos secuenciales**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215619&hash=d25026dd14b3ee362d765576d3893c40b200af038100e77bc444144a21df7985) ([resumen](pec3/recursos/README.md))
 
 ### PR1
 
-- [Estructura básica de un computador: el procesador como generalización de las máquinas de estados algorítmicos](https://materials.campus.uoc.edu/daisy/Materials/PID_00279131/pdf/PID_00279131.pdf) ([resumen](pr1/recursos/README.md))
+- [**Estructura básica de un computador: el procesador como generalización de las máquinas de estados algorítmicos**](https://materials.campus.uoc.edu/daisy/Materials/PID_00279131/pdf/PID_00279131.pdf) ([resumen](pr1/recursos/README.md))
