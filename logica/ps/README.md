@@ -1,4 +1,4 @@
-# (LÓGICA) Pruebas de síntesis 
+# [Lógica] Pruebas de síntesis
 
 ## Antes de empezar
 

@@ -1,4 +1,4 @@
-# EXÁMENES Lógica
+# [Lógica] Exámenes
 
 ## Antes de empezar
 
