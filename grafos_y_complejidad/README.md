@@ -150,16 +150,16 @@ xychart-beta
 
 ### PEC1
 
-- [Conceptos previos: funciones y algoritmos](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([resumen](pec1/recursos/funciones_y_algoritmos.md))
-- [Fundamentos de grafos](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267019.pdf) ([resumen](pec1/recursos/fundamentos_de_grafos.md))
-- [Recorridos y conectividad](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267016.pdf) ([resumen](pec1/recursos/recorridos_y_conectividad.md))
+- [**Conceptos previos: funciones y algoritmos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([resumen](pec1/recursos/funciones_y_algoritmos.md))
+- [**Fundamentos de grafos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267019.pdf) ([resumen](pec1/recursos/fundamentos_de_grafos.md))
+- [**Recorridos y conectividad**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267016.pdf) ([resumen](pec1/recursos/recorridos_y_conectividad.md))
 
 ### PEC2
 
-- [Árboles](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267020.pdf) ([resumen](pec2/recursos/arboles.md))
-- [Grafos eulerianos y grafos hamiltonianos](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267017.pdf) ([resumen](pec2/recursos/grafos_eulerianos_y_hamiltonianos.md))
+- [**Árboles**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267020.pdf) ([resumen](pec2/recursos/arboles.md))
+- [**Grafos eulerianos y grafos hamiltonianos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267017.pdf) ([resumen](pec2/recursos/grafos_eulerianos_y_hamiltonianos.md))
 
 ### PEC3
 
-- [Complejidad computacional](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267022.pdf) ([resumen](pec3/recursos/complejidad_computacional.md))
-- [Problemas intratables](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293142.pdf) ([resumen](pec3/recursos/problemas_intratables.md))
+- [**Complejidad computacional**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267022.pdf) ([resumen](pec3/recursos/complejidad_computacional.md))
+- [**Problemas intratables**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293142.pdf) ([resumen](pec3/recursos/problemas_intratables.md))
