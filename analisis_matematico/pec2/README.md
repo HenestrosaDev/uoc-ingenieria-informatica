@@ -19,7 +19,7 @@
 >[!NOTE]
 >- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 
-- [Límites de funciones y continuidad](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284288&hash=6aaa82909fee7ad8205ab3b6e8fb45fa47ca1845a10ccdbf0ec38ad9e8415768) ([resumen](recursos/README.md))
+- [**Límites de funciones y continuidad**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284288&hash=6aaa82909fee7ad8205ab3b6e8fb45fa47ca1845a10ccdbf0ec38ad9e8415768) ([resumen](recursos/README.md))
 
 ---
 
