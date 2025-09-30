@@ -30,7 +30,7 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ## Recursos de aprendizaje
 
-- [Técnicas de producción de textos especializados (II). Aspectos de coherencia](https://materials.campus.uoc.edu/daisy/Materials/PID_00274801/pdf/PID_00274801.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/competencia_comunicativa_para_profesionales_de_las_tic/recursos/tecnicas_ii_aspectos_de_coherencia_resumen.md)).
+- [**Técnicas de producción de textos especializados (II). Aspectos de coherencia**](https://materials.campus.uoc.edu/daisy/Materials/PID_00274801/pdf/PID_00274801.pdf) ([resumen](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/competencia_comunicativa_para_profesionales_de_las_tic/recursos/tecnicas_ii_aspectos_de_coherencia_resumen.md)).
 
 ---
 
