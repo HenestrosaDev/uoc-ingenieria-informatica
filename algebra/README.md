@@ -54,7 +54,7 @@ xychart-beta
 				Cuestionario 1
 			</a>
 		</td>
-		<td>- / 15,00 ( )</td>
+		<td>15,00 / 15,00 (A)</td>
 		<td rowspan="12">
 			<p>
 				<strong>Calificación total PECs</strong>:
