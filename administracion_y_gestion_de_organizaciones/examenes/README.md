@@ -1,4 +1,4 @@
-# EXÁMENES Administración y gestión de organizaciones
+# [Administración y gestión de organizaciones] Exámenes
 
 ## Antes de empezar
 
