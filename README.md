@@ -96,9 +96,11 @@
 	</tr>
 	<tr>
 		<td rowspan="5">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones">
-				Administración y gestión de organizaciones (24/25-1)
-			</a>
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones">
+					Administración y gestión de organizaciones (24/25-1)
+				</a>
+			</strong>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/pec1">
@@ -143,12 +145,74 @@
 			</strong>
 		</td>
 	</tr>
+	<!-- ÁLGEBRA -->
+	<tr>
+		<td rowspan="6">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra">
+					Álgebra (25/26-1)
+				</a>
+			</strong>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec1">
+				PEC1 - ¿Te atreves a resolver una ecuación de segundo grado cuyas soluciones impliquen una raíz cuadrada de un número negativo?
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="6">
+			- / 10,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec2">
+				PEC2 - ¿Sabías que el WiFi de alta velocidad es solo posible gracias a los de sistemas de ecuaciones lineales?
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec3">
+				PEC3 - Relacionando los espacios vectoriales, los números, los conjuntos ¡y las paletas de colores!
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec4">
+				PEC4 - ¿Qué tienen en común el algoritmo PageRank de búsqueda de Google y Fortnite?
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/pec5">
+				PEC5 - Y de todo lo visto, ¿con qué me quedo?
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/examen">
+					EXAMEN
+				</a>
+			</strong>
+		</td>
+	</tr>
 	<!-- ANÁLISIS MATEMÁTICO -->
 	<tr>
 		<td rowspan="6">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico">
-				Análisis matemático (24/25-2)
-			</a>
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico">
+					Análisis matemático (24/25-2)
+				</a>
+			</strong>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_matematico/pec1">
@@ -201,12 +265,81 @@
 			</strong>
 		</td>
 	</tr>
+	<!-- ESTADÍSTICA -->
+	<tr>
+		<td rowspan="7">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica">
+					Estadística (25/26-1)
+				</a>
+			</strong>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec1">
+				PEC1 - ¿Qué nos describen los datos que tenemos?
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="7">
+			- / 10,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec2">
+				PEC2 - Probabilidad y variables aleatorias I
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec3">
+				PEC3 - Probabilidad y variables aleatorias II
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec4">
+				PEC4 - Inferencia estadística I: Estimación e intervalos de confianza
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec5">
+				PEC5 - Inferencia estadística II: Contrastes de hipótesis
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec6">
+				PEC6 - Regresión
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/estadistica/pec7">
+				PEC7 - Cuestionario de síntesis
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
 	<!-- FUNDAMENTOS DE COMPUTADORES -->
 	<tr>
 		<td rowspan="4">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores">
-				Fundamentos de computadores (24/25-2)
-			</a>
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores">
+					Fundamentos de computadores (24/25-2)
+				</a>
+			</strong>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores/pec1">
@@ -250,9 +383,11 @@
 	<!-- LÓGICA -->
 	<tr>
 		<td rowspan="7">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica">
-				Lógica (24/25-2)
-			</a>
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica">
+					Lógica (24/25-2)
+				</a>
+			</strong>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec1">
@@ -328,9 +463,11 @@
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic">
-				Competencia comunicativa para profesionales de las TIC (24/25-1)
-			</a>
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic">
+					Competencia comunicativa para profesionales de las TIC (24/25-1)
+				</a>
+			</strong>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pec1">
@@ -378,6 +515,50 @@
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/competencia_comunicativa_para_profesionales_de_las_tic/pr4">
 				PR4 - ¡Recapitulemos! ¿Qué he aprendido?
 			</a>
+		</td>
+	</tr>
+	<!-- GRAFOS Y COMPLEJIDAD -->
+	<tr>
+		<td rowspan="4">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad">
+					Grafos y complejidad (25/26-1)
+				</a>
+			</strong>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec1">
+				PEC1 - Las redes, omnipresentes
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="4">
+			- / 10,00 ( )
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec2">
+				PEC2 - Analizando una red
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/pec3">
+				PEC3 - Los límites de la computación
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/grafos_y_complejidad/examen">
+					EXAMEN
+				</a>
+			</strong>
 		</td>
 	</tr>
 </table>
@@ -470,9 +651,11 @@
 	</tr>
 	<tr>
 		<td rowspan="2">
-			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria">
-				Iniciación a las matemáticas para la ingeniería (24/25-1)
-			</a>
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria">
+					Iniciación a las matemáticas para la ingeniería (24/25-1)
+				</a>
+			</strong>
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/iniciacion_a_las_matematicas_para_la_ingenieria/pec1">
