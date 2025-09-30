@@ -162,8 +162,8 @@ $\exists x (R(x) \wedge M(x)) \to \exists x (S(x) \wedge C(x) \wedge \exists y (
 
 ## Recursos de aprendizaje
 
-[Lógica de predicados](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265958&hash=baefe4fe0e1c8594e63fe3a9c98754ced25fc6b142154c8a6c4e6f31ed28dfde)
-- Apartado **2. La deducción natural**. Páginas 24 a 33. [Resumen](pec5/recursos).
+- El libro [**Lógica de predicados**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265958&hash=baefe4fe0e1c8594e63fe3a9c98754ced25fc6b142154c8a6c4e6f31ed28dfde) proporcionado por la UOC.
+	- Apartado **2. La deducción natural**. Páginas 24 a 33. [Resumen](recursos/README.md).
 
 ---
 

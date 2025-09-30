@@ -218,7 +218,7 @@ $(M \vee R) \rightarrow (P \rightarrow F)$
 ## Recursos de aprendizaje
 
 - [Este vídeo](https://www.youtube.com/watch?v=R98Fpqt1aPc) para la resolución de enunciados y [este otro](https://www.youtube.com/watch?v=MkAoAALyTRc) para las tablas de verdad, ambos realizados por el canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
-- El libro [_Lógica de enunciados_](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5) proporcionado por la UOC.
+- El libro [**Lógica de enunciados**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5) proporcionado por la UOC.
 	- Apartado **3. Verdad y falsedad: alternativa y complemento de la deducción natural**. Páginas 53 a 59. [Resumen](recursos/tablas_de_verdad.md).
 	- Apartados **4. El álgebra de enunciados** y **5. Resolución**. Páginas 60 a 80. [Resumen](recursos/resolucion.md).
 
