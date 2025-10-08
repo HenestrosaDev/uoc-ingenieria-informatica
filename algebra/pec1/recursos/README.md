@@ -2,6 +2,39 @@
 
 ## Índice
 
+- [1. El origen de los números](#1-el-origen-de-los-números)
+- [2. Los números naturales: el principio de inducción](#2-los-números-naturales-el-principio-de-inducción)
+- [3. Los números complejos](#3-los-números-complejos)
+	- [3.1. Representación de los números complejos: forma binómica](#31-representación-de-los-números-complejos-forma-binómica)
+		- [Representación gráfica](#representación-gráfica)
+		- [3.3.1. Suma y resta de complejos en forma binómica](#331-suma-y-resta-de-complejos-en-forma-binómica)
+		- [3.3.2. Producto de complejos en forma binómica](#332-producto-de-complejos-en-forma-binómica)
+		- [3.3.3. El conjugado de un número complejo](#333-el-conjugado-de-un-número-complejo)
+		- [3.3.4. División de números complejos en forma binómica](#334-división-de-números-complejos-en-forma-binómica)
+	- [3.4. Forma polar: alternativa para representar los números complejos](#34-forma-polar-alternativa-para-representar-los-números-complejos)
+		- [3.4.1. De la forma binómica a la forma polar](#341-de-la-forma-binómica-a-la-forma-polar)
+		- [3.4.2. De la forma polar a la forma binómica](#342-de-la-forma-polar-a-la-forma-binómica)
+		- [3.4.3. Operaciones aritméticas con números complejos en forma polar](#343-operaciones-aritméticas-con-números-complejos-en-forma-polar)
+			- [Suma y resta de números complejos en forma polar](#suma-y-resta-de-números-complejos-en-forma-polar)
+			- [Producto de números complejos en forma polar](#producto-de-números-complejos-en-forma-polar)
+			- [División de números complejos en forma polar](#división-de-números-complejos-en-forma-polar)
+	- [3.5. Exponencial de un número complejo](#35-exponencial-de-un-número-complejo)
+		- [3.5.1. Operaciones de los números complejos en forma exponencial](#351-operaciones-de-los-números-complejos-en-forma-exponencial)
+	- [3.6. Las raíces de la unidad](#36-las-raíces-de-la-unidad)
+		- [3.6.1. Las raíces cúbicas de la unidad](#361-las-raíces-cúbicas-de-la-unidad)
+
+## 1. El origen de los números
+
+Los números son una creación humana desarrollada para responder a necesidades prácticas, como contar objetos (ovejas, árboles, hijos). De allí surge el conjunto de los números naturales, representado por $\mathbb{N} = \set{1, 2, 3, \dots }$
+
+Los números **enteros** ($\mathbb{Z}$) comprenden a los números naturales, el cero y los números naturales con signo negativo. Se representan como $\mathbb{Z} = \set{\dots, -3, -2, -1, 0, 1, 2, 3, \dots}$.
+
+Los números **racionales** ($\mathbb{Q}$) pueden expresarse como una fracción (donde el dividendo y el divisor son números enteros y el divisor no es cero). Todos los números naturales son racionales, ya que se pueden escribir como una fracción con denominador 1.
+
+Para resolver ecuaciones de la forma $ax + b = 0$ se necesitan los números **racionales**, y para algunas cuadráticas como $x^2 = 2$, los **reales**. Sin embargo, la ecuación $x^2 = -1$ no tiene solución en los números reales, ya que ningún número al cuadrado puede dar negativo. Para superar esta limitación se crea el número **imaginario** $i = \sqrt{-1}$.
+
+De esta forma, podemos resolver todas las ecuaciones de segundo grado de la forma $ax^2 + bx + c = 0$.
+
 ## 2. Los números naturales: el principio de inducción
 
 El **principio de inducción** se utiliza para demostrar que una determinada propiedad es cierta para todo número natural $n$. La técnica consiste en lo siguiente:
