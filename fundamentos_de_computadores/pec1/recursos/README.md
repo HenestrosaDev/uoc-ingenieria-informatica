@@ -380,7 +380,7 @@ $$1101 \quad 0010 \quad 0011$$
 
 ### 1.6. Suma en los sistemas posicionales
 
-![](img/16_resta_binaria.jpg)
+![](img/16_suma_binaria.jpg)
 
 ### 1.7. Resta en los sistemas posicionales
 
