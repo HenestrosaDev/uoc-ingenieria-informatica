@@ -79,9 +79,40 @@ La media es sensible a los valores extremos, especialmente cuando hay pocos dato
 
 ### 3.3. Efecto de las transformaciones lineales
 
-1. Si todas las observaciones son iguales, la media coincide con el valor de las observaciones.
-2. Si sumamos un mismo número a todas las observaciones, la media aumenta en este mismo número.
-3. Si multiplicamos todas las observaciones por un mismo número, la media se multiplica por este número.
+<table>
+	<thead>
+		<tr>
+			<th>OPERACIÓN SOBRE LOS DATOS</th>
+			<th>MEDIA ($\overline{x}$)</th>
+			<th>MEDIANA ($m$)</th>
+			<th>MODA</th>
+			<th>DESVIACIÓN ESTÁNDAR ($\sigma$)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Todas las observaciones son iguales</td>
+			<td>Igual al valor común</td>
+			<td>Igual al valor común</td>
+			<td>Igual al valor común</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>Sumar $k$</td>
+			<td>$\overline{x} + k$</td>
+			<td>$m + k$</td>
+			<td>$\text{moda} + k$</td>
+			<td>No cambia</td>
+		</tr>
+		<tr>
+			<td>Multiplicar por $k$</td>
+			<td>$\overline{x} \cdot k$</td>
+			<td>$m \cdot k$</td>
+			<td>$\text{moda} \cdot k$</td>
+			<td>$|k| \cdot \sigma$</td>
+		</tr>
+	</tbody>
+</table>
 
 ## 4. Comparación media-mediana
 

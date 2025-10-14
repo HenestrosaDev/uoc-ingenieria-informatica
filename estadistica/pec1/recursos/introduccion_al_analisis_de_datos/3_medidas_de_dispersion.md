@@ -2,6 +2,17 @@
 
 ## Índice
 
+- [1. Los cuartiles y la mediana](#1-los-cuartiles-y-la-mediana)
+	- [1.1. El rango intercualítico](#11-el-rango-intercualítico)
+	- [1.2. Los cinco números resumen y el diagrama de caja](#12-los-cinco-números-resumen-y-el-diagrama-de-caja)
+- [2. La desviación típica y la media](#2-la-desviación-típica-y-la-media)
+	- [2.1. Propiedades de la varianza y la desviación típica](#21-propiedades-de-la-varianza-y-la-desviación-típica)
+	- [2.2. La regla de Tchebichev](#22-la-regla-de-tchebichev)
+	- [2.3. Datos estandarizados](#23-datos-estandarizados)
+- [3. Usos de la media y la desviación típica o de la mediana y los cinco números resumen](#3-usos-de-la-media-y-la-desviación-típica-o-de-la-mediana-y-los-cinco-números-resumen)
+- [4. Varianza y datos tabulados](#4-varianza-y-datos-tabulados)
+
+
 ## 1. Los cuartiles y la mediana
 
 Un **cuartil** divide los datos ordenados en cuatro grupos con aproximadamente el mismo número de individuos para ver el espacio que ocupa cada grupo en relación con los demás.
@@ -37,16 +48,38 @@ Un estudio muestra que los cinco números resumen correspondientes a la distribu
 
 ## 2. La desviación típica y la media
 
-La **varianza** (o varianza **poblacional**) y que se denota
-por $s2$ es la suma del cuadrado de las desviaciones con respecto a la media dividido por $N$, donde $N$ es el número de las observaciones.
+<table>
+	<tr>
+		<th colspan="4">FÓRMULAS DE VARIANZA Y DESVIACIÓN TÍPICA (O ESTÁNDAR)</th>
+	</tr>
+	<tr>
+		<th></th>
+		<th>VARIANZA</th>
+		<th>DESVIACIÓN ESTÁNDAR</th>
+		<th>MEDIA</th>
+	</tr>
+	<tr>
+		<td><strong>Población</strong></td>
+		<td>$\sigma^2 = \frac{\sum^N_{i=1} (x_i - \mu)^2}{N}$</td>
+		<td>$\sigma = \sqrt{\sigma^2} = \sqrt{\frac{\sum^N_{i=1} (x_i - \mu)^2}{N}}$</td>
+		<td>$\mu = \frac{\sum^N_{i=1} x_i}{N}$</td>
+	</tr>
+	<tr>
+		<td><strong>Muestra</strong></td>
+		<td>$s^2 = \frac{\sum^N_{i=1} (x_i - \overline{x})^2}{n - 1}$</td>
+		<td>$s = \sqrt{s^2} = \sqrt{\frac{\sum^N_{i=1} (x_i - \overline{x})^2}{n - 1}}$</td>
+		<td>$\overline{x} = \frac{\sum^N_{i=1} x_i}{n}$</td>
+	</tr>
+</table>
 
-$$s^2_x = \frac{\sum^{N}_{i=1} x_i^2}{N} - (\overline{x})^2$$
+Donde:
+- $x_i$ son los **valores individuales** de los datos.
+- $\sigma$ es la **desviación estándar poblacional**. Representa la dispersión de los datos dentro de **toda la población**.
+- $N$ es el **tamaño de la población** (número total de elementos en la población en estudio).
+- $s$ es la **desviación estándar muestral**. $s$ representa la dispersión de los datos dentro de **una muestra**.
+- $n$ es el **tamaño de la muestra** (número de elementos que se toman de la población en estudio). $n - 1$ corrige el sesgo cuando solo se tiene una muestra.
 
-La **desviación típica** ($s$ o $s_x$) es la raíz cuadrada positiva de la varianza:
-
-$$s = \sqrt{s^2}$$
-
-**Ejemplo de cálculo de la desviación típica**:
+**Ejemplo de cálculo de la desviación típica** (o estándar):
 
 Dados los valores 7, 4, 6, 5, 5:
 
@@ -103,19 +136,19 @@ la varianza es:
 
 $$s^2_x = \frac{5,2}{5} = 1,04$$
 
-y la desviación típica es:
+y la desviación típica (o estándar) es:
 
 $$s = \sqrt{s^2} = \sqrt{1,04} = 1,02$$
 
 ### 2.1. Propiedades de la varianza y la desviación típica
 
-1. Si todas las observaciones tienen el **mismo valor**, la varianza y la desviación típica **valen 0**.
-2. Si **sumamos** una misma cantidad $K$ a todas las observaciones, la varianza y la desviación típica **no cambian**. La media de los nuevos valores es $\overline{y} = \overline{x} + K$.
-3. Si multiplicamos todas las observaciones por una misma cantidad $K$, la varianza de los valores nuevos se obtiene multiplicando la varianza de los datos originales por $K^2$; la desviación típica de los nuevos valores se obtiene multiplicando la desviación típica de los datos originales por $|K|$. La media de los nuevos valores es $\overline{y} = K \overline{x}$.
+1. Si todas las observaciones tienen el **mismo valor**, la varianza y la desviación típica (o estándar) **valen 0**.
+2. Si **sumamos** una misma cantidad $K$ a todas las observaciones, la varianza y la desviación típica (o estándar) **no cambian**. La media de los nuevos valores es $\overline{y} = \overline{x} + K$.
+3. Si multiplicamos todas las observaciones por una misma cantidad $K$, la varianza de los valores nuevos se obtiene multiplicando la varianza de los datos originales por $K^2$; la desviación típica (o estándar) de los nuevos valores se obtiene multiplicando la desviación típica (o estándar) de los datos originales por $|K|$. La media de los nuevos valores es $\overline{y} = K \overline{x}$.
 
 ### 2.2. La regla de Tchebichev
 
-Dado cualquier conjunto de datos con media $\overline{x}$ y desviación típica $s_x$, si $m$ es un número cualquiera, entonces la proporción de datos que pertenecen al intervalo ($\overline{x} - ms_x, \overline{x} + ms_x$) es, como mínimo:
+Dado cualquier conjunto de datos con media $\overline{x}$ y desviación típica (o estándar) $s_x$, si $m$ es un número cualquiera, entonces la proporción de datos que pertenecen al intervalo ($\overline{x} - ms_x, \overline{x} + ms_x$) es, como mínimo:
 
 $$1 - \frac{1}{m^2}$$
 
@@ -153,7 +186,7 @@ Algunos casos concretos:
 
 - Tenemos 500 modelos diferentes de portátiles.
 - Media de los precios: 2.000 €.
-- Desviación típica: 100 €.	
+- Desviación típica (o estándar): 100 €.	
 
 El precio de, como mínimo, 375 (75% de 500) portátiles está en el intervalo $(2000. - 2 \cdot 100, 2000 + 2 \cdot 100) = (1800, 2200)$.
 
@@ -161,7 +194,7 @@ El precio de, como mínimo, 440 portátiles (88% de 500) está en en el interval
 
 ### 2.3. Datos estandarizados
 
-Dado un conjunto de $N$ observaciones de una variable con una serie de valores, cuya media es $\overline{x}$ con desviación típica $s_x$, el valor estandarizado de $x$ es:
+Dado un conjunto de $N$ observaciones de una variable con una serie de valores, cuya media es $\overline{x}$ con desviación típica (o estándar) $s_x$, el valor estandarizado de $x$ es:
 
 $$z = \frac{x - \overline{x}}{s_x}$$
 
