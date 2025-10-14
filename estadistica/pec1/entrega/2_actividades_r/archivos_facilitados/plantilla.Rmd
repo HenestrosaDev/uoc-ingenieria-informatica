@@ -1,0 +1,162 @@
+---
+title: "PEC1 Otoño 2025"
+author: "UOC"
+date: ''
+output:
+  pdf_document: default
+  word_document: default
+fontsize: 12pt
+urlcolor: blue
+---
+
+**En esta actividad no está permitido el uso de herramientas de inteligencia artificial.
+En el plan docente y en la [web sobre integridad académica y plagio de la UOC](https://campus.uoc.edu/estudiant/microsites/plagi/ca/index.html) encontraréis información sobre qué se considera conducta irregular en la evaluación y las consecuencias que puede tener.**
+
+Esta PEC se basará en los datos de las películas de Netflix estrenadas entre 1942 y 2019 (los datos se han obtenido de la web *ExcelDemy*). Hay incluida información de las siguientes variables:
+
+1. *Name* = variable cualitativa que indica el título de la película
+2. *Year* = año del estreno
+3. *Age_Rating* = variable cualitativa que indica la clasificación de la película por edad
+4. *Duration*  = duración de la película en minutos
+5. *Category* = variable cualitativa que indica la categoría de la película
+6. *IMDb_Rating* = puntuación de la película (sobre 10)
+
+Observación: las categorías de la variable *Age_Rating* son
+
+1. *PG (Parental Guidance)*. Se sugiere la supervisión de los padres; algunos materiales podrían no ser aptos para niños pequeños. 
+2. *PG-13 (Parents Strongly Cautioned)*. Se advierte a los padres que algunos materiales podrían ser inapropiados para menores de 13 años.
+3. *R (Restricted)*. Los menores de 17 años necesitan la compañía de un padre o tutor adulto para ver la película.
+
+Para importar los datos podéis usar las siguientes instrucciones:
+
+```{r}
+library(readxl)
+datos <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+```
+
+Os puede ser útil consultar el siguiente material del reto 1:
+
+1. El entorno estadístico R. Estructura, lenguaje y sintaxis
+2. Análisis de datos y estadística descriptiva con R
+3. Actividades Resueltas del Reto 1 (Estadística Descriptiva)
+
+Hay que entregar la práctica en formato ".pdf" en esta misma tarea.
+
+\newpage
+
+# NOMBRE: José Carlos López Henestrosa
+
+# PEC1
+
+Una vez importados los datos...
+
+## Pregunta 1 (40%)
+
+**1.1 Ordenad la base de datos según el orden decreciente de la variable *IMDb_Rating* y mostrad solo las 3 primeras filas de esta base de datos ordenada.**
+
+```{r, echo=FALSE}
+# 1) Cargar datos
+library(readxl)
+df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+
+# 2) Ordenar en orden decreciente y mostrar solo las 3 primeras filas
+ord <- order(df$IMDb_Rating, decreasing = TRUE)
+top3 <- df[ord, ][1:3, ]
+
+print(top3)
+```
+
+$\\$
+
+**Dad el resumen numérico (mínimo, Q1, mediana, media, Q3 y máximo), la varianza y la desviación estándar de la variable *IMDb_Rating* (20%).**
+
+```{r, echo=FALSE}
+# 1) Cargar datos
+library(readxl)
+df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+
+# 2) Resumen numérico
+s <- summary(df$IMDb_Rating)  # mínimo, Q1, mediana, media, Q3 y máximo
+
+# 3) Tabla con todas las medidas
+table <- as.data.frame(t(c(
+  Min     = s["Min."],
+  Q1      = s["1st Qu."],
+  Mediana = s["Median"],
+  Media   = s["Mean"],
+  Q3      = s["3rd Qu."],
+  Max     = s["Max."],
+  Var     = var(df$IMDb_Rating),
+  sd      = sd(df$IMDb_Rating)
+)), check.names = FALSE)
+
+colnames(table) <- c("Min","Q1","Mediana","Media","Q3","Max","Varianza","Des. estándar")
+  
+# 4) Mostrar tabla
+print(table)
+```
+
+$\\$
+
+**1.2 Dad el resumen numérico de la variable *IMDb_Rating*, pero solo cuando la variable *Age_Rating* vale *R*. Comentad los resultados obtenidos (20%).**
+
+```{r, echo=FALSE}
+# 1) Cargar datos
+library(readxl)
+df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+
+# 2) Filtrar por `Age_Rating == "R"`
+x <- df$IMDb_Rating[df$Age_Rating == "R"]
+
+# 3) Resumen numérico
+summary(x)
+```
+
+\newpage
+
+## Pregunta 2 (10%) 
+**Dad el valor mínimo de la variable *IMDb_Rating* junto con las variables *Name* y *Category* donde se da este valor mínimo.**
+
+```{r, echo=FALSE}
+# 1) Cargar datos
+library(readxl)
+df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+
+# 2) Valor mínimo de la variable `IMDb_Rating`
+min_val <- min(df$IMDb_Rating)
+
+# 3) Añade las variables `Name` y `Category` donde se da el valor mínimo
+result <- df[ which(df$IMDb_Rating == min_val), c("Name", "Category", "IMDb_Rating") ]
+  
+# 4) Mostrar resultado
+print(result)
+```
+
+\newpage
+
+## Pregunta 3 (30%) 
+**Dad la tabla de frecuencias absolutas de la variable *Age_Rating*, y otra tabla con los porcentajes de los diferentes niveles de esta misma variable *Age_Rating* (podéis usar la instrucción *prop.table*). Haced el gráfico adecuado de las frecuencias o de los porcentajes. Comentad los resultados obtenidos.**
+
+```{r, echo=FALSE}
+# 1) Cargar datos
+library(readxl)
+df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+
+# Frecuencias absolutas
+tab_abs <- table(df$Age_Rating)
+tab_abs
+barplot(tab_abs, main = "Frecuencias de Age_Rating", xlab = "Age_Rating", ylab = "Frecuencia")
+
+# Porcentajes
+tab_pct <- prop.table(tab_abs) * 100
+tab_pct_with_pct <- sprintf("%.2f%%", tab_pct) # with % for printing
+tab_pct_with_pct
+barplot(tab_pct, main = "Porcentajes de Age_Rating", xlab = "Age_Rating", ylab = "Porcentaje (%)")
+```
+
+\newpage
+
+## Pregunta 4 (20%)
+**Haced los boxplots de la variable *Duration* estratificando por la variable *Age_Rating*. Comentad el resultado obtenido.**
+
+

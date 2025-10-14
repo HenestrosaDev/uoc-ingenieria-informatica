@@ -1,0 +1,46 @@
+---
+title: "PEC1 Otoño 2025"
+author: "José Carlos López Henestrosa"
+date: ''
+output:
+  pdf_document: default
+  word_document: default
+fontsize: 12pt
+urlcolor: blue
+---
+
+## Pregunta 7
+
+**El histograma de frecuencias absolutas de la variable `PreuAm2` del fichero `vendes_pac1_P_15_3.csv` es...**
+
+```{r}
+# 1) Leer el CSV con separador ';' y coma decimal
+df <- read.csv2("vendes_pac1_P_15_3.csv", dec = ",", sep = ";")
+
+# 2) Imprimir el histograma de frecuencias absolutas
+hist(df$PreuAm2)
+```
+
+## Pregunta 8
+
+**Los resúmenes numéricos de la variable `PreuAm2` (precio por metro cuadrado antes de las reformas) del fichero `vendes_pac1_P_15_1.csv` son...**
+
+```{r}
+# 1) Leer el CSV con separador ';' y coma decimal
+df <- read.csv2("vendes_pac1_P_15_1.csv", dec = ",", sep = ";")
+
+# 2) Imprimir el resumen de los datos
+summary(df$PreuAm2)
+```
+
+## Pregunta 9
+
+**El boxplot de la variable `PreuAm2` del fichero `vendes_pac1_P_15_1.csv` es...**
+
+```{r}
+# 1) Leer el CSV con separador ';' y coma decimal
+df <- read.csv2("vendes_pac1_P_15_1.csv", dec = ",", sep = ";")
+
+# 2) Imprimir el boxplot
+boxplot(df$PreuAm2)
+```
