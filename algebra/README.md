@@ -57,7 +57,7 @@ xychart-beta
 		<td>15,00 / 15,00 (A)</td>
 		<td rowspan="12">
 			<p>
-				<strong>Calificación total PECs</strong>:
+				<strong>Calificación total PEC</strong>:
 				<br>
 				- / 100,00
 			</p>

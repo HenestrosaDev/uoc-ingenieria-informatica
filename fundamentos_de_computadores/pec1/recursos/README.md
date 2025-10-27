@@ -5,7 +5,7 @@
 >[!NOTE]
 >El subapartado **2.4. Números fraccionarios** está fusionado con subapartados del apartado [2.3.], el cual en el libro recibe el nombre de **2.3. Números enteros**. Esto se debe a que el propio libro utiliza el apartado **2.4.** a modo de cajón de sastre, ya que no hay una organización clara de su contenido. Por ejemplo, en el apartado [2.3.1. Representación en signo y magnitud en base 2](#231-representación-en-signo-y-magnitud-en-base-2), se incluye también la parte fraccionaria para aglutinarlo todo en el mismo subapartado.
 >Los apartados sin numeración no aparecen en el libro; son de elaboración propia.
->Los siguientes subapartados no se incluyen, ya que no aparecen ni en el examen ni son necesarios para realizar las PECs:
+>Los siguientes subapartados no se incluyen, ya que no aparecen ni en el examen ni son necesarios para realizar las PEC:
 >- **1.5. Números con signo**
 >- **1.8. Multiplicación y división por potencias de la base de numeración**
 >- **3.3.1. Representación en exceso a $M$**

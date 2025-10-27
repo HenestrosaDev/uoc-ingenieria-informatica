@@ -57,7 +57,7 @@ xychart-beta
 		<td>16,67 / 16,67 (A)</td>
 		<td rowspan="6">
 			<p>
-				<strong>Calificación total PECs</strong>:
+				<strong>Calificación total PEC</strong>:
 				<br>
 				91,25 / 100,00
 			</p>
@@ -136,7 +136,7 @@ xychart-beta
 	</tr>
 </table>
 
-## Pruebas prácticas (PPs)
+## Pruebas prácticas (PP)
 
 >[!NOTE]
 >- La PP no tiene efectos en la calificación de la evaluación continua. Su objetivo es ayudar al alumnado a lograr los contenidos y las habilidades necesarias para resolver la PEC.
@@ -154,7 +154,7 @@ xychart-beta
 
 ## Ejercicios de Alura
 
-Alura es la herramienta con la que se realizan las PECs y las PPs de la asignatura. Proporciona retroalimentación inmediata sobre la corrección de los ejercicios realizados. Dentro de ella, hay **ejercicios de carácter opcional** que permiten al alumno poner en práctica los aspectos teóricos estudiados en el libro.
+Alura es la herramienta con la que se realizan las PEC y las PP de la asignatura. Proporciona retroalimentación inmediata sobre la corrección de los ejercicios realizados. Dentro de ella, hay **ejercicios de carácter opcional** que permiten al alumno poner en práctica los aspectos teóricos estudiados en el libro.
 
 Los ejercicios se dividen en los dos bloques principales enseñados en la asignatura: la lógica de **enunciados** y la lógica de **predicados**.
 

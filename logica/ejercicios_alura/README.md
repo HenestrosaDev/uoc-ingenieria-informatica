@@ -1,6 +1,6 @@
 # Ejercicios de Alura
 
-Alura es la herramienta en la que se realizan las PECs y las PPs de la asignatura. Proporciona retroalimentación inmediata sobre la corrección de los ejercicios realizados. Dentro de ella, hay **ejercicios de carácter opcional** que permiten al alumno poner en práctica los aspectos teóricos estudiados en el libro.
+Alura es la herramienta en la que se realizan las PEC y las PP de la asignatura. Proporciona retroalimentación inmediata sobre la corrección de los ejercicios realizados. Dentro de ella, hay **ejercicios de carácter opcional** que permiten al alumno poner en práctica los aspectos teóricos estudiados en el libro.
 
 Los ejercicios se dividen en los dos bloques principales enseñados en la asignatura: la lógica de **enunciados** y la lógica de **predicados**.
 

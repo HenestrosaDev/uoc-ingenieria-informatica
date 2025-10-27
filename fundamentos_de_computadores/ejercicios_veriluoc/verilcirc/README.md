@@ -13,12 +13,12 @@ VerilCirc es una herramienta de verificación de circuitos digitales.
 >
 >- Categorías de ejercicios:
 >	- **Materiales**: Ejercicios de práctica que se encuentran en los materiales didácticos correspondientes a cada bloque.
->	- **Histórico**: Ejercicios de exámenes, PECs y PRs realizados durante cursos anteriores.
+>	- **Histórico**: Ejercicios de exámenes, PEC y PRs realizados durante cursos anteriores.
 
 ### Desglose de puntuación
 
 >[!IMPORTANT]
->NO se incluyen los ejercicios de las PECs ni de la PR, los cuales se encuentran en sus respectivas carpetas.
+>NO se incluyen los ejercicios de las PEC ni de la PR, los cuales se encuentran en sus respectivas carpetas.
 
 <table>
 	<tr>

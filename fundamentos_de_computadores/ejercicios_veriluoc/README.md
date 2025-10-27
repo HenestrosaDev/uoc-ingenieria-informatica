@@ -18,7 +18,7 @@
 
 ## ¿Qué es VerilUOC?
 
->VerilUOC es una herramienta de apoyo al autoaprendizaje para la resolución de las PECs y Práctica de Fundamentos de Computadores. Actualmente, esta herramienta permite verificar automáticamente un subconjunto de los ejercicios relacionados con el diseño y análisis de circuitos digitales. Además todas las herramientas, permiten exportar los resultados en formato imagen, lo que reduce el tiempo de edición necesario realizar las actividades de la asignatura.
+>VerilUOC es una herramienta de apoyo al autoaprendizaje para la resolución de las PEC y Práctica de Fundamentos de Computadores. Actualmente, esta herramienta permite verificar automáticamente un subconjunto de los ejercicios relacionados con el diseño y análisis de circuitos digitales. Además todas las herramientas, permiten exportar los resultados en formato imagen, lo que reduce el tiempo de edición necesario realizar las actividades de la asignatura.
 >
 >Concretamente, las herramientas que podemos encontrar dentro de VerilUOC son:
 >
@@ -354,12 +354,12 @@
 >
 >- Categorías de ejercicios:
 >	- **Materiales**: Ejercicios de práctica que se encuentran en los materiales didácticos correspondientes a cada bloque.
->	- **Histórico**: Ejercicios de exámenes, PECs y PRs realizados durante cursos anteriores.
+>	- **Histórico**: Ejercicios de exámenes, PEC y PRs realizados durante cursos anteriores.
 
 ### Desglose de puntuación
 
 >[!IMPORTANT]
->NO se incluyen los ejercicios de las PECs ni de la PR, los cuales se encuentran en sus respectivas carpetas.
+>NO se incluyen los ejercicios de las PEC ni de la PR, los cuales se encuentran en sus respectivas carpetas.
 
 <table>
 	<tr>

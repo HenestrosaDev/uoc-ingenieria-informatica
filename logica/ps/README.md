@@ -449,7 +449,7 @@ En cuanto a la prueba final, y siempre con el ánimo de orientaros, os hacemos s
 
 - **El examen tendrá una duración máxima de dos horas**. Los exámenes de semestres anteriores que podéis consultar en el espacio de Recursos del aula os pueden dar una buena idea del tipo de preguntas que pueden aparecer en el examen. Tened en cuenta que el examen será similar pero no necesariamente igual a los exámenes de semestres anteriores.
 
-- **La PS tendrá una duración máxima de una hora**. En el espacio de Recursos del aula podéis encontrar varias PSs de muestra que os deberán dar una idea bastante buena de cómo será la prueba que deberéis resolver (aunque en ningún caso especuléis con que vuestra prueba será igual que las que os proporcionamos). En todas las PS de muestra, prestad  mucha atención a los criterios de corrección que se especifican porque vuestra PS también indicará criterios de valoración muy parecidos.
+- **La PS tendrá una duración máxima de una hora**. En el espacio de Recursos del aula podéis encontrar varias PS de muestra que os deberán dar una idea bastante buena de cómo será la prueba que deberéis resolver (aunque en ningún caso especuléis con que vuestra prueba será igual que las que os proporcionamos). En todas las PS de muestra, prestad  mucha atención a los criterios de corrección que se especifican porque vuestra PS también indicará criterios de valoración muy parecidos.
 
 - **Tanto en al Examen como en la PS tened muy presente que el TIEMPO es un factor clave de la prueba**. Así, se trata de resolver determinados problemas y hacerlo en un marco temporal ajustado. Hay que hacer cosas y hacer en el tiempo marcado. La comprensión de los conceptos teóricos debe ir acompañada de una buena dosis de práctica.
 

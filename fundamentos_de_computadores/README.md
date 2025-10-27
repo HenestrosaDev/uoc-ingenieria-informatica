@@ -7,7 +7,7 @@
 
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
-- **Método de evaluación**: Evaluación continua (70%: PECs 50% + PR 50%) + Examen (30%)
+- **Método de evaluación**: Evaluación continua (70%: PEC 50% + PR 50%) + Examen (30%)
 - **Créditos**: 6
 - [**Plan docente**](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20242&SignatureCode=75.562&Context=3&Locale=es)
 
@@ -67,13 +67,13 @@ xychart-beta
 		</td>
 		<td rowspan="4">
 			<p>
-				<strong>Calificación total PECs</strong>:
+				<strong>Calificación total PEC</strong>:
 				<br>
 				95,80 / 100,00
 			</p>
 			<br>
 			<p>
-				<strong>Calificación ponderada PECs</strong>:
+				<strong>Calificación ponderada PEC</strong>:
 				<br>
 				4,79 / 5,00
 			</p>

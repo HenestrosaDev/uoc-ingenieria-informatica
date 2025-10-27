@@ -4,7 +4,7 @@
 
 - **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Obligatoria
-- **Método de evaluación**: Evaluación continua (100%: PECs 40% + PRs 60%)
+- **Método de evaluación**: Evaluación continua (100%: PEC 40% + PRs 60%)
 - **Créditos**: 6
 - [**Plan docente**](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20241&cod_asignatura=75.563&idioma=CAS&pagina=PD_PREV_PORTAL)
 
@@ -60,12 +60,12 @@ xychart-beta
 		</td>
 		<td rowspan="7">
 			<p>
-				<strong>Calificación total PECs</strong>:
+				<strong>Calificación total PEC</strong>:
 				<br>
 				94,35 / 100,00
 			</p>
 			<p>
-				<strong>Calificación ponderada PECs</strong>:
+				<strong>Calificación ponderada PEC</strong>:
 				<br>
 				3,77 / 4,00
 			</p>
