@@ -5,11 +5,12 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 ## Recursos de aprendizaje
 
 >[!NOTE]
->Para realizar la PEC, solo es necesario consultar el recurso _Representación de la información_.
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para realizar la PEC, solo es necesario consultar el recurso _Representación de la información_.  
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.  
+>- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
 
 - [**Introducción a los fundamentos de los computadores**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=163597&hash=a3d202a21bbd987bcfdbd5d776fa43055248db91bf102dc2236fe32f68d046dc) 
-- [**Representación de la información**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215618&hash=b0ce9d7416c3a91666d084bf823e8406a4abdcc0e2787d3d1024d81137e6796f) ([resumen](pec1/recursos/README.md))
+- [**Representación de la información**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215618&hash=b0ce9d7416c3a91666d084bf823e8406a4abdcc0e2787d3d1024d81137e6796f) ([resumen](pec1/recursos/README.md)) ([Sin Espinas](pec1/recursos/sin_espinas-representacion_de_la_informacion.pdf))
 
 ---
 
