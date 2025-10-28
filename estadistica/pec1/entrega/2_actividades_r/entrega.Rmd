@@ -55,28 +55,21 @@ Una vez importados los datos...
 **1.1 Ordenad la base de datos según el orden decreciente de la variable *IMDb_Rating* y mostrad solo las 3 primeras filas de esta base de datos ordenada. (10%)**
 
 ```{r}
-# 1) Cargar datos
-library(readxl)
-df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+# 1) Ordenar en orden decreciente y mostrar solo las 3 primeras filas
+ord <- order(datos$IMDb_Rating, decreasing = TRUE)
+top3 <- datos[ord, ][1:3, ]
 
-# 2) Ordenar en orden decreciente y mostrar solo las 3 primeras filas
-ord <- order(df$IMDb_Rating, decreasing = TRUE)
-top3 <- df[ord, ][1:3, ]
-
+# 2) Mostrar resultado
 print(top3)
 ```
 
 **Dad el resumen numérico (mínimo, Q1, mediana, media, Q3 y máximo), la varianza y la desviación estándar de la variable *IMDb_Rating* (10%).**
 
 ```{r}
-# 1) Cargar datos
-library(readxl)
-df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+# 1) Resumen numérico
+s <- summary(datos$IMDb_Rating)  # mínimo, Q1, mediana, media, Q3 y máximo
 
-# 2) Resumen numérico
-s <- summary(df$IMDb_Rating)  # mínimo, Q1, mediana, media, Q3 y máximo
-
-# 3) Tabla con todas las medidas
+# 2) Tabla con todas las medidas
 table <- as.data.frame(t(c(
   Min     = s["Min."],
   Q1      = s["1st Qu."],
@@ -84,8 +77,8 @@ table <- as.data.frame(t(c(
   Media   = s["Mean"],
   Q3      = s["3rd Qu."],
   Max     = s["Max."],
-  Var     = var(df$IMDb_Rating),
-  sd      = sd(df$IMDb_Rating)
+  Var     = var(datos$IMDb_Rating),
+  sd      = sd(datos$IMDb_Rating)
 )), check.names = FALSE)
 
 colnames(table) <- c(
@@ -99,7 +92,7 @@ colnames(table) <- c(
   "Des. estándar"
 )
   
-# 4) Mostrar tabla
+# 3) Mostrar tabla
 print(table)
 ```
 
@@ -108,14 +101,10 @@ $\\$
 **1.2 Dad el resumen numérico de la variable *IMDb_Rating*, pero solo cuando la variable *Age_Rating* vale *R*. Comentad los resultados obtenidos (20%).**
 
 ```{r}
-# 1) Cargar datos
-library(readxl)
-df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+# 1) Filtrar por `Age_Rating == "R"`
+x <- with(datos, IMDb_Rating[Age_Rating == "R"])
 
-# 2) Filtrar por `Age_Rating == "R"`
-x <- df$IMDb_Rating[df$Age_Rating == "R"]
-
-# 3) Resumen numérico
+# 2) Resumen numérico
 summary(x)
 ```
 
@@ -124,47 +113,49 @@ En conjunto, las películas con *Age_Rating* = R ($n$ = 31) tienen valoraciones 
 \newpage
 
 ## Pregunta 2 (10%) 
+
 **Dad el valor mínimo de la variable *IMDb_Rating* junto con las variables *Name* y *Category* donde se da este valor mínimo.**
 
 ```{r}
-# 1) Cargar datos
-library(readxl)
-df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+# 1) Valor mínimo de la variable `IMDb_Rating`
+min_val <- min(datos$IMDb_Rating)
 
-# 2) Valor mínimo de la variable `IMDb_Rating`
-min_val <- min(df$IMDb_Rating)
-
-# 3) Añade las variables `Name` y `Category` donde se da el valor mínimo
-result <- df[which(df$IMDb_Rating == min_val), 
-             c("Name", "Category", "IMDb_Rating")]
+# 2) Añadir las variables `Name` y `Category` donde se da el valor mínimo
+result <- with(
+  datos, 
+  datos[which(IMDb_Rating == min_val), c("Name", "Category", "IMDb_Rating")]
+)
   
-# 4) Mostrar resultado
+# 3) Mostrar resultado
 print(result)
 ```
 
 \newpage
 
 ## Pregunta 3 (30%)
+
 **Dad la tabla de frecuencias absolutas de la variable *Age_Rating*, y otra tabla con los porcentajes de los diferentes niveles de esta misma variable *Age_Rating* (podéis usar la instrucción *prop.table*). Haced el gráfico adecuado de las frecuencias o de los porcentajes. Comentad los resultados obtenidos.**
 
 ```{r}
-# 1) Cargar datos
-library(readxl)
-df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
-
-# 2) Frecuencias absolutas
-tab_abs <- table(df$Age_Rating)
+# 1) Mostar tabla con frecuencias absolutas
+tab_abs <- table(datos$Age_Rating)
 tab_abs
+
+# 2) Mostar barplot con frecuencias absolutas
 barplot(tab_abs, 
         main = "Frecuencias de Age_Rating", 
         xlab = "Age_Rating", 
         ylab = "Frecuencia")
 
-# 3) Porcentajes
+# 3) Calcular porcentajes
 tab_pct <- prop.table(tab_abs) * 100
 tab_pct_with_pct <- sprintf("%.0f%%", tab_pct) # añade el %
 names(tab_pct_with_pct) <- c("PG","PG-13","R")
+
+# 4) Mostrar tabla con porcentajes
 tab_pct_with_pct
+
+# 5) Mostrar barplot con porcentajes
 barplot(tab_pct, 
         main = "Porcentajes de Age_Rating", 
         xlab = "Age_Rating", 
@@ -176,25 +167,22 @@ En la muestra ($n$ = 50) la distribución es claramente desigual. Podemos apreci
 \newpage
 
 ## Pregunta 4 (20%)
+
 **Haced los boxplots de la variable *Duration* estratificando por la variable *Age_Rating*. Comentad el resultado obtenido.**
 
 ```{r}
-# 1) Cargar datos
-library(readxl)
-df <- read_excel("Netflix-Movies-Sample-Data.xlsx", skip = 5)
+# 1) Seleccionar columnas de interés
+df <- datos[, c("Duration", "Age_Rating")]
 
-# 2) Seleccionar columnas de interés
-df <- df[, c("Duration", "Age_Rating")]
-
-# 3) Asegurar tipo de dato correcto
+# 2) Asegurar tipo de dato correcto
 df$Age_Rating <- as.factor(df$Age_Rating)
 df$Duration   <- as.numeric(df$Duration)
 
-# 4) Estratificación con el número de individuos por cada muestra
+# 3) Estratificación con el número de individuos por cada muestra
 n_por_grupo <- table(df$Age_Rating)[levels(df$Age_Rating)]
 nombres_ejes <- paste0(levels(df$Age_Rating), "\n(n=", n_por_grupo, ")")
 
-# 5) Mostrar boxplots
+# 4) Mostrar boxplots
 boxplot(Duration ~ Age_Rating, 
         data = df,
         main  = "Duración por clasificación de edad (boxplots)",
