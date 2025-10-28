@@ -6,9 +6,12 @@ Esta PEC se compone de dos partes:
 
 ## Recursos de aprendizaje
 
-- [**Conceptos previos: funciones y algoritmos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([resumen](recursos/funciones_y_algoritmos.md))
-- [**Fundamentos de grafos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267019.pdf) ([resumen](recursos/fundamentos_de_grafos.md))
-- [**Recorridos y conectividad**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267016.pdf) ([resumen](recursos/recorridos_y_conectividad.md))
+>[!NOTE]
+>- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
+
+- [**Conceptos previos: funciones y algoritmos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([resumen](recursos/sin_espinas-fundamentos_matematicos.pdf))
+- [**Fundamentos de grafos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267019.pdf) ([Sin Espinas](recursos/sin_espinas-fundamentos_de_grafos_y_recorridos.pdf))
+- [**Recorridos y conectividad**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267016.pdf) ([Sin Espinas](recursos/sin_espinas-fundamentos_de_grafos_y_recorridos.pdf))
 
 --- 
 
@@ -16,13 +19,19 @@ Esta PEC se compone de dos partes:
 
 ### Calificación
 
-- **Calificación actividades R**: - / 25,00
+**Calificación actividades PDF**:
+
+- **Calificación original**: - / 25,00
 - **Calificación sobre 10**: - / 10,00
 
-- **Calificación cuestionario**: 8,00 / 8,00
-- **Calificación sobre**: 10,00 / 10,00
+**Calificación cuestionario**:
 
-- **Calificación original** (cuestionario + actividades R): - / 33,00
+- **Calificación original**: 8,00 / 8,00
+- **Calificación sobre 10**: 10,00 / 10,00
+
+**Calificación total**:
+
+- **Calificación original** (actividades PDF + cuestionario): - / 33,00
 - **Calificación sobre 10**: - / 10,00
 - **Letra (escala internacional)**: 
 
