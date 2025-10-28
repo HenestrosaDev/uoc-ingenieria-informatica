@@ -131,35 +131,32 @@ xychart-beta
 
 ### PEC1
 
-- [**Estadística descriptiva: Introducción al análisis de datos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269798.pdf)
-  - [[RESUMEN] 1. Tipos de datos y su representación gráfica](pec1/recursos/introduccion_al_analisis_de_datos/1_tipos_de_datos_y_su_representacion_grafica.md)
-  - [[RESUMEN] 2. Medidas de centro y propiedades](pec1/recursos/introduccion_al_analisis_de_datos/3_medidas_de_dispersion.md)
-  - [[RESUMEN] 3. Medidas de dispersión](pec1/recursos/introduccion_al_analisis_de_datos/3_medidas_de_dispersion.md)
-- [**Muestreo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269801.pdf) ([resumen](pec1/recursos/muestreo.md))
+- [**Estadística descriptiva: Introducción al análisis de datos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269798.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-estadistica_descriptiva_y_muestreo.pdf))
+- [**Muestreo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269801.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-estadistica_descriptiva_y_muestreo.pdf))
 - [**El entorno estadístico R: Estructura, lenguaje y sintaxis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273871.pdf) ([resumen](pec1/recursos/fundamentos_de_r.md))
 - [**Análisis de datos y estadística descriptiva con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279912.pdf) ([resumen](pec1/recursos/fundamentos_de_r.md))
 
 ### PEC2 y PEC3
 
-- [**Probabilidad y variables aleatorias**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273858.pdf) ([resumen](pec2/recursos/probabilidad_y_variables_aleatorias.md))
-- [**Distribuciones de probabilidad e inferencia estadística con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279914.pdf) ([resumen](pec2/recursos/distribuciones_e_inferencia_con_r.md))
+- [**Probabilidad y variables aleatorias**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273858.pdf) ([Sin Espinas](pec2/recursos/sin_espinas-probabilidad.pdf))
+- [**Distribuciones de probabilidad e inferencia estadística con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279914.pdf) ([Sin Espinas](pec2/recursos/sin_espinas-probabilidad.pdf))
 
 ### PEC4
 
-- [**Intervalos de confianza**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269797.pdf) ([resumen](pec4/recursos/intervalos_de_confianza.md))
-- [**Teorema del límite central**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269799.pdf) ([resumen](pec4/recursos/teorema_del_limite_central.md))
+- [**Intervalos de confianza**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269797.pdf) ([Sin Espinas](pec4/recursos/sin_espinas-intervalos_de_confianza.pdf))
+- [**Teorema del límite central**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269799.pdf) ([Sin Espinas](pec4/recursos/sin_espinas-teorema_del_limite_central.pdf))
 
 ### PEC5
 
-- [**Contraste de hipótesis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268873.pdf) ([resumen](pec5/recursos/contraste_de_hipotesis.md))
-- [**Contraste de dos muestras**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268875.pdf) ([resumen](pec5/recursos/contraste_de_dos_muestras.md))
+- [**Contraste de hipótesis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268873.pdf) ([Sin Espinas](pec5/recursos/sin_espinas-contraste_de_hipotesis.pdf))
+- [**Contraste de dos muestras**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268875.pdf) ([Sin Espinas](pec5/recursos/sin_espinas-contraste_de_hipotesis.pdf))
 
 ### PEC6
 
-- [**Regresión lineal simple**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269795.pdf) ([resumen](pec6/recursos/regresion_lineal_simple.md))
-- [**Modelos de regresión y análisis multivariante con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00280894.pdf) ([resumen](pec6/recursos/modelos_de_regresion_y_analisis_multivariante_con_r.md))
-- [Opcional] [**Regresión lineal múltiple**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268877.pdf) ([resumen](pec6/recursos/regresion_lineal_multiple.md))
-- [Opcional] [**El análisis de la varianza**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269800.pdf) ([resumen](pec6/recursos/analisis_de_la_varianza.md))
+- [**Regresión lineal simple**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269795.pdf) ([Sin Espinas](pec6/recursos/sin_espinas-regresion_lineal.pdf))
+- [**Modelos de regresión y análisis multivariante con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00280894.pdf)
+- [Opcional] [**Regresión lineal múltiple**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268877.pdf)
+- [Opcional] [**El análisis de la varianza**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269800.pdf)
 
 ### PEC7
 
