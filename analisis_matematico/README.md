@@ -190,15 +190,16 @@ xychart-beta
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.  
+>- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
 
 ### PEC1
 
-- [**Funciones reales de variable real**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284292&hash=698e6f70d8d51d3cbe7b9e288ca162f49eadc2bb61c832a9990783a27cdb9717) ([resumen](pec1/recursos/README.md))
+- [**Funciones reales de variable real**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284292&hash=698e6f70d8d51d3cbe7b9e288ca162f49eadc2bb61c832a9990783a27cdb9717) ([resumen](pec1/recursos/README.md)) ([Sin Espinas](pec1/recursos/sin_espinas-funciones.pdf))
 
 ### PEC2
 
-- [**Límites de funciones y continuidad**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284288&hash=6aaa82909fee7ad8205ab3b6e8fb45fa47ca1845a10ccdbf0ec38ad9e8415768) ([resumen](pec2/recursos/README.md))
+- [**Límites de funciones y continuidad**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284288&hash=6aaa82909fee7ad8205ab3b6e8fb45fa47ca1845a10ccdbf0ec38ad9e8415768) ([resumen](pec2/recursos/README.md)) ([Sin Espinas](pec2/recursos/sin_espinas-limites.pdf))
 
 ### PEC3
 
