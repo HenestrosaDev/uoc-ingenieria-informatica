@@ -128,6 +128,7 @@ xychart-beta
 
 >[!NOTE]
 >- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
 
 ### PEC1
 
