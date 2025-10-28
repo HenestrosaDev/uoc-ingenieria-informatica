@@ -415,6 +415,9 @@ $\neg Q(b,a) \wedge \exists x [S(x) \wedge Q(x,a)]$
 
 ## Recursos de aprendizaje
 
+>[!NOTE]
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+
 - [Este vídeo](https://www.youtube.com/watch?v=763OVDQ0kqw) introductorio a la estructura de la lógica de predicados y [este otro](https://www.youtube.com/watch?v=WGYIJ1uckVo) para la formalización, ambos realizados por el canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
 - El libro [**Lógica de enunciados**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5) proporcionado por la UOC.
 	- Apartado **1. La lógica de predicados y su lenguaje**. Páginas 7 a 23. [Resumen](recursos/README.md).

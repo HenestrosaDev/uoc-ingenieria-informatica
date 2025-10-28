@@ -1,6 +1,7 @@
 # Recursos de aprendizaje PEC1
 
 >[!NOTE]
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 >- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
 
 - [**Estadística descriptiva: Introducción al análisis de datos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269798.pdf) ([Sin Espinas](sin_espinas-estadistica_descriptiva_y_muestreo.pdf))

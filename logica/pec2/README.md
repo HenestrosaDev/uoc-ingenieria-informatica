@@ -168,6 +168,9 @@ $(M \wedge \neg D) \rightarrow (\neg P \vee \neg R)$
 
 ## Recursos de aprendizaje
 
+>[!NOTE]
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+
 - Vídeos 9 al 15 (ambos incluidos) de [esta playlist de YouTube](https://www.youtube.com/playlist?list=PLX3CfQWn-1E1MpqMS_CWzbSSiY7hgOhtA) realizada por el canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
 - El libro [**Lógica de enunciados**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5) proporcionado por la UOC.
 	- Apartado **2. La de deducción natural**. Páginas 23 a 52. [Resumen](recursos/README.md).

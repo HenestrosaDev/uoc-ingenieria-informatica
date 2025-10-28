@@ -6,6 +6,9 @@ Esta PEC se compone de dos partes:
 
 ## Recursos de aprendizaje
 
+>[!NOTE]
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+
 - [**Complejidad computacional**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267022.pdf) ([resumen](pec3/recursos/complejidad_computacional.md))
 - [**Problemas intratables**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293142.pdf) ([resumen](pec3/recursos/problemas_intratables.md))
 

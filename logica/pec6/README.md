@@ -154,6 +154,7 @@ $\exists x (B(x) \to P(x,c)) \to \exists x (S(x) \wedge  Q(x,a))$
 
 >[!NOTE]
 >El bloque de fórmulas a enunciados no aparece en el libro, por lo que recomiendo consultar [este resumen](pec6/recursos/formulas_a_enunciados.md) de elaboración propia.
+>- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 
 - El libro [**Lógica de predicados**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265958&hash=baefe4fe0e1c8594e63fe3a9c98754ced25fc6b142154c8a6c4e6f31ed28dfde) proporcionado por la UOC.
 	- Desde el apartado **3. Verdad y falsedad en la lógica de predicados** hasta el **5. Resolución**. Páginas 34 a 53. [Resumen](pec6/recursos).
