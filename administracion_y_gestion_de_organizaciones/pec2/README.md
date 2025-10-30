@@ -23,7 +23,7 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 
 ### Calificación
 
-**Parte teórica** ([`test_entrega.png`](test_entrega.png)):
+**Parte teórica** ([`cuestionario.png`](cuestionario.png)):
 
 - **Calificación original**: 13,03 / 15,00
 - **Calificación sobre 10**: 8,69 / 10,00
@@ -48,5 +48,5 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 
 <br>
 
-![](detalles_puntuacion.png)
+![](detalles_puntuacion-entrega.png)
 >Detalles sobre la puntuación de la parte práctica
