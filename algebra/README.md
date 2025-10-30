@@ -77,35 +77,35 @@ xychart-beta
 			(15%)
 		</td>
 		<td>
-			<a href="pec2/cuestionario2">
+			<a href="pec2/cuestionario_2.png">
 				Cuestionario 2
 			</a>
 		</td>
-		<td>- / 3,75 ( )</td>
+		<td>3,75 / 3,75 (A)</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="pec2/cuestionario3">
+			<a href="pec2/cuestionario_3.png">
 				Cuestionario 3
 			</a>
 		</td>
-		<td>- / 3,75 ( )</td>
+		<td>3,75 / 3,75 (A)</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="pec2/cuestionario4">
+			<a href="pec2/cuestionario_4.png">
 				Cuestionario 4
 			</a>
 		</td>
-		<td>- / 3,75 ( )</td>
+		<td>3,75 / 3,75 (A)</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="pec2/cuestionario5">
+			<a href="pec2/cuestionario_5.png">
 				Cuestionario 5
 			</a>
 		</td>
-		<td>- / 3,75 ( )</td>
+		<td>3,75 / 3,75 (A)</td>
 	</tr>
 	<tr>
 		<td rowspan="2">
@@ -115,7 +115,7 @@ xychart-beta
 			(15%)
 		</td>
 		<td>
-			<a href="pec3/cuestionario6">
+			<a href="pec3/cuestionario_6.png">
 				Cuestionario 6
 			</a>
 		</td>
@@ -123,7 +123,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="pec3/cuestionario7">
+			<a href="pec3/cuestionario_7.png">
 				Cuestionario 7
 			</a>
 		</td>
@@ -137,7 +137,7 @@ xychart-beta
 			(15%)
 		</td>
 		<td>
-			<a href="pec4/cuestionario8">
+			<a href="pec4/cuestionario_8.png">
 				Cuestionario 8
 			</a>
 		</td>
@@ -145,7 +145,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="pec4/cuestionario9">
+			<a href="pec4/cuestionario_9.png">
 				Cuestionario 9
 			</a>
 		</td>
@@ -153,7 +153,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="pec4/cuestionario10">
+			<a href="pec4/cuestionario_10.png">
 				Cuestionario 10
 			</a>
 		</td>
@@ -161,7 +161,7 @@ xychart-beta
 	</tr>
 	<tr>
 		<td>
-			<a href="pec4/cuestionario11">
+			<a href="pec4/cuestionario_11.png">
 				Cuestionario 11
 			</a>
 		</td>
