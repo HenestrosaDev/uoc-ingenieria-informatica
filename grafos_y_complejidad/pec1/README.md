@@ -22,8 +22,8 @@ Esta PEC se compone de dos partes:
 
 **Calificación actividades PDF**:
 
-- **Calificación original**: - / 25,00
-- **Calificación sobre 10**: - / 10,00
+- **Calificación original**: 24,34 / 25,00
+- **Calificación sobre 10**: 9,74 / 10,00
 
 **Calificación cuestionario**:
 
@@ -32,10 +32,14 @@ Esta PEC se compone de dos partes:
 
 **Calificación total**:
 
-- **Calificación original** (actividades PDF + cuestionario): - / 33,00
-- **Calificación sobre 10**: - / 10,00
-- **Letra (escala internacional)**: 
+- **Calificación original** (actividades PDF + cuestionario): 32,34 / 33,00
+- **Calificación sobre 10**: 9,80 / 10,00
+- **Letra (escala internacional)**: A
 
 ### Detalles sobre la puntuación
 
 ![](detalles_puntuacion.png)
+
+### Comentarios de retroalimentación sobre la entrega original 
+
+**Actividades PDF**: Faltan los pasos intermedios para desarrollar el algoritmo de Floyd en el ejercicio 3 a).

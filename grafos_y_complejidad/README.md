@@ -54,7 +54,7 @@ xychart-beta
 				Actividad
 			</a>
 		</td>
-		<td>- / 25,00 ( )</td>
+		<td>24,34 / 25,00 (A)</td>
 		<td rowspan="6">
 			<p>
 				<strong>Calificación total PEC</strong>:
@@ -75,7 +75,7 @@ xychart-beta
 				Cuestionario
 			</a>
 		</td>
-		<td>- / 8,00 ( )</td>
+		<td>8,00 / 8,00 (A)</td>
 	</tr>
 	<tr>
 		<td rowspan="2">
