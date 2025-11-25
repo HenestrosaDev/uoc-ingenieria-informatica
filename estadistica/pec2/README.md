@@ -37,11 +37,11 @@ Esta PEC se compone de dos partes:
 
 ### Detalles sobre la puntuación
 
-**Actividades R**:
+**Cuestionario**:
 
 ![](entrega/1_cuestionario/detalles_puntuacion.png)
 
-**Cuestionario**:
+**Actividades R**:
 
 ![](entrega/2_actividades_r/detalles_puntuacion.png)
 
