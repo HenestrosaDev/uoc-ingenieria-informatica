@@ -391,7 +391,7 @@
 		</td>
 		<td>
 			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/logica/pec1">
-				PEC1 - ¿Estás preparado para adentrarte en el mundo de los computadores digitales?
+				PEC1 - El lenguaje formal de la lógica de enunciados
 			</a>
 		</td>
 		<td>-</td>
