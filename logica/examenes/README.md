@@ -7,411 +7,561 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 ## Índice
 
 >[!NOTE]
->- Por lo general, cada mes tiene un directorio con dos idiomas (español o catalán) que contiene 3 exámenes.
->- El desglose de los exámenes se dividen por la fecha de realización. Por ejemplo, los exámenes en español del curso 2024/25-1 se encuentran en el directorio `2025/enero/espanol`.
->- Las celdas de la tabla que no tienen ningún enlace indican que faltan exámenes de ese idioma o mes.
+>- El desglose de los exámenes se dividen por el curso de realización, fecha e idioma, en ese orden. Por ejemplo, los exámenes en español del realizados en enero durante el curso 2024-2025 se encuentran en el directorio `2024-2025/enero/espanol`.
+>- Las celdas de la tabla que no tienen ningún enlace indican que faltan exámenes de ese año, mes o idioma.
 
 <table>
 	<tr>
-		<th>AÑO</th>
+		<th>CURSO</th>
 		<th>MES</th>
 		<th>IDIOMA</th>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2005">2005</a>
+			<a href="2004-2005">2004-2005</a>
 		</td>
 		<td rowspan="2">
-			<a href="2005/enero">Enero</a>
+			<a href="2004-2005/enero">Enero</a>
 		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
 		<td>
-			<a href="2005/enero/espanol">Español</a>
+			<a href="2004-2005/enero/espanol">Español</a>
 		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2005/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2005/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2004-2005/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2004-2005/junio/espanol">Español</a>
+		</td>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2006">2006</a>
+			<a href="2005-2006">2005-2006</a>
 		</td>
 		<td rowspan="2">
-			<a href="2006/enero">Enero</a>
+			<a href="2005-2006/enero">Enero</a>
 		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
 		<td>
-			<a href="2006/enero/espanol">Español</a>
+			<a href="2005-2006/enero/espanol">Español</a>
 		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2006/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2006/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2005-2006/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2005-2006/junio/espanol">Español</a>
+		</td>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2007">2007</a>
+			<a href="2006-2007">2006-2007</a>
 		</td>
 		<td rowspan="2">
-			<a href="2007/enero">Enero</a>
+			<a href="2006-2007/enero">Enero</a>
 		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
 		<td>
-			<a href="2007/enero/espanol">Español</a>
+			<a href="2006-2007/enero/espanol">Español</a>
 		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2007/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2007/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2006-2007/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2006-2007/junio/espanol">Español</a>
+		</td>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2008">2008</a>
+			<a href="2007-2008">2007-2008</a>
 		</td>
 		<td rowspan="2">
-			<a href="2008/enero">Enero</a>
+			<a href="2007-2008/enero">Enero</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2007-2008/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2007-2008/junio">Junio</a>
 		</td>
 		<td>
-			<a href="2008/enero/espanol">Español</a>
+			<a href="2007-2008/junio/catala">Catalán</a>
 		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2008/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2008/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2008/junio/catala">Catalán</a>
-			</td>
-		</tr>
+	</tr>
+	<tr>
+		<td>
+			<a href="2007-2008/junio/espanol">Español</a>
+		</td>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2009">2009</a>
+			<a href="2008-2009">2008-2009</a>
 		</td>
 		<td rowspan="2">
-			<a href="2009/enero">Enero</a>
+			<a href="2008-2009/enero">Enero</a>
 		</td>
+		<td>
+			<a href="2008-2009/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
 		<td>Español</td>
-		<tr>
-			<td>
-				<a href="2009/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2009/junio">Junio</a>
-			</td>
-			<td>Español</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2009/junio/catala">Catalán</a>
-			</td>
-		</tr>
 	</tr>
 	<tr>
-		<td rowspan="4">
-			<a href="2010">2010</a>
-		</td>
 		<td rowspan="2">
-			<a href="2010/enero">Enero</a>
+			<a href="2008-2009/junio">Junio</a>
 		</td>
+		<td>
+			<a href="2008-2009/junio/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
 		<td>Español</td>
-		<tr>
-			<td>
-				<a href="2010/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2010/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2010/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2011">2011</a>
+			<a href="2009-2010">2009-2010</a>
 		</td>
 		<td rowspan="2">
-			<a href="2011/enero">Enero</a>
+			<a href="2009-2010/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2011/enero/espanol">Español</a>
+			<a href="2009-2010/enero/catala">Catalán</a>
 		</td>
-		<tr>
-			<td>
-				<a href="2011/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2011/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2011/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2011/junio/catala">Catalán</a>
-			</td>
-		</tr>
 	</tr>
 	<tr>
-		<td rowspan="4">
-			<a href="2012">2012</a>
-		</td>
-		<td rowspan="2">
-			<a href="2012/enero">Enero</a>
-		</td>
-		<td>
-			<a href="2012/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>
-				<a href="2012/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2012/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2012/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2012/junio/catala">Catalán</a>
-			</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2013">2013</a>
-		</td>
-		<td rowspan="2">
-			<a href="2013/enero">Enero</a>
-		</td>
 		<td>Español</td>
-		<tr>
-			<td>
-				<a href="2013/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2013/junio">Junio</a>
-			</td>
-			<td>Español</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2013/junio/catala">Catalán</a>
-			</td>
-		</tr>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2009-2010/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2009-2010/junio/espanol">Español</a>
+		</td>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2014">2014</a>
+			<a href="2010-2011">2010-2011</a>
 		</td>
 		<td rowspan="2">
-			<a href="2014/enero">Enero</a>
+			<a href="2010-2011/enero">Enero</a>
 		</td>
+		<td>
+			<a href="2010-2011/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2010-2011/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2010-2011/junio">Junio</a>
+		</td>
+		<td>
+			<a href="2010-2011/junio/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2010-2011/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2011-2012">2011-2012</a>
+		</td>
+		<td rowspan="2">
+			<a href="2011-2012/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2011-2012/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2011-2012/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2011-2012/junio">Junio</a>
+		</td>
+		<td>
+			<a href="2011-2012/junio/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2011-2012/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2012-2013">2012-2013</a>
+		</td>
+		<td rowspan="2">
+			<a href="2012-2013/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2012-2013/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
 		<td>Español</td>
-		<tr>
-			<td>
-				<a href="2014/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2014/junio">Junio</a>
-			</td>
-			<td>Español</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2014/junio/catala">Catalán</a>
-			</td>
-		</tr>
 	</tr>
 	<tr>
-		<td rowspan="4">
-			<a href="2015">2015</a>
-		</td>
 		<td rowspan="2">
-			<a href="2015/enero">Enero</a>
+			<a href="2012-2013/junio">Junio</a>
 		</td>
 		<td>
-			<a href="2015/enero/espanol">Español</a>
+			<a href="2012-2013/junio/catala">Catalán</a>
 		</td>
-		<tr>
-			<td>
-				<a href="2015/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2015/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2015/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2015/junio/catala">Catalán</a>
-			</td>
-		</tr>
 	</tr>
 	<tr>
-		<td rowspan="4">
-			<a href="2016">2016</a>
-		</td>
-		<td rowspan="2">
-			<a href="2016/enero">Enero</a>
-		</td>
-		<td>
-			<a href="2016/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>
-				<a href="2016/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2016/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2016/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2016/junio/catala">Catalán</a>
-			</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2017">2017</a>
-		</td>
-		<td rowspan="2">
-			<a href="2017/enero">Enero</a>
-		</td>
-		<td>
-			<a href="2017/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2017/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2017/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2017/junio/catala">Catalán</a>
-			</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2018">2018</a>
-		</td>
-		<td rowspan="2">Enero</td>
 		<td>Español</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2018/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2018/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2019">2019</a>
+			<a href="2013-2014">2013-2014</a>
 		</td>
 		<td rowspan="2">
-			<a href="2019/enero">Enero</a>
+			<a href="2013-2014/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2019/enero/espanol">Español</a>
+			<a href="2013-2014/enero/catala">Catalán</a>
 		</td>
-		<tr>
-			<td>
-				<a href="2019/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2019/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2019/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2019/junio/catala">Catalán</a>
-			</td>
-		</tr>
 	</tr>
+	<tr>
+		<td>Español</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2013-2014/junio">Junio</a>
+		</td>
+		<td>
+			<a href="2013-2014/junio/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>Español</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2014-2015">2014-2015</a>
+		</td>
+		<td rowspan="2">
+			<a href="2014-2015/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2014-2015/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2014-2015/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			Junio
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>Español</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2015-2016">2015-2016</a>
+		</td>
+		<td rowspan="2">
+			<a href="2015-2016/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2015-2016/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2015-2016/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			Junio
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>Español</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2016-2017">2016-2017</a>
+		</td>
+		<td rowspan="2">
+			<a href="2016-2017/enero">Enero</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2016-2017/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2016-2017/junio">Junio</a>
+		</td>
+		<td>
+			<a href="2016-2017/junio/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2016-2017/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2017-2018">2017-2018</a>
+		</td>
+		<td rowspan="2">
+			Enero
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>Español</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2017-2018/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2017-2018/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2018-2019">2018-2019</a>
+		</td>
+		<td rowspan="2">
+			<a href="2018-2019/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2018-2019/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2018-2019/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2018-2019/junio">Junio</a>
+		</td>
+		<td>
+			<a href="2018-2019/junio/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2018-2019/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2019-2020">2019-2020</a>
+		</td>
+		<td rowspan="2">
+			<a href="2019-2020/enero">Enero</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2019-2020/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2019-2020/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2019-2020/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2020-2021">2020-2021</a>
+		</td>
+		<td rowspan="2">
+			<a href="2020-2021/enero">Enero</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2020-2021/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2020-2021/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2020-2021/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2021-2022">2021-2022</a>
+		</td>
+		<td rowspan="2">
+			<a href="2021-2022/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2021-2022/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2021-2022/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2021-2022/junio">Junio</a>
+		</td>
+		<td>
+			<a href="2021-2022/junio/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2021-2022/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2022-2023">2022-2023</a>
+		</td>
+		<td rowspan="2">
+			<a href="2022-2023/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2022-2023/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2022-2023/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2022-2023/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2022-2023/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2023-2024">2023-2024</a>
+		</td>
+		<td rowspan="2">
+			<a href="2023-2024/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2023-2024/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2023-2024/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2023-2024/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2023-2024/junio/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2024-2025">2024-2025</a>
+		</td>
+		<td rowspan="2">
+			Enero
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>Español</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<a href="2024-2025/junio">Junio</a>
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2024-2025/junio/espanol">Español</a>
+		</td>
+	</tr>
+</table>
 	<tr>
 		<td rowspan="4">
 			<a href="2020">2020</a>
