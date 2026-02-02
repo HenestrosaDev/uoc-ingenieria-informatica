@@ -8,24 +8,24 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 
 >[!NOTE]
 >- Por lo general, cada mes tiene un directorio con dos idiomas (español o catalán) que contiene 3 exámenes.
->- El desglose de los exámenes se dividen por la fecha de realización. Por ejemplo, los exámenes en español del curso 2024/25-1 se encuentran en el directorio `2025/enero/español`.
+>- El desglose de los exámenes se dividen por la fecha de realización. Por ejemplo, los exámenes en español del curso 2023/24-1 se encuentran en el directorio `2023-2024/enero/espanol`.
 >- Las celdas de la tabla que no tienen ningún enlace indican que faltan exámenes de ese idioma o mes.
 
 <table>
 	<tr>
-		<th>AÑO</th>
+		<th>CURSO</th>
 		<th>MES</th>
 		<th>IDIOMA</th>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2016">2016</a>
+			<a href="2015-2016">2015-2016</a>
 		</td>
 		<td rowspan="2">
-			<a href="2016/enero">Enero</a>
+			<a href="2015-2016/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2016/enero/espanol">Español</a>
+			<a href="2015-2016/enero/espanol">Español</a>
 		</td>
 		<tr>
 			<td>
@@ -48,13 +48,13 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2017">2017</a>
+			<a href="2016-2017">2016-2017</a>
 		</td>
 		<td rowspan="2">
-			<a href="2017/enero">Enero</a>
+			<a href="2016-2017/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2017/enero/espanol">Español</a>
+			<a href="2016-2017/enero/espanol">Español</a>
 		</td>
 		<tr>
 			<td>Catalán</td>
@@ -75,48 +75,23 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2018">2018</a>
-		</td>
-		<td rowspan="2">Enero</td>
-			<td>
-				<a href="2018/junio/espanol/">Español</a>
-			</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2018/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2018/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2019">2019</a>
+			<a href="2017-2018">2017-2018</a>
 		</td>
 		<td rowspan="2">
-			<a href="2019/enero">Enero</a>
+			<a href="2017-2018/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2019/enero/espanol">Español</a>
+			<a href="2017-2018/enero/espanol">Español</a>
 		</td>
 		<tr>
-			<td>
-				Catalán
-			</td>
+			<td>Catalán</td>
 		</tr>
 		<tr>
 			<td rowspan="2">
-				<a href="2019/junio">Junio</a>
+				<a href="2017-2018/junio">Junio</a>
 			</td>
 			<td>
-				<a href="2019/junio/espanol">Español</a>
+				<a href="2017-2018/junio/espanol">Español</a>
 			</td>
 		</tr>
 		<tr>
@@ -127,63 +102,40 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2020">2020</a>
+			<a href="2018-2019">2018-2019</a>
 		</td>
 		<td rowspan="2">
-			<a href="2020/enero">Enero</a>
+			<a href="2018-2019/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2020/enero/espanol">Español</a>
+			<a href="2018-2019/enero/espanol">Español</a>
 		</td>
 		<tr>
 			<td>Catalán</td>
 		</tr>
 		<tr>
 			<td rowspan="2">
-				<a href="2020/junio">Junio</a>
+				<a href="2018-2019/junio">Junio</a>
 			</td>
 			<td>
-				<a href="2020/junio/espanol">Español</a>
+				<a href="2018-2019/junio/espanol">Español</a>
 			</td>
 		</tr>
 		<tr>
-			<td>Catalán</td>
+			<td>
+				Catalán
+			</td>
 		</tr>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2021">2021</a>
+			<a href="2019-2020">2019-2020</a>
 		</td>
 		<td rowspan="2">
-			<a href="2021/enero">Enero</a>
+			<a href="2019-2020/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2021/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2021/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2021/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2022">2022</a>
-		</td>
-		<td rowspan="2">
-			<a href="2022/enero">Enero</a>
-		</td>
-		<td>
-			<a href="2022/enero/espanol">Español</a>
+			<a href="2019-2020/enero/espanol">Español</a>
 		</td>
 		<tr>
 			<td>
@@ -192,27 +144,54 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 		</tr>
 		<tr>
 			<td rowspan="2">
-				<a href="2022/junio">Junio</a>
+				<a href="2019-2020/junio">Junio</a>
 			</td>
 			<td>
-				<a href="2022/junio/espanol">Español</a>
+				<a href="2019-2020/junio/espanol">Español</a>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="2022/junio/catala">Catalán</a>
+				Catalán
 			</td>
 		</tr>
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2023">2023</a>
+			<a href="2020-2021">2020-2021</a>
 		</td>
 		<td rowspan="2">
-			<a href="2023/enero">Enero</a>
+			<a href="2020-2021/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2023/enero/espanol">Español</a>
+			<a href="2020-2021/enero/espanol">Español</a>
+		</td>
+		<tr>
+			<td>Catalán</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				<a href="2020-2021/junio">Junio</a>
+			</td>
+			<td>
+				<a href="2020-2021/junio/espanol">Español</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Catalán
+			</td>
+		</tr>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2021-2022">2021-2022</a>
+		</td>
+		<td rowspan="2">
+			<a href="2021-2022/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2021-2022/enero/espanol">Español</a>
 		</td>
 		<tr>
 			<td>
@@ -221,10 +200,68 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 		</tr>
 		<tr>
 			<td rowspan="2">
-				<a href="2023/junio">Junio</a>
+				<a href="2021-2022/junio">Junio</a>
 			</td>
 			<td>
-				<a href="2023/junio/espanol">Español</a>
+				<a href="2021-2022/junio/espanol">Español</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="2021-2022/junio/catala">Catalán</a>
+			</td>
+		</tr>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2022-2023">2022-2023</a>
+		</td>
+		<td rowspan="2">
+			<a href="2022-2023/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2022-2023/enero/espanol">Español</a>
+		</td>
+		<tr>
+			<td>
+				Catalán
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				<a href="2022-2023/junio">Junio</a>
+			</td>
+			<td>
+				<a href="2022-2023/junio/espanol">Español</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Catalán
+			</td>
+		</tr>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2023-2024">2023-2024</a>
+		</td>
+		<td rowspan="2">
+			<a href="2023-2024/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2023-2024/enero/espanol">Español</a>
+		</td>
+		<tr>
+			<td>
+				Catalán
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				<a href="2023-2024/junio">Junio</a>
+			</td>
+			<td>
+				<a href="2023-2024/junio/espanol">Español</a>
 			</td>
 		</tr>
 		<tr>
@@ -233,13 +270,13 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 	</tr>
 	<tr>
 		<td rowspan="4">
-			<a href="2024">2024</a>
+			<a href="2024-2025">2024-2025</a>
 		</td>
 		<td rowspan="2">
-			<a href="2024/enero">Enero</a>
+			<a href="2024-2025/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2024/enero/espanol">Español</a>
+			<a href="2024-2025/enero/espanol">Español</a>
 		</td>
 		<tr>
 			<td>
@@ -248,37 +285,10 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 		</tr>
 		<tr>
 			<td rowspan="2">
-				<a href="2024/junio">Junio</a>
+				Junio
 			</td>
 			<td>
-				<a href="2024/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2025">2025</a>
-		</td>
-		<td rowspan="2">
-			<a href="2025/enero">Enero</a>
-		</td>
-		<td>
-			<a href="2025/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>
-				Catalán
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2025/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2025/junio/espanol">Español</a>
+				Español
 			</td>
 		</tr>
 		<tr>
