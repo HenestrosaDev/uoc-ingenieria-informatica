@@ -2,6 +2,7 @@
 
 ## Información sobre la asignatura
 
+- **Código**: 75.569
 - **Curso**: 2025/26 (1º semestre)
 - **Tipo**: Obligatoria
 - **Método de evaluación**: Examen (65%) + Evaluación continua (35%)
@@ -11,9 +12,9 @@
 ```mermaid
 xychart-beta
 		title "Estadísticas de las calificaciones para el curso 2025/26-1"
-		x-axis ["Matrícula Honor (6%)", "Sobresaliente (32%)", "Notable (41%)", "Aprobado (18%)", "Suspendido (3%)"]
-		y-axis "% de alumnos" 0 --> 41
-		bar [6, 32, 41, 18, 3]
+		x-axis ["Matrícula Honor (5%)", "Sobresaliente (37%)", "Notable (49%)", "Aprobado (7%)", "Suspendido (1%)"]
+		y-axis "% de alumnos" 0 --> 49
+		bar [5, 37, 49, 7, 1]
 ```
 
 ><details>
