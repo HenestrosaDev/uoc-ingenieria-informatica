@@ -2,6 +2,7 @@
 
 ## Información sobre la asignatura
 
+- **Código**: 75.568
 - **Curso**: 2025/26 (1º semestre)
 - **Tipo**: Básica
 - **Método de evaluación**: Evaluación continua (100%) [PEC (40%) + PEC de síntesis (60%)]
@@ -11,9 +12,9 @@
 ```mermaid
 xychart-beta
 		title "Estadísticas de las calificaciones para el curso 2025/26-1"
-		x-axis ["Matrícula Honor (6%)", "Sobresaliente (32%)", "Notable (41%)", "Aprobado (18%)", "Suspendido (3%)"]
-		y-axis "% de alumnos" 0 --> 41
-		bar [6, 32, 41, 18, 3]
+		x-axis ["Matrícula Honor (0%)", "Sobresaliente (12%)", "Notable (51%)", "Aprobado (17%)", "Suspendido (20%)"]
+		y-axis "% de alumnos" 0 --> 51
+		bar [0, 12, 51, 17, 20]
 ```
 
 ><details>
@@ -52,9 +53,25 @@ xychart-beta
 		<td>6,66 / 6,66 (A)</td>
 		<td rowspan="7">
 			<p>
-				<strong>Calificación total PEC</strong>:
+				<strong>Calificación PEC1-6</strong>:
 				<br>
-				- / 100,00
+				39,24 / 40,00
+			</p>
+			<p>
+				<strong>Calificación PEC7</strong>:
+				<br>
+				 49,00 / 60,00
+			</p>
+			<p>
+				<strong>Suma calificación PECs</strong>:
+				<br>
+				88,24 / 10,00
+			</p>
+			<br>
+			<p>
+				<strong>Calificación ponderada EC</strong>:
+				<br>
+				8,82 / 10,00
 			</p>
 		</td>
 	</tr>
@@ -65,7 +82,7 @@ xychart-beta
 			</a>
 			(6,68%)
 		</td>
-		<td>- / 6,68 ( )</td>
+		<td>6,68 / 6,68 (A)</td>
 	</tr>
 	<tr>
 		<td>
@@ -74,7 +91,7 @@ xychart-beta
 			</a>
 			(6,66%)
 		</td>
-		<td>- / 6,66 ( )</td>
+		<td>6,59 / 6,66 (A)</td>
 	</tr>
 	<tr>
 		<td>
@@ -83,7 +100,7 @@ xychart-beta
 			</a>
 			(6,66%)
 		</td>
-		<td>- / 6,66 ( )</td>
+		<td>6,66 / 6,66 (A)</td>
 	</tr>
 	<tr>
 		<td>
@@ -92,7 +109,7 @@ xychart-beta
 			</a>
 			(6,68%)
 		</td>
-		<td>- / 6,68 ( )</td>
+		<td>6,12 / 6,68 (A)</td>
 	</tr>
 	<tr>
 		<td>
@@ -101,7 +118,7 @@ xychart-beta
 			</a>
 			(6,66%)
 		</td>
-		<td>- / 6,66 ( )</td>
+		<td>6,53 / 6,66 (A)</td>
 	</tr>
 	<tr>
 		<td>
@@ -110,7 +127,7 @@ xychart-beta
 			</a>
 			(60%)
 		</td>
-		<td>- / 60,00 ( )</td>
+		<td>4,90 / 6,00 (B)</td>
 	</tr>
 	<tr>
 		<td colspan="3"></td>	
@@ -120,7 +137,7 @@ xychart-beta
 		<td colspan="3">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
-		<td>- / 10,00 ( )</td>
+		<td>8,82 / 10,00 (B)</td>
 	</tr>
 </table>
 
