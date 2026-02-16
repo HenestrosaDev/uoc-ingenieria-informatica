@@ -43,22 +43,18 @@
 **Cuestionario 2**:
 - **Calificación original**: 3,75 / 3,75
 - **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
 
 **Cuestionario 3**:
 - **Calificación original**: 3,75 / 3,75
 - **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
 
 **Cuestionario 4**:
 - **Calificación original**: 3,75 / 3,75
 - **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
 
 **Cuestionario 5**:
 - **Calificación original**: 3,75 / 3,75
 - **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
 
 **Calificación total**:
 - **Calificación original**: 15,00 / 15,00
@@ -67,4 +63,18 @@
 
 ### Detalles sobre la puntuación
 
-![](detalles_puntuacion.png)
+- **Cuestionario 2**
+
+	![](detalles_puntuacion/cuestionario_2.png)
+
+- **Cuestionario 3**
+
+	![](detalles_puntuacion/cuestionario_3.png)
+
+- **Cuestionario 4**
+
+	![](detalles_puntuacion/cuestionario_4.png)
+
+- **Cuestionario 5**
+
+	![](detalles_puntuacion/cuestionario_5.png)
