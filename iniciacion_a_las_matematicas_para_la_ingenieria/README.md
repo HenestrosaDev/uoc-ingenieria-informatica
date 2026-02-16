@@ -76,7 +76,7 @@ xychart-beta
 			<p>
 				<strong>Calificación ponderada PEC1</strong>:
 				<br>
-				4,72 / 50,00
+				4,72 / 5,00
 			</p>
 			<br>
 			<br>
@@ -89,7 +89,7 @@ xychart-beta
 			<p>
 				<strong>Calificación ponderada PEC2</strong>:
 				<br>
-				4,88 / 50,00
+				4,88 / 5,00
 			</p>
 			<br>
 			<br>
