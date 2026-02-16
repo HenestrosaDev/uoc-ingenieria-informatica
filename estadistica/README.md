@@ -38,7 +38,6 @@ xychart-beta
 		<th>BLOQUE</th>
 		<th>ACTIVIDAD</th>
 		<th>CALIFICACIÓN</th>
-		<th>CALIFICACIÓN PONDERADA</th>
 	</tr>
 	<tr>
 		<td rowspan="7">
@@ -51,29 +50,6 @@ xychart-beta
 			(6,66%)
 		</td>
 		<td>6,66 / 6,66 (A)</td>
-		<td rowspan="7">
-			<p>
-				<strong>Calificación PEC1-6</strong>:
-				<br>
-				39,24 / 40,00
-			</p>
-			<p>
-				<strong>Calificación PEC7</strong>:
-				<br>
-				 49,00 / 60,00
-			</p>
-			<p>
-				<strong>Suma calificación PECs</strong>:
-				<br>
-				88,24 / 10,00
-			</p>
-			<br>
-			<p>
-				<strong>Calificación ponderada EC</strong>:
-				<br>
-				8,82 / 10,00
-			</p>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -127,14 +103,14 @@ xychart-beta
 			</a>
 			(60%)
 		</td>
-		<td>4,90 / 6,00 (B)</td>
+		<td>49,00 / 60,00 (B)</td>
 	</tr>
 	<tr>
-		<td colspan="3"></td>	
+		<td colspan="2"></td>	
 		<td></td>
 	</tr>
 	<tr>
-		<td colspan="3">
+		<td colspan="2">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
 		<td>8,82 / 10,00 (B)</td>
