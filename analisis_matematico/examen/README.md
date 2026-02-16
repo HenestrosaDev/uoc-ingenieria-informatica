@@ -30,23 +30,23 @@
 
 ### Ejercicio 1
 
-![](1.png)
+![](capturas_moodle/1.png)
 
 ### Ejercicio 2
 
-![](2.png)
+![](capturas_moodle/2.png)
 
 ### Ejercicio 3
 
-![](3.png)
+![](capturas_moodle/3.png)
 
 ### Ejercicio 4
 
-![](4.png)
+![](capturas_moodle/4.png)
 
 ### Ejercicio 5
 
-![](5.png)
+![](capturas_moodle/5.png)
 
 ## Orientaciones para el examen
 
