@@ -1,4 +1,4 @@
-# PEC1 - ¿Qué nos describen los datos que tenemos?
+# PEC3 - Probabilidad y variables aleatorias II
 
 Esta PEC se compone de dos partes:
 1. [**Cuestionario WIRIS**](entrega/1_cuestionario/) (80%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC.
@@ -10,10 +10,8 @@ Esta PEC se compone de dos partes:
 >- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 >- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
 
-- [**Estadística descriptiva: Introducción al análisis de datos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269798.pdf) ([Sin Espinas](recursos/sin_espinas-estadistica_descriptiva_y_muestreo.pdf))
-- [**Muestreo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269801.pdf) ([Sin Espinas](recursos/sin_espinas-estadistica_descriptiva_y_muestreo.pdf))
-- [**El entorno estadístico R: Estructura, lenguaje y sintaxis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273871.pdf) ([resumen](recursos/fundamentos_de_r.md))
-- [**Análisis de datos y estadística descriptiva con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279912.pdf) ([resumen](recursos/fundamentos_de_r.md))
+- [**Probabilidad y variables aleatorias**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273858.pdf) ([Sin Espinas](pec2/recursos/sin_espinas-probabilidad.pdf))
+- [**Distribuciones de probabilidad e inferencia estadística con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279914.pdf) ([Sin Espinas](pec2/recursos/sin_espinas-probabilidad.pdf))
 
 --- 
 
@@ -28,13 +26,13 @@ Esta PEC se compone de dos partes:
 
 **Calificación actividades R**:
 
-- **Calificación ponderada**: 1,33 / 1,33
-- **Calificación original**: 100,00 / 100,00
+- **Calificación ponderada**: 1,26 / 1,33
+- **Calificación sobre original**: 95,00 / 100,00
 
 **Calificación total**:
 
-- **Calificación ponderada** (cuestionario + actividades R): 6,66 / 6,66
-- **Calificación original**: 100,00 / 100,00
+- **Calificación ponderada** (cuestionario + actividades R): 6,59 / 6,66
+- **Calificación original**: 97,50 / 10,00
 - **Letra (escala internacional)**: A
 
 ### Detalles sobre la puntuación
@@ -46,3 +44,4 @@ Esta PEC se compone de dos partes:
 **Actividades R**:
 
 ![](entrega/2_actividades_r/detalles_puntuacion.png)
+

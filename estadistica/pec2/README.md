@@ -21,18 +21,18 @@ Esta PEC se compone de dos partes:
 
 **Calificación cuestionario**:
 
-- **Calificación original**: 5,34 / 5,34
-- **Calificación sobre 10**: 10,00 / 10,00
+- **Calificación ponderada**: 5,34 / 5,34
+- **Calificación original**: 100,00 / 100,00
 
 **Calificación actividades R**:
 
-- **Calificación original**: 1,34 / 1,34
-- **Calificación sobre 10**: 10,00 / 10,00
+- **Calificación ponderada**: 1,34 / 1,34
+- **Calificación original**: 10,00 / 10,00
 
 **Calificación total**:
 
-- **Calificación original** (cuestionario + actividades R): 6,68 / 6,68
-- **Calificación sobre 10**: 10,00 / 10,00
+- **Calificación ponderada** (cuestionario + actividades R): 6,68 / 6,68
+- **Calificación original**: 100,00 / 100,00
 - **Letra (escala internacional)**: A
 
 ### Detalles sobre la puntuación

@@ -96,8 +96,8 @@ En caso de detectar copia, desde la asesoría jurídica iniciará un procedimien
 
 ### Calificación
 
-- **Calificación original** : 49,00 / 60,00
-- **Calificación sobre original**: 81,67 / 100,00
+- **Calificación ponderada** : 49,00 / 60,00
+- **Calificación original**: 81,67 / 100,00
 - **Letra (escala internacional)**: B
 
 ### Detalles sobre la puntuación
