@@ -1,6 +1,6 @@
 # PEC3 - De los sistemas combinacionales a los sistemas secuenciales: diseñando circuitos con memoria
 
-El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), así como la entrega en el archivo [`entrega.pdf`](entrega.pdf) y las plantillas para realizarlo ([`plantilla.docx`](plantilla.docx) para Microsoft Word y [`plantilla.odt`](plantilla.odt) para OpenOffice).
+El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), así como la entrega en el archivo [`entrega_evaluada.pdf`](entrega_evaluada.pdf) y las plantillas para realizarlo ([`plantilla.docx`](plantilla.docx) para Microsoft Word y [`plantilla.odt`](plantilla.odt) para OpenOffice).
 
 ## Recursos de aprendizaje
 

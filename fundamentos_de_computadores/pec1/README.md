@@ -1,6 +1,6 @@
 # PEC1 - ¿Estás preparado para adentrarte en el mundo de los computadores digitales?
 
-El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), así como la entrega corregida en el archivo [`entrega_corregida.pdf`](entrega_corregida.pdf) y las plantillas para realizarlo ([`plantilla.docx`](plantilla.docx) para Microsoft Word y [`plantilla.odt`](plantilla.odt) para OpenOffice).
+El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), así como la entrega corregida en el archivo [`entrega_evaluada.pdf`](entrega_evaluada.pdf) y las plantillas para realizarlo ([`plantilla.docx`](plantilla.docx) para Microsoft Word y [`plantilla.odt`](plantilla.odt) para OpenOffice).
 
 ## Recursos de aprendizaje
 
