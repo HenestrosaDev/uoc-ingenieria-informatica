@@ -1,8 +1,8 @@
 # PEC2 - Analizando una red
 
 Esta PEC se compone de dos partes:
-1. [**Entregable**](entregable.pdf) (80%): Ejercicios detallados en el archivo [`enunciado.pdf`](enunciado.pdf).
-2. [**Cuestionario**](cuestionario.png) (20%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC.
+1. [**Entrega PDF**](entrega_evaluada.pdf) (80%): Ejercicios de desarrollo detallados en el archivo [`enunciado.pdf`](enunciado.pdf).
+2. [**Cuestionario**](cuestionario.png) (20%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC. Se permiten dos intentos, de los cuales cuenta el de mayor puntuación.
 
 ## Recursos de aprendizaje
 
@@ -19,23 +19,38 @@ Esta PEC se compone de dos partes:
 
 ### Calificación
 
-**Calificación actividades PDF**:
-
-- **Calificación original**: - / 26,00
-- **Calificación sobre 10**: - / 10,00
-
-**Calificación cuestionario**:
-
-- **Calificación original**: 8,00 / 8,00
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Calificación total**:
-
-- **Calificación original** (actividades PDF + cuestionario): - / 34,00
-- **Calificación sobre 10**: - / 10,00
-- **Letra (escala internacional)**: 
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Entrega PDF</td>
+			<td>19,84 / 26,00</td>
+			<td>7,63 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario</td>
+			<td>8,00 / 8,00</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>27,84 / 34,00</strong></td>
+			<td><strong>8,19 / 10,00 (B)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
-![](detalles_puntuacion.png)
+**Entrega PDF**
+![](detalles_puntuacion/entrega.png)
 
+**Cuestionario**
+![](detalles_puntuacion/cuestionario.png)
