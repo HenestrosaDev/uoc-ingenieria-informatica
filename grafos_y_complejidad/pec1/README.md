@@ -37,13 +37,13 @@ Esta PEC se compone de dos partes:
 		<tr>
 			<td>Cuestionario</td>
 			<td>8,00 / 8,00</td>
-			<td>10,00</td>
+			<td>10,00 / 10,00</td>
 		</tr>
 		<tr><td colspan="3"></td></tr>
 		<tr>
 			<td><strong>TOTAL</strong></td>
 			<td><strong>32,34 / 33,00</strong></td>
-			<td><strong>9,80 (A)</strong></td>
+			<td><strong>9,80 / 10,00 (A)</strong></td>
 		</tr>
 	</tbody>
 </table>
