@@ -5,6 +5,7 @@
 >[!IMPORTANT]
 >Los **métodos de evaluación** pueden variar en función de los beneficios de PyPAC canjeados.
 
+- **Código**: 75.562
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
 - **Método de evaluación**: Evaluación continua (70%: PEC 50% + PR 50%) + Examen (30%)
