@@ -60,13 +60,13 @@ xychart-beta
 			<p>
 				<strong>Calificación total PEC</strong>:
 				<br>
-				- / 100,00
+				92,10 / 100,00
 			</p>
 			<br>
 			<p>
 				<strong>Calificación ponderada EC</strong>:
 				<br>
-				- / 3,50
+				3,22 / 3,50
 			</p>	
 		</td>
 	</tr>
@@ -90,7 +90,7 @@ xychart-beta
 				Actividad
 			</a>
 		</td>
-		<td>- / 25,00 ( )</td>
+		<td>19,84 / 25,00 (B)</td>
 	</tr>
 	<tr>
 		<td>
@@ -98,7 +98,7 @@ xychart-beta
 				Cuestionario
 			</a>
 		</td>
-		<td>- / 8,00 ( )</td>
+		<td>8,00 / 8,00 (A)</td>
 	</tr>
 	<tr>
 		<td rowspan="2">
@@ -112,7 +112,7 @@ xychart-beta
 				Actividad
 			</a>
 		</td>
-		<td> / 26,00 ( )</td>
+		<td>23,92 / 26,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
@@ -120,7 +120,7 @@ xychart-beta
 				Cuestionario
 			</a>
 		</td>
-		<td>- / 8,00 ( )</td>
+		<td>8,00 / 8,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
@@ -129,8 +129,8 @@ xychart-beta
 			</a> (65%)
 		</td>
 		<td colspan="2"></td>
-		<td>- / 10,00</td>
-		<td>- / 6,50</td>
+		<td>10,00 / 10,00</td>
+		<td>6,50 / 6,50</td>
 	</tr>
 	<tr>
 		<td colspan="4"></td>	
@@ -140,7 +140,7 @@ xychart-beta
 		<td colspan="4">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
-		<td>- / 10,00 (M)</td>
+		<td>9,72 / 10,00 (A)</td>
 	</tr>
 </table>
 
@@ -152,7 +152,7 @@ xychart-beta
 
 ### PEC1
 
-- [**Conceptos previos: funciones y algoritmos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([resumen](pec1/recursos/sin_espinas-fundamentos_matematicos.pdf))
+- [**Conceptos previos: funciones y algoritmos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-fundamentos_matematicos.pdf))
 - [**Fundamentos de grafos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267019.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-fundamentos_de_grafos_y_recorridos.pdf))
 - [**Recorridos y conectividad**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267016.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-fundamentos_de_grafos_y_recorridos.pdf))
 
@@ -163,5 +163,5 @@ xychart-beta
 
 ### PEC3
 
-- [**Complejidad computacional**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267022.pdf) ([resumen](pec3/recursos/complejidad_computacional.md))
-- [**Problemas intratables**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293142.pdf) ([resumen](pec3/recursos/problemas_intratables.md))
+- [**Complejidad computacional**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267022.pdf)
+- [**Problemas intratables**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293142.pdf)
