@@ -174,9 +174,22 @@ $\exists x (R(x) \wedge M(x)) \to \exists x (S(x) \wedge C(x) \wedge \exists y (
 
 ### Calificación
 
-- **Calificación original**: 14,66 / 16,66
-- **Calificación sobre 10**: 8,80 / 10,00
-- **Letra (escala internacional)**: B
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>14,66 / 16,66</td>
+			<td>8,60 / 10,00 (B)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 

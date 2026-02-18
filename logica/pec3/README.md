@@ -231,9 +231,22 @@ $(M \vee R) \rightarrow (P \rightarrow F)$
 
 ### Calificación
 
-- **Calificación original**: 12,17 / 16,67
-- **Calificación sobre 10**: 7,30 / 10,00
-- **Letra (escala internacional)**: B
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>12,17 / 16,67</td>
+			<td>7,30 / 10,00 (B)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 

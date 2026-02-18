@@ -165,9 +165,22 @@ $\exists x (B(x) \to P(x,c)) \to \exists x (S(x) \wedge  Q(x,a))$
 
 ### Calificación
 
-- **Calificación original**: 14,66 / 16,66
-- **Calificación sobre 10**: 8,65 / 10,00
-- **Letra (escala internacional)**: B
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>14,41 / 16,66</td>
+			<td>8,65 / 10,00 (B)</td>
+		</tr>
+	</tbody>
+</table>
 
 >No entiendo por qué faltan 0,15. Tengo un C+ en el ejercicio 5, lo cual se traduce en un 0,80 / 2,00, por lo que 10,00 - 1,20 = 8,80.
 

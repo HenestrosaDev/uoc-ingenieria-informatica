@@ -428,9 +428,22 @@ $\neg Q(b,a) \wedge \exists x [S(x) \wedge Q(x,a)]$
 
 ### Calificación
 
-- **Calificación original**: 16,67 / 16,67
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>16,67 / 16,67</td>
+			<td>10,00 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
