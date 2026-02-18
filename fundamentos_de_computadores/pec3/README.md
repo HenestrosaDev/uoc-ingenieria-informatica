@@ -15,9 +15,22 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ### Calificación
 
-- **Calificación original**: 40,00 / 40,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Entrega PDF</td>
+			<td>40,00 / 40,00</td>
+			<td>10,00 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 

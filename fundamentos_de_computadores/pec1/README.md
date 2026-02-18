@@ -18,39 +18,22 @@ El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), as�
 
 ### Calificación
 
-- **Calificación original**: 17,00 / 20,00
-- **Calificación sobre 10**: 8,50 / 10,00
-- **Letra (escala internacional)**: B
-
-### Comentarios de retroalimentación sobre la entrega original 
-
-![](correcciones/1c.png)
->Ejercicio 1c
-
-<br>
-
-![](correcciones/2ab.png)
->Ejercicio 2ab
-
-<br>
-
-![](correcciones/3a.png)
->Ejercicio 3a
-
-<br>
-
-![](correcciones/3b-1.png)
->Ejercicio 3b (parte 1)
-
-<br>
-
-![](correcciones/3b-2.png)
->Ejercicio 3b (parte 2)
-
-<br>
-
-![](correcciones/4a.png)
->Ejercicio 4a
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Entrega PDF</td>
+			<td>17,00 / 17,00</td>
+			<td>8,50 / 10,00 (B)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
