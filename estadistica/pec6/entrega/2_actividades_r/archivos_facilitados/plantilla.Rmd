@@ -1,0 +1,69 @@
+---
+title: "PEC6 Otoño 2025"
+author: "UOC"
+date: ''
+output:
+  pdf_document: default
+  word_document: default
+fontsize: 12pt
+---
+
+
+**En esta actividad no está permitido el uso de herramientas de inteligencia artificial. En el plan docente y en el sitio web sobre integridad académica y plagio de la UOC encontrarán información sobre qué se considera conducta irregular en la evaluación y las consecuencias que puede tener.**
+
+La PEC se basará en el archivo “notasfitxer2.csv”. El archivo contiene los resultados de la evaluación de las dos primeras PECs de estudiantes de esta asignatura en un semestre anterior.
+
+Contiene las variables:
+
+1. CPEC1 Puntuación primer cuestionario.
+
+2. CPEC2 Puntuación segundo cuestionario.
+
+3. RPEC1 Puntuación primera prueba de R.
+
+4. RPEC2 Puntuación segunda prueba de R.
+
+Debéis importar los datos y crear un conjunto de datos con el nombre de \bf notes\rm. Por ejemplo, con el comando:
+
+
+```{r}
+notes<-read.table(file='notesfitxer2.csv',header=TRUE,sep=';',dec='.') 
+
+```
+
+Os puede ser útil consultar el siguiente material:
+
+1. Módulo 10 Regresión lineal simple de las notas de estudio
+2. Tema 1 de regresión lineal del módulo 5 de los Manuales de R
+3. Actividades Resueltas del Reto 5 (Regresión lineal)
+
+# NOMBRE:
+
+
+# PEC6
+
+##  Pregunta 1 (100%)
+Queremos saber si hay relación lineal entre las notas del cuestionario y de la parte de R de la PEC1. También queremos ver si hay relación entre las notas de la prueba de R de la primera y de la segunda PEC.
+
+## a) (10%) En el ámbito de la evaluación académica, se propone utilizar la nota de una prueba anterior ("RPEC1") para intentar predecir la nota de una prueba posterior ("RPEC2"). Razonad la elección de la variable dependiente (explicada / endógena) y la variable explicativa (independiente / exógena) en este contexto.
+
+## b) (10%) Haced el diagrama de dispersión de las variables correspondientes a la variable "CPEC1" (en el eje de ordenadas) en función de la variable "RPEC1" (en el eje de abscisas). Luego haced el mismo diagrama de dispersión para la variable "RPEC2" en función de la "RPEC1". Comentad los gráficos.
+
+
+## c) (20%) Calculad con R las rectas de regresión correspondientes a los gráficos anteriores. Haced los diagramas de dispersión, añadiendo las rectas de regresión. Dad explícitamente las rectas de regresión.
+
+
+
+## d) (20%) ¿Qué variable podemos explicar mejor a partir de la variable "RPEC1"?
+
+## e) (10%) Para el mejor de los dos modelos anteriores, interpretad el significado práctico de los parámetros.
+
+
+## f) (15%) Haced el plot de los residuos frente a las predicciones para el mejor de los dos modelos anteriores. Comentad el gráfico y discutid si podemos considerar que es un buen modelo.
+ 
+
+## g) (15%) Queremos hacer contrastes de hipótesis con un nivel de significación del $0.05$ sobre los coeficientes de los dos modelos que hemos estudiado en el apartado c). ¿Hay algún coeficiente no significativo? Razonad la respuesta.
+
+
+
+
