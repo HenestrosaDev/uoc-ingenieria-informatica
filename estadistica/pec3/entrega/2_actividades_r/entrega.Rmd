@@ -1,0 +1,243 @@
+---
+title: "PEC3 Otoño 2025"
+author: "UOC"
+dato: ''
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
+fontsize: 12pt
+---
+
+Os puede ser útil consultar el siguiente material:
+
+1. Reto 2. Probabilidad y variables aleatorias: Módulo Probabilidad y variables aleatorias.
+1. Reto 2. Probabilidad y variables aleatorias: Variables aleatorias. Actividades Resueltas.
+1. Reto 2. Probabilidad y variables aleatorias: Distribuciones de probabilidad e inferencia estadística con R.
+
+## Muy importante:
+
+En todas las preguntas, tenéis que indicar qué tipo de variable aleatoria usáis y plantear la probabilidad que se pide, como por ejemplo $P(X=4), P(X\leq 3)$, etc, antes de poner las instrucciones y hacer los cálculos con R. Procurad usar las funciones: dnorm, pnorm, dbinom, ...
+
+Toda respuesta que no lleve todas estas explicaciones, con los comentarios pertinentes, será considerada incorrecta aunque se dé un resultado numérico correcto.
+
+\newpage
+
+# NOMBRE: José Carlos López Henestrosa
+
+# PEC3
+
+```{r,echo=FALSE}
+options(scipen=999)
+```
+
+## Pregunta 1 (60%) 
+
+En cada uno de los siguientes apartados se tiene que indicar cuál es la variable aleatoria considerada, cuál es su distribución, así como todos los cálculos.
+
+### 1) Una empresa de desarrollo de software de código abierto monitorea la calidad de los nuevos parches que se integran al repositorio principal. En un día determinado, el equipo de integración ha programado revisar un total de $n = 20$ parches de código. Suponiendo que cada parche es independiente de los demás y que la probabilidad de que un parche contenga un error crítico (critical bug) es $p = 0.10$.
+
+```{r}
+# Datos
+n <- 20    # Parches revisados
+p <- 0.10  # Probabilidad de error crítico
+```
+
+### a) ¿Cuál es la probabilidad de que se encuentren exactamente 3 parches con errores críticos? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **binomial discreta**, ya que se está buscando la probabilidad de un valor puntual específico ($k=3$) dentro del rango de la distribución ($n=20$).
+
+Tenemos que calcular la probabilidad de que la variable aleatoria $X$ tome el valor exacto de 3, por lo que la probabilidad que se pide es $P(X=3)$.
+
+```{r}
+# 1) Calcular P(X = 3)
+probabilidad_X_igual_3 <- dbinom(x = 3, size = n, prob = p)
+
+# 2) Mostrar resultado
+print(probabilidad_X_igual_3)
+```
+
+### b) ¿Cuál es la probabilidad de que se encuentren más de 3 parches con errores críticos? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **binomial discreta**, ya que se está buscando la probabilidad de un rango de valores ($k=4, 5, \dots, 20$).
+
+Tenemos que calcular la probabilidad de que la variable aleatoria $X$ tome un valor mayor que 3, por lo que la probabilidad que se pide es $P(X>3)$.
+
+La estrategia más eficiente para calcular esta probabilidad es usar el complemento:
+
+$$P(X>3) = 1 - P(X\le3)$$
+
+```{r}
+# 1) Aplicar la función de distribución acumulada
+P_X_menor_igual_3 <- pbinom(q = 3, size = n, prob = p)
+
+# 2) Calcular el complemento
+P_X_mayor_3 <- 1 - P_X_menor_igual_3
+
+# 3) Mostrar resultado
+print(P_X_mayor_3)
+```
+
+### c) ¿Cuántos parches se puede esperar que contengan errores críticos? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **binomial**, ya que se está calculando el valor esperado de la distribución, que representa el promedio de parches con error que se encontraría si el proceso se repitiera infinitas veces.
+
+La fórmula para representar la esperanza es la siguiente:
+
+$$E(X) = n * p$$
+
+```{r}
+# 1) Calcular valor esperado
+valor_esperado <- n * p
+
+# 2) Mostrar resultado
+print(valor_esperado)
+```
+
+### 2) Ahora el equipo revisa los parches secuencialmente. La probabilidad de que un parche contenga un error crítico es $p = 0.10$.
+
+### a) ¿Cuál es la probabilidad de que el quinto parche revisado sea el primer parche en contener un error crítico? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **geométrica discreta**, ya que se está calculando la probabilidad de un valor puntual específico ($k=5$). Esto significa que los 4 parches anteriores fueron "fracasos" (sin error) y que el quinto fue un "éxito" (con error).
+
+La probabilidad de que la variable aleatoria $Y$ tome el valor exacto de 5 se representa de la siguiente forma:
+
+$$P(Y=5)$$
+
+```{r}
+# 1) Declarar datos
+k <- 5     # El éxito ocurre en el ensayo 5
+
+# 2) Calcular P(Y=5). `dgeom` requiere el número de fracasos (k-1)
+probabilidad_X_igual_5 <- dgeom(x = k - 1, prob = p)
+
+# 3) Mostrar resultado
+print(probabilidad_X_igual_5)
+```
+
+>Observación: Si $Y$ es una variable aleatoria geométrica de parámetro $p$ para calcular $P(Y=k)$ usaremos en R la función $dgeom(x=k-1, prop=p)$. Fijaos que en la función tenemos que poner $k-1$. 
+
+### b) ¿Cuál es la probabilidad de que el primer parche con un error crítico que aparezca sea antes del sexto parche? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **geométrica discreta**, ya que se está calculando la probabilidad de que el primer éxito ocurra en un rango de valores ($k < 6$). El rango de la geométrica comienza en $k=1$.
+
+La probabilidad de que la variable aleatoria $Y$ tome un valor estrictamente menor que 6 se representa de la siguiente forma:
+
+$$P(Y<6)$$
+
+```{r}
+# 1) Declarar datos
+k <- 5     # El éxito ocurre en el ensayo 5
+
+# 2) Calcular P(Y<6). pgeom(q, prob) calcula P(X <= q)
+P_X_menor_que_6 <- pgeom(q = k, prob = p)
+
+# 3) Mostrar resultado
+print(P_X_menor_que_6)
+```
+
+### 3) Se ha determinado que el número de errores críticos que se detectan en una semana sigue una distribución de Poisson con una media de 3 errores.
+
+### ¿Cuál es la probabilidad de que, en una semana seleccionada al azar, se detecte más de 4 errores críticos en los parches integrados? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **Poisson discreta**, ya que se está calculando la probabilidad en un rango de valores ($k < 4$). Al igual que con la binomial, usaremos la probabilidad acumulada para el complemento.
+
+La probabilidad de que la variable aleatoria $X$ tome un valor estrictamente mayor que 4 se representa de la siguiente forma:
+
+$$P(X>4) = 1 - P(X\le4)$$
+
+```{r}
+# 1) Plantear datos
+lambda <- 3  # Media de errores por semana
+q <- 4       # Valor máximo para la acumulación P(X <= 4)
+
+# 2) Calcular probabilidad acumulada P(X <= 4)
+P_X_menor_igual_4 <- ppois(q = q, lambda = lambda)
+
+# 3) Calcular P(X > 4)
+P_X_mayor_4 <- 1 - P_X_menor_igual_4
+
+# 4) Mostrar resultado
+print(P_X_mayor_4)
+```
+
+\newpage
+
+## Pregunta 2 (40%)
+
+**Un equipo de desarrollo ha implementado un nuevo algoritmo de ordenación. Tras realizar múltiples pruebas en un conjunto de datos grande y homogéneo, han determinado que el tiempo de ejecución del algoritmo, $X$ (medido en milisegundos), sigue una distribución normal con una media ($\mu$) de $450$ ms y una desviación típica ($\sigma$) de $25$ ms.**
+
+### a) ¿Cuál es la probabilidad de que el algoritmo tarde menos de $400$ ms en ejecutarse? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **normal continua**, ya que se busca la probabilidad de un valor en un rango continuo (desde 0 hasta 400).
+
+La probabilidad de que la variable aleatoria $X$ tome un valor estrictamente menor que 400 se representa de la siguiente forma:
+
+$$P(X<400)$$
+
+```{r}
+# 1) Declarar datos
+mu <- 450      # Media
+sigma <- 25    # Desviación típica
+q <- 400       # Valor límite
+
+# 2) Calcular P(X < 400)
+P_X_menor_400 <- pnorm(q = q, mean = mu, sd = sigma)
+
+# 3) Mostrar resultados
+print(P_X_menor_400)
+```
+
+### b) ¿Cuál es la probabilidad de que el algoritmo tarde más de $500$ ms en ejecutarse? (10%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **normal continua**, ya que se busca la probabilidad de un valor en un rango continuo (desde 500 hasta $\infty$).
+
+La probabilidad de que la variable aleatoria $X$ tome un valor estrictamente mayor que 500 se representa de la siguiente forma:
+
+$$P(X>500) = 1 - P(X \le 500)$$
+
+```{r}
+# 1) Declarar datos
+mu <- 450      # Media
+sigma <- 25    # Desviación típica
+q <- 500       # Valor límite
+
+# 2) Calcular probabilidad acumulada P(X <= 500)
+P_X_menor_igual_500 <- pnorm(q = q, mean = mu, sd = sigma)
+
+# 3) Calcular P(X > 500)
+P_X_mayor_500 <- 1 - P_X_menor_igual_500
+
+# 4) Mostrar resultado
+print(P_X_mayor_500)
+```
+
+### c) ¿Entre qué dos tiempos (simétricos respecto a la media) se encuentra el 90% de los tiempos de ejecución? (20%)
+
+El tipo de variable aleatoria a utilizar en este supuesto es **normal continua**, ya que se busca el valor de $X$ que delimita un área central dada (90%).
+
+La probabilidad de encontrar $x_1$ y $x_2$ tal que $P(x_1<X<x_2)=0.90$ se representa de la siguiente forma:
+
+$$P(x_1 < X < x_2) = 0.90$$
+
+```{r}
+# 1) Declarar datos
+mu <- 450
+sigma <- 25
+
+# 2) Calcular el nivel de significación en cada cola de la distribución
+alfa_mitad <- (1 - 0.90) / 2
+
+# 2) Calcular los valores críticos (z) de la distribución normal estándar
+z_inferior <- qnorm(p = alfa_mitad, mean = 0, sd = 1)
+z_superior <- -z_inferior # Por simetría
+
+# 3) Convertir los valores z a la escala original de X
+X_inferior <- mu + z_inferior * sigma
+X_superior <- mu + z_superior * sigma
+
+# 4) Mostrar resultado
+cat(sprintf("El 90%% de los tiempos se encuentra entre %.2f ms y %.2f ms.\n", 
+            X_inferior, X_superior))
+```

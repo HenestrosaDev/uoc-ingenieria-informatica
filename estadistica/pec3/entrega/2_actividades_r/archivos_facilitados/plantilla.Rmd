@@ -1,0 +1,65 @@
+---
+title: "PEC-3 Otoño 2025"
+author: "UOC"
+dato: ''
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+fontsize: 12pt
+---
+
+
+Os puede ser útil consultar el siguiente material:
+
+1. Reto 2. Probabilidad y variables aleatorias: Módulo Probabilidad y variables aleatorias.
+1. Reto 2. Probabilidad y variables aleatorias: Variables aleatorias. Actividades Resueltas.
+1. Reto 2. Probabilidad y variables aleatorias: Distribuciones de probabilidad e inferencia estadística con R.
+
+
+# NOMBRE: 
+
+# PEC3
+
+## Muy importante:
+En todas las preguntas, tenéis que indicar qué tipo de variable aleatoria usáis y plantear la probabilidad que se pide, como por ejemplo $P(X=4), P(X\leq 3)$, etc, antes de poner las instrucciones y hacer los cálculos con R. Procurad usar las funciones: dnorm, pnorm, dbinom, ...
+
+Toda respuesta que no lleve todas estas explicaciones, con los comentarios pertinentes, será considerada incorrecta aunque se dé un resultado numérico correcto.
+
+```{r,echo=FALSE}
+options(scipen=999)
+```
+
+
+## Pregunta 1 (60%) 
+
+En cada uno de los siguientes apartados se tiene que indicar cuál es la variable aleatoria considerada, cuál es su distribución, así como todos los cálculos.
+
+**1) Una empresa de desarrollo de software de código abierto monitorea la calidad de los nuevos parches que se integran al repositorio principal. En un día determinado, el equipo de integración ha programado revisar un total de $n = 20$ parches de código. Suponiendo que cada parche es independiente de los demás y que la probabilidad de que un parche contenga un error crítico (critical bug) es $p = 0.10$.**
+
+a) ¿Cuál es la probabilidad de que se encuentren exactamente 3 parches con errores críticos? (10%)
+b) ¿Cuál es la probabilidad de que se encuentren más de 3 parches con errores críticos? (10%)
+c) ¿Cuántos parches se puede esperar que contengan errores críticos? (10%)
+
+**2) Ahora el equipo revisa los parches secuencialmente. La probabilidad de que un parche contenga un error crítico es $p = 0.10$.**
+
+a) ¿Cuál es la probabilidad de que el quinto parche revisado sea el primer parche en contener un error crítico? (10%)
+b) ¿Cuál es la probabilidad de que el primer parche con un error crítico que aparezca sea antes del sexto parche? (10%)
+
+Observación: Si $Y$ es una variable aleatoria geométrica de parámetro $p$ para calcular $P(Y=k)$ usaremos en R la función $dgeom(x=k-1, prop=p)$. Fijaos que en la función tenemos que poner $k-1$. 
+
+**3) Se ha determinado que el número de errores críticos que se detectan en una semana sigue una distribución de Poisson con una media de 3 errores.**
+
+¿Cuál es la probabilidad de que, en una semana seleccionada al azar, se detecte más de 4 errores críticos en los parches integrados? (10%)
+
+
+## Pregunta 2 (40%)
+
+**Un equipo de desarrollo ha implementado un nuevo algoritmo de ordenación. Tras realizar múltiples pruebas en un conjunto de datos grande y homogéneo, han determinado que el tiempo de ejecución del algoritmo, $X$ (medido en milisegundos), sigue una distribución normal con una media ($\mu$) de $450$ ms y una desviación típica ($\sigma$) de $25$ ms.**
+
+
+a) ¿Cuál es la probabilidad de que el algoritmo tarde menos de $400$ ms en ejecutarse? (10%)
+b) ¿Cuál es la probabilidad de que el algoritmo tarde más de $500$ ms en ejecutarse? (10%)
+c) ¿Entre qué dos tiempos (simétricos respecto a la media) se encuentra el 90% de los tiempos de ejecución?(20%)
+
