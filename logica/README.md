@@ -2,6 +2,7 @@
 
 ## Información sobre la asignatura
 
+- **Código**: 75.570
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
 - **Método de evaluación**: [Evaluación continua (70%) + Prueba de síntesis (30%)] o [Evaluación continua (35%) + Examen (65%)]
