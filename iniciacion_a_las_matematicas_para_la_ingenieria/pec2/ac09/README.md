@@ -43,10 +43,19 @@
 
 ### Calificación
 
-- **Calificación original**: 5,50 / 7,00
-- **Calificación sobre 10**: 7,86 / 10,00
-- **Letra (escala internacional)**: B
-
-### Detalles sobre la puntuación
-
-![](detalles_puntuacion.png)
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>5,50 / 7,00</td>
+			<td>7,86 / 10,00 (B)</td>
+		</tr>
+	</tbody>
+</table>

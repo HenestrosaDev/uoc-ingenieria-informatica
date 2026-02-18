@@ -41,10 +41,19 @@
 
 ### Calificación
 
-- **Calificación original**: 7,00 / 7,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
-
-### Detalles sobre la puntuación
-
-![](detalles_puntuacion.png)
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>7,00 / 7,00</td>
+			<td>10,00 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>

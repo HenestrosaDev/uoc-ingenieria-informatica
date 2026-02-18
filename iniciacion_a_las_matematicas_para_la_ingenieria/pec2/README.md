@@ -131,9 +131,22 @@
 
 ### Calificación
 
-- **Calificación original**: 61,50 / 63,00
-- **Calificación sobre 10**: 9,76 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>61,50 / 63,00</td>
+			<td>9,76 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
