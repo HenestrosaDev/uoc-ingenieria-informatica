@@ -73,6 +73,10 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/8881) y e
 	</tbody>
 </table>
 
+### Rúbrica
+
+![](rubrica.png)
+
 ### Comentarios de retroalimentación sobre la entrega original 
 
 **Sobre mi reflexión**

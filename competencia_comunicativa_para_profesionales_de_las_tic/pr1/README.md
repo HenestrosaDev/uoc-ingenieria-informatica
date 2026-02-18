@@ -1,5 +1,19 @@
 # PR1 - La primera impresión es la que cuenta
 
+- [Descripción](#descripción)
+- [Enunciado y recursos docentes](#enunciado-y-recursos-docentes)
+	- [Enunciado de la práctica](#enunciado-de-la-práctica)
+	- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+- [Retroalimentación (_feedback_)](#retroalimentación-feedback)
+- [Consideraciones sobre el uso de herramientas de inteligencia artificial generativa](#consideraciones-sobre-el-uso-de-herramientas-de-inteligencia-artificial-generativa)
+- [Actividad resuelta](#actividad-resuelta)
+- [Resultado](#resultado)
+	- [Calificación](#calificación)
+	- [Rúbrica](#rúbrica)
+	- [Notas personales](#notas-personales)
+	- [Mensaje que el profesor publicó en el foro con carácter de corrección general](#mensaje-que-el-profesor-publicó-en-el-foro-con-carácter-de-corrección-general)
+
+
 ## Descripción
 
 En nuestro día a día profesional, la mayoría de comunicaciones se producen de manera escrita. Muchas veces necesitamos dirigirnos a un organismo para obtener información, realizar una petición, concertar una entrevista, etc. Todos estos correos tienen en común el carácter formal y un destinatario desconocido; así pues, el nivel de formalidad tiene que ser adecuado al contexto. 
@@ -94,9 +108,9 @@ José Carlos López Henestrosa
 	</tbody>
 </table>
 
-### Comentarios de retroalimentación sobre la entrega original
+### Rúbrica
 
->Ha faltado incorporar citas que refuercen los planteamientos.
+![](rubrica.png)
 
 ### Notas personales
 

@@ -1,5 +1,15 @@
 # PR3 - ¡Manos a la obra! Trabajamos la propuesta de proyecto
 
+- [Descripción y contexto](#descripción-y-contexto)
+- [Enunciado y recursos docentes](#enunciado-y-recursos-docentes)
+	- [Actividad 1. Aplicación del retorno en el texto de la PR2 (10%)](#actividad-1-aplicación-del-retorno-en-el-texto-de-la-pr2-10)
+	- [Actividad 2. Corrección del inicio de una propuesta de proyecto (90%)](#actividad-2-corrección-del-inicio-de-una-propuesta-de-proyecto-90)
+- [Retroalimentación (_feedback_)](#retroalimentación-feedback)
+- [Consideraciones sobre el uso de herramientas de inteligencia artificial generativa.](#consideraciones-sobre-el-uso-de-herramientas-de-inteligencia-artificial-generativa)
+- [Resultado](#resultado)
+	- [Calificación](#calificación)
+	- [Rúbrica](#rúbrica)
+
 ## Descripción y contexto
 
 Una **propuesta de proyecto** es un documento del ámbito profesional que tiene como finalidad explicar las razones, los antecedentes y los objetivos de un proyecto tecnológico determinado y, a la vez, aconsejar que se adopten las medidas adecuadas para que una empresa tome la decisión más acertada para una situación concreta. En **InnovaTech Solutions**, estos documentos son esenciales para convencer a clientes potenciales de la viabilidad y los beneficios de los servicios tecnológicos que llevan a cabo.
@@ -82,8 +92,6 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/8881) y e
 	</tbody>
 </table>
 
-### Comentarios en la rúbrica
+### Rúbrica
 
-- **1,80 / 3,00**: El estudiante ha detectado la mayoría del vocabulario poco adecuado y palabras de significado vago e impreciso.
-- **2,40 / 4,00**: El estudiante ha detectado la mayoría de los errores de construcciones personales y subjetivas.
-- **1,34 / 2,00**: El estudiante ha detectado la mayoría de los errores sobre conectores oracionales y textuales. Ha marcado las incorrecciones y/o repeticiones de estos enlaces.
+![](rubrica.png)

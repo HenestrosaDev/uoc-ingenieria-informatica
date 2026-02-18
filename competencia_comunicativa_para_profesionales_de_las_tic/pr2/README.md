@@ -1,5 +1,18 @@
 # PR2 - Resumiendo que es gerundio
 
+- [Descripción y contexto](#descripción-y-contexto)
+- [Enunciado](#enunciado)
+	- [Actividad 1. Aplicación del retorno en el texto de la PR1 (10%)](#actividad-1-aplicación-del-retorno-en-el-texto-de-la-pr1-10)
+	- [Actividad 2. Resumen de un artículo (70%)](#actividad-2-resumen-de-un-artículo-70)
+	- [Actividad 3. Redacción de una situación de conflicto ético en el entorno laboral (20%)](#actividad-3-redacción-de-una-situación-de-conflicto-ético-en-el-entorno-laboral-20)
+- [Recursos](#recursos)
+- [Retroalimentación (feedback)](#retroalimentación-feedback)
+- [Consideraciones sobre el uso de herramientas de inteligencia artificial generativa](#consideraciones-sobre-el-uso-de-herramientas-de-inteligencia-artificial-generativa)
+- [Resultado](#resultado)
+	- [Calificación](#calificación)
+	- [Rúbrica](#rúbrica)
+	- [Notas personales](#notas-personales)
+
 ## Descripción y contexto
 
 Recientemente, os habéis incorporado como becario o becaria en la empresa InnovaTech Solutions, una consultoría tecnológica especializada en desarrollo digital, seguridad informática y gestión de bases de datos. Una de las primeras tareas que os piden consiste en preparar un resumen de un texto sobre ética profesional en el trabajo para una reunión interna de formación con el equipo. El coordinador de proyectos, Miguel Navarro, quiere destacar la importancia de mantener unos estándares éticos elevados en todas las interacciones profesionales, especialmente en un entorno tan dinámico como el tecnológico. Así pues, el resumen que elaboraréis servirá de base para la discusión sobre cómo aplicar estos valores en la toma de decisiones empresariales y en la relación con los clientes.
@@ -101,31 +114,9 @@ En el [plan docente](https://aula.uoc.edu/courses/41625/external_tools/8881) y e
 	</tbody>
 </table>
 
-### Comentarios de retroalimentación sobre la entrega original
+### Rúbrica
 
-Adjunto las partes del texto en la que se anota el error junto al comentario:
-
->"**Para ilustrar dicha contradicción,** se plantea un dilema ético a través de la historia de Marta, quien descubre que su amigo Luis comete phishing para financiar el tratamiento médico de su madre enferma"  
-
-Corrección sugerida (quitar coma del texto subrayado):
-
->"**Para ilustrar dicha contradicción** se plantea un dilema ético a través de la historia de Marta, quien descubre que su amigo Luis comete phishing para financiar el tratamiento médico de su madre enferma"  
-
----
-
->"Mi compañero de trabajo Ramón ―un gran amigo― utiliza datos de clientes de la empresa de manera indebida. **Accede a la información personal de cada uno** para vendérsela a una entidad competidora de Varsovia (Polonia)..."
-
-Corrección sugerida (expresión coloquial y redundante desde la perspectiva morfosintáctica. La  expresión correcta es "accede a su información"):
-
->Mi compañero de trabajo Ramón ―un gran amigo― utiliza datos de clientes de la empresa de manera indebida. **Accede a su información** para vendérsela a una entidad competidora de Varsovia (Polonia), 
-
----
-
->"...o, por empatía, lealtad y amistad hacia mi **colega**, no tomar ninguna medida..."
-
-Corrección sugerida (compañero):
-
->"...o, por empatía, lealtad y amistad hacia mi **compañero**, no tomar ninguna medida..."
+![](rubrica.png)
 
 ### Notas personales
 
