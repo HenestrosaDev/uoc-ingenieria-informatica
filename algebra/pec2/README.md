@@ -40,41 +40,54 @@
 
 ### Calificación
 
-**Cuestionario 2**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Cuestionario 3**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Cuestionario 4**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Cuestionario 5**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Calificación total**:
-- **Calificación original**: 15,00 / 15,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario 2</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario 3</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario 4</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario 5</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>15,00 / 15,00</strong></td>
+			<td><strong>10,00 / 10,00 (A)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
-- **Cuestionario 2**
+Cuestionario 2
+![](detalles_puntuacion/cuestionario_2.png)
 
-	![](detalles_puntuacion/cuestionario_2.png)
+Cuestionario 3
+![](detalles_puntuacion/cuestionario_3.png)
 
-- **Cuestionario 3**
+Cuestionario 4
+![](detalles_puntuacion/cuestionario_4.png)
 
-	![](detalles_puntuacion/cuestionario_3.png)
-
-- **Cuestionario 4**
-
-	![](detalles_puntuacion/cuestionario_4.png)
-
-- **Cuestionario 5**
-
-	![](detalles_puntuacion/cuestionario_5.png)
+Cuestionario 5
+![](detalles_puntuacion/cuestionario_5.png)

@@ -2,6 +2,9 @@
 
 ## Capturas de las partes
 
+>[!IMPORTANT]
+>A fecha en la que publico esto (18/02/2026), me aparece un error al intentar acceder a los cuestionarios de Moodle, por lo que no puedo adjuntar capturas de los cuestionarios relativos a esta PEC.
+
 <details>
 	<summary>Captura del cuestionario 8 realizada en Moodle</summary>
 
@@ -40,41 +43,54 @@
 
 ### Calificación
 
-**Cuestionario 8**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Cuestionario 9**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Cuestionario 10**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Cuestionario 11**:
-- **Calificación original**: 3,75 / 3,75
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Calificación total**:
-- **Calificación original**: 15,00 / 15,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario 8</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario 9</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario 10</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario 11</td>
+			<td>3,75 / 3,75</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>15,00 / 15,00</strong></td>
+			<td><strong>10,00 / 10,00 (A)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
-- **Cuestionario 8**
+Cuestionario 8
+![](detalles_puntuacion/cuestionario_8.png)
 
-	![](detalles_puntuacion/cuestionario_8.png)
+Cuestionario 9
+![](detalles_puntuacion/cuestionario_9.png)
 
-- **Cuestionario 9**
+Cuestionario 10
+![](detalles_puntuacion/cuestionario_10.png)
 
-	![](detalles_puntuacion/cuestionario_9.png)
-
-- **Cuestionario 10**
-
-	![](detalles_puntuacion/cuestionario_10.png)
-
-- **Cuestionario 11**
-
-	![](detalles_puntuacion/cuestionario_11.png)
+Cuestionario 11
+![](detalles_puntuacion/cuestionario_11.png)
