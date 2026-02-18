@@ -53,8 +53,8 @@ Esta PEC se compone de dos partes:
 >[!WARNING]
 >Los detalles sobre esta puntuación están mal. Desconozco el motivo por el que se presentan así en el aula.
 
-**Entrega PDF**
+Entrega PDF
 ![](detalles_puntuacion/entrega.png)
 
-**Cuestionario**
+Cuestionario
 ![](detalles_puntuacion/cuestionario.png)

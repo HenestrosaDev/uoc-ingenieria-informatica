@@ -48,8 +48,8 @@ Esta PEC se compone de dos partes:
 
 ### Detalles sobre la puntuación
 
-**Entrega PDF**
+Entrega PDF
 ![](detalles_puntuacion/entrega.png)
 
-**Cuestionario**
+Cuestionario
 ![](detalles_puntuacion/cuestionario.png)
