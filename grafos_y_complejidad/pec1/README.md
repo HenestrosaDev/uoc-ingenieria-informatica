@@ -1,8 +1,8 @@
 # PEC1 - Las redes, omnipresentes
 
 Esta PEC se compone de dos partes:
-1. [**Entregable**](entregable.pdf) (80%): Ejercicios detallados en el archivo [`enunciado.pdf`](enunciado.pdf).
-2. [**Cuestionario**](cuestionario.png) (20%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC.
+1. [**Entrega PDF**](entrega_evaluada.pdf) (80%): Ejercicios de desarrollo detallados en el archivo [`enunciado.pdf`](enunciado.pdf).
+2. [**Cuestionario**](cuestionario.png) (20%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC. Se permiten dos intentos, de los cuales cuenta el de mayor puntuación.
 
 ## Recursos de aprendizaje
 
@@ -20,26 +20,41 @@ Esta PEC se compone de dos partes:
 
 ### Calificación
 
-**Calificación actividades PDF**:
-
-- **Calificación original**: 24,34 / 25,00
-- **Calificación sobre 10**: 9,74 / 10,00
-
-**Calificación cuestionario**:
-
-- **Calificación original**: 8,00 / 8,00
-- **Calificación sobre 10**: 10,00 / 10,00
-
-**Calificación total**:
-
-- **Calificación original** (actividades PDF + cuestionario): 32,34 / 33,00
-- **Calificación sobre 10**: 9,80 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Entrega PDF</td>
+			<td>24,34 / 25,00</td>
+			<td>9,74 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Cuestionario</td>
+			<td>8,00 / 8,00</td>
+			<td>10,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>32,34 / 33,00</strong></td>
+			<td><strong>9,80 (A)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
-![](detalles_puntuacion.png)
+>[!WARNING]
+>Los detalles sobre esta puntuación están mal. Desconozco el motivo por el que se presentan así en el aula.
 
-### Comentarios de retroalimentación sobre la entrega original 
+**Entrega PDF**
+![](detalles_puntuacion/entrega.png)
 
-**Actividades PDF**: Faltan los pasos intermedios para desarrollar el algoritmo de Floyd en el ejercicio 3 a).
+**Cuestionario**
+![](detalles_puntuacion/cuestionario.png)
