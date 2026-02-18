@@ -386,13 +386,13 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 	</tr>
 	<tr>
 		<td rowspan="2">
-			Junio
+			<a href="2024-2025/junio">Junio</a>
 		</td>
 		<td>Catalán</td>
 	</tr>
 	<tr>
 		<td>
-			Español
+			<a href="2024-2025/junio/espanol">Español</a>
 		</td>
 	</tr>
 	<tr>

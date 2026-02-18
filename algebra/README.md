@@ -29,7 +29,7 @@ xychart-beta
 
 ## Archivo de exámenes
 
-- [Compilación de 96 exámenes resueltos desde 2009](examenes)
+- [Compilación de 99 exámenes resueltos desde 2009](examenes)
 
 ## Resumen de calificaciones
 
