@@ -2,6 +2,7 @@
 
 ## Información sobre la asignatura
 
+- **Código**: 75.558
 - **Curso**: 2024/25 (2º semestre)
 - **Tipo**: Básica
 - **Método de evaluación**: Examen (65%) + Evaluación continua (35%)
