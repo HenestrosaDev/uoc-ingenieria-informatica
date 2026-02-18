@@ -2,6 +2,7 @@
 
 ## Información sobre la asignatura
 
+- **Código**: 75.563
 - **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Obligatoria
 - **Método de evaluación**: Evaluación continua (100%: PEC 40% + PRs 60%)
