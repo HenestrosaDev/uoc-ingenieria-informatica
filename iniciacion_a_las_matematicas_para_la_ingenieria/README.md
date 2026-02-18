@@ -2,6 +2,7 @@
 
 ## Información sobre la asignatura
 
+- **Código**: 75.614
 - **Curso**: 2024/25 (1º semestre)
 - **Tipo**: Optativa
 - **Método de evaluación**: Evaluación continua (100%: PEC1 50% + PEC2 50%)
