@@ -561,166 +561,32 @@ Esta recopilación de exámenes está actualizada a la fecha en la que cursé es
 			<a href="2024-2025/junio/espanol">Español</a>
 		</td>
 	</tr>
-</table>
 	<tr>
 		<td rowspan="4">
-			<a href="2020">2020</a>
+			<a href="2025-2026">2025-2026</a>
 		</td>
 		<td rowspan="2">
-			<a href="2020/enero">Enero</a>
+			<a href="2025-2026/enero">Enero</a>
 		</td>
 		<td>
-			<a href="2020/enero/espanol">Español</a>
+			<a href="2025-2026/enero/catala">Catalán</a>
 		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2020/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2020/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
 	</tr>
 	<tr>
-		<td rowspan="4">
-			<a href="2021">2021</a>
-		</td>
-		<td rowspan="2">
-			<a href="2021/enero">Enero</a>
-		</td>
 		<td>
-			<a href="2021/enero/espanol">Español</a>
+			<a href="2025-2026/enero/espanol">Español</a>
 		</td>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2021/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2021/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
 	</tr>
 	<tr>
-		<td rowspan="4">
-			<a href="2022">2022</a>
-		</td>
 		<td rowspan="2">
-			<a href="2022/enero">Enero</a>
+			Junio
 		</td>
-		<td>
-			<a href="2022/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>
-				<a href="2022/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2022/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2022/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="2022/junio/catala">Catalán</a>
-			</td>
-		</tr>
+		<td>Catalán</td>
 	</tr>
 	<tr>
-		<td rowspan="4">
-			<a href="2023">2023</a>
-		</td>
-		<td rowspan="2">
-			<a href="2023/enero">Enero</a>
-		</td>
 		<td>
-			<a href="2023/enero/espanol">Español</a>
+			Español
 		</td>
-		<tr>
-			<td>
-				<a href="2023/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2023/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2023/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2024">2024</a>
-		</td>
-		<td rowspan="2">
-			<a href="2024/enero">Enero</a>
-		</td>
-		<td>
-			<a href="2024/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>
-				<a href="2024/enero/catala">Catalán</a>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2024/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2024/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<a href="2025">2025</a>
-		</td>
-		<td rowspan="2">
-			<a href="2025/enero">Enero</a>
-		</td>
-		<td>
-			<a href="2025/enero/espanol">Español</a>
-		</td>
-		<tr>
-			<td>
-				Catalán
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2">
-				<a href="2025/junio">Junio</a>
-			</td>
-			<td>
-				<a href="2024/junio/espanol">Español</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Catalán</td>
-		</tr>
 	</tr>
 </table>
 

@@ -401,6 +401,33 @@ Esta recopilación de pruebas de síntesis (PS) está actualizada a la fecha en 
 			<a href="2024-2025/junio/espanol">Español</a>
 		</td>
 	</tr>
+	<tr>
+		<td rowspan="4">
+			<a href="2025-2026">2025-2026</a>
+		</td>
+		<td rowspan="2">
+			<a href="2025-2026/enero">Enero</a>
+		</td>
+		<td>
+			<a href="2025-2026/enero/catala">Catalán</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="2025-2026/enero/espanol">Español</a>
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			Junio
+		</td>
+		<td>Catalán</td>
+	</tr>
+	<tr>
+		<td>
+			Español
+		</td>
+	</tr>
 </table>
 
 ## Orientaciones para el examen y la prueba de síntesis

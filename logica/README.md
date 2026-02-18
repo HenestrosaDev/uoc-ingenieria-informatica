@@ -28,8 +28,8 @@ xychart-beta
 
 ## Archivo de exámenes y pruebas de síntesis
 
-- [Compilación de 147 exámenes resueltos desde 2005](examenes)
-- [Compilación de 102 pruebas de síntesis resueltas desde 2011](ps)
+- [Compilación de 153 exámenes resueltos desde 2005](examenes)
+- [Compilación de 108 pruebas de síntesis resueltas desde 2011](ps)
 
 ## Resumen de calificaciones
 
