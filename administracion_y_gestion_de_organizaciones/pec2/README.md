@@ -1,7 +1,7 @@
 # PEC2 - Análisis financiero y contable de una organización
 
 Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
-- **Parte teórica**: Tipo test que se encuentra en el archivo `test_entrega.png`.
+- **Parte teórica**: Tipo test que se encuentra en el archivo [`test_entrega.png`](test_entrega.png).
 - **Parte práctica**: El enunciado de esta parte está en el archivo [`enunciado.docx`](enunciado.docx), mientras que el del ejercicio resuelto se corresponde con el archivo [`entrega.pdf`](entrega.pdf).
 
 ## Recursos de aprendizaje
@@ -23,30 +23,38 @@ Esta PEC se divide en dos partes. Representa el 50% de la nota global de la PEC:
 
 ### Calificación
 
-**Parte teórica** ([`cuestionario.png`](cuestionario.png)):
-
-- **Calificación original**: 13,03 / 15,00
-- **Calificación sobre 10**: 8,69 / 10,00
-- **Letra (escala internacional)**: B
-
-**Parte práctica** ([`entrega.pdf`](entrega.pdf)):
-
-- **Calificación original**: 14,10 / 15,00
-- **Calificación sobre 10**: 9,40 / 10,00
-- **Letra (escala internacional)**: A
-
-**Calificación total**:
-
-- **Calificación original**: 27,13 / 30,00
-- **Calificación sobre 10**: 9,04 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Parte teórica</td>
+			<td>13,03 / 15,00</td>
+			<td>8,69 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Parte práctica</td>
+			<td>14,10 / 15,00</td>
+			<td>9,40 / 10,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>27,13 / 30,00</strong></td>
+			<td><strong>9,04 / 10,00 (A)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
+Parte teórica
 ![](detalles_puntuacion-cuestionario.png)
->Detalles sobre la puntuación de la parte teórica
 
-<br>
-
+Parte práctica
 ![](detalles_puntuacion-entrega.png)
->Detalles sobre la puntuación de la parte práctica
