@@ -65,12 +65,25 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/8881) y e
 
 ### Calificación
 
-- **Calificación original**: 36,54 / 40,00
-- **Calificación sobre 10**: 9,14 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Entrega PDF</td>
+			<td>36,54 / 40,00</td>
+			<td>9,14 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Comentarios en la rúbrica
 
 - **1,80 / 3,00**: El estudiante ha detectado la mayoría del vocabulario poco adecuado y palabras de significado vago e impreciso.
-- **2, 40 / 4,00**: El estudiante ha detectado la mayoría de los errores de construcciones personales y subjetivas.
+- **2,40 / 4,00**: El estudiante ha detectado la mayoría de los errores de construcciones personales y subjetivas.
 - **1,34 / 2,00**: El estudiante ha detectado la mayoría de los errores sobre conectores oracionales y textuales. Ha marcado las incorrecciones y/o repeticiones de estos enlaces.

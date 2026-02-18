@@ -37,8 +37,19 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ### Calificación
 
-- **Calificación original**: 30,00 / 33,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
-
-30,041 de 34,00 [8,84 (grado B)] (ver [intento 1](intento_1))
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario (<a href="intento_1">intento 1</a>)</td>
+			<td>30,04/ 33,00</td>
+			<td>9,10 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>

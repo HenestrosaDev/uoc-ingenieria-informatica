@@ -77,9 +77,22 @@ José Carlos López Henestrosa
 
 ### Calificación
 
-- **Calificación original**: 14,40 / 15,00
-- **Calificación sobre 10**: 9,60 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Entrega PDF</td>
+			<td>14,40 / 15,00</td>
+			<td>9,60 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Comentarios de retroalimentación sobre la entrega original
 

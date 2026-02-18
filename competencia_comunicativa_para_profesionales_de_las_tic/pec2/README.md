@@ -38,8 +38,19 @@ En el [plan docente](https://aula.uoc.edu/courses/46292/external_tools/1823) y e
 
 ### Calificación
 
-- **Calificación original**: 33,00 / 33,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
-
-(ver [intento 2](intento_2))
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario (<a href="intento_2">intento 2</a>)</td>
+			<td>33,00/ 33,00</td>
+			<td>10,00 / 10,00 (A)</td>
+		</tr>
+	</tbody>
+</table>
