@@ -33,22 +33,38 @@
 
 ### Calificación
 
-**Parte 1**:
-- **Calificación**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
-
-**Parte 2**:
-- **Calificación**: 9,25 / 10,00
-- **Letra (escala internacional)**: A
-
-**Parte 3**:
-- **Calificación**: 9,20 / 10,00
-- **Letra (escala internacional)**: A
-
-**Calificación total**:
-- **Calificación original** (suma de la calificación sobre 10 de las partes 1, 2 y 3): 28,45 / 30,00
-- **Calificación sobre 10**: 9,49 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Parte 1</td>
+			<td>10,00 / 10,00</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Parte 2</td>
+			<td>9,25 / 10,00</td>
+			<td>9,25 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Parte 3</td>
+			<td>9,20 / 10,00</td>
+			<td>9,20 / 10,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>28,45 / 30,00</strong></td>
+			<td><strong>9,49 / 10,00 (A)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 

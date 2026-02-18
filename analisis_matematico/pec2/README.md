@@ -27,21 +27,37 @@
 
 ### Calificación
 
-**Parte 1**:
-- **Calificación original**: 6,00 / 6,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
-
-**Parte 2**:
-- **Calificación original**: 5,00 / 5,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
-
-**Calificación total**:
-- **Calificación original** (suma de la calificación sobre 10 de las partes 1 y 2): 20,00 / 20,00
-- **Calificación sobre 10**: 10,00 / 10,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Parte 1</td>
+			<td>6,00 / 6,00</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr>
+			<td>Parte 2</td>
+			<td>5,00 / 5,00</td>
+			<td>10,00 / 10,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>11,00 / 11,00</strong></td>
+			<td><strong>10,00 / 10,00 (A)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
+
+>[!IMPORTANT]
+>Por algún motivo, la nota con la que se pondera cada parte en la nota final es sobre 10,00 (cada una) y no sobre 6,00 y 5,00, respectivamente.
 
 ![](detalles_puntuacion.png)
