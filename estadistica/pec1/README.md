@@ -1,8 +1,8 @@
 # PEC1 - ¿Qué nos describen los datos que tenemos?
 
 Esta PEC se compone de dos partes:
-1. [**Cuestionario WIRIS**](entrega/1_cuestionario/) (80%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC.
-2. [**Actividades de R**](entrega/2_actividades_r/) (20%): A partir de un archivo `.rmd` facilitado, debemos realizar los ejercicios y entregar un archivo `.pdf` con el código y los gráficos, así como interpretaciones puntuales de los resultados.
+1. [**Cuestionario WIRIS**](entrega/1_cuestionario/) (80%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC. Se permiten dos intentos, de los cuales cuenta **el último realizado**, independientemente de si la nota es inferior que la del primero.
+2. [**Actividades de R**](entrega/2_actividades_r/) (20%): A partir de un archivo `.rmd` facilitado, debemos realizar los ejercicios y entregar un archivo `.pdf` generado con RStudio con el código y los gráficos, así como interpretaciones puntuales de los resultados.
 
 ## Recursos de aprendizaje
 
@@ -21,28 +21,38 @@ Esta PEC se compone de dos partes:
 
 ### Calificación
 
-**Calificación cuestionario**:
-
-- **Calificación ponderada**: 5,33 / 5,33
-- **Calificación original**: 100,00 / 100,00
-
-**Calificación actividades R**:
-
-- **Calificación ponderada**: 1,33 / 1,33
-- **Calificación original**: 100,00 / 100,00
-
-**Calificación total**:
-
-- **Calificación ponderada** (cuestionario + actividades R): 6,66 / 6,66
-- **Calificación original**: 100,00 / 100,00
-- **Letra (escala internacional)**: A
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. PONDERADA</th>
+			<th>C. SOBRE 100 (ORIGINAL)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Cuestionario</td>
+			<td>5,33 / 5,33</td>
+			<td>100,00 / 100,00</td>
+		</tr>
+		<tr>
+			<td>Actividades R</td>
+			<td>1,33 / 1,33</td>
+			<td>100,00 / 100,00</td>
+		</tr>
+		<tr><td colspan="3"></td></tr>
+		<tr>
+			<td><strong>TOTAL</strong></td>
+			<td><strong>6,66 / 6,66</strong></td>
+			<td><strong>100,00 / 100,00 (A)</strong></td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
-**Cuestionario**:
-
+Cuestionario
 ![](entrega/1_cuestionario/detalles_puntuacion.png)
 
-**Actividades R**:
-
+Actividades R
 ![](entrega/2_actividades_r/detalles_puntuacion.png)
