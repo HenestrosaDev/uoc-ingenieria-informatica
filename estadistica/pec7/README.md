@@ -16,7 +16,7 @@
 
 ## Desglose de ejercicios
 
-[Entrega en papel y corregida](entrega_corregida.pdf)
+[Entrega en papel evaluada](entrega_evaluada.pdf)
 
 >[!IMPORTANT]
 >Los resultados de los ejercicios mostrados en las capturas **NO están corregidos**.
@@ -96,9 +96,22 @@ En caso de detectar copia, desde la asesoría jurídica iniciará un procedimien
 
 ### Calificación
 
-- **Calificación ponderada** : 49,00 / 60,00
-- **Calificación original**: 81,67 / 100,00
-- **Letra (escala internacional)**: B
+<table>
+	<thead>
+		<tr>
+			<th>EVALUABLE</th>
+			<th>C. ORIGINAL</th>
+			<th>C. SOBRE 10</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Entrega</td>
+			<td>49,00 / 60,00</td>
+			<td>81,67 / 100,00 (B)</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Detalles sobre la puntuación
 
