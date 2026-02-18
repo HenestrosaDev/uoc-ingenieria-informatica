@@ -1,0 +1,78 @@
+---
+title: "PEC4 Otoño 2025 - Solución"
+author: "UOC"
+date: ''
+output:
+  pdf_document: default
+  word_document: default
+fontsize: 12pt
+urlcolor: blue
+---
+
+**En esta actividad no está permitido el uso de herramientas de inteligencia artificial.
+En el plan docente y en la [web sobre integridad académica y plagio de la UOC](https://campus.uoc.edu/estudiant/microsites/plagi/ca/index.html) encontraréis información sobre qué se considera conducta irregular en la evaluación y las consecuencias que puede tener.**
+
+Esta PEC se basará en los datos de las ventas de videojuegos en todo el mundo para títulos lanzados entre 1971 y 2024 (los datos se han obtenido de la web *Maven Analytics* que proporciona un "Data Playground"). Hay incluida información como la puntuación de la crítica, el género, la consola y más.
+
+La base de datos contiene:
+
+1. *title* = variable cualitativa que indica el título del juego
+2. *console* = variable cualitativa que indica la consola para la cual se lanzó el juego
+3. *genre* = variable cualitativa que indica el género del juego
+4. *critic_score*  = puntuación de Metacritic (sobre 10)
+5. *total_sales* = ventas globales de copias en millones
+
+Para importar los datos podéis usar las siguientes instrucciones:
+
+```{r}
+datos <- read.csv("DATA.csv", header = TRUE, encoding = "UTF-8",
+                  stringsAsFactors = TRUE)
+datos <- datos[, -1]
+```
+
+
+Os puede ser útil consultar el siguiente material:
+
+1. Módulo Intervalos de confianza.
+1. Actividatos Resueltas del Reto 3 (Intervalos de confianza).
+1. Procurad usar las funciones propias de R para hacer los cálculos a no ser que se indique lo contrario.
+
+Hay que entregar la práctica en formato ".pdf". **Solo** se aceptaran PECs con este formato.
+
+
+# NOMBRE:
+
+# PAC4
+
+Una vez importados los datos, con la misma base de datos y suponiendo que los datos corresponden a una muestra, responded a las siguientes cuestiones, indicando **tanto las instrucciones de R como los resultados numéricos obtenidos y los correspondientes comentarios**.
+
+## Pregunta-1 (50%)
+
+Queremos estudiar ahora las ventas globales de videojuegos y relacionarlas con alguna consola.
+
+a) (10%) Encontrad un intervalo de confianza para las ventas gobales de los videojuegos con un nivel de confianza del 95%.
+
+a) (20%) Encontrad ahora un intervalo de confianza para las ventas globales de los videojuegos del género *Sports* también con un nivel de confianza del 95%.
+
+c) (20%) En base a los intervalos obtenidos, ¿qué conclusiones podemos extraer sobre las ventas globales de los videojuegos del género *Sports* en relación al total de ventas de videojuegos?
+
+
+
+### Solución
+
+
+
+## Pregunta-2 (50%) 
+
+Queremos estudiar ahora las proporciones de juegos correspondientes a diferentes consolas.
+
+
+a) (20%) Calculad un intervalo de confianza del $85$% para la proporción de videojuegos de la consola (*PS2*) mediante la función *prop.test* con la opción *correct=FALSE*.
+
+b) (10%) Calculad un intervalo de confianza del $85$% para la proporción de videojuegos de la consola (*PS3*) mediante la función *prop.test* con la opción *correct=FALSE*.
+
+c) (10%) En base en los apartados anteriores, ¿podemos decir que las proporciones son diferentes? Razonad vuestra respuesta. Comparad también los intervalos obtenidos.
+
+d) (10%) ¿Qué nivel de confianza haría que el intervalo de confianza de la proporción de *PS2* tuviera una longitud que fuese la mitad del actual? Este apartado lo tenéis que hacer usando las fórmulas de las notas de estudio, concretamente el "Módulo: Intervalos de confianza" del Reto 3. 
+
+### Solución
