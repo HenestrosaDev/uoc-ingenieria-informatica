@@ -1,5 +1,17 @@
 # Álgebra (25/26-1)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Archivo de exámenes](#archivo-de-exámenes)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Grabaciones de comprobación de identidad y autoría](#grabaciones-de-comprobación-de-identidad-y-autoría)
+	- [Instrucciones](#instrucciones)
+	- [Recomendaciones](#recomendaciones)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+	- [PEC1](#pec1)
+	- [PEC2](#pec2)
+	- [PEC3](#pec3)
+	- [PEC4](#pec4)
+
 ## Información sobre la asignatura
 
 - **Código**: 75.557
@@ -207,6 +219,33 @@ xychart-beta
 		<td>10,00 / 10,00 (M)</td>
 	</tr>
 </table>
+
+## Grabaciones de comprobación de identidad y autoría
+
+### Instrucciones
+
+A partir de este semestre (25/26-1), se ha instaurado una medida para verificar la identidad y la autoría de las entregas. Consiste en realizar grabaciones de vídeo puntuales como parte del proceso de evaluación de los retos.
+
+Su funcionamiento es el siguiente:
+
+1. Se recibe un correo en la cuenta educativa del estudiante (nombre@uoc.edu) con las instrucciones y un enlace a una web.
+1. En la web se encuentran preguntas personalizadas relacionadas con la entrega.
+1. Al acceder a las preguntas (normalmente solo aparece una), se disponen de 15 minutos para grabar y enviar las respuestas. El vídeo no puede durar más de 5 minutos. No realizarlo o no superarlo supondrá suspender la PEC relacionada con la prueba de autoría.
+
+### Recomendaciones
+
+- Tener a mano las justificaciones de cada respuesta a la PEC, ya que facilitarán enormemente la explicación en el vídeo.
+- Usar OBS para realizar la grabación. De forma alternativa, también se puede seguir esta guía rápida para macOS sin necesidad de instalar software adicional:
+	1. Abrir la aplicación QuickTime Player.
+	2. Seleccionar **File > New Movie Recording**. Esto abrirá la cámara en una nueva ventana, la cual se puede redimensionar.
+	3. Seleccionar **View > Float on Top** para mantener la ventana de la cámara en primer plano constantemente.
+	4. Pulsar <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>5</kbd> para grabar la pantalla. Es importante asegurarse de que el micrófono está activo. Para ello, pulsa **Options** y selecciona una fuente de entrada en la sección **Microphone**.
+
+### Ejemplo
+
+Puedes tomar como referencia la siguiente [prueba de autoría](pec4/video_autoria/video.mov) realizada para la [PEC4](pec4):
+
+https://github.com/user-attachments/assets/07f837af-c1d3-43f3-8d01-0f74ae7217c7
 
 ## Recursos de aprendizaje
 

@@ -29,6 +29,10 @@
 ![Parte 11](cuestionario_11.png)
 </details>
 
+## Prueba de autoría
+
+https://github.com/user-attachments/assets/07f837af-c1d3-43f3-8d01-0f74ae7217c7
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
