@@ -1,5 +1,14 @@
 # Análisis matemático (24/25-2)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+	- [PEC1](#pec1)
+	- [PEC2](#pec2)
+	- [PEC3](#pec3)
+	- [PEC4](#pec4)
+	- [PEC5](#pec5)
+
 ## Información sobre la asignatura
 
 - **Código**: 75.558
