@@ -4,8 +4,10 @@
 - [Archivo de exámenes](#archivo-de-exámenes)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Grabaciones de comprobación de identidad y autoría](#grabaciones-de-comprobación-de-identidad-y-autoría)
+	- [¿Qué es?](#qué-es)
 	- [Instrucciones](#instrucciones)
 	- [Recomendaciones](#recomendaciones)
+	- [Ejemplo](#ejemplo)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 	- [PEC1](#pec1)
 	- [PEC2](#pec2)
@@ -222,11 +224,11 @@ xychart-beta
 
 ## Grabaciones de comprobación de identidad y autoría
 
-### Instrucciones
+### ¿Qué es?
 
 A partir de este semestre (25/26-1), se ha instaurado una medida para verificar la identidad y la autoría de las entregas. Consiste en realizar grabaciones de vídeo puntuales como parte del proceso de evaluación de los retos.
 
-Su funcionamiento es el siguiente:
+### Instrucciones
 
 1. Se recibe un correo en la cuenta educativa del estudiante (nombre@uoc.edu) con las instrucciones y un enlace a una web.
 1. En la web se encuentran preguntas personalizadas relacionadas con la entrega.
@@ -235,11 +237,13 @@ Su funcionamiento es el siguiente:
 ### Recomendaciones
 
 - Tener a mano las justificaciones de cada respuesta a la PEC, ya que facilitarán enormemente la explicación en el vídeo.
+- Tener abiertos todos los cuestionarios de Moodle relativos a la PEC antes de iniciar el proceso.
 - Usar OBS para realizar la grabación. De forma alternativa, también se puede seguir esta guía rápida para macOS sin necesidad de instalar software adicional:
 	1. Abrir la aplicación QuickTime Player.
 	2. Seleccionar **File > New Movie Recording**. Esto abrirá la cámara en una nueva ventana, la cual se puede redimensionar.
 	3. Seleccionar **View > Float on Top** para mantener la ventana de la cámara en primer plano constantemente.
 	4. Pulsar <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>5</kbd> para grabar la pantalla. Es importante asegurarse de que el micrófono está activo. Para ello, pulsa **Options** y selecciona una fuente de entrada en la sección **Microphone**.
+- El vídeo **TIENE QUE SER LIVIANO**. Si la calidad es muy alta, ocupará mucho espacio, por lo que es probable que la plataforma rechace el archivo o se produzca algún error durante la subida. Hablo por experiencia, y creedme que no es agradable encontrarse un error inesperado a falta de 5 minutos para que cierre la entrega. Por desgracia, la plataforma no indica explícitamente el tamaño de subida, pero como regla general, no debería pesar más de 50 MB. Aconsejo grabarlo en formato `.mp4` con compresión.
 
 ### Ejemplo
 
