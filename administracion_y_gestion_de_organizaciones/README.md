@@ -1,5 +1,15 @@
 # Administración y gestión de organizaciones (24/25-1)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Archivo de exámenes](#archivo-de-exámenes)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Debates](#debates)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+	- [PEC1](#pec1)
+	- [PEC2](#pec2)
+	- [PEC3](#pec3)
+	- [PEC4](#pec4)
+
 ## Información sobre la asignatura
 
 - **Código**: 75.556
