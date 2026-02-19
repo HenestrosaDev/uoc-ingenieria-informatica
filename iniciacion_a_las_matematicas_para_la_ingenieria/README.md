@@ -1,5 +1,9 @@
 # Iniciación a las matemáticas para la ingeniería (24/25-1)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+
 ## Información sobre la asignatura
 
 - **Código**: 75.614
