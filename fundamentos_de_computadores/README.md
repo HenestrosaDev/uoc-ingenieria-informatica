@@ -1,5 +1,14 @@
 # Fundamentos de computadores (24/25-2)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Archivo de exámenes y pruebas de síntesis](#archivo-de-exámenes-y-pruebas-de-síntesis)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+	- [PEC1](#pec1)
+	- [PEC2](#pec2)
+	- [PEC3](#pec3)
+	- [PR1](#pr1)
+
 ## Información sobre la asignatura
 
 >[!IMPORTANT]
