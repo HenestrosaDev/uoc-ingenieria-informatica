@@ -1,5 +1,12 @@
 # Grafos y complejidad (25/26-1)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+	- [PEC1](#pec1)
+	- [PEC2](#pec2)
+	- [PEC3](#pec3)
+
 ## Información sobre la asignatura
 
 - **Código**: 75.569
