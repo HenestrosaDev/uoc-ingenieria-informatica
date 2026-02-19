@@ -1,5 +1,20 @@
 # Lógica (24/25-2)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Archivo de exámenes y pruebas de síntesis](#archivo-de-exámenes-y-pruebas-de-síntesis)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Pruebas prácticas (PP)](#pruebas-prácticas-pp)
+- [Ejercicios de Alura](#ejercicios-de-alura)
+	- [Lógica de enunciados](#lógica-de-enunciados)
+	- [Lógica de predicados](#lógica-de-predicados)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+	- [PEC1](#pec1)
+	- [PEC2](#pec2)
+	- [PEC3](#pec3)
+	- [PEC4](#pec4)
+	- [PEC5](#pec5)
+	- [PEC6](#pec6)
+
 ## Información sobre la asignatura
 
 - **Código**: 75.570
