@@ -1,5 +1,9 @@
 # Competencia comunicativa para profesionales de las TIC (24/25-1)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+
 ## Información sobre la asignatura
 
 - **Código**: 75.563
