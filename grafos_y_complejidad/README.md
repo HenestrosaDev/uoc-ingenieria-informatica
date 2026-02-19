@@ -161,7 +161,19 @@ xychart-beta
 
 Para amenizar el proceso de aprendizaje y comprobación de algunos ejercicios realizados durante la asignatura, decidí crear [GraphSolver](https://graphsolver.com): una herramienta web completa para teoría de grafos. Resuelve los algoritmos de Dijkstra, Floyd-Warshall y Kruskal y analiza las propiedades estructurales mediante matrices de adyacencia. Incluye visualización dinámica y opciones de importación/exportación. 
 
-Puedes echarle un vistazo a su repositorio de GitHub [aquí](https://github.com/HenestrosaDev/graphsolver.com).
+Puedes echarle un vistazo [aquí](https://graphsolver.com) o visitar [su repositorio de GitHub](https://github.com/HenestrosaDev/graphsolver.com).
+
+<picture>
+  <source
+    srcset="https://github.com/HenestrosaDev/graphsolver.com/blob/main/docs/light.gif"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github.com/HenestrosaDev/graphsolver.com/blob/main/docs/dark.gif"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github.com/HenestrosaDev/graphsolver.com/blob/main/docs/light.gif" alt="gif">
+</picture>
 
 ### PEC1
 
