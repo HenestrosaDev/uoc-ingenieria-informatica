@@ -9,6 +9,7 @@ Esta PEC se compone de dos partes:
 >[!NOTE]
 >- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 
+- [**GraphSolver**](https://graphsolver.com)
 - [**Complejidad computacional**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267022.pdf)
 - [**Problemas intratables**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293142.pdf)
 

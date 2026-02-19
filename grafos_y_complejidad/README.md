@@ -157,6 +157,12 @@ xychart-beta
 >- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 >- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
 
+### GraphSolver
+
+Para amenizar el proceso de aprendizaje y comprobación de algunos ejercicios realizados durante la asignatura, decidí crear [GraphSolver](https://graphsolver.com): una herramienta web completa para teoría de grafos. Resuelve los algoritmos de Dijkstra, Floyd-Warshall y Kruskal y analiza las propiedades estructurales mediante matrices de adyacencia. Incluye visualización dinámica y opciones de importación/exportación. 
+
+Puedes echarle un vistazo a su repositorio de GitHub [aquí](https://github.com/HenestrosaDev/graphsolver.com).
+
 ### PEC1
 
 - [**Conceptos previos: funciones y algoritmos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-fundamentos_matematicos.pdf))
