@@ -1,5 +1,16 @@
 # Estadística (25/26-1)
 
+- [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Resumen de calificaciones](#resumen-de-calificaciones)
+- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+	- [PEC1](#pec1)
+	- [PEC2 y PEC3](#pec2-y-pec3)
+	- [PEC4](#pec4)
+	- [PEC5](#pec5)
+	- [PEC6](#pec6)
+	- [PEC7](#pec7)
+
+
 ## Información sobre la asignatura
 
 - **Código**: 75.568
