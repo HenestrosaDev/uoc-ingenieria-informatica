@@ -1,6 +1,7 @@
 # Competencia comunicativa para profesionales de las TIC (24/25-1)
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 
@@ -36,6 +37,34 @@ xychart-beta
 >[!NOTE]
 >- La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
 >- Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener la máxima puntuación en su estado actual.
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas
+		PEC1 :a1, 30-09-2024, 14-10-2024
+		14-10-2024 :crit, milestone, m1, 14-10-2024, 0d
+		
+		PR1 :a2, 07-10-2024, 21-10-2024
+		21-10-2024 :crit, milestone, m2, 21-10-2024, 0d
+		
+		PEC2 :a3, 22-10-2024, 04-11-2024
+		04-11-2024 :crit, milestone, m3, 04-11-2024, 0d
+		
+		PR2 :a4, 28-10-2024, 11-11-2024
+		11-11-2024 :crit, milestone, m4, 11-11-2024, 0d
+
+		PEC3 :a5, 12-11-2024, 25-11-2024
+		25-11-2024 :crit, milestone, m5, 25-11-2024, 0d
+
+		PR3 :a6, 18-11-2024, 20-12-2024
+		20-12-2024 :crit, milestone, m6, 20-12-2024, 0d
+
+		PR4 :a7, 09-01-2025, 20-01-2025
+		20-01-2025 :crit, milestone, m6, 20-01-2025, 0d
+```
 
 <table>
 	<tr>
