@@ -1,6 +1,7 @@
 # Grafos y complejidad (25/26-1)
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 	- [PEC1](#pec1)
@@ -33,6 +34,27 @@ xychart-beta
 >	- **Aprobado (A)**: 5 a 6,99
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas
+		PEC1 :a1, 07-10-2025, 27-10-2025
+		27-10-2025 :crit, milestone, m1, 27-10-2025, 0d
+		
+		PEC2 :a2, 28-10-2025, 24-11-2025
+		24-11-2025 :crit, milestone, m2, 24-11-2025, 0d
+		
+		PEC3 :a3, 25-11-2025, 22-12-2025
+		22-12-2025 :crit, milestone, m3, 22-12-2025, 0d
+
+	section Exámenes
+		Examen T1 (17-01-2026):crit, milestone, m9, 17-01-2026, 0d
+		Examen T2 (21-01-2026) :crit, milestone, m6, 21-01-2026, 0d
+		Examen T3 (24-01-2026):crit, milestone, m7, 24-01-2026, 0d
+```
 
 ## Resumen de calificaciones
 
