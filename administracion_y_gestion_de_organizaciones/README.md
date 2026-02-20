@@ -2,6 +2,7 @@
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
 - [Archivo de exámenes](#archivo-de-exámenes)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Debates](#debates)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
@@ -40,6 +41,30 @@ xychart-beta
 ## Archivo de exámenes
 
 - [Compilación de 49 exámenes desde 2010](examenes)
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas
+		PEC1 :a1, 09-10-2024, 19-10-2024
+		19-10-2024 :crit, milestone, m1, 19-10-2024, 0d
+		
+		PEC2 :a2, 23-10-2024, 15-11-2024
+		15-11-2024 :crit, milestone, m2, 15-11-2024, 0d
+		
+		PEC3 :a3, 20-11-2024, 13-12-2024
+		13-12-2024 :crit, milestone, m3, 13-12-2024, 0d
+		
+		PEC4 :a4, 13-12-2024, 27-12-2024
+		27-12-2024 :crit, milestone, m4, 27-12-2024, 0d
+
+	section Exámenes
+		Examen T1 (18-01-2025):crit, milestone, m5, 18-01-2025, 0d
+		Examen T2 (22-01-2025) :crit, milestone, m6, 22-01-2025, 0d
+		Examen T3 (25-01-2025):crit, milestone, m7, 25-01-2025, 0d
+```
 
 ## Resumen de calificaciones
 
