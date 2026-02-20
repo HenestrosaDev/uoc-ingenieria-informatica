@@ -2,6 +2,7 @@
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
 - [Archivo de exámenes y pruebas de síntesis](#archivo-de-exámenes-y-pruebas-de-síntesis)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Pruebas prácticas (PP)](#pruebas-prácticas-pp)
 - [Ejercicios de Alura](#ejercicios-de-alura)
@@ -46,6 +47,37 @@ xychart-beta
 
 - [Compilación de 153 exámenes resueltos desde 2005](examenes)
 - [Compilación de 108 pruebas de síntesis resueltas desde 2011](ps)
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas lógica de enunciados
+		PEC1 :a1, 24-02-2025, 02-03-2025
+		02-03-2025 :crit, milestone, m1, 02-03-2025, 0d
+		
+		PEC2 :a2, 24-02-2025, 16-03-2025
+		16-03-2025 :crit, milestone, m2, 16-03-2025, 0d
+		
+		PEC3 :a3, 24-02-2025, 06-04-2025
+		06-04-2025 :crit, milestone, m3, 06-04-2025, 0d
+
+	section Entregas lógica de predicados
+		PEC4 :a4, 17-03-2025, 20-04-2025
+		20-04-2025 :crit, milestone, m4, 20-04-2025, 0d
+		
+		PEC5 :a5, 17-03-2025, 04-05-2025
+		04-05-2025 :crit, milestone, m4, 04-05-2025, 0d
+		
+		PEC6 :a6, 17-03-2025, 25-05-2025
+		25-05-2025 :crit, milestone, m6, 25-05-2025, 0d
+
+	section Exámenes
+		Examen T1 (14-06-2025):crit, milestone, m8, 14-06-2025, 0d
+		Examen T2 (18-06-2025) :crit, milestone, m6, 18-06-2025, 0d
+		Examen T3 (21-06-2025):crit, milestone, m7, 21-06-2025, 0d
+```
 
 ## Resumen de calificaciones
 
