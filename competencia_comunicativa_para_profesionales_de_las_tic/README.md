@@ -32,12 +32,6 @@ xychart-beta
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
-## Resumen de calificaciones
-
->[!NOTE]
->- La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
->- Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener la máxima puntuación en su estado actual.
-
 ## Calendario de entregas
 
 ```mermaid
@@ -65,6 +59,12 @@ gantt
 		PR4 :a7, 09-01-2025, 20-01-2025
 		20-01-2025 :crit, milestone, m6, 20-01-2025, 0d
 ```
+
+## Resumen de calificaciones
+
+>[!NOTE]
+>- La calificación final es la que aparece en mi expediente. No tiene por qué ser, necesariamente, el resultado de la suma de las calificaciones ponderadas de los bloques.
+>- Los errores de las tareas marcadas con un asterisco (*) han sido corregidos, por lo que, según las correcciones del profesorado, deberían tener la máxima puntuación en su estado actual.
 
 <table>
 	<tr>
