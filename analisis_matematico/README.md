@@ -1,6 +1,7 @@
 # Análisis matemático (24/25-2)
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 	- [PEC1](#pec1)
@@ -35,6 +36,33 @@ xychart-beta
 >	- **Aprobado (A)**: 5 a 6,99
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas
+		PEC1 :a1, 19-02-2025, 05-03-2025
+		05-03-2025 :crit, milestone, m1, 05-03-2025, 0d
+		
+		PEC2 :a2, 19-02-2025, 26-03-2025
+		26-03-2025 :crit, milestone, m2, 26-03-2025, 0d
+		
+		PEC3 :a3, 19-02-2025, 23-04-2025
+		23-04-2025 :crit, milestone, m3, 23-04-2025, 0d
+		
+		PEC4 :a4, 19-02-2025, 21-05-2025
+		21-05-2025 :crit, milestone, m4, 21-05-2025, 0d
+
+		PEC5 :a5, 19-02-2025, 04-06-2025
+		04-06-2025 :crit, milestone, m5, 04-06-2025, 0d
+
+	section Exámenes
+		Examen T1 (14-06-2025):crit, milestone, m8, 14-06-2025, 0d
+		Examen T2 (18-06-2025) :crit, milestone, m6, 18-06-2025, 0d
+		Examen T3 (21-06-2025):crit, milestone, m7, 21-06-2025, 0d
+```
 
 ## Resumen de calificaciones
 
