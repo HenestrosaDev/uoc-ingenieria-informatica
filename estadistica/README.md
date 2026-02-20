@@ -1,6 +1,7 @@
 # Estadística (25/26-1)
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 	- [PEC1](#pec1)
@@ -9,7 +10,6 @@
 	- [PEC5](#pec5)
 	- [PEC6](#pec6)
 	- [PEC7](#pec7)
-
 
 ## Información sobre la asignatura
 
@@ -37,6 +37,35 @@ xychart-beta
 >	- **Aprobado (A)**: 5 a 6,99
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas
+		PEC1 :a1, 08-10-2025, 14-10-2025
+		14-10-2025 :crit, milestone, m1, 14-10-2025, 0d
+		
+		PEC2 :a3, 22-10-2025, 28-10-2025
+		28-10-2025 :crit, milestone, m3, 28-10-2025, 0d
+		
+		PEC3 :a5, 05-11-2025, 11-11-2025
+		11-11-2025 :crit, milestone, m5, 11-11-2025, 0d
+
+		PEC4 :a6, 19-11-2025, 25-11-2025
+		25-11-2025 :crit, milestone, m6, 25-11-2025, 0d
+
+		PEC5 :a7, 10-12-2025, 16-12-2025
+		16-12-2025 :crit, milestone, m7, 16-12-2025, 0d
+
+		PEC6 :a8, 17-12-2025, 30-12-2025
+		30-12-2025 :crit, milestone, mi, 30-12-2025, 0d
+
+	section Cuestionario de síntesis
+		PEC7 :a9, 09-01-2026, 11-01-2026
+		11-01-2026 :crit, milestone, mi, 11-01-2026, 0d
+```
 
 ## Resumen de calificaciones
 
