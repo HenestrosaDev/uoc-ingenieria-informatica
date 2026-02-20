@@ -2,6 +2,7 @@
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
 - [Archivo de exámenes y pruebas de síntesis](#archivo-de-exámenes-y-pruebas-de-síntesis)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 	- [PEC1](#pec1)
@@ -42,6 +43,30 @@ xychart-beta
 ## Archivo de exámenes y pruebas de síntesis
 
 - [Compilación de 55 exámenes resueltos desde 2016](examenes)
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas
+		PEC1 :a1, 21-02-2025, 05-03-2025
+		05-03-2025 :crit, milestone, m1, 05-03-2025, 0d
+		
+		PEC2 :a2, 14-03-2025, 09-04-2025
+		09-04-2025 :crit, milestone, m2, 09-04-2025, 0d
+		
+		PEC3 :a3, 11-04-2025, 30-04-2025
+		30-04-2025 :crit, milestone, m3, 30-04-2025, 0d
+		
+		PR1 :a4, 02-05-2025, 28-05-2025
+		28-05-2025 :crit, milestone, m4, 28-05-2025, 0d
+
+	section Exámenes
+		Examen T1 (14-06-2025):crit, milestone, m8, 14-06-2025, 0d
+		Examen T2 (18-06-2025) :crit, milestone, m6, 18-06-2025, 0d
+		Examen T3 (21-06-2025):crit, milestone, m7, 21-06-2025, 0d
+```
 
 ## Resumen de calificaciones
 
