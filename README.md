@@ -139,7 +139,7 @@
 	<tr>
 		<td colspan="2" align="center">
 			<strong>
-				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/examen">
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/administracion_y_gestion_de_organizaciones/examenes/2024-2025/enero/espanol/20241_75556_180125_E_SOL">
 					EXAMEN
 				</a>
 			</strong>
@@ -199,7 +199,7 @@
 	<tr>
 		<td colspan="2" align="center">
 			<strong>
-				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/examen">
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/algebra/examenes/2025-2026/enero/espanol/20251_75557_170126_1_E">
 					EXAMEN
 				</a>
 			</strong>
@@ -334,7 +334,7 @@
 	</tr>
 	<!-- FUNDAMENTOS DE COMPUTADORES -->
 	<tr>
-		<td rowspan="4">
+		<td rowspan="3">
 			<strong>
 				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores">
 					Fundamentos de computadores (24/25-2)
@@ -351,7 +351,7 @@
 				PR1 - Máquinas de estados: entendiendo la arquitectura básica de un computador a partir de las máquina algorítmicas generalizables
 			</a>
 		</td>
-		<td rowspan="4">
+		<td rowspan="3">
 			9,7 / 10,0 (M)
 		</td>
 	</tr>
@@ -370,15 +370,6 @@
 			</a >
 		</td>
 		<td>-</td>
-	</tr>
-	<tr>
-		<td colspan="2" align="center">
-			<strong>
-				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_de_computadores/examen">
-					EXAMEN
-				</a>
-			</strong>
-		</td>
 	</tr>
 	<!-- LÓGICA -->
 	<tr>
@@ -442,7 +433,7 @@
 	<tr>
 		<td colspan="2" align="center">
 			<strong>
-				<a href="logica/examenes/2025/junio/espanol/20242_75570_210625_1_E_SOL">
+				<a href="logica/examenes/2025-2026/junio/espanol/20242_75570_210625_1_E_SOL">
 					EXAMEN
 				</a>
 			</strong>
