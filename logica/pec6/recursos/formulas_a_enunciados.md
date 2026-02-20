@@ -5,20 +5,22 @@
 
 ## Procedimiento
 
-A partir de un dominio dado, podemos transformar las fórmulas de un razonamientos (lógica de predicados) en enunciados (lógica de enunciados).
+A partir de un dominio, podemos transformar las fórmulas de un razonamiento (lógica de predicados) en enunciados (lógica de enunciados).
 
-Para conseguir este propósito, tendremos que eliminar los cuantificadores de las fórmulas.  Dado el dominio $\set{1,2}$, podemos eliminar los cuantificadores de la siguiente forma:
+Para lograrlo, el método consiste en "expandir" y eliminar los cuantificadores sustituyendo las variables por los elementos concretos del dominio. Tomando como ejemplo el dominio $D = \{1, 2\}$, las equivalencias fundamentales son:
 
 - **Cuantificador universal** $(\forall)$: $\forall x P(x) \equiv P(1) \wedge P(2)$
 - **Cuantificador existencial** $(\exists)$: $\exists x P(x) \equiv P(1) \vee P(2)$
 
-Con esas dos únicas equivalencias, seremos capaz de lograr nuestro objetivo. Para entender este concepto, vamos a utilizar un ejemplo más sofisticado.
+Con estas dos únicas reglas, podemos resolver fórmulas mucho más complejas.
 
-Dado el dominio $\set{1,2}$ y esta fórmula:
+## Ejemplo de aplicación
+
+Consideremos el mismo domino $D = \set{1,2}$ y la siguiente fórmula:
 
 $$\forall x (P(x) \to \exists y Q(x,y))$$
 
-Para facilitar el proceso, es recomendable eliminar los cuantificadores de izquierda a derecha, de la siguiente forma:
+Para facilitar el proceso y no confundir el alcance de las variables, la mejor práctica es eliminar los cuantificadores sistemáticamente **de izquierda a derecha** (es decir, desde el cuantificador más externo hacia los más internos).
 
 <table>
 	<tr>
@@ -34,21 +36,18 @@ Para facilitar el proceso, es recomendable eliminar los cuantificadores de izqui
 	<tr>
 		<td>2</td>
 		<td>$(P(1) \to \exists y Q(1,y)) \wedge (P(2) \to \exists y Q(2,y))$</td>
-		<td>Eliminar cuantificador $(\forall x)$</td>
+		<td>Expansión del cuantificador universal $(\forall x)$</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>$(P(1) \to (Q(1,1) \vee Q(1,2))) \wedge (P(2) \to \exists y Q(2,y))$</td>
-		<td>Eliminar cuantificador (primer $\exists y$)</td>
+		<td>Expansión del primer cuantificador existencial ($\exists y$)</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>$(P(1) \to (Q(1,1) \vee Q(1,2))) \wedge (P(2) \to (Q(2,1) \vee Q(2,2,)))$</td>
-		<td>Eliminar cuantificador $(\exists y)$</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>$-$</td>
-		<td>Enunciado</td>
+		<td>Expansión del segundo cuantificador existencial $(\exists y)$</td>
 	</tr>
 </table>
+
+**Resultado final**: Al concluir el paso 4, hemos eliminado con éxito todos los cuantificadores. Hemos transformado la fórmula original en un enunciado puramente proposicional que puede ser evaluado mediante tablas de verdad.
