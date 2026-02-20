@@ -1,6 +1,7 @@
 # Iniciación a las matemáticas para la ingeniería (24/25-1)
 
 - [Información sobre la asignatura](#información-sobre-la-asignatura)
+- [Calendario de entregas](#calendario-de-entregas)
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 
@@ -30,6 +31,59 @@ xychart-beta
 >	- **Aprobado (A)**: 5 a 6,99
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
+
+## Calendario de entregas
+
+```mermaid
+gantt
+	dateFormat DD-MM-YYYY
+	section Entregas actividades PEC1
+		AC1 :a1, 30-09-2024, 08-10-2024
+		08-10-2024 :crit, milestone, m1, 08-10-2024, 0d
+		
+		AC2 :a2, 07-10-2024, 15-10-2024
+		15-10-2024 :crit, milestone, m2, 15-10-2024, 0d
+		
+		AC3 :a3, 14-10-2024, 22-10-2024
+		22-10-2024 :crit, milestone, m3, 22-10-2024, 0d
+
+		AC4 :a4, 21-10-2024, 05-11-2024
+		05-11-2024 :crit, milestone, m34, 05-11-2024, 0d
+
+		AC5 :a5, 04-11-2024, 12-11-2024
+		12-11-2024 :crit, milestone, m5, 12-11-2024, 0d
+
+		AC-REC-1 :arec1, 11-11-2024, 19-11-2024
+		19-11-2024 :crit, milestone, mrec1, 19-11-2024, 0d
+
+	section Entregas actividades PEC2
+		AC6 :a6, 18-11-2024, 26-11-2024
+		26-11-2024 :crit, milestone, m6, 26-11-2024, 0d
+		
+		AC7 :a7, 25-11-2024, 03-12-2024
+		03-12-2024 :crit, milestone, m6, 03-12-2024, 0d
+
+		AC8 :a8, 02-12-2024, 10-12-2024
+		10-12-2024 :crit, milestone, m8, 10-12-2024, 0d
+		
+		AC9 :a9, 09-12-2024, 17-12-2024
+		17-12-2024 :crit, milestone, m9, 17-12-2024, 0d
+
+		AC10-1 :a101, 16-12-2024, 27-12-2024
+		27-12-2024 :crit, milestone, m101, 27-12-2024, 0d
+
+		AC10-2 :a102, 23-12-2024, 03-01-2025
+		03-01-2025 :crit, milestone, m102, 03-01-2025, 0d
+
+		AC11-1 :a111, 30-12-2024, 07-01-2025
+		07-01-2025 :crit, milestone, m111, 07-01-2025, 0d
+
+		AC11-2 :a112, 06-01-2025, 14-01-2025
+		14-01-2025 :crit, milestone, m112, 14-01-2025, 0d
+
+		AC-REC-2 :arec2, 13-01-2025, 21-01-2025
+		21-01-2025 :crit, milestone, mrec2, 21-01-2025, 0d
+```
 
 ## Resumen de calificaciones
 
