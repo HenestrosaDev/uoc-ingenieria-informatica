@@ -22,9 +22,9 @@
 ```mermaid
 xychart-beta
 		title "Estadísticas de las calificaciones para el curso 2025/26-1"
-		x-axis ["Matrícula Honor (7%)", "Sobresaliente (22%)", "Notable (39%)", "Aprobado (25%)", "Suspendido (7%)"]
-		y-axis "% de alumnos" 0 --> 39
-		bar [7, 22, 39, 25, 7]
+		x-axis ["Matrícula Honor (1%)", "Sobresaliente (16%)", "Notable (56%)", "Aprobado (22%)", "Suspendido (5%)"]
+		y-axis "% de alumnos" 0 --> 56
+		bar [1, 16, 56, 22, 5]
 ```
 
 ><details>
@@ -38,8 +38,6 @@ xychart-beta
 ></details>
 
 ## Calendario de entregas
-
-esto está bien
 
 ```mermaid
 gantt
@@ -78,7 +76,7 @@ gantt
 		</td>
 		<td>
 			<a href="pec1">
-				PEC1 - ¿Qué es la memoria en una holocubierta? Descubrir que la luz tiene memoria
+				PEC1 - Óptica y fotónica
 			</a>
 			(25%)
 		</td>
@@ -87,52 +85,52 @@ gantt
 			<p>
 				<strong>Calificación total PEC</strong>:
 				<br>
-				- / 100,00
+				97,60 / 100,00
 			</p>
 			<br>
 			<p>
 				<strong>Calificación ponderada EC</strong>:
 				<br>
-				- / 3,50
+				3,42 / 3,50
 			</p>	
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="pec2">
-				PEC2 - Transformar un circuito complejo en una fuente y una resistencia, para saber cuándo podremos volver a poner en marcha el ordenador
+				PEC2 - Circuitos eléctricos y RLC
 			</a>
 			(25%)
 		</td>
-		<td>- / 25,00 ( )</td>
+		<td>24,30 / 25,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="pec3">
-				PEC3 - Descubrir el origen de la electricidad
+				PEC3 - Electrostática
 			</a>
 			(25%)
 		</td>
-		<td>- / 25,00 ( )</td>
+		<td>24,00 / 25,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
 			<a href="pec4">
-				PEC4 - Descubrir cómo crear electricidad y de dónde viene la magia de la electrónica
+				PEC4 - Magnetostática y materiales semiconductores
 			</a>
 			(25%)
 		</td>
-		<td>- / 25,00 ( )</td>
+		<td>25,00 / 25,00 (A)</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="examen">
+			<a href="examenes/2025-2026/junio/espanol/20252_75611_130626">
 				<strong>Examen</strong>
 			</a> (65%)
 		</td>
 		<td colspan="1"></td>
-		<td>- / 10,00</td>
-		<td>- / 6,50</td>
+		<td>9,20 / 10,00</td>
+		<td>6,24 / 6,50</td>
 	</tr>
 	<tr>
 		<td colspan="3"></td>	
@@ -142,7 +140,7 @@ gantt
 		<td colspan="3">
 			<strong>CALIFICACIÓN FINAL</strong>
 		</td>
-		<td>- / 10,00 ( )</td>
+		<td>9,40 / 10,00 (A)</td>
 	</tr>
 </table>
 
@@ -151,23 +149,29 @@ gantt
 >[!NOTE]
 >- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
 
+### _Cheat sheet_ de la asignatura
+
+- [Versión extendida en Markdown](recursos/README.md)
+- [Versión extendida en PDF](recursos/formulario_extendido.pdf)
+- [Versión reducida proporcionada por el profesorado](recursos/formulario.pdf)
+
 ### PEC1
 
 - [**Óptica y fotónica: la ciencia de la luz**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288403.pdf) ([resumen](pec1/recursos/README.md))
 
 ### PEC2
 
+- [**Vídeos de apoyo de la UOC sobre este recurso**](pec2/recursos/videos)
 - [**Circuitos eléctricos: conceptos fundamentales**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288414.pdf) ([resumen](pec2/recursos/circuitos_electronicos.md))
-	- [**Vídeos de apoyo de la UOC sobre este recursos**](https://campus.uoc.edu/webapps/aulaca/classroom/Proxy.action;jsessionid=DF58830D45F91EC2C196AF8E593559D4.linyola.uoc.es-aulaca?s=7b61dba0a9ffac5d605cb3d229f24026638319181a66d6513bde6b3e7d34837408cdb6df4456d3a6d2558ebfc6f99227c764b5ed1783c22b01e3d83471afbd06&subjectId=894048&classroomId=898297&linkType=resource-url&redirectUrl=%2Fwebapps%2FUocBLTI_c%2FBLTIConsumer%3Fprovider%3Dprovider_pilots_elearn%26forcehttps%3D1%26s%3D7b61dba0a9ffac5d605cb3d229f24026638319181a66d6513bde6b3e7d34837408cdb6df4456d3a6d2558ebfc6f99227c764b5ed1783c22b01e3d83471afbd06%26container%3DDOMAIN.898297%26forcehttps%3D1%26instanceId%3DEPC.206118%26typeAula%3Dtransitcomenta%26overwriteUrl%3D1%26%26launchurlold%3Dl00208%26pilotapp%3Dpresenta%26blogtype%3DtermesCondicions%26force_course_code%3Dgoogle_site-https-sites_google_comauoc_edudoctorat-video%26launchurl%3Dl00205%26concaturl%3Dpresenta%2Findex.php&javascriptDisabled=false)
 - [**Circuitos RLC: análisis en corriente continua**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288412.pdf) ([resumen](pec2/recursos/circuitos_rlc.md))
-	- [**Vídeos de apoyo de la UOC sobre este recursos**](https://campus.uoc.edu/webapps/aulaca/classroom/Proxy.action;jsessionid=DF58830D45F91EC2C196AF8E593559D4.linyola.uoc.es-aulaca?s=7b61dba0a9ffac5d605cb3d229f24026638319181a66d6513bde6b3e7d34837408cdb6df4456d3a6d2558ebfc6f99227c764b5ed1783c22b01e3d83471afbd06&subjectId=894048&classroomId=898297&linkType=resource-url&redirectUrl=%2Fwebapps%2FUocBLTI_c%2FBLTIConsumer%3Fprovider%3Dprovider_pilots_elearn%26s%3D7b61dba0a9ffac5d605cb3d229f24026638319181a66d6513bde6b3e7d34837408cdb6df4456d3a6d2558ebfc6f99227c764b5ed1783c22b01e3d83471afbd06%26forcehttps%3D1%26container%3DDOMAIN.898297%26forcehttps%3D1%26instanceId%3DEPC.206118%26typeAula%3Dtransitcomenta%26overwriteUrl%3D1%26%26launchurlold%3Dl00208%26pilotapp%3Dpresenta%26blogtype%3DtermesCondicions%26force_course_code%3Dgoogle_site-https-sites_google_comauoc_edudoctorat-videomodulo2%26launchurl%3Dl00205%26concaturl%3Dpresenta%2Findex.php&javascriptDisabled=false)
 
 ### PEC3
 
+- [**Vídeos de apoyo de la UOC sobre esta PEC**](pec3/recursos/videos)
 - [**Electrostática: la base de la electricidad**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290383.pdf) ([resumen](pec3/recursos/README.md))
 
 ### PEC4
 
 - [**Magnetostática e inducción electromagnética**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290385.pdf) ([resumen](pec4/recursos/magnetostatica_e_induccion_electromagnetica.md))
+	- [**Vídeos de apoyo de la UOC sobre este recurso**](pec4/recursos/videos)
 - [**Materiales y dispositivos semiconductores: la base de la física informática**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290381.pdf) ([resumen](pec4/recursos/materiales_y_dispositivos_semiconductores.md))
-
