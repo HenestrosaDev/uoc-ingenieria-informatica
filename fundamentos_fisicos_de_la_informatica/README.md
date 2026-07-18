@@ -37,6 +37,10 @@ xychart-beta
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
+## Archivo de exámenes
+
+- [Compilación de 76 exámenes desde 2010](examenes)
+
 ## Calendario de entregas
 
 ```mermaid
