@@ -1,0 +1,383 @@
+\documentclass[11pt, a4paper]{article}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc} % Encoding
+\usepackage{amsmath, amssymb, amsthm} % Advanced math typesetting
+\usepackage{physics} % Useful commands for physics (derivatives, vectors, braket)
+\usepackage{graphicx} % For including diagrams and images
+\usepackage{geometry} % Page margins
+\usepackage{siunitx} % For proper formatting of SI units
+\usepackage{fancyhdr} % Custom headers and footers
+\usepackage{xcolor} % For blocks of color
+\usepackage{enumitem} % For enumerated lists with letters
+\usepackage{float} % For figure strict positioning
+\usepackage{parskip} % Elimina la sangría y añade espacio entre párrafos
+\usepackage{booktabs} % For better table formatting
+\usepackage{multirow} % For merging rows in tables
+\usepackage{longtable} % For tables that span multiple pages
+\usepackage{tikz} % For drawing diagrams
+\usepackage{pgfplots} % For creating plots
+
+% --- Page Setup ---
+\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
+\pagestyle{fancy}
+\fancyhf{} % Clear all default header and footer fields
+\fancyhead[L]{\textbf{José Carlos López Henestrosa}}
+\fancyhead[R]{Inteligencia artificial - PEC4}
+\fancyfoot[C]{\thepage} % Page number at the bottom center
+\pgfplotsset{compat=1.17}
+
+% --- Custom Environments ---
+\newenvironment{problem}[1][Cuestión]{
+	\vspace{0.5cm}
+	\noindent{\Large\bfseries #1} \par\vspace{0.5cm}
+}{
+	\vspace{0.5cm}
+}
+
+\begin{document}
+	% --- Title block ---
+	\begin{center}
+			\Large{ \textbf{PEC4} } \\
+			\vspace{0.5cm}
+			\normalsize{\textbf{Nombre:} José Carlos López Henestrosa} \\
+			\vspace{0.5cm}
+			\normalsize{Declaro que ostento la autoría total y llena de todas las tareas que se llevan a cabo en el presente documento. Soy la única persona que ha elaborado cada ejercicio. No he compartido los enunciados con nadie y la única ayuda que he recibido ha sido a través del aula de la UOC y su profesorado y he citado de forma explícita los recursos externos que he usado en la preparación de la PEC.} \\
+			\vspace{0.5cm}
+			\normalsize{Todas las referencias académicas en esta entrega hacen referencia al libro \textit{Introducción al aprendizaje computacional} de los recursos de esta asignatura, salvo que se cite otra fuente explícitamente.}
+	\end{center}
+
+	\vspace{1cm}
+	\hrule
+	\vspace{1cm}
+
+	% --- Descripción de la PEC ---
+	\begin{problem}[Descripción de la PEC a realizar]
+
+		\begin{problem}[Problema 1 (25 \%)]
+			Una clínica veterinaria quiere clasificar automáticamente muestras de tejido animal según tres características medidas en laboratorio. Las características son: nivel de proteína (A1), nivel de glucosa (A2) y temperatura de muestra en grados (A3). Las clases posibles son: Tipo X, Tipo Y y Tipo Z.
+
+			Conjunto de entrenamiento:
+
+			\vspace{0.25cm}
+
+			\begin{center}
+				\begin{tabular}{|c c c c c|}
+					\hline
+					ID & A1 & A2 & A3 & Clase \\
+					\hline
+					1  & 2  & 3  & 1  & X \\
+					2  & 4  & 1  & 2  & X \\
+					3  & 6  & 5  & 3  & Y \\
+					4  & 5  & 4  & 5  & Y \\
+					5  & 1  & 6  & 4  & Z \\
+					6  & 3  & 7  & 6  & Z \\
+					\hline
+				\end{tabular}
+			\end{center}
+
+			\vspace{0.5cm}
+
+			\textbf{Muestra de test:} $x = (\text{A1} = 3.0, \; \text{A2}=4.0, \, \text{A3} = 2.0)$
+
+			\vspace{0.5cm}
+
+			\begin{enumerate}[label=\alph*)] 
+				\item Calcula la distancia euclídea entre la muestre de test \textbf{x} y cada uno de los 6 ejemplos del conjunto de entrenamiento. Muestra el desarrollo completo de cada cálculo. \textbf{[10 \%]}
+
+				{ \color{blue} 
+					Para ello, usamos la métrica de la distancia euclídea, que se define como $de(x, x_i) = \sqrt{\sum_{j=1}^m (x_j - x_{ij})^2}$. A partir de esta, calculamos la distancia entre la muestra de test y cada uno de los ejemplos del conjunto de entrenamiento:
+
+					\begin{itemize}
+						\item \textbf{ID 1:} $de(x, x_1) = \sqrt{(3-2)^2 + (4-3)^2 + (2-1)^2} = \sqrt{1^2 + 1^2 + 1^2} = \sqrt{3} \approx 1.73$
+						\item \textbf{ID 2:} $de(x, x_2) = \sqrt{(3-4)^2 + (4-1)^2 + (2-2)^2} = \sqrt{(-1)^2 + 3^2 + 0^2} = \sqrt{1 + 9 + 0} = \sqrt{10} \approx 3.16$
+						\item \textbf{ID 3:} $de(x, x_3) = \sqrt{(3-6)^2 + (4-5)^2 + (2-3)^2} = \sqrt{(-3)^2 + (-1)^2 + (-1)^2} = \sqrt{9 + 1 + 1} = \sqrt{11} \approx 3.32$
+						\item \textbf{ID 4:} $de(x, x_4) = \sqrt{(3-5)^2 + (4-4)^2 + (2-5)^2} = \sqrt{(-2)^2 + 0^2 + (-3)^2} = \sqrt{4 + 0 + 9} = \sqrt{13} \approx 3.61$
+						\item \textbf{ID 5:} $de(x, x_5) = \sqrt{(3-1)^2 + (4-6)^2 + (2-4)^2} = \sqrt{2^2 + (-2)^2 + (-2)^2} = \sqrt{4 + 4 + 4} = \sqrt{12} \approx 3.46$
+						\item \textbf{ID 6:} $de(x, x_6) = \sqrt{(3-3)^2 + (4-7)^2 + (2-6)^2} = \sqrt{0^2 + (-3)^2 + (-4)^2} = \sqrt{0 + 9 + 16} = \sqrt{25} = 5.00$
+					\end{itemize}
+				}
+
+				\item Indica qué clase asignarías a la muestre \textbf{x} usando el clasificador 1NN. Justifica tu respuesta con los resultados del apartado anterior. \textbf{[5 \%]}
+					{ \color{blue}
+						El algoritmo 1NN busca el ejemplo más cercano a la muestra de test y le asigna la clase de dicho prototipo. Basándonos en los resultados del apartado anterior, la distancia mínima corresponde al ejemplo con el \textbf{ID 1} ($\sqrt{3} \approx 1.73$). Dado que la clase del ejemplo 1 es \textbf{X}, el clasificador 1NN asignará la clase \textbf{X} a la muestra $x$.
+					}
+
+				\item Indica qué clase asignarías a la muestra \textbf{x} usando el clasificador 3NN. En caso de empate en la votación, razona cómo lo resolverías. \textbf{[5 \%]}
+					{ \color{blue}
+						En el algoritmo 3NN, la clasificación se realiza buscando el conjunto de los 3 ejemplos más cercanos a la muestra y seleccionando la clase más frecuente entre sus etiquetas. Las tres distancias menores calculadas en el primer apartado son las siguientes:
+						\begin{enumerate}
+							\item ID 1 (Distancia $\approx 1.73$) $\rightarrow$ Clase \textbf{X}
+							\item ID 2 (Distancia $\approx 3.16$) $\rightarrow$ Clase \textbf{X}
+							\item ID 3 (Distancia $\approx 3.32$) $\rightarrow$ Clase \textbf{Y}
+						\end{enumerate}
+						Al contar los votos, tenemos dos votos para la clase X y un voto para la clase Y. Por lo tanto, se asignaría la clase \textbf{X} a la muestra.
+
+						En caso de producirse un empate en la votación, una estrategia válida para resolverlo sería ponderar los votos utilizando la \textbf{inversa de la distancia} euclídea, lo cual otorga más peso en la decisión final a los vecinos que estén más cerca de la muestra de test.
+					}
+
+				\item El kNN tiene un coste computacional alto en la fase de clasificación cuando el conjunto de entrenamiento es muy grande. Explica por qué ocurre esto y propón una estrategia conceptual para reducir ese coste sin cambiar el algoritmo por otro completamente diferente. \textbf{[5 \%]}
+					{ \color{blue}
+						Esto ocurre porque el algoritmo kNN, en su forma más simple y según el \textbf{Apartado 2.1. k Nearest Neighbors (kNN)}, "deja en la memoria todos los ejemplos durante el proceso de entrenamiento". En consecuencia, la generalización se pospone hasta el momento de clasificar nuevos ejemplos, instante en el que debe calcular la distancia entre la nueva muestra y \textit{todos} los ejemplos almacenados en la base de datos. 
+
+						Para reducir el coste computacional sin abandonar el algoritmo basado en vecinos más cercanos, se puede aplicar una técnica de \textbf{edición o condensación del conjunto de entrenamiento}. Esto consiste en un preprocesamiento que elimina de la memoria los ejemplos redundantes, como aquellos que están en el interior de una clase y no afectan las fronteras de decisión, conservando únicamente una fracción de los datos más representativos. Otra alternativa estructural es el uso de \textbf{árboles de búsqueda espacial, como los árboles KD}, que organizan los datos geométricamente y permiten descartar bloques enteros de puntos alejados sin necesidad de calcular la distancia a cada uno de ellos.
+					}
+			\end{enumerate}
+		\end{problem}
+
+		\begin{problem}[Problema 2 (25 \%)]
+			Un sistema automatizado debe clasificar solicitudes de crédito bancario como Aprobadas (A) o Rechazadas (R) en función de tres atributos categóricos del solicitante.
+
+			\vspace{0.25cm}
+
+			\begin{center}
+				\begin{tabular}{|c c c c c|}
+					\hline
+					ID & Empleo & Historial & Ingresos & Class \\
+					\hline
+					1  & Fijo  & Bueno  & Alto  & A \\
+					2  & Temporal  & Bueno  & Medio  & A \\
+					3  & Fijo  & Malo  & Alto  & R \\
+					4  & Temporal  & Malo  & Bajo  & R \\
+					5  & Fijo  & Bueno  & Medio  & A \\
+					6  & Fijo  & Malo  & Medio  & R \\
+					7  & Temporal  & Bueno  & Alto  & A \\
+					8  & Temporal  & Malo  & Alto  & R \\
+					\hline
+				\end{tabular}
+			\end{center}
+
+			\vspace{0.5cm}
+
+			\begin{enumerate}[label=\alph*)] 
+				\item Calculad la bondad de la partición para cada uno de los tres atributos (Empleo, Historial, Ingresos) usando el criterio de clase mayoritaria descrito en el módulo. Muestra todos los conjuntos generados y el número de ejemplos bien clasificados. \textbf{[12 \%]}
+					{ \color{blue} 
+						Para calcular la bondad de la partición usando el criterio de clase mayoritaria, dividimos el conjunto de entrenamiento según los valores de cada atributo, asignamos la clase más frecuente a cada conjunto, contamos los ejemplos bien clasificados y dividimos entre el número total de ejemplos.
+
+						\begin{itemize}
+							\item \textbf{Atributo Empleo:}
+							\begin{itemize}
+								\item \textit{Fijo:} \{ID 1 (A), 3 (R), 5 (A), 6 (R)\} $\rightarrow$ Empate (2 A, 2 R). Asignamos una clase cualquiera como mayoritaria. Ejemplos bien clasificados: 2.
+								\item \textit{Temporal:} \{ID 2 (A), 4 (R), 7 (A), 8 (R)\} $\rightarrow$ Empate (2 A, 2 R). Asignamos una clase cualquiera como mayoritaria. Ejemplos bien clasificados: 2.
+							\end{itemize}
+							Bondad(Empleo) = $\frac{2 + 2}{8} = \frac{4}{8} = 0.5$
+
+							\item \textbf{Atributo Historial:}
+							\begin{itemize}
+								\item \textit{Bueno:} \{ID 1 (A), 2 (A), 5 (A), 7 (A)\} $\rightarrow$ Mayoría A (4 A, 0 R). Ejemplos bien clasificados: 4.
+								\item \textit{Malo:} \{ID 3 (R), 4 (R), 6 (R), 8 (R)\} $\rightarrow$ Mayoría R (0 A, 4 R). Ejemplos bien clasificados: 4.
+							\end{itemize}
+							Bondad(Historial) = $\frac{4 + 4}{8} = \frac{8}{8} = 1.0$
+
+							\item \textbf{Atributo Ingresos:}
+							\begin{itemize}
+								\item \textit{Alto:} \{ID 1 (A), 3 (R), 7 (A), 8 (R)\} $\rightarrow$ Empate (2 A, 2 R). Asignamos una clase cualquiera. Ejemplos bien clasificados: 2.
+								\item \textit{Medio:} \{ID 2 (A), 5 (A), 6 (R)\} $\rightarrow$ Mayoría A (2 A, 1 R). Ejemplos bien clasificados: 2.
+								\item \textit{Bajo:} \{ID 4 (R)\} $\rightarrow$ Mayoría R (0 A, 1 R). Ejemplos bien clasificados: 1.
+							\end{itemize}
+							Bondad(Ingresos) = $\frac{2 + 2 + 1}{8} = \frac{5}{8} = 0.625$
+						\end{itemize}
+					}
+
+				\item Selecciona el atributo raíz del árbol e indica si alguno de los nodos resultantes ya es terminal. Para los nodos internos, aplica una segunda iteración del algoritmo (sin entrar en una tercera). \textbf{[8 \%]}
+					{ \color{blue}
+						En cada iteración, el algoritmo selecciona el atributo que hace la mejor partición del conjunto, por lo que el atributo raíz elegido es \textbf{Historial}, que obtuvo el valor máximo de bondad de partición (1.0).
+
+						Esta partición genera dos nodos derivados de la regla atributo = valor:
+						\begin{itemize}
+							\item \textbf{Nodo 1 (Historial = Bueno)}: Contiene únicamente ejemplos con clase A. Como todos los ejemplos quedan bien clasificados, se convierte en un \textbf{nodo terminal} con la clase A.
+							\item \textbf{Nodo 2 (Historial = Malo)}: Contiene únicamente ejemplos con clase R. Por la misma razón, se convierte en un \textbf{nodo terminal} con la clase R.
+						\end{itemize}
+
+						Dado que la partición inicial generada por el atributo Historial agrupa todas las muestras en nodos donde la clasificación es exacta, \textbf{no se genera ningún nodo interno} y, por tanto, no es necesario aplicar una segunda iteración al conjunto reducido.
+					}
+
+				\item Clasifica la siguiente muestra de test usando el árbol construido y justifica el recorrido rama a rama:
+					Muestra test: Empleo = Fijo, Historial = Malo, Ingresos = Alto
+
+						{ \color{blue}
+							Para hacer el test, exploramos el árbol partiendo de la raíz y escogemos las ramas que se correspondan con los valores de los atributos del ejemplo de test. Con tal de facilitar su desarrollo, procedemos a explicarlo con pasos numerados:
+							\begin{enumerate}[label=\arabic*.]
+								\item El recorrido comienza en el nodo raíz del árbol de decisión construido: \textbf{Historial}.
+								\item Comprobamos el valor del atributo "Historial" en la muestra de test, que en este caso es \textbf{Malo}.
+								\item Descendemos por la rama \textit{Historial = Malo}.
+								\item Inmediatamente llegamos a un nodo terminal y damos como predicción la clase correspondiente a ese nodo, que es la \textbf{clase R (Rechazada)}.
+							\end{enumerate}
+							Por tanto, la solicitud sería clasificada como \textbf{Rechazada (R)}.
+						}
+
+				\item ¿Cuál es la principal ventaja del árbol de decisión respecto al kNN en un contexto bancario real? Razona tu respuesta. \textbf{[5 \%]}
+					{ \color{blue}
+						La principal ventaja del árbol de decisión es, citando al \textbf{Apartado 2.2. Árboles de decisión}, "la facilidad de interpretación del modelo de aprendizaje", ya que proporciona "una información clara de la toma de decisiones y de la importancia de los diferentes atributos involucrados", razón por la cual tieen sentido aplicarlo en el sector bancario. 
+
+						A diferencia del algoritmo kNN, que simplemente asigna una clase basándose en comparaciones de distancia o similitud pura sin explicar el porqué, un árbol de decisión genera un conjunto de reglas deductivas explícitas de tipo "atributo = valor". Si un banco rechaza la solicitud de crédito de un cliente basándose en kNN, el sistema sólo podría justificarlo diciendo que el cliente se parece a otras personas que no pagaron. Al usar un árbol de decisión, el banco puede darle un motivo formal, lógico y auditable legalmente. Por ejemplo: "Su solicitud fue rechazada exclusivamente porque su historial crediticio previo es malo, sin importar sus ingresos".
+					}
+			\end{enumerate}
+		\end{problem}
+
+		\begin{problem}[Problema 3 (25 \%)]
+			Se dispone de un perceptrón con 2 neuronas de entrada, una capa oculta de 2 neuronas y 1 neurona de salida. La función de activación de las neuronas ocultas es ReLU. La neurona de salida aplica una función lineal. Los pesos y sesgos son fijos y se dan a continuación:
+
+			\textbf{Arquitectura y parámetros:}
+
+			Capa de entrada $\rightarrow$ capa oculta (pesos w, sesgo b):
+			\begin{itemize}
+				\item Neurona oculta H1: $w_{11} = 0.5, \, w_{21}=0.2, \, b_1= 0.1$
+				\item Neurona oculta H2: $w_{12} = -0.3, \, w_{22}=0.8, \, b_2= -0.2$
+			\end{itemize}
+
+			\vspace{0.5cm}
+
+			Capa oculta $\rightarrow$ neurona de salida (pesos $v$, sesgo $b_{\text{out}}$):
+			\begin{itemize}
+				\item $v_{1} = 0.7, \, v_{2}=-0.4, \, b_{\text{out}} = 0.3$
+			\end{itemize}
+
+			\vspace{0.5cm}
+
+			Entrada: $x = (x_1 = 1.5, x_2 = 2.0)$  
+
+			Salida esperada (etiqueta): $y^* = 1.2$
+
+			\vspace{0.5cm}
+
+			\begin{enumerate}[label=\alph*)] 
+				\item Calcula la entrada neta y la salida de cada neurona oculta (H1 y H2). Muestra el cálculo de la suma ponderada antes y después de aplicar ReLU. \textbf{[8 \%]}
+					{ \color{blue} 
+						Para calcular la entrada neta $z$ de cada unidad oculta, combinamos las entradas $x$ con su vector de pesos correspondiente y sumamos el sesgo $b$. A este resultado le aplicamos la función de activación ReLU, que produce una salida de 0 si la entrada neta es negativa y la mantiene intacta si es positiva.
+
+						\textbf{Neurona oculta H1:}
+						\begin{itemize}
+							\item Entrada neta ($z_1$): $z_1 = (w_{11} \cdot x_1) + (w_{21} \cdot x_2) + b_1$
+							\item Sustituimos: $z_1 = (0.5 \cdot 1.5) + (0.2 \cdot 2.0) + 0.1 = 0.75 + 0.4 + 0.1 = \mathbf{1.25}$
+							\item Salida ($h_1$): $\text{ReLU}(1.25) = \max(0, 1.25) = \mathbf{1.25}$
+						\end{itemize}
+
+						\textbf{Neurona oculta H2:}
+						\begin{itemize}
+							\item Entrada neta ($z_2$): $z_2 = (w_{12} \cdot x_1) + (w_{22} \cdot x_2) + b_2$
+							\item Sustituimos: $z_2 = (-0.3 \cdot 1.5) + (0.8 \cdot 2.0) - 0.2 = -0.45 + 1.6 - 0.2 = \mathbf{0.95}$
+							\item Salida ($h_2$): $\text{ReLU}(0.95) = \max(0, 0.95) = \mathbf{0.95}$
+						\end{itemize}
+					}
+
+				\item Calcula la salida final de la red ($\hat{y}$) a partir de las salidas de H1 y H2. \textbf{[5 \%]}
+					{ \color{blue}
+						La capa de salida recibe las señales de la capa oculta, $h_1$ y $h_2$, y calcula la entrada neta combinando estos valores con sus propios pesos y sesgo.
+
+						Entrada neta ($z_{\text{out}}$): $z_{\text{out}} = (v_1 \cdot h_1) + (v_2 \cdot h_2) + b_{\text{out}}$
+
+						Sustituimos los valores calculados: $z_{\text{out}} = (0.7 \cdot 1.25) + (-0.4 \cdot 0.95) + 0.3 = 0.875 - 0.38 + 0.3 = \mathbf{0.795}$
+
+						Puesto que el enunciado especifica que la neurona de salida aplica una \textbf{función de activación lineal}, la salida no se modifica, ya que se multiplica por 1.
+
+						Entonces, la salida final de la red es $\mathbf{\hat{y} = 0.795}$.
+					}
+
+				\item Calcula el error cuadrático C entre la salida obtenida $\hat{y}$ y la etiqueta $y^*$. \textbf{[4 \%]}
+					{ \color{blue}
+						Para la capa oculta, calculamos la entrada neta y aplicamos la función de activación ReLU, la cual se define como $g(z) = \max(0, z)$:
+						\begin{itemize}
+							\item $z_1 = w_{11}x_1 + w_{21}x_2 + b_1 = 0.5(1.5) + 0.2(2.0) + 0.1 = 0.75 + 0.4 + 0.1 = 1.25$. \\
+							La activación es $h_1 = \max(0, 1.25) = 1.25$.
+							\item $z_2 = w_{12}x_1 + w_{22}x_2 + b_2 = -0.3(1.5) + 0.8(2.0) - 0.2 = -0.45 + 1.6 - 0.2 = 0.95$. \\
+							La activación es $h_2 = \max(0, 0.95) = 0.95$.
+						\end{itemize}
+
+						Para la capa de salida con activación lineal calculamos $\hat{y}$:
+						\begin{center}
+							$\hat{y} = v_1h_1 + v_2h_2 + b_{\text{out}} = 0.7(1.25) - 0.4(0.95) + 0.3 = 0.875 - 0.380 + 0.3 = 0.795$.
+						\end{center}
+
+						El error cuadrático $C$ entre la salida obtenida y la esperada se calcula como:
+						\begin{center}
+							$\mathbf{C} = (\hat{y} - y^*)^2 = (0.795 - 1.2)^2 = (-0.405)^2 = \mathbf{0.164025}$.
+						\end{center}
+					}
+
+				\item Supón ahora que el peso $w_{12}$ cambia de $-0.3$ a $+0.6$ (manteniendo todo lo demás igual). Sin recalcular todos los pasos desde cero, razona cualitativamente: ¿aumentará o disminuirá la activación de H2? ¿Qué efecto tendrá esto en la salida final $\hat{y}$ y en el error C? \textbf{[8 \%]}
+					{ \color{blue}
+						 El valor de entrada neta $z_2$ será mayor, ya que la entrada $x_1 = 1.5$ es positiva. Como la función ReLU es igual a $z$ para valores positivos, un valor mayor de $z_2$ provocará que la activación de la neurona H2 ($h_2$) \textbf{aumente}.
+
+						En la capa de salida, el peso asociado a $h_2$ es $v_2 = -0.4$. Al ser un peso negativo, un aumento en la activación $h_2$ hará que el valor de la salida final $\hat{y}$ \textbf{disminuya}.
+
+						Dado que nuestra salida original ($\hat{y} = 0.795$) ya era menor que la salida esperada ($y^* = 1.2$), una disminución adicional en $\hat{y}$ la alejará aún más del objetivo $y^*$. Como resultado, la magnitud de la diferencia entre el valor esperado y el obtenido será mayor, por lo que el error cuadrático $C$ \textbf{aumentará}.
+					}
+			\end{enumerate}
+		\end{problem}
+
+		\begin{problem}[Problema 4 (25 \%)]
+			Un sistema de aprendizaje supervisado ha sido entrenado para detectar si una planta tiene una enfermedad (Positivo = enferm, Negativo = sana). Se ha evaluado sobre un conjunto de tests de 200 muestras y se han obtenido los resultados siguientes expresados en la matriz de confusión.
+
+			\vspace{0.25cm}
+
+			\begin{center}
+				\begin{tabular}{|c c c|}
+					\hline
+					 & Positivo & Negativo \\
+					\hline
+					Positivo  & 45  & 15  \\
+					Negativo  & 20  & 120 \\
+					\hline
+				\end{tabular}
+			\end{center}
+
+			\vspace{0.5cm}
+
+			\begin{enumerate}[label=\alph*)] 
+				\item Calcula las siguientes métricas mostrando la fórmula, la sustitución numérica y el resultado final: \textbf{[12 \%]}
+					\begin{itemize}
+						\item Exactitud (accuracy)
+						\item Precisión (precision)
+						\item Sensibilidad (recall)
+						\item Medida F1
+					\end{itemize}
+
+					{ \color{blue} 
+						Para calcular las métricas, primero identificamos los componentes de la matriz de confusión:
+						\begin{itemize}
+							\item \textbf{Verdaderos positivos (tp):} 45
+							\item \textbf{Falsos positivos (fp):} 15
+							\item \textbf{Falsos negativos (fn):} 20
+							\item \textbf{Verdaderos negativos (tn):} 120
+						\end{itemize}
+
+						Ahora, aplicamos las fórmulas teóricas de evaluación:
+
+						\textbf{1. Exactitud (accuracy):} Mide el número de ejemplos clasificados correctamente sobre el total.
+						$$ Accuracy = \frac{tp + tn}{tp + tn + fp + fn} = \frac{45 + 120}{200} = \frac{165}{200} = \mathbf{0.825 \; (82.5\%)} $$
+
+						\textbf{2. Precisión (precision):} Mide los ejemplos positivos bien clasificados respecto al total de ejemplos con \textit{predicción} positiva.
+						$$ Precision = \frac{tp}{tp + fp} = \frac{45}{45 + 15} = \frac{45}{60} = \mathbf{0.75 \; (75.0\%)} $$
+
+						\textbf{3. Sensibilidad (recall):} Mide los ejemplos positivos bien clasificados respecto al total de ejemplos \textit{reales} positivos.
+						$$ Recall = \frac{tp}{tp + fn} = \frac{45}{45 + 20} = \frac{45}{65} \approx \mathbf{0.6923 \; (69.23\%)} $$
+
+						\textbf{4. Medida F1:} Es una combinación de las dos métricas anteriores para balancear sus efectos.
+						$$ F1 = \frac{2 \cdot Precision \cdot Recall}{Precision + Recall} = \frac{2 \cdot 0.75 \cdot 0.6923}{0.75 + 0.6923} = \frac{1.03845}{1.4423} \approx \mathbf{0.720 \; (72.0\%)} $$
+					}
+
+				\item En el contexto de la detección de enfermedades en plantas, ¿cuál de las cuatro métricas anteriores consideras que debería ser la métrica prioritaria para evaluar este sistema? Argumenta tu elección teniendo en cuenta las consecuencias de los falsos negativos (FN) y los falsos positivos (FP) en este dominio. \textbf{[7 \%]}
+					{ \color{blue}
+						En la detección de enfermedades, la métrica prioritaria debe ser la \textbf{Sensibilidad (recall)}, ya que un \textbf{falso negativo} significa clasificar a una planta enferma como sana. Las consecuencias de esto son muy graves, puesto que la planta no recibirá tratamiento y la enfermedad podría propagarse y arruinar a toda la cosecha. Por otro lado, un \textbf{falso positivo} implicaría catalogar como enferma a una planta sana, lo cual solo incurre en el coste de aplicar un tratamiento preventivo o aislarla innecesariamente, pero no compromete la cosecha. Como la fórmula de la sensibilidad es $\frac{tp}{tp + fn}$, centrarse en maximizar esta métrica hace que el sistema penalice con dureza los falsos negativos, lo cual conlleva minimizar así el riesgo de pasar por alto a las plantas verdaderamente enfermas.
+					}
+
+				\item Un investigador propone usar validación cruzada con $k=8$ en lugar de validación simple (holdout) sobre un conjunto de 400 muestras. Explica: \textbf{[6 \%]}
+					\begin{itemize}
+						\item ¿Cuántas muestras se usarían como test en cada iteración?
+						\item ¿Cuántas veces se entrenaría el modelo en total?
+						\item ¿Por qué la validación cruzada da estimaciones más fiables que la validación simple?
+					\end{itemize}
+
+					{ \color{blue}
+						Basado en los protocolos de validación y partición de datos:
+						\begin{itemize}
+							\item \textbf{Muestras de test por iteración:} La validación cruzada consiste en dividir un conjunto en $k$ subconjuntos. Si tenemos 400 muestras y $k=8$, se crean 8 subconjuntos iguales de $\frac{400}{8} = 50$ muestras. En cada iteración, se utiliza un solo subconjunto como test, por lo que se usarían \textbf{50 muestras} para testar y las 350 restantes para entrenar.
+							\item \textbf{Veces que se entrena el modelo:} Como el protocolo indica que "se hacen $k$ pruebas utilizando en cada una un subconjunto como test", el modelo será entrenado y evaluado \textbf{8 veces} en total, rotando el bloque de validación.
+							\item \textbf{Fiabilidad superior:} La validación simple presenta un problema: "según el conjunto de datos que tengamos puede variar mucho el comportamiento del sistema en función de la partición de ejemplos", lo que significa que el rendimiento medido depende en gran medida de la suerte al hacer la división inicial. La validación cruzada soluciona este sesgo calculando la media y la desviación estándar de los resultados de sus múltiples iteraciones cruzadas. Como todos los datos tienen que pasar en algún momento tanto por la fase de entrenamiento como por la de test, se obtiene una estimación del rendimiento general mucho más consistente y fiable.
+						\end{itemize}
+					}
+			\end{enumerate}
+		\end{problem}
+	\end{problem}
+\end{document}
