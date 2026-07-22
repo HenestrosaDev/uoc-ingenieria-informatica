@@ -2,6 +2,10 @@
 
 Para realizar esta PEC, hay que resolver los ejercicios que se detallan en el archivo `enunciado.pdf` y entregarlos en formato `.pdf` ([`entrega_evaluada.pdf`](entrega_evaluada.pdf)). Recomiendo realizar la PEC en LaTeX o Typst debido a la cantidad de fórmulas que se deben introducir.
 
+## Histórico de PEC
+
+El directorio [`historico`](historico/) contiene una recopilación de 26 PEC corregidas por el equipo docente desde 2009.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
