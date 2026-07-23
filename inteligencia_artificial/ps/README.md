@@ -11,9 +11,9 @@ Esta recopilación de pruebas de síntesis está actualizada a la fecha en la qu
 >- El desglose de los exámenes se organiza por curso, semestre e idioma, en ese orden. Por ejemplo, los exámenes del curso 2024-2025 del primer semestre (enero) en español se encuentran en el directorio `2024-2025/enero/espanol`.
 >- Las celdas de la tabla que no tienen ningún enlace indican que faltan exámenes de ese año, semestre o idioma.
 >- La nomenclatura del nombre de las PS (ejemplo: `20242_75582_200626_S.pdf`) es la siguiente:
->	- `20242`: Año escolar (2025-2026) y semestre. El semestre puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
+>	- `20242`: Año escolar (2024-2025) y semestre. El semestre puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
 >	- `75582`: Código de la asignatura (75.582). Para catalán, el código es 05.582 (solo cambian los dos primeros dígitos).
->	- `200625`: Fecha de realización (20/06/2026).
+>	- `200625`: Fecha de realización (20/06/2025).
 >	- `S`: Tipo de archivo. Puede ser S (solución) o E (enunciado).
 
 <br>
