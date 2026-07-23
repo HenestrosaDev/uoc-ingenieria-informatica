@@ -2,14 +2,13 @@
 
 ## Antes de empezar
 
-Esta recopilación de exámenes está actualizada a la fecha en la que cursé esta asignatura. A pesar de haberla finalizado ya, intentaré mantener este archivo lo más actualizado posible. Si dispones de un examen faltante en este archivo, puedes [crear una incidencia](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/issues/new) y adjuntarlo, o bien hacerle un fork a este repositorio y crear un [pull request](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/pulls).
+Esta recopilación de exámenes está actualizada a la fecha en la que cursé esta asignatura. A pesar de haberla finalizado ya, intentaré mantener este archivo lo más actualizado posible. Si dispones de un examen que no figura aquí, puedes [crear una incidencia](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/issues/new) y adjuntarlo, o bien hacerle un fork a este repositorio y crear un [pull request](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/pulls).
 
 ## Índice
 
 >[!NOTE]
->- Por lo general, cada mes tiene un directorio con dos idiomas (español o catalán) que contiene 3 exámenes.
->- El desglose de los exámenes se dividen por la fecha de realización. Por ejemplo, los exámenes en español del curso 2023/24-1 se encuentran en el directorio `2023-2024/enero/espanol`.
->- Las celdas de la tabla que no tienen ningún enlace indican que faltan exámenes de ese idioma o mes.
+>- El desglose de los exámenes se organiza por curso, semestre e idioma, en ese orden. Por ejemplo, los exámenes del curso 2024-2025 del primer semestre (enero) en español se encuentran en el directorio `2024-2025/enero/espanol`.
+>- Las celdas de la tabla que no tienen ningún enlace indican que faltan exámenes de ese año, semestre o idioma.
 
 <table>
 	<tr>

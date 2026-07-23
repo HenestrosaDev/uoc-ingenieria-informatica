@@ -2,7 +2,7 @@
 
 ## Antes de empezar
 
-Esta recopilación de pruebas de síntesis (PS) está actualizada a la fecha en la que cursé esta asignatura. A pesar de haberla finalizado ya, intentaré mantener este archivo lo más actualizado posible. Si dispones de una prueba de síntesis faltante en este archivo, puedes [crear una incidencia](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/issues/new) y adjuntarla, o bien hacerle un fork a este repositorio y crear un [pull request](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/pulls).
+Esta recopilación de pruebas de síntesis (PS) está actualizada a la fecha en la que cursé esta asignatura. A pesar de haberla finalizado ya, intentaré mantener este archivo lo más actualizado posible. Si dispones de una prueba de síntesis que no figura aquí, puedes [crear una incidencia](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/issues/new) y adjuntarla, o bien hacerle un fork a este repositorio y crear un [pull request](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/pulls).
 
 ## Índice
 
