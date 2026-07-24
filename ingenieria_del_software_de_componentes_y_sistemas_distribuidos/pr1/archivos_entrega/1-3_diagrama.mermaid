@@ -1,0 +1,122 @@
+classDiagram
+    %% Core Catalog & Inventory
+    %% 1. Definición de los enumerados
+    class ItemStatus {
+        <<enumeration>>
+        OPERATIONAL
+        NOT_OPERATIVE
+    }
+
+    class RentStatus {
+        <<enumeration>>
+        SCHEDULED
+        CANCELED
+        RETURNED
+    }
+
+    class Category {
+        -String name
+        -String description
+        -Category parentCategory
+    }
+
+    
+    class Product {
+        -String name
+        -String description
+        -String brand
+        -String model
+        -Double dailyPrice
+        -Boolean isActive
+    }
+    
+    class Item {
+        -String serialNumber
+        -ItemStatus status
+    }
+
+    %% Rental Management
+    class Customer {
+        -String fullName
+        -String email
+        -String password
+        -String phoneNumber
+    }
+    
+    class Rental {
+        -Date startDate
+        -Date endDate
+        -RentalStatus status
+        -Double totalPrice
+    }
+
+    %% Academic & Learning Management
+    class Course {
+        -String title
+        -String description
+        -String modality
+        -Double price
+        -String language
+        -String location
+        -CourseStatus status
+    }
+    
+class CourseStatus {
+        <<enumeration>>
+        CREATED
+        ENROLLMENT_OPEN
+        ENROLLMENT_CLOSED
+        CLOSED
+    }
+
+    class Instructor {
+        -String email
+        -String fullName
+    }
+    
+    class Student {
+        -String email
+        -String fullName
+    }
+    
+    class Enrollment {
+        -Date enrollmentDate
+    }
+    
+    class GradingReport {
+        -Double score
+        -Date closedDate
+        -Boolean isClosed
+    }
+    
+    %% Microcredentials Management
+    class MicrocredentialRequest {
+        -RequestStatus status
+        -Date requestDate
+    }
+    
+    class Microcredential {
+        -Date issueDate
+        -String title
+    }
+
+    %% Relationships - Catalog & Rentals
+    Category "1" *-- "0..*" Category : subcategories
+    Category "1" *-- "0..*" Product : contains
+    Product "1" *-- "0..*" Item : has units
+    Customer "1" -- "0..*" Rental : places
+    Rental "*" -- "1..*" Item : includes
+
+    %% Relationships - Academic
+    Instructor "1" -- "0..*" Course : teaches
+    Course "1" -- "0..*" Enrollment : receives
+    Student "1" -- "0..*" Enrollment : registers in
+    Course "1" *-- "0..1" GradingReport : has
+    
+    %% Relationships - Grading (CORREGIDO)
+    GradingReport "1" -- "1" Student : belongs to
+    
+    %% Relationships - Microcredentials
+    GradingReport "1" ..> "0..1" MicrocredentialRequest : triggers (if meets reqs)
+    MicrocredentialRequest "1" -- "0..1" Microcredential : generates
+    Student "1" -- "0..*" Microcredential : earns
