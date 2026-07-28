@@ -53,26 +53,29 @@
 
 ## Antes de empezar
 
->[!IMPORTANT]  
->No están todas las asignaturas obligatorias y básicas, ya que convalidé las siguientes por haber cursado el CFGS en Desarrollo de Aplicaciones Web (y Multiplataforma) y tener el título C1 de inglés de Cambridge (CAE):
->| ASIGNATURA CONVALIDADA                    | TIPO DE FORMACIÓN | CRÉDITOS |
->|-------------------------------------------|-------------------|----------|
->| Fundamentos de programación               | Básica            | 6        |
->| Prácticas de programación                 | Básica            | 6        |
->| Trabajo en equipo en la red               | Básica            | 6        |
->| Diseño de bases de datos                  | Obligatoria       | 6        |
->| Diseño y programación orientada a objetos | Obligatoria       | 6        |
->| Ingeniería del software                                       | Obligatoria       | 6        |
->| Inglés I                                  | Obligatoria       | 6        |
->| Inglés II                                 | Obligatoria       | 6        |
->| Uso de bases de datos                     | Obligatoria       | 6        |
->| Iniciativa emprendedora                   | Optativa          | 6        |
->| Prácticas en empresa                      | Optativa          | 12       |
+> [!IMPORTANT]
+> - Este repositorio se actualiza al término de cada semestre.
+> - No están todas las asignaturas obligatorias y básicas, ya que convalidé las siguientes por haber superado el CFGS en [Desarrollo de Aplicaciones Web](https://github.com/HenestrosaDev/2-daw) (y Multiplataforma), el [Curso de Especialización en Entornos de las Tecnologías de la Información](https://github.com/HenestrosaDev/curso-especializacion-ciberseguridad-ti) y obtener el título C1 de inglés de Cambridge (CAE):
+>
+>   | ASIGNATURA CONVALIDADA                    | TIPO DE FORMACIÓN | CRÉDITOS |
+>   |-------------------------------------------|-------------------|----------|
+>   | Fundamentos de programación               | Básica            | 6        |
+>   | Prácticas de programación                 | Básica            | 6        |
+>   | Trabajo en equipo en la red               | Básica            | 6        |
+>   | Diseño de bases de datos                  | Obligatoria       | 6        |
+>   | Diseño y programación orientada a objetos | Obligatoria       | 6        |
+>   | Ingeniería del software                   | Obligatoria       | 6        |
+>   | Inglés I                                  | Obligatoria       | 6        |
+>   | Inglés II                                 | Obligatoria       | 6        |
+>   | Redes y aplicaciones Internet             | Obligatoria       | 6        |
+>   | Uso de bases de datos                     | Obligatoria       | 6        |
+>   | Iniciativa emprendedora                   | Optativa          | 6        |
+>   | Prácticas en empresa                      | Optativa          | 12       |
+>   | Seguridad en redes de computadores        | Optativa          | 6        |
 
 ## Asignaturas
 
 >[!NOTE]
->- Este repositorio se actualiza al término de cada semestre.
 >- Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
 >- Las asignaturas están desglosadas por tipo (básicas, obligatorias y optativas) y ordenadas alfabéticamente.
 >- <details>
@@ -371,6 +374,58 @@
 		</td>
 		<td>-</td>
 	</tr>
+	<!-- FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA -->
+	<tr>
+		<td rowspan="5">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_fisicos_de_la_informatica">
+					Fundamentos físicos de la informática (25/26-2)
+				</a>
+			</strong>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_fisicos_de_la_informatica/pec1">
+				PEC1 - ¿Qué es la memoria en una holocubierta? Descubrir que la luz tiene memoria
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="5">
+			9,4 / 10,0 (A)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_fisicos_de_la_informatica/pec2">
+				PEC2 - Transformar un circuito complejo en una fuente y una resistencia, para saber cuándo podremos volver a poner en marcha el ordenador
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_fisicos_de_la_informatica/pec3">
+				PEC3 - Descubrir el origen de la electricidad
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_fisicos_de_la_informatica/pec4">
+				PEC4 - Descubrir cómo crear electricidad y de dónde viene la magia de la electrónica
+			</a >
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/fundamentos_fisicos_de_la_informatica/examenes/2025-2026/junio/espanol/20251_75557_170126_1_E">
+					EXAMEN
+				</a>
+			</strong>
+		</td>
+	</tr>
 	<!-- LÓGICA -->
 	<tr>
 		<td rowspan="7">
@@ -550,6 +605,152 @@
 					EXAMEN
 				</a>
 			</strong>
+		</td>
+	</tr>
+	<!-- INTELIGENCIA ARTIFICIAL -->
+	<tr>
+		<td rowspan="5">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/inteligencia_artificial">
+					Inteligencia artificial (25/26-2)
+				</a>
+			</strong>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/inteligencia_artificial/pec1">
+				PEC1 - Resolución de problemas y búsqueda
+			</a>
+		</td>
+		<td>-</td>
+		<td rowspan="5">
+			9,8 / 10,0 (A)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/inteligencia_artificial/pec2">
+				PEC2 - Sistemas basados en el conocimiento
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/inteligencia_artificial/pec3">
+				PEC3 - Incertidumbre y razonamiento aproximado
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/inteligencia_artificial/pec4">
+				PEC4 - Introducción al aprendizaje computacional
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/inteligencia_artificial/ps/2025-2026/junio/espanol/">
+					PRUEBA DE SÍNTESIS
+				</a>
+			</strong>
+		</td>
+	</tr>
+</table>
+
+<p align="right">(<a href="#top">volver al principio</a>)</p>
+
+### Asignaturas obligatorias pertenecientes al itinerario de ingeniería del software
+
+<table>
+	<tr>
+		<th>ASIGNATURA</th>
+		<th>PRUEBA DE EVALUACIÓN CONTINUA (PEC)</th>
+		<th>PRÁCTICA (PR)</th> 
+		<th>CALIFICACIÓN</th> 
+	</tr>
+	<!-- ANÁLISIS Y DISEÑO CON PATRONES -->
+	<tr>
+		<td rowspan="3">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones">
+					Análisis y diseño con patrones (25/26-2)
+				</a>
+			</strong>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones/pec0">
+				PEC0 - Modelado con UML
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones/pr1">
+				PR1 - Principios de diseño, patrones de análisis y arquitectónicos
+			</a>
+		</td>
+		<td rowspan="3">8,4 / 10,0 (B)</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones/pec1">
+				PEC1 - Principios de diseño y patrones de análisis
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones/pr2">
+				PR2 - Patrones de diseño y de asignación de responsabilidades
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/analisis_y_diseno_con_patrones/pec2">
+				PEC2 - Patrones de diseño y de asignación de responsabilidades
+			</a>
+		</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<strong>
+				<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ing_del_software_de_componentes_y_sistemas_distribuidos">
+					Ingeniería del software de componentes y sistemas distribuidos (25/26-2)
+				</a>
+			</strong>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_del_software_de_componentes_y_sistemas_distribuidos/pec1">
+				PEC1 - Arquitecturas de software distribuido: una solución para cada problema
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_del_software_de_componentes_y_sistemas_distribuidos/pr1">
+				PR1 - Arquitecturas hexagonales y diseño de microservicios: una relación bien avenida
+			</a>
+		</td>
+		<td rowspan="3">8,6 / 10,0 (B)</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_del_software_de_componentes_y_sistemas_distribuidos/pec2">
+				PEC2 - CD/CI, DevOps y cultura ágil: buenas prácticas para el desarrollo de software distribuido
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_del_software_de_componentes_y_sistemas_distribuidos/pr2">
+				PR2 - De la creación a la interconexión de microservicios
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>-</td>
+		<td>
+			<a href="https://github.com/HenestrosaDev/uoc-ingenieria-informatica/tree/main/ingenieria_del_software_de_componentes_y_sistemas_distribuidos/pr3">
+				PR3 - Calidad del software distribuido: inherente, transversal y crítico
+			</a>
 		</td>
 	</tr>
 </table>
