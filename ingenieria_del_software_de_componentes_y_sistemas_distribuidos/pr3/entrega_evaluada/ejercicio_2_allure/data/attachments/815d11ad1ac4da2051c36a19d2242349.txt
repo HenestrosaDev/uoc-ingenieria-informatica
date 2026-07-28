@@ -1,0 +1,6 @@
+Instructor: missing-instructor@example.com
+Título: Course title
+Estado inicial: ACTIVE
+Modo: ONLINE
+Idioma: EN
+Ubicación: Remote

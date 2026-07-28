@@ -1,0 +1,1 @@
+{"version":3,"file":"AnnotationNote.d.ts","sourceRoot":"","sources":["../../src/AnnotationNote.tsx"],"names":[],"mappings":"AAKA,OAAO,EAAE,OAAO,EAAE,MAAM,SAAS,CAAA;AAEjC,eAAO,MAAM,cAAc,GAAI,KAAK,EAAG,wBAKpC;IACC,KAAK,EAAE,KAAK,CAAA;IACZ,CAAC,EAAE,MAAM,CAAA;IACT,CAAC,EAAE,MAAM,CAAA;IACT,IAAI,EAAE,OAAO,CAAC,KAAK,CAAC,CAAA;CACvB,4CAwCA,CAAA"}

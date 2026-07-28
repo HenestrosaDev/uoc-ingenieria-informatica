@@ -1,0 +1,13 @@
+{
+  "historyPath" : "D:\\Mio\\Formacion\\Universidad\\UOC\\Ing. informática\\iscsd\\pr3\\entrega\\spring-2026-course-solution\\spring-2026-course-solution-main\\.allure\\history\\report\\history.jsonl",
+  "appendHistory" : true,
+  "name" : "Allure",
+  "output" : "D:\\Mio\\Formacion\\Universidad\\UOC\\Ing. informática\\iscsd\\pr3\\entrega\\spring-2026-course-solution\\spring-2026-course-solution-main\\target\\site\\allure-maven-plugin",
+  "plugins" : {
+    "awesome" : {
+      "options" : {
+        "singleFile" : false
+      }
+    }
+  }
+}

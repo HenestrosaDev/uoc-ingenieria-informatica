@@ -1,0 +1,64 @@
+.side {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  max-width: 1920px;
+  justify-content: space-between;
+  height: 100%;
+  padding: 0 8px;
+}
+
+.wrapper {
+  width: 100%;
+  flex-direction: column;
+  margin: auto;
+}
+
+.side-left {
+  margin-right: auto;
+  transition: width 50ms;
+  will-change: width;
+}
+
+.side-right {
+  flex: 1 1 auto;
+  margin-left: auto;
+  transition: width 200ms;
+  will-change: width, height;
+}
+
+[dir="ltr"] {
+  .side {
+    direction: ltr;
+    flex-direction: row;
+  }
+}
+
+[dir="rtl"] {
+  .side {
+    direction: ltr;
+    flex-direction: row-reverse;
+  }
+
+  .side-left {
+    direction: rtl;
+  }
+
+  .side-right {
+    direction: rtl;
+  }
+}
+
+.tree-ctrl {
+  overflow: hidden;
+}
+
+.gutter {
+  background: var(--bg-base-secondary) no-repeat 50%;
+  height: 100%;
+}
+
+.gutter:hover {
+  cursor: ew-resize;
+}

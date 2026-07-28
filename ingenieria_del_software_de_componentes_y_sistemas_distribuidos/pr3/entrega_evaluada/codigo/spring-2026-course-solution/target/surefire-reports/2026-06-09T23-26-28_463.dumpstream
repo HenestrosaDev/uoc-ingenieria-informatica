@@ -1,0 +1,5 @@
+# Created at 2026-06-09T23:26:28.644
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Mio\Formacion\Universidad\UOC\Ing. informática\iscsd\pr3\entrega\spring-2026-course-solution\spring-2026-course-solution-main\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

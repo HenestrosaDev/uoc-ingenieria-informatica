@@ -1,0 +1,1 @@
+{"id":"f16336542de37404b9682e5e6b39f39e","fullName":"edu.uoc.epcsd.course.domain.service.CourseServiceImplTest.createCourse_whenInstructorExists_shouldPersistCourseWithDraftStatus","name":"Crear curso cuando el instructor existe","status":"passed","testResultsByEnv":{"default":"5a77cb9fe33873db5ffb410906b6ba0b"}}

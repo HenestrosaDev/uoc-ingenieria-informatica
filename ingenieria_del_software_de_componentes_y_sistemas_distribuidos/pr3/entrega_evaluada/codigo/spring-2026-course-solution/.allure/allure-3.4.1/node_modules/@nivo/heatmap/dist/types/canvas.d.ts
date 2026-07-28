@@ -1,0 +1,4 @@
+import { CellCanvasRendererProps, HeatMapDatum } from './types';
+export declare const renderRect: <Datum extends HeatMapDatum>(ctx: CanvasRenderingContext2D, { cell: { x, y, width, height, color, borderColor, opacity, labelTextColor, label }, borderWidth, enableLabels, theme, }: CellCanvasRendererProps<Datum>) => void;
+export declare const renderCircle: <Datum extends HeatMapDatum>(ctx: CanvasRenderingContext2D, { cell: { x, y, width, height, color, borderColor, opacity, labelTextColor, label }, borderWidth, enableLabels, theme, }: CellCanvasRendererProps<Datum>) => void;
+//# sourceMappingURL=canvas.d.ts.map

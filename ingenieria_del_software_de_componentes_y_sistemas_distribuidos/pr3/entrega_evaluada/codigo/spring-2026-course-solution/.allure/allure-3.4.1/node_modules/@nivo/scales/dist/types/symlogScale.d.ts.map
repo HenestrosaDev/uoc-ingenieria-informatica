@@ -1,0 +1,1 @@
+{"version":3,"file":"symlogScale.d.ts","sourceRoot":"","sources":["../../src/symlogScale.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,iBAAiB,EAAE,SAAS,EAAE,WAAW,EAAE,eAAe,EAAE,MAAM,SAAS,CAAA;AAEpF,eAAO,MAAM,mBAAmB,EAAE,QAAQ,CAAC,eAAe,CAQzD,CAAA;AAED,eAAO,MAAM,iBAAiB,GAC1B,+CAOG,eAAe,EAClB,MAAM,iBAAiB,CAAC,MAAM,CAAC,EAC/B,MAAM,MAAM,EACZ,MAAM,SAAS,gBAgClB,CAAA"}

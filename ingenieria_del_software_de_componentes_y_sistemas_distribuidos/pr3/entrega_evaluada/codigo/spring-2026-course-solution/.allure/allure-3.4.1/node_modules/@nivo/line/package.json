@@ -1,0 +1,59 @@
+{
+    "name": "@nivo/line",
+    "version": "0.99.0",
+    "license": "MIT",
+    "author": {
+        "name": "Raphaël Benitte",
+        "url": "https://github.com/plouc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plouc/nivo.git",
+        "directory": "packages/line"
+    },
+    "keywords": [
+        "nivo",
+        "dataviz",
+        "react",
+        "d3",
+        "charts",
+        "line-chart"
+    ],
+    "main": "./dist/nivo-line.cjs.js",
+    "module": "./dist/nivo-line.mjs",
+    "types": "./dist/types/index.d.ts",
+    "exports": {
+        ".": {
+            "types": "./dist/types/index.d.ts",
+            "import": "./dist/nivo-line.mjs",
+            "require": "./dist/nivo-line.cjs.js"
+        }
+    },
+    "files": [
+        "README.md",
+        "LICENSE.md",
+        "index.d.ts",
+        "dist/"
+    ],
+    "dependencies": {
+        "@nivo/annotations": "0.99.0",
+        "@nivo/axes": "0.99.0",
+        "@nivo/colors": "0.99.0",
+        "@nivo/core": "0.99.0",
+        "@nivo/legends": "0.99.0",
+        "@nivo/scales": "0.99.0",
+        "@nivo/theming": "0.99.0",
+        "@nivo/tooltip": "0.99.0",
+        "@nivo/voronoi": "0.99.0",
+        "@react-spring/web": "9.4.5 || ^9.7.2 || ^10.0",
+        "@types/d3-shape": "^3.1.6",
+        "d3-shape": "^3.2.0"
+    },
+    "peerDependencies": {
+        "react": "^16.14 || ^17.0 || ^18.0 || ^19.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "gitHead": "a2d9dab855365926cb41267eb20af154ca8fd558"
+}

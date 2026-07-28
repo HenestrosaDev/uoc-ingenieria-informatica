@@ -1,0 +1,1 @@
+{"version":3,"file":"logScale.d.ts","sourceRoot":"","sources":["../../src/logScale.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,iBAAiB,EAAE,SAAS,EAAE,QAAQ,EAAE,YAAY,EAAE,MAAM,SAAS,CAAA;AAE9E,eAAO,MAAM,gBAAgB,EAAE,QAAQ,CAAC,YAAY,CAQnD,CAAA;AAED,eAAO,MAAM,cAAc,GACvB,2CAOG,YAAY,EACf,MAAM,iBAAiB,CAAC,MAAM,CAAC,EAC/B,MAAM,MAAM,EACZ,MAAM,SAAS,aAuDlB,CAAA"}

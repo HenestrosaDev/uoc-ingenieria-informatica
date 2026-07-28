@@ -1,0 +1,44 @@
+{
+  "name": "crc32-stream",
+  "version": "7.0.1",
+  "description": "a streaming CRC32 checksumer",
+  "homepage": "https://github.com/archiverjs/node-crc32-stream",
+  "author": {
+    "name": "Chris Talkington",
+    "url": "http://christalkington.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archiverjs/node-crc32-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/archiverjs/node-crc32-stream/issues"
+  },
+  "license": "MIT",
+  "type": "module",
+  "exports": "./lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "mocha --reporter dot"
+  },
+  "dependencies": {
+    "crc-32": "^1.2.0",
+    "readable-stream": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "10.7.3",
+    "prettier": "3.3.3"
+  },
+  "keywords": [
+    "crc32-stream",
+    "crc32",
+    "stream",
+    "checksum"
+  ]
+}

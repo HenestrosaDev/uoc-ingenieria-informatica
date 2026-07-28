@@ -1,0 +1,126 @@
+@import "../../variables.scss";
+
+.side-nav {
+  background: $app-nav-bg;
+  width: $sidebar-full-width;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  min-width: $sidebar-full-width;
+
+  .head {
+    margin: $gap-size 0;
+    padding-bottom: 5px;
+    border-bottom: 1px solid $sidebar-separator-color;
+  }
+  .icon {
+    flex: none;
+  }
+
+  .brand {
+    color: $sidebar-brand-color;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    transition: all 0.3s;
+    background-size: auto auto;
+    justify-content: flex-start;
+    gap: 8px;
+    padding: 16px 8px 0 16px;
+  }
+
+  .menu {
+    margin: 0;
+    left: 0;
+    padding: 0;
+    list-style-type: none;
+    transition: width 0.3s;
+  }
+
+  .footer {
+    margin-top: auto;
+    margin-bottom: $footer-gap-size;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .item {
+    display: block;
+  }
+  .language-picker {
+    display: flex;
+    justify-content: center;
+  }
+
+  .link,
+  .collapse {
+    line-height: 24px;
+    color: $text-muted-color;
+    text-decoration: none;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 0 8px 16px;
+  }
+
+  .link-active {
+    color: $sidebar-active-text-color;
+    border-right: 4px solid $sidebar-active-accent-color;
+  }
+
+  .link:hover {
+    color: $sidebar-hover-text-color;
+  }
+
+  .language-small {
+    display: block;
+    text-transform: capitalize;
+    padding: 0 5px;
+    text-overflow: ".";
+    max-width: 30px;
+    margin: 0 auto;
+  }
+
+  .collapse {
+    cursor: pointer;
+  }
+
+  .collapse-icon {
+    transform: rotate(90deg);
+    transition: transform 200ms;
+  }
+  .collapse .icon {
+    left: $gap-size + 5px;
+    transition: transform 0.1s;
+  }
+
+  &.collapsed {
+    width: $sidebar-collapsed;
+    min-width: $sidebar-collapsed;
+
+    .collapse-icon {
+      transform: rotate(-90deg);
+    }
+
+    .text,
+    .brand-text {
+      visibility: hidden;
+      opacity: 0;
+      white-space: nowrap;
+    }
+
+    .collapse,
+    .link {
+      white-space: nowrap;
+    }
+  }
+
+  .strut {
+    flex: 1;
+  }
+}

@@ -1,0 +1,1 @@
+{"id":"c3e58f1dafb6b3fe4990eb1bdfc2f974","fullName":"edu.uoc.epcsd.course.domain.service.CourseServiceImplTest.createCourse_whenInstructorDoesNotExist_shouldThrowAndNotCreateCourse","name":"Fallar cuando el instructor no existe","status":"passed","testResultsByEnv":{"default":"5c4c2b78d4e9cf50d96204d0b9688bd2"}}

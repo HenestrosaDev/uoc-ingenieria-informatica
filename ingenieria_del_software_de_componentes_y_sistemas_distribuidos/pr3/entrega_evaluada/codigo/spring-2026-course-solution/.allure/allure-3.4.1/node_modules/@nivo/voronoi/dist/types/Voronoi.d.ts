@@ -1,0 +1,2 @@
+export declare const Voronoi: import("react").ForwardRefExoticComponent<Partial<Omit<import("./types").VoronoiCommonProps, "height" | "width" | "data">> & Pick<import("./types").VoronoiCommonProps, "height" | "width" | "data"> & import("react").RefAttributes<SVGSVGElement>>;
+//# sourceMappingURL=Voronoi.d.ts.map

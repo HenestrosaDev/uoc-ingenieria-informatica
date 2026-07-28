@@ -1,0 +1,43 @@
+{
+    "name": "@nivo/text",
+    "version": "0.99.0",
+    "license": "MIT",
+    "author": {
+        "name": "Raphaël Benitte",
+        "url": "https://github.com/plouc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plouc/nivo.git",
+        "directory": "packages/text"
+    },
+    "sideEffects": false,
+    "main": "./dist/nivo-text.cjs.js",
+    "module": "./dist/nivo-text.mjs",
+    "types": "./dist/types/index.d.ts",
+    "exports": {
+        ".": {
+            "types": "./dist/types/index.d.ts",
+            "import": "./dist/nivo-text.mjs",
+            "require": "./dist/nivo-text.cjs.js"
+        }
+    },
+    "files": [
+        "README.md",
+        "LICENSE.md",
+        "dist/",
+        "!dist/tsconfig.tsbuildinfo"
+    ],
+    "dependencies": {
+        "@nivo/core": "0.99.0",
+        "@nivo/theming": "0.99.0",
+        "@react-spring/web": "9.4.5 || ^9.7.2 || ^10.0"
+    },
+    "peerDependencies": {
+        "react": "^16.14 || ^17.0 || ^18.0 || ^19.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "gitHead": "a2d9dab855365926cb41267eb20af154ca8fd558"
+}

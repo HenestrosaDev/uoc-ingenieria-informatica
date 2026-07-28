@@ -1,0 +1,30 @@
+import { SvgIcon, Text, allureIcons } from "@allurereport/web-components";
+
+import { TrInfo } from "@/components/TestResult/TrInfo";
+import { useI18n } from "@/stores";
+
+import * as styles from "./styles.scss";
+import * as baseStyles from "@/components/BaseLayout/styles.scss";
+
+const TrThumb = () => {
+  const { t } = useI18n("empty");
+  return (
+    <div className={styles["test-result-thumb"]}>
+      <div className={styles["test-result-thumb-wrapper"]}>
+        <SvgIcon size={"xl"} id={allureIcons.lineDevCodeSquare} className={styles["test-result-thumb-icon"]} />
+        <Text className={styles["test-result-thumb-text"]}>{t("no-test-case-results")}</Text>
+      </div>
+    </div>
+  );
+};
+
+const TrEmpty = () => {
+  return (
+    <div className={baseStyles.content}>
+      <TrInfo />
+      <TrThumb />
+    </div>
+  );
+};
+
+export default TrEmpty;

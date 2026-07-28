@@ -1,0 +1,54 @@
+{
+    "name": "@nivo/arcs",
+    "version": "0.99.0",
+    "license": "MIT",
+    "author": {
+        "name": "Raphaël Benitte",
+        "url": "https://github.com/plouc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plouc/nivo.git",
+        "directory": "packages/arcs"
+    },
+    "keywords": [
+        "nivo",
+        "dataviz",
+        "react",
+        "d3",
+        "arcs"
+    ],
+    "main": "./dist/nivo-arcs.cjs.js",
+    "module": "./dist/nivo-arcs.mjs",
+    "types": "./dist/types/index.d.ts",
+    "files": [
+        "README.md",
+        "LICENSE.md",
+        "dist/",
+        "!dist/tsconfig.tsbuildinfo"
+    ],
+    "dependencies": {
+        "@nivo/colors": "0.99.0",
+        "@nivo/core": "0.99.0",
+        "@nivo/text": "0.99.0",
+        "@nivo/theming": "0.99.0",
+        "@react-spring/core": "9.4.5 || ^9.7.2 || ^10.0",
+        "@react-spring/web": "9.4.5 || ^9.7.2 || ^10.0",
+        "@types/d3-shape": "^3.1.6",
+        "d3-shape": "^3.2.0"
+    },
+    "peerDependencies": {
+        "react": "^16.14 || ^17.0 || ^18.0 || ^19.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "exports": {
+        ".": {
+            "types": "./dist/types/index.d.ts",
+            "import": "./dist/nivo-arcs.mjs",
+            "require": "./dist/nivo-arcs.cjs.js"
+        }
+    },
+    "gitHead": "a2d9dab855365926cb41267eb20af154ca8fd558"
+}

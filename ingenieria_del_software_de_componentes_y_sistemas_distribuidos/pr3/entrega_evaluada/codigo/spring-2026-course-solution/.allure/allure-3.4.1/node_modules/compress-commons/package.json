@@ -1,0 +1,48 @@
+{
+  "name": "compress-commons",
+  "version": "7.0.1",
+  "description": "a library that defines a common interface for working with archive formats within node",
+  "homepage": "https://github.com/archiverjs/node-compress-commons",
+  "author": {
+    "name": "Chris Talkington",
+    "url": "http://christalkington.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archiverjs/node-compress-commons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/archiverjs/node-compress-commons/issues"
+  },
+  "license": "MIT",
+  "type": "module",
+  "exports": "./lib/compress-commons.js",
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "mocha --reporter dot"
+  },
+  "dependencies": {
+    "crc-32": "^1.2.0",
+    "crc32-stream": "^7.0.1",
+    "is-stream": "^4.0.0",
+    "normalize-path": "^3.0.0",
+    "readable-stream": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "6.2.2",
+    "mkdirp": "3.0.1",
+    "mocha": "11.7.5",
+    "prettier": "3.8.3",
+    "rimraf": "6.1.3"
+  },
+  "keywords": [
+    "compress",
+    "commons",
+    "archive"
+  ]
+}
