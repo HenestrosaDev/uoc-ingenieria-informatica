@@ -4,6 +4,10 @@ Para realizar esta PEC, hay que resolver los ejercicios que se detallan en el ar
 
 El directorio `archivos_entrega` contiene las imágenes y el código de los diagramas utilizados para la entrega.
 
+## Histórico de PR
+
+El directorio [`historico`](historico/) contiene una recopilación de 7 PR corregidas por el equipo docente desde 2015.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
