@@ -2,6 +2,10 @@
 
 Para realizar esta PEC, hay que resolver los ejercicios que se detallan en el archivo `enunciado.pdf` y entregarlos en formato `.pdf` ([`entrega_evaluada.pdf`](entrega_evaluada.pdf)).
 
+## Histórico de PEC
+
+El directorio [`historico`](historico/) contiene una recopilación de 7 PEC corregidas por el equipo docente desde 2015.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
