@@ -20,6 +20,10 @@ Las soluciones oficiales para los microservicios a implementar son las siguiente
 >[!WARNING]
 >Ten en cuenta que los enlaces están sujetos a devolver un error 404 en el momento en el que el profesorado edite el nombre de los repositorios o los elimine. Puede ocurrir, incluso, que se realicen tales modificaciones que el estado de los repositorios no sea el mismo en el que se realizó esta tarea en abril de 2026.
 
+## Histórico de PR
+
+El directorio [`historico`](historico/) contiene una recopilación de 3 PR corregidas por el equipo docente desde 2017.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
