@@ -19,6 +19,10 @@ Si intentas abrir el archivo `index.html` del reporte de Allure directamente en 
 	Luego, abre tu navegador web y ve a la dirección http://localhost:8000.
 - **Extensión Live Server de VS Code**: Si usas Visual Studio Code, abre el archivo `index.html`, haz clic derecho sobre el código y selecciona "Open with Live Server".
 
+## Histórico de PR
+
+El directorio [`historico`](historico/) contiene una recopilación de 3 PR corregidas por el equipo docente desde 2021.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
