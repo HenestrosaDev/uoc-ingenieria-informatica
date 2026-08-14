@@ -37,6 +37,9 @@ xychart-beta
 >	- **Suspendido (SU)**: 0 a 4,99
 ></details>
 
+>[!IMPORTANT]
+>Las entregas de esta asignatura se basan en un entorno ficticio detallado en el archivo [enunciado_proyecto.pdf]. A pesar de que en el título figura PEC1 (PEC en la que se adjunta este archivo), también aplica al resto de entregas.
+
 ## Calendario de entregas
 
 ```mermaid
