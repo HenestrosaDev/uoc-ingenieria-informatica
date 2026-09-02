@@ -880,10 +880,11 @@
 
 - [Página oficial de la UOC sobre el grado](https://www.uoc.edu/es/estudios/grados/grado-ingenieria-informatica)
 - [Recopilatorio no oficial de asignaturas con sus respectivas notas medias, métodos de evaluación y grupos de Telegram/WhatsApp](https://uoc-nextjs.vercel.app/)
+- Aplicación **Canvas by Instructure** para acceder al aula de la UOC desde un dispositivo [Android](https://play.google.com/store/apps/details?id=com.instructure.candroid&hl=en) o [iOS](https://apps.apple.com/us/app/canvas-by-instructure/id480883488)
 
 ## Licencia
 
-Distribuido bajo la licencia **MIT**. Véase [`LICENSE`](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/LICENSE) para más información.
+Excepto donde se indique explícitamente lo contrario, este repositorio se distribuye bajo la licencia **MIT**. Véase [`LICENSE`](https://github.com/HenestrosaDev/uoc-ingenieria-informatica/blob/main/LICENSE) para más información.
 
 ## Autores
 
