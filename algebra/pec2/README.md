@@ -26,6 +26,10 @@
 ![Parte 5](cuestionario_5.png)
 </details>
 
+## Histórico de PEC
+
+El directorio [`historico`](historico/) contiene una recopilación de 15 PEC corregidas por el equipo docente desde 2011.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
