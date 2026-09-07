@@ -1,21 +1,11 @@
 # PEC3 - Relacionando los espacios vectoriales, los números, los conjuntos ¡y las paletas de colores!
 
-## Capturas de las partes
-
 >[!IMPORTANT]
 >A fecha en la que publico esto (18/02/2026), me aparece un error al intentar acceder a los cuestionarios de Moodle, por lo que no puedo adjuntar capturas de los cuestionarios relativos a esta PEC.
 
-<details>
-	<summary>Captura del cuestionario 6 realizada en Moodle</summary>
+## Histórico de PEC
 
-![Parte 6](cuestionario_6.png)
-</details>
-
-<details>
-	<summary>Captura del cuestionario 7 realizada en Moodle</summary>
-
-![Parte 7](cuestionario_7.png)
-</details>
+El directorio [`historico`](historico/) contiene una recopilación de 14 PEC corregidas por el equipo docente desde 2011.
 
 ## Recursos de aprendizaje
 
