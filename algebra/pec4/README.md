@@ -29,6 +29,10 @@
 ![Parte 11](cuestionario_11.png)
 </details>
 
+## Histórico de PEC
+
+El directorio [`historico`](historico/) contiene una recopilación de 15 PEC corregidas por el equipo docente desde 2011.
+
 ## Prueba de autoría
 
 https://github.com/user-attachments/assets/07f837af-c1d3-43f3-8d01-0f74ae7217c7
