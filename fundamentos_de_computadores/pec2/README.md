@@ -2,6 +2,10 @@
 
 El enunciado de la PEC está en el archivo [`enunciado.pdf`](enunciado.pdf), así como la entrega en el archivo [`entrega.pdf`](entrega.pdf) y las plantillas para realizarlo ([`plantilla.docx`](plantilla.docx) para Microsoft Word y [`plantilla.odt`](plantilla.odt) para OpenOffice).
 
+## Histórico de PEC
+
+El directorio [`historico`](historico/) contiene una recopilación de 17 PEC corregidas por el equipo docente desde 2010.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
