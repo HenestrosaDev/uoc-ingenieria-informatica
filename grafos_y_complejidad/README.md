@@ -197,6 +197,10 @@ Puedes echarle un vistazo [aquí](https://graphsolver.com) o visitar [su reposit
   <img src="https://github.com/HenestrosaDev/graphsolver.com/blob/main/docs/light.gif" alt="gif">
 </picture>
 
+### Preguntas y respuestas tipo test
+
+- [No es un recurso oficial, pero las respuestas son correctas.](./recursos/preguntas_respuestas_tipo_test.pdf)
+
 ### PEC1
 
 - [**Conceptos previos: funciones y algoritmos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00267021.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-fundamentos_matematicos.pdf))
