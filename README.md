@@ -55,6 +55,7 @@
 
 > [!IMPORTANT]
 > - Este repositorio se actualiza al término de cada semestre.
+> - La mayoría de las asignaturas disponen de un directorio `historico` que recopila las PEC de otros cursos. Sin embargo, esta carpeta no suele estar disponible en aquellas materias cuyas actividades se realizan a través de Moodle, ya que este formato carece de soluciones oficiales y fiables proporcionadas por parte del equipo docente. Ejemplos: lógica (a pesar de usar Alura, su formato es muy parecido a Moodle), estadística, análisis matemático, etc.
 > - No están todas las asignaturas obligatorias y básicas, ya que convalidé las siguientes por haber superado el CFGS en [Desarrollo de Aplicaciones Web](https://github.com/HenestrosaDev/2-daw) (y Multiplataforma), el [Curso de Especialización en Entornos de las Tecnologías de la Información](https://github.com/HenestrosaDev/curso-especializacion-ciberseguridad-ti) y obtener el título C1 de inglés de Cambridge (CAE):
 >
 >   | ASIGNATURA CONVALIDADA                    | TIPO DE FORMACIÓN | CRÉDITOS |
