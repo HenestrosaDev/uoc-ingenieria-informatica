@@ -4,6 +4,10 @@ Esta PEC se compone de dos partes:
 1. [**Entrega PDF**](entrega_evaluada.pdf) (80%): Ejercicios de desarrollo detallados en el archivo [`enunciado.pdf`](enunciado.pdf).
 2. [**Cuestionario**](cuestionario.png) (20%): Preguntas tipo test sobre el contenido que aparece en los recursos de aprendizaje de la PEC. Se permiten dos intentos, de los cuales cuenta el de mayor puntuación.
 
+## Histórico de PEC
+
+El directorio [`historico`](historico/) contiene una recopilación de [3 partes escritas](./historico) corregidas por el equipo docente desde 2022 y [20 partes de Moodle](./historico/moodle/) NO corregidas oficialmente.
+
 ## Recursos de aprendizaje
 
 >[!NOTE]
