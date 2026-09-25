@@ -17,11 +17,11 @@
 - **Tipo**: Básica
 - **Método de evaluación**: Examen (65%) + Evaluación continua (35%)
 - **Créditos**: 6
-- [**Plan docente**](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20251&SignatureCode=75.611&Context=3&Locale=es)
+- [**Plan docente**](https://apps.uoc.edu/PlaDocent/PlaDocent?Semestre=20252&SignatureCode=75.611&Context=3&Locale=es)
 
 ```mermaid
 xychart-beta
-		title "Estadísticas de las calificaciones para el curso 2025/26-1"
+		title "Estadísticas de las calificaciones para el curso 2025/26-2"
 		x-axis ["Matrícula Honor (1%)", "Sobresaliente (16%)", "Notable (56%)", "Aprobado (22%)", "Suspendido (5%)"]
 		y-axis "% de alumnos" 0 --> 56
 		bar [1, 16, 56, 22, 5]
