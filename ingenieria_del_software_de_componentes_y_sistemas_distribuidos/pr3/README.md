@@ -26,7 +26,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 3 PR corre
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Richardson, Chris. Microservices patterns. Shelter Island, NY: Manning Publications, 2019. ISBN: 1617294543**](https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/OEBPS/Text/01.html?sso_link=yes&sso_link_from=uoc-edu#ch01)
 	- Chapter 9. Testing microservices: Part 1

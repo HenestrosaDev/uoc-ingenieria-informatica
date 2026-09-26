@@ -9,7 +9,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 7 PEC corr
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Richards & Ford. Fundamentals of Software Architecture. O'Reilly, 2020. ISBN: 1492043443**](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 	- Chapter 1. Introduction
