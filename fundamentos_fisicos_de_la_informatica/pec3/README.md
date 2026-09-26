@@ -9,7 +9,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 14 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Vídeos de apoyo de la UOC sobre esta PEC**](recursos/videos)
 - [**Electrostática: la base de la electricidad**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290383.pdf) ([resumen](recursos/README.md))

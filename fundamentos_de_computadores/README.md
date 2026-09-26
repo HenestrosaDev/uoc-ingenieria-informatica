@@ -185,7 +185,7 @@ gantt
 
 >[!NOTE]
 >- Como complemento a los recursos provistos por la UOC, recomiendo seguir [estas playlists de YouTube](https://www.youtube.com/@carlosguerrerouib6095/playlists) realizadas por el canal [Carlos Guerrero UIB](https://www.youtube.com/@carlosguerrerouib6095).
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 ### PEC1
 

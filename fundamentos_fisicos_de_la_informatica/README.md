@@ -151,7 +151,7 @@ gantt
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 ### _Cheat sheet_ de la asignatura
 
@@ -165,7 +165,7 @@ gantt
 
 ### PEC2
 
-- [**Vídeos de apoyo de la UOC sobre este recurso**](pec2/recursos/videos)
+- [**Vídeos de apoyo de la UOC sobre este bloque**](pec2/recursos/videos)
 - [**Circuitos eléctricos: conceptos fundamentales**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288414.pdf) ([resumen](pec2/recursos/circuitos_electronicos.md))
 - [**Circuitos RLC: análisis en corriente continua**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288412.pdf) ([resumen](pec2/recursos/circuitos_rlc.md))
 
@@ -177,5 +177,5 @@ gantt
 ### PEC4
 
 - [**Magnetostática e inducción electromagnética**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290385.pdf) ([resumen](pec4/recursos/magnetostatica_e_induccion_electromagnetica.md))
-	- [**Vídeos de apoyo de la UOC sobre este recurso**](pec4/recursos/videos)
+	- [**Vídeos de apoyo de la UOC sobre este bloque**](pec4/recursos/videos)
 - [**Materiales y dispositivos semiconductores: la base de la física informática**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290381.pdf) ([resumen](pec4/recursos/materiales_y_dispositivos_semiconductores.md))

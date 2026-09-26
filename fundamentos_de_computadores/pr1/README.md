@@ -9,7 +9,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 8 PEC corr
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Los circuitos lógicos secuenciales**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215619&hash=d25026dd14b3ee362d765576d3893c40b200af038100e77bc444144a21df7985) ([resumen](recursos/README.md))
 

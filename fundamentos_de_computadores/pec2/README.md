@@ -9,7 +9,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 17 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Los circuitos lógicos combinacionales**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=215620&hash=dcd88579656e2413ea29712f929c6a1bb3fea6655c0dc503f4246beef6e558a2) ([resumen](recursos/README.md))
 

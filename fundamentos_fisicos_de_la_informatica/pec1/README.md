@@ -9,7 +9,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 14 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Óptica y fotónica: la ciencia de la luz**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288403.pdf) ([resumen](pec1/recursos/README.md))
 

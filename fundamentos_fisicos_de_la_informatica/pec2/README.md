@@ -9,9 +9,9 @@ El directorio [`historico`](historico/) contiene una recopilación de 14 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
-- [**Vídeos de apoyo de la UOC sobre este recurso**](recursos/videos)
+- [**Vídeos de apoyo de la UOC sobre este bloque**](recursos/videos)
 - [**Circuitos eléctricos: conceptos fundamentales**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288414.pdf) ([resumen](recursos/1_circuitos_electronicos.md))
 - [**Circuitos RLC: análisis en corriente continua**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00288412.pdf) ([resumen](recursos/2_circuitos_rlc.md))
 

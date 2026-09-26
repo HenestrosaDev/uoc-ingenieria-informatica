@@ -9,10 +9,10 @@ El directorio [`historico`](historico/) contiene una recopilación de 14 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Magnetostática e inducción electromagnética**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290385.pdf) ([resumen](recursos/magnetostatica_e_induccion_electromagnetica.md))
-	- [**Vídeos de apoyo de la UOC sobre este recurso**](recursos/videos)
+	- [**Vídeos de apoyo de la UOC sobre este bloque**](recursos/videos)
 - [**Materiales y dispositivos semiconductores: la base de la física informática**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00290381.pdf) ([resumen](recursos/materiales_y_dispositivos_semiconductores.md))
 
 --- 
