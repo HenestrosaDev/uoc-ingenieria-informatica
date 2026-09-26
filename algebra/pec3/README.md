@@ -10,7 +10,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 14 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Elementos de álgebra lineal y geometría: Espacios vectoriales, matrices, determinantes, espacio afín y euclídeo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293818.pdf)
 

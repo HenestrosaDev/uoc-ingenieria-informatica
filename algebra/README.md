@@ -282,7 +282,7 @@ https://github.com/user-attachments/assets/07f837af-c1d3-43f3-8d01-0f74ae7217c7
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 ### PEC1
 

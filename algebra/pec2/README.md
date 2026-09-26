@@ -33,7 +33,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 15 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Sistemas de ecuaciones lineales: Discusión, resolución e interpretación geométrica**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293765.pdf) ([resumen](pec2/recursos/sistemas_ecuaciones_lineales.md))
 - [**Elementos de álgebra lineal y geometría: Espacios vectoriales, matrices, determinantes, espacio afín y euclídeo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00293818.pdf) ([resumen](pec2/recursos/algebra_lineal.md))
