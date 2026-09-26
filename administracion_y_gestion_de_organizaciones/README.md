@@ -163,7 +163,7 @@ gantt
 
 >[!NOTE]
 >- Cada título es un enlace a la carpeta que contiene los resúmenes de los recursos asociados a dicha PEC.
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 ### [PEC1](./pec1/recursos)
 
