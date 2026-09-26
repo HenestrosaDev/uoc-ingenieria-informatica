@@ -9,7 +9,7 @@ El directorio [`historico`](historico/) contiene una recopilación de 25 PEC cor
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Introducción al aprendizaje computacional**](https://materials.campus.uoc.edu/daisy/Materials/PID_00267996/pdf/PID_00267996.pdf) ([resumen](recursos/README.md))
 
