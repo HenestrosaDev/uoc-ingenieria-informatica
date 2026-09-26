@@ -11,7 +11,7 @@ El directorio [`historico`](historico/) contiene una recopilación de [3 partes 
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 >- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
 
 - [**GraphSolver**](https://graphsolver.com)
