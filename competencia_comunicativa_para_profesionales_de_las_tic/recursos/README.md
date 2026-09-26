@@ -2,7 +2,7 @@
 
 >[!NOTE]
 >- Cada enlace lleva al archivo `pdf` publicado por la UOC.
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [Competencia comunicativa y producción de textos](https://materials.campus.uoc.edu/daisy/Materials/PID_00274805/pdf/PID_00274805.pdf) ([resumen](./recursos/competencia_comunicativa_y_produccion_de_textos_resumen.md)).
 - [El proceso de producción de textos](https://materials.campus.uoc.edu/daisy/Materials/PID_00279144/pdf/PID_00279144.pdf) ([resumen](./recursos/el_proceso_de_produccion_de_textos_resumen.md)).
