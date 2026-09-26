@@ -23,7 +23,7 @@
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Derivación: el problema de la tangente**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284285&hash=d2b9fd2f3d54657bf691c6a73166ab55ecfb532d60ae21aa3b6d3b4a40df505f) ([resumen](pec3/recursos/README.md))
 

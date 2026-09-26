@@ -23,7 +23,7 @@
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [**Integración: el problema del área**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=284290&hash=ab97fdca71e4cd5f5085a0b3ba5aeac41d886f19d35fb22f43d3a25a5a5a63bf) ([resumen](recursos/README.md))
 
