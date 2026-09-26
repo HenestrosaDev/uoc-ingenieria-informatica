@@ -218,7 +218,7 @@ $(M \vee R) \rightarrow (P \rightarrow F)$
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 - [Este vídeo](https://www.youtube.com/watch?v=R98Fpqt1aPc) para la resolución de enunciados y [este otro](https://www.youtube.com/watch?v=MkAoAALyTRc) para las tablas de verdad, ambos realizados por el canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
 - El libro [**Lógica de enunciados**](http://cvapp.uoc.edu/autors/MostraPDFMaterialAction.do?id=265957&hash=f4eec8d6f2470281eeabfd721755d26ab5429e0b8fd1581689cea334dc3dd6a5) proporcionado por la UOC.

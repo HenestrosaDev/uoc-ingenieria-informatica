@@ -385,7 +385,7 @@ Los ejercicios se dividen en los dos bloques principales enseñados en la asigna
 
 >[!NOTE]
 >- En lugar de usar los recursos provistos por la UOC, recomiendo seguir [esta playlist de YouTube](https://www.youtube.com/playlist?list=PLX3CfQWn-1E1MpqMS_CWzbSSiY7hgOhtA) de la asignatura realizada por el canal [Aprende Sin Espinas](https://www.youtube.com/@AprendeSinEspinas).
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 
 ### PEC1
 
