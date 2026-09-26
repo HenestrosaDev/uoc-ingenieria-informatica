@@ -5,7 +5,8 @@
 - [Resumen de calificaciones](#resumen-de-calificaciones)
 - [Recursos de aprendizaje](#recursos-de-aprendizaje)
 	- [PEC1](#pec1)
-	- [PEC2 y PEC3](#pec2-y-pec3)
+	- [PEC2](#pec2)
+	- [PEC3](#pec3)
 	- [PEC4](#pec4)
 	- [PEC5](#pec5)
 	- [PEC6](#pec6)
@@ -160,37 +161,77 @@ gantt
 ## Recursos de aprendizaje
 
 >[!NOTE]
->- No se incluyen los archivos `pdf` en el repositorio para evitar posibles problemas de copyright.
+>- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
 >- Con el permiso de [Carlos Cactus](https://t.me/carlos_cactus), he añadido los recursos Sin Espinas que están disponibles públicamente.
+>- Recomiendo la [**Guía de R de la UIB (Universitat de les Illes Balears)**](https://aprender-uib.github.io/AprendeR1/) como referencia para todas las PEC.
 
 ### PEC1
 
+- [**Vídeos de apoyo de la UOC sobre este bloque**](pec1/recursos/videos)
 - [**Estadística descriptiva: Introducción al análisis de datos**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269798.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-estadistica_descriptiva_y_muestreo.pdf))
 - [**Muestreo**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269801.pdf) ([Sin Espinas](pec1/recursos/sin_espinas-estadistica_descriptiva_y_muestreo.pdf))
-- [**El entorno estadístico R: Estructura, lenguaje y sintaxis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273871.pdf) ([resumen](pec1/recursos/fundamentos_de_r.md))
-- [**Análisis de datos y estadística descriptiva con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279912.pdf) ([resumen](pec1/recursos/fundamentos_de_r.md))
+- [**R: El entorno estadístico R. Estructura, lenguaje y sintaxis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273871.pdf) ([resumen](pec1/recursos/fundamentos_de_r.md))
+- [**R: Análisis de datos y estadística descriptiva con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279912.pdf) ([resumen](pec1/recursos/fundamentos_de_r.md)) ([archivos CSV referidos en la actividad](pec1/recursos/archivos_r_analisis_de_datos_y_estadística_descriptiva_con_r))
 
-### PEC2 y PEC3
+### Recursos complementarios
 
+- [**Actividades resueltas: Estadística descriptiva**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279894.pdf) ([archivos CSV de referencia](pec1/recursos/archivos_actividades_resueltas_estadistica_descriptiva))
+- [**Actividades resueltas: Muestreo**](https://aprenenatge.recursos.uoc.edu/continguts/pdf/PID_00279894.pdf)
+
+### PEC2 
+
+- [**Vídeos de apoyo de la UOC sobre este bloque**](pec2/recursos/videos)
 - [**Probabilidad y variables aleatorias**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273858.pdf) ([Sin Espinas](pec2/recursos/sin_espinas-probabilidad.pdf))
-- [**Distribuciones de probabilidad e inferencia estadística con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279914.pdf) ([Sin Espinas](pec2/recursos/sin_espinas-probabilidad.pdf))
+- [**R: Distribuciones de probabilidad e inferencia estadística con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279914.pdf) ([Sin Espinas](pec2/recursos/sin_espinas-probabilidad.pdf)) ([archivos CSV de referencia](pec2/recursos/archivos_r_distribuciones_de_probabilidad_e_inferencia_estadistica_con_r/))
+
+### Recursos complementarios
+
+- [**Actividades resueltas: Probabilidad**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279898.pdf)
+
+### PEC3
+
+- [**Vídeos de apoyo de la UOC sobre este bloque**](pec3/recursos/videos)
+- [Probabilidad y **variables aleatorias**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00273858.pdf) ([Sin Espinas](pec3/recursos/sin_espinas-variables_aleatorias.pdf))
+- [**Distribuciones de probabilidad e inferencia estadística con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279914.pdf)
+
+### Recursos complementarios
+
+- [**Guía de R de la UIB (Universitat de les Illes Balears)**](https://aprender-uib.github.io/AprendeR1/)
+- [**Actividades resueltas: Variables aleatorias**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279900.pdf)
 
 ### PEC4
 
+- [**Vídeos de apoyo de la UOC sobre este bloque**](pec4/recursos/videos)
 - [**Intervalos de confianza**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269797.pdf) ([Sin Espinas](pec4/recursos/sin_espinas-intervalos_de_confianza.pdf))
 - [**Teorema del límite central**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269799.pdf) ([Sin Espinas](pec4/recursos/sin_espinas-teorema_del_limite_central.pdf))
 
+### Recursos complementarios
+
+- [**Actividades resueltas: Teorema del límite central**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279902.pdf)
+- [**Actividades resueltas: Intervalos de confianza**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279902.pdf) ([archivos CSV de referencia](pec4/recursos/archivos_r_distribuciones_de_probabilidad_e_inferencia_estadistica_con_r/))
+
 ### PEC5
 
+- [**Vídeos de apoyo de la UOC sobre este bloque**](pec5/recursos/videos)
 - [**Contraste de hipótesis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268873.pdf) ([Sin Espinas](pec5/recursos/sin_espinas-contraste_de_hipotesis.pdf))
-- [**Contraste de dos muestras**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268875.pdf) ([Sin Espinas](pec5/recursos/sin_espinas-contraste_de_hipotesis.pdf))
+- [**Contraste de dos muestras**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268875.pdf)
+
+### Recursos complementarios
+
+- [**Actividades resueltas: Contraste de hipótesis**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279906.pdf)
+- [**Actividades resueltas: Contraste de hipótesis de dos muestras**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279908.pdf)
 
 ### PEC6
 
+- [**Vídeos de apoyo de la UOC sobre este bloque**](pec6/recursos/videos)
 - [**Regresión lineal simple**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269795.pdf) ([Sin Espinas](pec6/recursos/sin_espinas-regresion_lineal.pdf))
-- [**Modelos de regresión y análisis multivariante con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00280894.pdf)
+- [**R: Modelos de regresión y análisis multivariante con R**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00280894.pdf) ([archivos CSV de referencia](pec6/recursos/archivos_r_modelos_de_regresión_y_analisis_multivariante_con_r/))
+
+### Recursos complementarios
+
 - [Opcional] [**Regresión lineal múltiple**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00268877.pdf)
-- [Opcional] [**El análisis de la varianza**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269800.pdf)
+- [Opcional] [**El análisis de la varianza (ANOVA)**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00269800.pdf)
+- [**Actividades resueltas: Regresión lineal simple**](https://aprenentatge.recursos.uoc.edu/continguts/pdf/PID_00279910.pdf) ([archivos CSV de referencia](pec6/recursos/archivos_actividades_resueltas_regresion_lineal_simple/))
 
 ### PEC7
 
