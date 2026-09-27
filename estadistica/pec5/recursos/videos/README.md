@@ -28,17 +28,17 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/5220ed09-9c8b-4146-91da-5dbd963fa849
-</details>
+  https://github.com/user-attachments/assets/5220ed09-9c8b-4146-91da-5dbd963fa849
 
->[📄 Transcripción en PDF](transcripciones/1_contraste_de_dos_muestras.pdf)
+  >[📄 Transcripción en PDF](transcripciones/1_contraste_de_dos_muestras.pdf)
+</details>
 
 ### 2. Contraste de hipótesis
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/e34232f9-ff27-417c-9710-30a3a9e9622d
-</details>
+  https://github.com/user-attachments/assets/e34232f9-ff27-417c-9710-30a3a9e9622d
 
->[📄 Transcripción en PDF](transcripciones/2_contraste_de_hipotesis.pdf)
+  >[📄 Transcripción en PDF](transcripciones/2_contraste_de_hipotesis.pdf)
+</details>

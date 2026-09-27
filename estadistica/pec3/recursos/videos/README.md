@@ -30,37 +30,37 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/23ded8a4-62fd-4a10-b67e-a9d5021eeda4
-</details>
+  https://github.com/user-attachments/assets/23ded8a4-62fd-4a10-b67e-a9d5021eeda4
 
->[📄 Transcripción en PDF](transcripciones/1_introduccion.pdf)
+  [📄 Transcripción en PDF](transcripciones/1_introduccion.pdf)
+</details>
 
 ### 2. Variable aleatoria discreta/continua (ejemplos)
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/b26ea156-c17a-451a-9aee-562d9ebcc5bb
-</details>
+  https://github.com/user-attachments/assets/b26ea156-c17a-451a-9aee-562d9ebcc5bb
 
->[📄 Transcripción en PDF](transcripciones/2_variable_aleatoria_discreta_continua_ejemplos.pdf)
+  >[📄 Transcripción en PDF](transcripciones/2_variable_aleatoria_discreta_continua_ejemplos.pdf)
+</details>
 
 ### 3. Modelos discretos (Bernoulli, binomial, geométrica, Poisson)
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/7e7ce5d8-7844-4c25-a53c-1767c2ab3a55
-</details>
+  https://github.com/user-attachments/assets/7e7ce5d8-7844-4c25-a53c-1767c2ab3a55
 
->[📄 Transcripción en PDF](transcripciones/3_modelos_discretos.pdf)
+  >[📄 Transcripción en PDF](transcripciones/3_modelos_discretos.pdf)
+</details>
 
 ### 4. Modelos continuos (uniforme, exponencial, normal)
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/10ec8d8b-e887-4b94-98bb-352bbffbff1d
-</details>
+  https://github.com/user-attachments/assets/10ec8d8b-e887-4b94-98bb-352bbffbff1d
 
->[📄 Transcripción en PDF](transcripciones/4_modelos_continuos.pdf)
+  >[📄 Transcripción en PDF](transcripciones/4_modelos_continuos.pdf)
+</details>

@@ -28,17 +28,17 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/0033d7f5-0874-476b-8e8a-a304eb6538a7
-</details>
+  https://github.com/user-attachments/assets/0033d7f5-0874-476b-8e8a-a304eb6538a7
 
->[📄 Transcripción en PDF](transcripciones/1_teorema_del_limite_central.pdf)
+  >[📄 Transcripción en PDF](transcripciones/1_teorema_del_limite_central.pdf)
+</details>
 
 ### 2. Intervalos de confianza
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/50bf23e6-e211-42a4-897a-cd48dbfaefce
-</details>
+  https://github.com/user-attachments/assets/50bf23e6-e211-42a4-897a-cd48dbfaefce
 
->[📄 Transcripción en PDF](transcripciones/2_intervalos_de_confianza.pdf)
+  >[📄 Transcripción en PDF](transcripciones/2_intervalos_de_confianza.pdf)
+</details>

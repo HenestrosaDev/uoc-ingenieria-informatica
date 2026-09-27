@@ -27,7 +27,7 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/142706aa-5e0c-4370-973b-12cfa1d85c79
-</details>
+  https://github.com/user-attachments/assets/142706aa-5e0c-4370-973b-12cfa1d85c79
 
->[📄 Transcripción en PDF](transcripciones/1_regresion_lineal_simple.pdf)
+  >[📄 Transcripción en PDF](transcripciones/1_regresion_lineal_simple.pdf)
+</details>

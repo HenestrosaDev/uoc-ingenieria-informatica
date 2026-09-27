@@ -30,37 +30,37 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/a84ed70e-36f1-4996-bd93-0b65ae9090eb
-</details>
+  https://github.com/user-attachments/assets/a84ed70e-36f1-4996-bd93-0b65ae9090eb
 
->[📄 Transcripción en PDF](transcripciones/1_definiciones.pdf)
+  >[📄 Transcripción en PDF](transcripciones/1_definiciones.pdf)
+</details>
 
 ### 2. Probabilidad y frecuencia relativa
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/fc1f86df-4ada-48b0-b162-54094e4436d6
-</details>
+  https://github.com/user-attachments/assets/fc1f86df-4ada-48b0-b162-54094e4436d6
 
->[📄 Transcripción en PDF](transcripciones/2_probabilidad_frecuencia_relativa.pdf)
+  >[📄 Transcripción en PDF](transcripciones/2_probabilidad_frecuencia_relativa.pdf)
+</details>
 
 ### 3. Probabilidad condicionada
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/65285141-c4c7-46cf-9545-81d5b756d68a
-</details>
+  https://github.com/user-attachments/assets/65285141-c4c7-46cf-9545-81d5b756d68a
 
->[📄 Transcripción en PDF](transcripciones/3_probabilidad_condicionada.pdf)
+  >[📄 Transcripción en PDF](transcripciones/3_probabilidad_condicionada.pdf)
+</details>
 
 ### 4. Árboles y tablas
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/df543e5c-346a-470f-ae34-8602c2c40589
-</details>
+  https://github.com/user-attachments/assets/df543e5c-346a-470f-ae34-8602c2c40589
 
->[📄 Transcripción en PDF](transcripciones/4_arboles_y_tablas.pdf)
+  [📄 Transcripción en PDF](transcripciones/4_arboles_y_tablas.pdf)
+</details>

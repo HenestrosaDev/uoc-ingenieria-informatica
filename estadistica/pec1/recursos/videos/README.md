@@ -36,19 +36,19 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
   <summary><b>Vídeo</b></summary>
 
   https://github.com/user-attachments/assets/ddf733ff-7445-49bf-9f4f-5b1174cfcfe4
-</details>
 
->[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/1_introduccion.pdf)
+  >[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/1_introduccion.pdf)
+</details>
 
 #### 1.2. Medidas de centro 
 
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/91cde4a7-a8ce-4b48-81c8-9a405240e4e0
-</details>
+  https://github.com/user-attachments/assets/91cde4a7-a8ce-4b48-81c8-9a405240e4e0
 
->[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/2_medidas_centro.pdf)
+  >[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/2_medidas_centro.pdf)
+</details>
 
 #### 1.3. Medidas de dispersión
 
@@ -56,9 +56,9 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
   <summary><b>Vídeo</b></summary>
 
   https://github.com/user-attachments/assets/75522f9f-4140-46e8-948a-c57845488f30
-</details>
 
->[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/3_medidas_dispersion.pdf)
+  >[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/3_medidas_dispersion.pdf)
+</details>
 
 #### 1.4. La regla de Chebyshev y estandarización
 
@@ -66,10 +66,9 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
   <summary><b>Vídeo</b></summary>
 
   https://github.com/user-attachments/assets/0a6aaf54-4fe4-44f5-80ac-edda8eb18858
+
+  >[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/4_chebyshev_estandarizacion.pdf)
 </details>
-
->[📄 Transcripción en PDF](1_estadistica_descriptiva/transcripciones/4_chebyshev_estandarizacion.pdf)
-
 
 ### 2. Muestreo
 
@@ -78,7 +77,7 @@ Los textos e imágenes publicados en este directorio están sujetos –excepto q
 <details>
   <summary><b>Vídeo</b></summary>
 
-	https://github.com/user-attachments/assets/e85bdc91-4228-4f9a-a737-a7ae0fbf6c7a
-</details>
+  https://github.com/user-attachments/assets/e85bdc91-4228-4f9a-a737-a7ae0fbf6c7a
 
->[📄 Transcripción en PDF](2_muestreo/transcripciones/1_muestreo.pdf)
+  >[📄 Transcripción en PDF](2_muestreo/transcripciones/1_muestreo.pdf)
+</details>
