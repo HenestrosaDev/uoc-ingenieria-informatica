@@ -188,6 +188,7 @@ gantt
 
 >[!NOTE]
 >- Para evitar posibles infracciones de derechos de autor, los archivos PDF no se incluyen en el repositorio.
+>- Las PEC y PR están ordenadas cronológicamente por fecha de entrega.
 >- Las actividades están ordenadas por fecha de realización.
 
 ### PEC1
