@@ -875,7 +875,7 @@
 ## Recursos de interés
 
 ![Infografía general](infografia_general.png)
->Infografía general sacada de la web no oficial de [FAQs y enlaces de interés](https://sites.google.com/view/faq-enginyeria-informatica). Las asignaturas **Modelado de sistemas** y **Data warehouse** ya no están disponibles.
+>Infografía general obtenido de la web no oficial de [FAQs y enlaces de interés](https://sites.google.com/view/faq-telegram-enginyeria-inform). Las asignaturas **Modelado de sistemas** y **Data warehouse** ya no están disponibles.
 
 ### Enlaces
 
