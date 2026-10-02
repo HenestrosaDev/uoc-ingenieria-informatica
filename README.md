@@ -78,6 +78,7 @@
 
 >[!NOTE]
 >- Los números entre paréntesis al final del nombre de cada asignatura indican el curso escolar en el que se realizó, junto con el semestre, que puede ser 1 (de septiembre a enero) o 2 (de febrero a junio).
+>- El nombre de la carpeta de la asignatura _Ingeniería del software de componentes y sistemas distribuidos_ se ha abreviado como _ISCSD_ para prevenir problemas con el límite de 260 caracteres en las rutas de Windows.
 >- Las asignaturas están desglosadas por tipo (básicas, obligatorias y optativas) y ordenadas alfabéticamente.
 >- <details>
 >	<summary>Leyenda de calificaciones</summary>
